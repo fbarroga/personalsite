@@ -28,7 +28,7 @@ p.subject { font-size: 20px;
 a:link {color: #4AE6E8;}
 a:visited {color: gray;}
 a:hover {color: steelblue;}
-a:active {color: mediumblue;}
+a:active {color: lightblue;}
 a { text-decoration: none;
    font-family: Arial,Verdana,Sans-serif; }
 
