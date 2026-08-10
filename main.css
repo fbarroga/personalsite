@@ -25,12 +25,12 @@ p.subject { font-size: 20px;
             text-align: left;
             text-decoration: underline; }
 
-a:link {color: steelblue;}
-a:visited {color: gray;}
-a:hover {color: steelblue;}
-a:active {color: steelblue;}
+a:link {color: steelblue; }
+a:visited {color: gray; }
+a:hover {color: steelblue; }
+a:active {color: steelblue; }
 a { text-decoration: none;
-   font-family: Arial,Verdana,Sans-serif; }
+    font-family: Arial,Verdana,Sans-serif; }
 
 ul li { list-style-type: circle;
         font-family: Arial,Verdana,Sans-serif;
