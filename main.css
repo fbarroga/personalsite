@@ -9,17 +9,17 @@ img.artifact { width: 150px;
 p { color: white;
     font-family: Arial,Verdana,Sans-serif; }
 p.top { text-align: right;
-        font-size: 13px; }
+        font-size: 16px; }
 p.center { text-align: center; }
-p.smallFont { font-size: 13px;
+p.smallFont { font-size: 16px;
               text-align: center; }
 p.title { font-size: 45px; }
 p.subTitle { font-size: 25px; }
 p.right { text-align: right;
-		  font-size: 13px; }
+		  font-size: 16px; }
 p.left { text-align: left;
-	      font-size: 13px; }
-p.note { font-size: 13px;
+	      font-size: 16px; }
+p.note { font-size: 16px;
          text-align: left; }
 p.subject { font-size: 20px;
             text-align: left;
