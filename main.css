@@ -1,0 +1,161 @@
+body {background-color: black;}
+
+img { border: 0; }
+
+img.artifact { width: 150px;
+               height: 112px;
+               display: block; }
+
+p { color: white;
+    font-family: Arial,Verdana,Sans-serif; }
+p.top { text-align: right;
+        font-size: 13px; }
+p.center { text-align: center; }
+p.smallFont { font-size: 13px;
+              text-align: center; }
+p.title { font-size: 45px; }
+p.subTitle { font-size: 25px; }
+p.right { text-align: right; }
+p.left { text-align: left; }
+p.note { font-size: 13px;
+         text-align: left; }
+p.subject { font-size: 20px;
+            text-align: left;
+            text-decoration: underline; }
+
+a:link {color: blue;}
+a:visited {color: gray;}
+a:hover {color: steelblue;}
+a:active {color: mediumblue;}
+a { text-decoration: none;
+   font-family: Arial,Verdana,Sans-serif; }
+
+ul li { list-style-type: circle;
+        font-family: Arial,Verdana,Sans-serif;
+        text-align: left;}
+
+ol li { font-family: Arial,Verdana,Sans-serif;
+        text-align: left; }
+
+table { width: 90%;
+        padding: 2px;
+        border: 0;
+        margin: 0px auto; }
+
+table.inside { width: 100%;
+               padding: 2px;
+               border: 0; }
+
+table.update { width: 85%;
+               padding: 2px; }
+
+table.artifact { width: 600px;
+                 border: 0;
+                 padding: 2px;
+                 margin: 0px auto; }
+
+td.artifact { padding: 2px;
+              width: 150px;
+              border: 1px solid white; }
+
+td.update { border: 1px solid white;
+            padding: 2px }
+
+td.center { color: white;
+            text-align: center;
+            width: 85%; }
+
+td.left { text-align: left; }
+
+th.right { border-style:solid;
+           border-color:#0000ff;
+           text-align: right; }
+
+td { color: white;
+    vertical-align: top; }
+
+blockquote { text-align: left;
+             color: white;
+             font-family: Arial,Verdana,Sans-serif; }
+
+.menuBackground { background: black;
+                  text-align: center; }
+
+.dropDownMenu a { color: white; }
+
+.dropDownMenu,
+.dropDownMenu ul { list-style: none;
+	           margin: 0;
+	           padding: 0; }
+
+.dropDownMenu li { position: relative; }
+
+.dropDownMenu a { padding: 10px 20px;
+	          display: block;
+	          text-decoration: none; }
+
+.dropDownMenu a:hover { background: darkgray; }
+
+
+/* Level 1 Drop Down Menu */
+.dropDownMenu > li { display: inline-block;
+                     vertical-align: top;
+                     margin-left: -4px; /* solve the 4 pixels spacing between list-items */ }
+
+.dropDownMenu > li:first-child { margin-left: 0; }
+
+.dropDownMenu > li > a {}
+
+.dropDownMenu > li > a:hover {}
+
+/* Level 2 */
+.dropDownMenu > li > ul { text-align: left;
+                          width: 100%; /* change auto value with 200px if you want a bigger menu */
+                          display: none;
+                          background: black;
+                          position: absolute;
+                          top: 100%;
+                          left: 0;
+                          z-index: 9999999; /* if you have YouTube iframes, is good to have a bigger z-index so the video can appear above the video */ }
+
+.dropDownMenu > li:hover > ul { display: block; }
+
+.dropDownMenu ul li a {}
+
+.dropDownMenu ul li a:hover {}
+
+/* Level 3 */
+.dropDownMenu > li > ul > li > ul { text-align: left;
+                                    width: 100%;
+                                    display: none;
+                                    background: black;
+                                    position: absolute;
+                                    left: 100%;
+                                    top: 0;
+                                    z-index: 9999999; }
+
+.dropDownMenu > li > ul > li:hover > ul { display: block; }
+
+.dropDownMenu ul ul li {}
+
+.dropDownMenu ul ul li a {}
+
+.dropDownMenu ul ul li a:hover {}
+
+/* Level 4 */
+.dropDownMenu > li > ul > li > ul > li > ul { text-align: left;
+                                              width: 100%;
+                                              display: none;
+                                              background: black;
+                                              position: absolute;
+                                              left: 100%;
+                                              top: 0;
+                                              z-index: 9999999; }
+
+.dropDownMenu > li > ul > li > ul > li:hover > ul { display: block; }
+
+.dropDownMenu ul ul ul li {}
+
+.dropDownMenu ul ul ul li a {}
+
+.dropDownMenu ul ul ul li a:hover {}
