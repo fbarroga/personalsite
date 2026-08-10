@@ -1,0 +1,1519 @@
+Title:  Jersey Devil Walkthru
+Author:  charjer0
+E-mail:  charjer@gmail.com
+Version:  0.1
+Date:  December 4, 2000
+
+========
+Contents
+========
+A Little About The Game
+Barebones Walkthru
+Default Controls
+Items
+Walkthru
+Secret Levels
+Cheats
+Credits
+Copyright and Other Stuff
+
+=======================
+A Little About The Game
+=======================
+If you've played games like the Crash Bandicoot series and Jackie Chan 
+Stuntmaster, you'll notice this game is very similar.  And it is, with 
+the exception that you can move the camera.
+
+==================
+Barebones Walkthru
+==================
+Basically, each section has two missions.  To fully complete each 
+mission, you must break all the green nitro boxes, free all the hostages 
+in each mission, defeat all the bosses, and stay alive.  There are also 
+secret levels in the game that can be accessed when Jersey Devil's power 
+is at a certain level.  The only way to raise Jersey Devil's power is by 
+destroying the labs in each mission, and that will only happen if you 
+find all the nitro boxes in each mission.
+
+================
+Default Controls
+================
+Since the buttons in the menus are self explanatory, I will just list 
+the default controls during game play and will refer to these buttons in 
+this walkthru.  Just remember which buttons are which if you change from 
+the default controls.  Also note that if you have a dual shock analog 
+controller, you can use the left analog stick.  However you cannot use 
+both the D-Pad and the left analog stick.  It's one or the other.
+
+/\ - Pick up small objects/Move large objects while holding button and 
+using direction/Hold after jumping to glide
+[] - Attack/Tail swipe attack while jumping/Throw small objects you 
+picked up/Activate switches
+O - Duck
+X - Jump
+D-Pad/Left analog stick - Move around/Must use if gliding
+L2/R2 - Move camera
+R1 - Display or hide onscreen information (i.e. health, lives, etc.)
+Select - Turn on/off vibration
+Start - Pause/Brings up in game menu/Skips FMVs and hints
+
+=====
+Items
+=====
+Pumpkins - Collect 100 to gain an extra life
+Gold pumpkins - Restores Jersey Devil's health
+Devil tails - Extra life
+Green nitro boxes - Break all in a level to get a nitro bottle
+Nitro bottle - Increases Jersey Devil's power level
+Tokens - Collect K, N, A, R, and F tokens to get the golden K token
+Golden K token - Required in certain places in a level to open up doors 
+with a golden K
+Brown boxes - Contains goodies; jump on them to break
+TNT boxes - Pick them up and throw at enemies to kill them faster; Pick 
+them up and throw them at trees or statues to knock them down
+Large boxes - Move them to get to places you can't normally get to
+Checkered boxes - Checkpoint boxes; if you die, you'll return to the 
+last checkered box you broke open; an arrow appears to show you which 
+way to go
+Signs - Points to the mission entrance
+
+========
+Walkthru
+========
+The game opens with an FMV telling you the origins of the game's hero, 
+Jersey Devil.  Then the start screen appears.  Select start, or load 
+game if you already have a save and I'll meet you in Downtown.
+
+--------
+Downtown
+--------
+This is where the FMV ends and the game begins.  So, since the tokens 
+are there on the street, go and collect them to get the golden K token.  
+Currently, there is only one door that is accessible.  That door leads 
+to the museum.  So just keep going straight from where you picked up the 
+last token, assuming you went clockwise around the water fountain.  
+There should be a sign on the side that says "Museum Madness".  Anyway, 
+there should be a golden K on the gates to the museum level.  So punch 
+it open and walk right in.
+
+------
+Museum
+------
+-Museum Madness-
+*Area 1 - 8 Nitro Boxes*
+Start off by getting that 1st nitro box to the left of the statue.  Now, 
+go to the right of the statue, collect the pumpkins, and punch open the 
+gates.  Get the pumpkins inside, attack the hopping pumpkin, and punch 
+the door to get the K token.  To the right is a brown box, some 
+pumpkins, and if you jump into the tree you can get an extra life.  Now 
+go back through the gates and go up the stairs.  Go up to the doors and 
+take a left.  Go through the opening in the hedges for the 2nd nitro 
+box.  Next, jump onto the wall and go down.  Attack the hopping pumpkin 
+and punch open the door to get the F token and the 3rd nitro box.  Don't 
+miss the brown box.  Now move the large box to the gate and jump onto it 
+and over the gate.  Go back up the stairs again, go left and get that 
+brown box by the tree.  Go to the right and you'll encounter a new enemy 
+that throws bombs when it gets hit.  Continue around the platform and 
+the bushes until you see a hopping pumpkin.  Attack it, punch the door, 
+and get the N token.  Continuing on to the right, another enemy will pop 
+up.  Fight if you want, then jump onto the box next to the shed.  On top 
+of the shed is the A token and the 4th nitro box.  From the top of the 
+shed, jump forward and do a glide towards another hopping pumpkin.  
+Attack that one and punch open the door to get the R token, giving you 
+the golden K token, and the 5th nitro box.  When you get the golden K 
+token, you'll be given a short scene of which door you have to enter.  
+Now turn the camera around, go forward around the bushes and the 
+platform and you should see a large box.  Move this large box to the 
+platform then jump onto it.  Break open the 6th nitro box and climb up 
+the flagpole.  From the top of the flagpole, jump and glide to the roof 
+of the museum.  Go to the left and jump onto the front of the museum.  
+Walk towards the edge and turn the camera.  You should see the 7th nitro 
+box.  Go break it, jump back onto the roof of the museum, go to the left 
+which will be the opposite side of which you jumped onto it, and you 
+should see another flagpole.  Jump and glide down to the platform that 
+has the flagpole (it's slightly lower than the other one you climbed up 
+onto) and you should see the 8th nitro box.  Now go to the door that was 
+shown to you, punch it open, and walk in.
+
+*Area 2 - 13 Nitro Boxes*
+First of all, change the camera view so you know where you are.  Now 
+follow the path around and jump the gap while dodging the spider waiting 
+to punch you in your attempt.  It takes three hits to destroy the 
+spider, so either fight it or continue on.  Follow the path and attack 
+the hopping pumpkin.  Break the 9th nitro box.  Now turn around.  You 
+should've noticed another platform while attacking the hopping pumpkin.  
+Jump to it, then to the next platform and break the 10th nitro box.  Now 
+go back to where the 9th nitro box was and continue on.  After breaking 
+open the checkered box, you'll notice another new enemy, which looks 
+like a giant bee.  Attack by doing a jumping tail swipe (jump then 
+attack).  Continue on the path until you come to the third giant bee and 
+you'll see big guys hurling barrels.  Be careful of these guys.  Luckily 
+it only takes one hit to take these guys out.  So, do a jumping tail 
+swipe on the first one, break the checkered box, go to the right and do 
+the same to the other big guy, and hit the switch on the wall.  The game 
+will show you what door opens.  Go through it and attack the hopping 
+pumpkin you see, then rotate the camera so that it moves to the right.  
+You should see another platform.  Jump to it, take care of the hopping 
+pumpkin, jump to the next platform, and break open the 11th nitro box.  
+A little to the left, you'll see a couple of pumpkins and an extra life.  
+You can get these if you want by jumping and gliding.  Otherwise, just 
+turn around and follow the path again.  Around the corner, break the 
+checkered box.  In the distance you'll see a large box.  Go towards it.  
+On the way, break open the 12th nitro box.  On the platform below the 
+large box is a spider.  Get rid of it, then do a jumping tail swipe to 
+get the large box down.  Move the large box to the edge with the giant 
+bee, kill it, continue on, break the 13th nitro box, kill the two giant 
+bees, and knock down the next large box.  Move it to the center of the 
+platform and jump up on it to get the K token.  Continue on, break open 
+the checkered box, continue on, don't miss the brown box, and make your 
+way over to the end of the path.  Kill the giant bee and jump onto the 
+swinging platform.  It would be helpful to move the camera towards the 
+left so that you can see the wooden plank you have to jump to.  At the 
+end of the plank you'll see another big guy.  Take care of him, knock 
+down the large box, jump onto it and get the A token, then move the 
+large box to the left of the platform.  Jump on it, then jump to the 
+next platform with the checkered box, break it open, and follow the 
+arrow.  Jump to the first swinging platform, then to the second, then 
+one more time to the platform with the three nitro boxes.  These are the 
+14th, 15th, and 16th nitro boxes.  They fall when you get near them, 
+giving you the N, R, and F tokens to get the golden K token.  Use the 
+golden K token on the door on that platform and go in.  Break open the 
+checkered box inside and jump glide to get the pumpkins.  Halfway down 
+the stairs are two enemies, the ones that throw bombs when you hit them.  
+Going down the second part of the stairs, if you turn the camera so that 
+the stairs look like they're going up, you'll see two lives on each side 
+of the staircase.  Go get them and I'll see you at the bottom of the 
+staircase.  Punch open the door, go in, and break the checkered box.  On 
+either side of the door are the 17th and 18th nitro boxes.  Break them 
+open and continue down the path, collecting the lives as you go.  
+Through the doorway on the other side, you'll see the mission's sub-
+boss.  I don't know his name, but he does throw rocks.  Start out by 
+going to the left onto the brown path.  Do a jumping glide over to the 
+extra life and don't miss the other one to the right.  Now turn the 
+camera so you can see the moving platform.  Jump to it, then jump to the 
+next one, then finally jump to other side of where you came in.  Break 
+the checkered box.  Instead of following the arrow, if you look in the 
+background, you should see a neon green thing.  That neon green thing is 
+the 19th nitro box.  Go break it.  Then go around the pyramid and break 
+the 20th nitro box.  If you go back to the right towards the gap, you 
+should see a golden pumpkin and another nitro box on the platform behind 
+it.  So jump to the platform with the golden pumpkin, then jump to the 
+moving platform, and then jump to the platform with the 21st nitro box 
+and break it.  Then make your way across the gap and up the pyramid to 
+face the sub-boss.  Be careful of falling rock.  It takes about four 
+hits to take him out.  When you beat him, go down the path he opens up, 
+and don't miss the extra life.
+
+*Area 3 - 4 Nitro Boxes, 2 Hostages*
+Go forward from your current position to the pumpkins.  A boxing spider 
+jumps down.  This enemy is very difficult, so good luck.  It takes about 
+4-5 punches or 6 jumping tail swipes to take it out.  When you're done 
+with that guy, take a look around the room.  You'll see the mission's 
+first hostage.  You'll also see four stone tablets on each wall and the 
+sub-boss in the middle of the room.  What you need to do is move all 
+four stone tables (they're like large boxes).  Behind one is the switch 
+that releases the hostage.  Another hides the 22nd nitro box.  One hides 
+two golden pumpkins and another hides the passage to the next part of 
+the area.  So after you've moved all the stone tablets, gotten the nitro 
+box, and released the hostage, move the sub-boss to the door that hid 
+the opening to the rest of the area and jump through.  Go down the 
+stairs, hit the switch, then go in the door.  Inside are four coffins, 
+the K token, and a nitro box.  Get the K token.  Each of the zombies in 
+the coffins cough up another token.  It takes about 4-5 punches to take 
+them out.  Beat them up to get other tokens and get the golden K token, 
+and don't miss the 23rd nitro box.  Now go through the door, break the 
+checkered box, and go down the stairs.  Two boxing spiders jump down 
+while you're descending, but you can dodge them.  At the bottom of the 
+stairs, hit the switch and then go in the door.  In this room you'll see 
+the A token in the middle of the room and a rolling boulder.  First, 
+grab the A token.  Now run away from the middle of the room.  See that 
+round thing in the middle?  If you jump on it 2-3 times in a row, it'll 
+open up and the boulder will roll in, opening up one of the many doors 
+in the room.  Don't fall in though.  When you get the boulder in, go in 
+the door that opens.  The room you enter should have two rotating 
+platforms and one platform in the middle with the F token on it.  Make 
+your way to the middle platform, get the F token, make sure you jump on 
+the switch, then make your way back to the boulder room.  You'll see the 
+N token and two boulders.  You have to do the same to these two boulders 
+as what you did with the first boulder.  So get the N token and put 
+these boulders in the hole.  Go in the door that opens and you should 
+see a bunch of swinging platforms.  Make your way to the other side, 
+break the 24th nitro box, and get the R token.  Watch out for the flame.  
+Now make your way back to the boulder room again.  Get both boulders 
+into the hole and the K token will appear and you'll get another golden 
+K token.  Look for the door with the golden K over the door.  That's the 
+door you want to go through.  Break the checkered box and descend the 
+stairs.  There are a couple of zombies, but you can easily dodge them.  
+Hit the switch at the bottom of the stairs and go through the door.  
+Straight ahead is a snake and a brown box behind it.  The brown box 
+contains the K token.  The snake takes about three hits to kill it.  The 
+next snake holds the N token.  Past the third snake is a brown box with 
+the A token.  Up a pipe you'll see the last nitro box, so go break it.  
+When you get to the stack of pumpkins a little further down, a boxing 
+spider jumps down.  This spider has the R token.  Four or five jumping 
+tail swipes takes care of it.  After this spider, continue on towards 
+the door, where another boxing spider jumps down.  This one holds the F 
+token.  After getting the golden K token, go through the door.  Inside, 
+break the checkered box.  You'll see the second hostage.  So make your 
+way across on the right to the switch to release him.  Jump onto the 
+platform to the left and it'll go down, opening the door to the 
+mission's boss fight.  Go on in.
+
+*Boss Fight - Pumpkin Head*
+The first part of this fight is the most difficult.  What you have to do 
+is get him to charge into the pipes, which stuns him for a few seconds.  
+While he's stunned, go attack him.  While you're fighting this guy, Dr. 
+Knarf throws bombs down into the fighting area.  Pumpkin Head uses this 
+attack until he gets down to 50% health.  Then he brings out a cane.  
+This IMO is the easiest part of this boss fight.  When he gets down to 
+25%, he starts spinning with the cane.  What you have to do here is run 
+away so that he gets dizzy from spinning.  When he gets dizzy, hit him, 
+then repeat.  When you win, Jersey blows up the lab, if you found all 
+the nitro boxes.
+
+Now you'll get warped back to Downtown, where you'll see a car crash 
+into the next level, Green Park.  You can either go here or go and do 
+the second mission in the museum.  It's all up to you.
+
+-Dome Sweet Dome-
+*Area 1 - 8 Nitro Boxes*
+The eight nitro boxes in the first area are all in the same place as in 
+the first area as Museum Madness, but the tokens are in different 
+places.  Go up the stairs, go right, through the hedges, jump onto the 
+wall, and do a jump glide to get the A token.  Do the same on the other 
+side to get the R token.  In front of the entrance to Museum Madness is 
+the N token.  You'll find the K token by the lower flagpole.  And to get 
+the F token, you have to do a jump glide from the front of the museum.  
+There'll be a line of pumpkins, so you should be able to find it.  You 
+should also have noticed that the shed in the back is open.  Hit the 
+lever inside to access the main mission area.
+
+*Area 2 - 5 Nitro Boxes, 1 Hostage*
+First of all, break the 9th nitro box.  Now jump to the red gear to the 
+right, then to the blue gear, and then the red gear, which should go 
+down and bring down a brown gear.  Go there, then jump from that gear to 
+the platform.  Follow the platform and jump to the spider-web.  Get rid 
+of the giant bee and jump to the next platform.  Jump from the next 
+spider-web to the next platform.  Break the 10th nitro box.  Now, see 
+that gold thing in the center?  Do a jumping tail swipe to it, jump to 
+the green gear, jump to that gold bridge you made, do another jumping 
+tail swipe to the next gold thing, jump to the next green gear, jump 
+again to the next gold bridge, turn around, and jump to the spider-web.  
+Then get rid of the giant bee, follow the path to the next red gear, and 
+ride it down.  This should bring down a set of brown gears.  Take the 
+new set of brown gears, jump from them to the spider-webs to the next 
+platform, and break the 11th nitro box.  Do the same thing here to the 
+gold things you did last time, except instead of turning around to jump 
+to a spider-web, keep going along the gold thing and jump to the next 
+green gear to the platform.  Then just follow the path again to the red 
+gear and ride it down, which again brings down another set of brown 
+gears.  Take these set of gears, jump from the spider-web to the 
+platform, break the 12th nitro box, make your way up the gold things and 
+green gears again, and when you get to the last green gear, ride it up 
+and jump to the platform.  Follow the path, hit the switch to release 
+the hostage, then make your way to the platform where the hostage was 
+and break the 13th nitro box.  Then ride the red gear down to the bottom 
+again.  This opens a door and the entrance to the next area. 
+
+*Area 3 - 12 Nitro Boxes*
+First of all, rotate the camera so that you know where the opening of 
+the elevator shaft is.  Now you can climb up the cable and get the 
+goodies.  Make your way out of the elevator shaft.  Hang a right and go 
+down the hallway.  A brown box holds the N token and don't forget to 
+break the 14th nitro box.  Back down the hallway and hang another right 
+down to the other hallway.  Beware of giant bees.  A brown box in this 
+hallway holds the K token and don't miss breaking the 15th nitro box.  
+Now go through the door and you'll see a bunch of brown boxes, a TNT 
+box, and three eggs.  One of the brown boxes contains the A token.  In 
+order to open the next set of doors, you have to kill the three birds 
+that pop up from the eggs.  Four to five hits should take care of them.  
+Go through the doors.  Same deal here in this room.  Destroy the enemy 
+to unlock the doors.  Don't forget about the checkered box.  In the next 
+room, to the immediate right of the doors are the 16th nitro box and a 
+brown box that holds the R token.  Now make your way to the next room.  
+The jumps here are pretty tricky, but you should be able to make it.  
+Don't miss the F token in this room.  Once you get the golden K token, 
+go through the doors to the next room.  Break the 17th nitro box in this 
+room.  Same deal in this room; destroy all the enemies to unlock the 
+door.  In the next room, break the 18th nitro box.  Then jump on the 
+stone block and over the wood nailed up blocking the doorway.  Then move 
+the large box all the way over to the opposite of the room.  Jump onto 
+the box, over to the scaffolding, then towards the pillar to get the K 
+token.  Go and get the rest of the goodies, then break the 19th nitro 
+box close to one of the pteradactyls, it also holds the N token, and the 
+20th nitro box on the other side of the room at the top of the tree.  
+Now, if you look around the room, you'll see three switches.  Each of 
+these switches activates each of the pteradactyls, so taking them on one 
+at a time is a good idea.  Four to five jumping tail swipes takes care 
+of them and each has a token, so you have to kill them anyway.  Then 
+when you get the golden K token, jump on the platform with the golden K 
+and it'll move; jump down the hole.
+
+*Area 4 - 5 Nitro Boxes, 1 Hostage*
+Start out by going around to the other side of the platform and jump 
+gliding down the platform with the 21st nitro box.  Then do a jump glide 
+to the next platform and get the K token.  Then jump to the swinging 
+platform, jump to the next platform, then jump to the higher platform 
+and break the 22nd nitro box.  Go down the ramp and get the N token.  
+Then jump glide to the platform with the checkered pattern.  Break the 
+23rd nitro box, go up the ramp, get the A token, and break the 24th 
+nitro box.  Go back down the ramp, go towards the switch and hit it to 
+release the hostage.  Go through the opening to the hallway.  Get the F 
+token, and run towards the end.  About halfway down the hallway, on the 
+left side, you should see a doorway.  Remember this.  When the guy at 
+the end comes to life, run back to the doorway you passed by.  Come back 
+out, go back towards the end of the hallway and get the R token.  Then 
+go back to the doorway you were in, open the door, and go in.  Inside 
+will be the area's last three enemies.  It takes about four punches to 
+take them out and their attack is similar to Pumpkin Head's first 
+attack.  After disposing of them, don't miss the last nitro box behind 
+the stereo.  Now go through the door behind the stereo to meet this 
+mission's boss.
+
+*Boss Fight - Bone Dinosaur*
+This boss fight is relatively easy compared to Pumpkin Head.  Just hit 
+and run away, hit and run away.  You cannot attack him while he's 
+attacking.  Also, jumping tail swipes seem to be really effective 
+against this boss.  And his vulnerable spot is his body.  Head shots 
+don't seem to work.  After you beat this boss, the lab should also go 
+kerplowie, bringing you back to Downtown.
+
+----------
+Green Park
+----------
+-Bat Caves-
+*Area 1 - 18 Nitro Boxes*
+Scattered through this area are 17 nitro boxes.  They shouldn't be too 
+hard to find.  Just keep searching.  When the number count gets down to 
+13, you know you've found them.  The 18th nitro box is located inside 
+the gate before entering the main mission area.  Also, watch out for the 
+new enemy here, whom I will call onion head.  It takes five hits to take 
+them out.  Some of the fountains also hold extra lives.  Do three 
+jumping tail swipes to one of the statues for an extra life.  And now 
+for the tokens.  The A token is located at the top of one of the 
+fountains, one of the ones close to the bridge.  The R token is located 
+close to the moat around the second mission entrance.  Once you get 
+these two tokens, a cut scene will be shown showing part of the ground 
+being blown up.  Go there and drop down the hole.  Beware of bats down 
+here.  Follow the passage and hit the switch at the end.  A cut scene 
+will be shown of a fountain gaining more water pressure and you should 
+see the F token.  Now ride up the elevator by the switch.  At the top is 
+the N token.  Now go back down and exit by using the other elevator.  
+Now all you have to do is get the F and K tokens.  The F token is 
+located at the top of the fountain by the bridge.  The K token is 
+located at the top of the fountain in front of the gate with the golden 
+K.  Once you get the golden K token, open the gate, watch out for the 
+bat, don't miss the 18th nitro box, and enter the main mission area, the 
+Bat Caves.
+
+*Area 2 - 8 Nitro Boxes, 1 Hostage*
+This next area is fairly linear.  From the starting point, you can jump 
+and glide all they way down the stairs.  Or you can go get all the 
+pumpkins and beat up the hopping tomato halfway down.  At the bottom are 
+two bats.  Get rid of them and continue on down the path.  Before you go 
+jumping to the ropes, go to the edge and don't fall off.  Jump to wake 
+up the bat and hit it twice to kill it.  Now jump to the rope and jump 
+to the next platform.  Do the same thing here but remember that you now 
+have limited space to work with.  Once you take care of this bat, 
+continue on, take care of that hopping tomato, go down the stairs, and 
+don't miss that K token.  Now jump from rope to rope.  At the end, ride 
+the moving platform to the other side.  Break the checkered box and 
+continue on.  You'll come to a bunch of planks and shooting jets of 
+water.  Carefully make your way across.  If you get hit with the jets of 
+water, they'll push you right off.  Once you make it across, break the 
+19th nitro box and the checkered box, and follow the arrow.  Don't miss 
+the 20th and the 21st nitro box.  At this next part, once you get midway 
+through the center path, a boulder rolls down.  Just run down and do a 
+jumping glide to the TNT box at the end of the center path on the right.  
+Otherwise you can try to do a jumping glide off the side as the boulder 
+rolls down and glide back to the path.  Either way, make your way to the 
+right most path.  Don't miss the extra life on the way up.  Midway 
+again, a boulder will start rolling down.  So run back towards the 
+screen and hop down to where the extra life was.  When it passes 
+overhead, continue on up the path.  Follow the path, break the checkered 
+box and the 22nd nitro box.  When you get past the 2nd TNT box, a third 
+boulder comes rolling down.  Run along the path, don't miss the 23rd and 
+24th nitro boxes.  Once you make it past the halfway point of the 
+bridge, you should be safe.  The boulder breaks the bridge and falls 
+through at the center.  Continue on.  Break the checkered box and the 
+25th nitro box, which also releases a couple of easy to defeat enemies.  
+Then do a jumping glide to the next platform.  This next section is kind 
+of difficult.  You have to make your way across by using the spider-webs 
+and platforms.  Once you make it to the other side, break the checkered 
+box, grab the R token, and defeat the onion head for the N token.  Now 
+jump onto the rock and make your way up.  Be careful not to hit those 
+crystals.  Follow the path to the chains.  Take care of the bats and 
+make your way up.  Follow the path up there, hit the switch to release 
+the hostage, and break the 26th nitro box, which releases three easy to 
+defeat enemies.  Now continue on, break the checkered box, make your way 
+across the planks, and don't miss the F token on the way.  At the end, 
+jump glide down.  This place should look familiar.  Make your way across 
+again and instead of riding the moving platform again, you should see a 
+trail of pumpkins.  Do a jumping glide and follow the trail to the A 
+token and the gate with the golden K.  Once you get the golden K token, 
+open the gate and go on in to the next area.
+
+*Area 3 - 4 Nitro Boxes, 1 Hostage*
+Go up the path.  About halfway up, barrels will start coming down.  You 
+get damaged if you get hit.  At the top is a big guy.  He's throwing the 
+barrels.  Four hits should take care of him.  Continuing on, there are 
+razor barriers that come down, but they shouldn't be too hard to dodge.  
+Once you make it through, to the left is a gate.  Hit it to make it fall 
+down and create a bridge.  Go through, get the goodies, watch out for 
+the bad guys, which are carrots, boxing spiders, and an onion head.  
+Break the 27th nitro box, continue on down the path and hit the switch 
+to release the hostage and break the 28th nitro box.  Now backtrack and 
+to down the other way and break the checkered box.  Now jump to the rope 
+and climb it all the way up.  Then do a jumping glide to the next rope 
+and do the same.  Now do a jumping glide to one of the platforms and 
+then jump onto the wall.  You'll notice that every so often a box comes 
+up.  If you ride it through the tube, it takes you back to the start of 
+the area, so don't ride it all the way.  But do try to catch a ride on 
+it.  Right before it goes into the tube, jump to the box past the first 
+box on the right side.  Then quickly make your way from box to box to 
+the platform before they sink too low in the water.  There's an enemy 
+here who takes five hits to die.  After each hit, he coughs up some 
+bombs and a token.  After he's dead, break the last two nitro boxes, 
+open the gate, and meet this mission's boss.
+
+*Boss Fight - Giant Toad*
+This boss fight isn't too hard.  All you pretty much have to do is jump 
+to each platform, grab a TNT box, and hurl it at the giant toad.  As for 
+its attacks, they're really easy to dodge.  It has two attacks: a tongue 
+grab and falling stalactites.  After you defeat this boss, the lab goes 
+kerplowie, and you're taken back to Downtown.
+
+Back in Downtown, you'll see Pumpkin Head hopping on a car and entering 
+the next level, the Cemetery.  You can go here or do the second mission 
+in Green Park, Root Canal.
+
+-Root Canal-
+*Area 1 - 18 Nitro Boxes*
+The 18 nitro boxes in this area are all located in the same places.  The 
+tokens aren't, however.  The A token is near one of the fountains that's 
+shooting water high into the air.  Do a jumping glide to get it.  The N 
+token is located off the side of the bridge.  The K token is located 
+near the entrance to Bat Caves near the top of the water shooting up on 
+a fountain.  If the water isn't shooting up, you'll have to go find the 
+hole and break it open manually and hit the switch again down there.  
+The R token is located near the top of the shooting water of the 
+fountain in front of the entrance to Bat Caves.  The F token is located 
+over the moat.  Use the fountain near there to help you get it, then 
+continue gliding to the island.  Circle the tree and a section should 
+open up revealing a gate.  Open it and go in.
+
+*Area 2 - 12 Nitro Boxes, 2 Hostages*
+This area starts out with a sub-boss.  The roots are the easiest to take 
+out.  The biting plant can only be attacked after it stops attacking.  
+It'll attack three times, then stop, and repeats it two more times, 
+unless you get hit.  Once it dies, it creates a hole.  Jump down.  Down 
+here, get the 19th and 20th nitro boxes, but be careful not to go down 
+the slide before you do.  Now, make your way down the slide.  On the way 
+down you should get the five tokens and five nitro boxes.  Be careful of 
+all the roots and the TNT boxes.  At the bottom of the slide, you'll see 
+the two hostages and a door with a golden K.  Don't enter this door 
+unless you want to engage in a boss fight already.  Instead, go through 
+the opening and break the three nitro boxes.  This should bring the 
+counter down to two.  The last two are on the other two platforms, so go 
+break them.  In case you didn't get all the letters or nitro boxes, you 
+can jump on the shooting water.  It will take you back to the beginning 
+of the slide.  Also, right before the end of the slide, there will be 
+two switches, one for each of the hostages.  You need to do a jumping 
+tail swipe to each of them to release both hostages.  When you're ready, 
+go open the door to this mission's boss.
+
+*Boss Fight - Giant Japanese Bear*
+Okay, I don't know what else to call him.  He looks Japanese, he has a 
+Japanese samurai hairdo, and he's wearing diapers.  I'll come right out 
+and say this now: this is one tough boss fight.  He has three attacks: a 
+handclap, an overhead hair hit, and a long jumping sit down maneuver.  
+He has one and only one weak spot: his ass.  The only time you can hit 
+him in the ass is when he does the long jump sit down maneuver.  So just 
+constantly run away.  When he does the long jump thing, move out of the 
+way and quickly hit his ass.  After he dies, the lab goes kerplowie, and 
+you get warped back to Downtown.
+
+--------
+Cemetery
+--------
+-The Crypt-
+*Area 1 - 6 Nitro Boxes*
+The first thing you'll see are cut scenes of a TNT box, a statue, a 
+Hearse, and a tree.  If you take the tour around this area, you'll 
+notice all the TNT boxes and the first two nitro boxes.  Oh, and if you 
+get hit by the Hearse, you'll die.  What you need to do is pick up the 
+TNT boxes, which regenerate, and throw them at the Hearse.  After four 
+hits, it'll cough up the A token and crash into a portion of the fence, 
+allowing access to another part of the area.  Before you continue, break 
+the two nitro boxes, grab a TNT box, go to that statue and toss the TNT 
+box at it to knock it down.  Jump onto it and over the wooden fence.  
+You'll notice gravestones with letters on them.  What you need to do is 
+hit the graves spelling Knarf.  This'll resurface a coffin.  Jump on it 
+to release the K token.  And don't miss the 3rd nitro box hidden around 
+the rock.  Now move the boulder to the wooden fence, jump onto the 
+boulder and over the fence, and go through the section of fence that the 
+Hearse destroyed.  Here you'll meet a new enemy, whom I will call 
+Franky.  Four hits to the head kills him.  You should see the tree from 
+here.  Go grab a TNT box and toss it at the tree to knock it down.  
+Don't miss the 4th nitro box.  Make your way across, break the 5th nitro 
+box, and kill the Franky there to get the F token.  Now go back across 
+the tree, hop from the coffin to the other side, and make your way up to 
+the graveyard.  Don't miss the 6th nitro box.  You'll see a ghost 
+floating above a structure that has a purple rose.  Go and break the 
+headstones.  One holds the N token.  Now, remember that purple rose?  
+Wait till the ghost is far away, then grab it.  It'll pump you up, 
+making you able to knock down statues.  Speaking of which, there is one 
+in the graveyard.  Knock it down to get the R token.  Then go to the 
+gate with the golden K (you should've passed on the way to the 
+graveyard) and open it.  You'll notice the main mission area entrance is 
+covered, a bat, headstones, two gargoyles, and a Franky.  First, kill 
+the Franky.  That'll alleviate some of the problems.  Now you can break 
+the headstones if you want to get some pumpkins.  Then go back and get 
+the purple rose again and go knock down both gargoyles to open up the 
+main mission area.  Jump on in.
+
+*Area 2 - 10 Nitro Boxes, 2 Hostages*
+First, turn the camera around.  You'll see a door, but it can't be 
+opened.  Instead, jump behind one of the gargoyles to get the purple 
+rose, knock down the gargoyle you're behind, then go knock down that 
+statue you were pointed towards.  When it wears off, do the same thing 
+to the other gargoyle.  Once all the coffins are open, get the goodies, 
+then jump down the middle coffin.  You'll end up on a staircase.  Go up 
+the staircase and at the top, do a jumping glide to get the K token.  
+Now go down the staircase until you get to a door that's labeled 
+McThord.  Go on in.  Now break the three brown boxes, go straight 
+forward, dodge the hands, and make your way across the gap.  Right 
+before the stairs, part of the ground is breakable.  Jump on it four 
+times to break it, then follow the path down there and hit the switch at 
+the end.  You'll see a cut scene of razor barriers moving.  Now make 
+your way back out and go over the stairs, make your way through the 
+razor barriers, break the checkered box, then move the camera to the 
+right.  You'll see saws moving up and down.  Carefully make your way 
+down the stairs.  At the bottom, do a jumping glide to the 7th nitro box 
+and break it.  Then do a jumping glide down to the opening on the left 
+side.  Follow the path and hit the switch at the end.  You'll see a cut 
+scene of three platforms moving.  Make your way back out and jump on the 
+moving platform to the other side.  Jump to the first moving platform, 
+then to the path on the right with the rolling skulls, and make your way 
+up while dodging the skulls.  At the top, break the checkered box, move 
+the large box forward to access three extra lives, then follow the 
+arrow.  Go to the right.  When you reach the wooden plank, instead of 
+going across, do a jumping glide to the path on the opposite side.  
+Follow the path, don't miss the 8th nitro box, and make your way to the 
+sub-boss, McThord.  To defeat this sub-boss, stay far away from him.  He 
+throws two bottles: a green one and a red one.  The red one explodes 
+creating a fire and the green one can be hit back to cause damage to 
+him.  He has to be hit ten times with the green bottles to be defeated.  
+When you win, go out the gate and leave the same way you came in.  Don't 
+miss the F token when you arrive back on the staircase.  Now go down 
+again and make your way to the door labeled Sebastos.  Quickly make your 
+way from platform to platform to get the A token.  Then stay on one 
+while holding down /\ to glide down.  What you're aiming for is a 
+platform with a switch.  When you land on that platform, hit the switch 
+and release the first hostage.  Go out the door and make your way back 
+up the staircase to the door labeled McCloud.  Go in and do a jumping 
+glide to the wooden bridge on the right with a hopping tomato.  Make 
+your way to the other bridge with the other hopping tomato then jump to 
+the skull, to the wooden platform, to the next skull, and to the other 
+wooden platform.  Then make your way across the coffins to the suspended 
+platform and ride it across.  At the other side, jump up to get the R 
+token.  If fall on your ascent, no problem.  There's a coffin that pops 
+you up on the bottom.  Use it to make your way back up to the suspended 
+platform.  Once you get the R token, go back out to the staircase, go 
+down, and enter the door labeled Obert.  Make your way down the path, 
+don't miss the 9th nitro box, and beware of two bats and falling blocks.  
+When you get to the first gap, make your way across, don't miss the 10th 
+nitro box, make your way across the next gap, pick up a TNT box, and 
+toss to the wall on the left, next the next gap.  A hole should open up.  
+Go in, break the 11th nitro box, then do a jumping tail swipe to the 
+switch above the TNT box to release the second hostage.  Go back out, 
+make your way across the next gap, carefully make your way through the 
+moving walls, then dodge the rolling boulder to get to the next section.  
+Make your way down the path, break the checkered box, go through the 
+part with the moving walls.  Pick up a TNT box and hurl at the wall that 
+looks fake.  Go in and break the 12th, 13th, and 14th nitro boxes.  Now 
+go back out, kill the four bats and make your way from spider-web to 
+spider-web till you get to where boulders are rolling.  When you do, 
+make your way across while dodging the boulders, and keep going.  
+Eventually you'll make your way to a section that has a bunch of TNT 
+boxes, a checkered box, and the 15th and 16th nitro boxes.  Break the 
+checkered box and the nitro boxes.  Now jump to the platform on the 
+left.  You'll see a stained glass window.  Hit it to gain access to 
+another sub-boss, Obert.  IMO, this is the easiest boss fight you'll 
+probably ever encounter.  He has no attacks.  To win, you have to beat 
+him in a game of hoops, scoring five points.  You can attack him to 
+knock the ball loose, then grab it, and shoot it in the basket.  Just 
+note that if he scores a point, it takes one of your points away.  When 
+you win the little mini-game, the exit opens up.  Make your way down the 
+path and exit the same way you entered.  Back on the staircase, don't 
+miss the N token.  Now make your way down to the bottom of the staircase 
+to the last door.  Now that you have the golden K token, you can open 
+the door.  Go on in.
+
+*Area 3 - 10 Nitro Boxes*
+Do a jumping glide to the TNT boxes, then jump to the moving coffin on 
+the right.  Then jump to the floating coffin on the right to get 
+launched up to the path.  Follow it, go across the TNT boxes, turn left, 
+follow the path, then jump to the small platform and break the 17th 
+nitro box.  Make your way back across the TNT boxes, turn left and 
+follow the path, and break the 18th and 19th nitro boxes to the 
+immediate right.  Get the rest of the goodies in this room, then at the 
+other doorway, do a jumping glide to the 20th nitro box and break it.  
+Now make your way across the water, jumping from the skulls to the 
+platforms until you reach the stairs.  At the top, break the checkered 
+box then jump onto the moving skull.  Ride it to the platforms.  Make 
+your way from platform to platform and hit the switch at the end.  
+You'll see a cut scene of more platforms moving up.  Now, make your way 
+back across the platforms and go up the new ones, then make your way 
+across the water by jumping from each huge bouncy pumpkin.  When you 
+make it to the other side, break the checkered box, go up the platforms, 
+go across the island to the next set of platforms, break the 21st nitro 
+box, make your way to the next island, break the checkered box, and hit 
+the switch.  You'll see some platforms moving up in the background.  Now 
+make your way up.  Before you go up the platforms, on the next island is 
+the 22nd nitro box.  Go break it.  Now go up the platforms and hit the 
+switch.  You'll see a cut scene of a door opening.  Now do a jumping 
+glide to the 23rd nitro box and break it.  Now go and break the 
+checkered box.  Before you go in the door, you should see an opening 
+from where you broke the checkered box.  Go in there.  Make your way 
+from platform to platform and break the 24th nitro box.  That's all 
+that's in here, so make your way back out.  To the left is a coffin.  
+Jump to it, it'll launch you up.  Then go in the door you just opened.  
+Watch out for falling blocks in here.  There's also a boxing spider in 
+here who gives you the K token if you kill it.  Now go through to the 
+next section and you'll see fireflies.  But you don't really need to get 
+any now.  You should see the 25th nitro box.  Jump on up and break it.  
+Now go through the door on the left.  There'll be a ghost and a bunch of 
+treasure chests.  Four of the chests contain the remaining four tokens.  
+The others contain extra lives.  Go open them, get the goods, then go 
+out the door.  Continue on straight towards the golden K door.  Before 
+going in, the 26th nitro box is located in front of the left wall.  
+Don't miss it.  Now go in the door.
+
+*Area 4 - 4 Nitro Boxes*
+Start by going up the stairs and grabbing a firefly so you can see where 
+you're going.  Make your way up and hit the gate to open it.  Inside is 
+a skeleton.  To beat it, hit it to make it crumble, then jump on it to 
+destroy it.  He gives you the F token.  Now go through the other gate, 
+grab the firefly, and make your way across each platform while grabbing 
+the other four tokens and the last four nitro boxes.  When you've gotten 
+everything, continue on across, go up the stairs and follow the path to 
+the top while collecting fireflies so you can see where you're going.  
+When you reach the top, open the gate and meet this mission's boss.
+
+*Boss Fight - Pumpkin Head*
+This is another tough boss fight.  The boss is on a giant bat.  He 
+appears on one of the four sides of the fighting area and hurls bombs.  
+What you need to do is dodge the bombs, pick them up, and throw it back 
+to him.  The fact that he keeps moving and you can't touch the bombs 
+until they stop moving makes this one tough boss fight.  Also, some of 
+the bombs go off the side when he throws them.  When you win, the lab 
+goes kerplowie and you get warped back to Downtown.
+
+Back in Downtown, you'll see Pumpkin Head entering the next level, 
+Chemical Wasteland.  Go in, or do the Cemetery's second mission, Haunted 
+Mansion.
+
+-Haunted Mansion-
+*Area 1 - 6 Nitro Boxes*
+You'll be shown a cut scene of a platform moving across a lake.  The six 
+nitro boxes are in the same places.  However, there are no tokens to 
+collect.  So once you get the nitro boxes, go across the platform and 
+jump to the elevator, which takes you to the next area.
+
+*Area 2 - 4 Nitro Boxes*
+Make your way up the path.  To dodge the boulders, move inwards towards 
+the cliff.  Break the four nitro boxes on the way up.  Also, don't miss 
+the K and F tokens.  Once you get to the top, the A, N, and R tokens are 
+around the mansion.  Get them, and enter the door to the next area.
+
+*Area 3 - 20 Nitro Boxes, 2 Hostages*
+First of all, turn the camera around.  Now go forward and jump around 
+the left corner and attack.  There's a potted plant here.  Three hits to 
+kill it.  Be careful, though.  Some of the floorboards collapse when you 
+step on them.  Also, watch out for the bat.  Grab the N token then go 
+through the door.  Another potted plant and bat are on the other side of 
+the door.  Grab the A token, break the 11th nitro box, and go to the 
+carpeted section.  See the bottles?  Over in that area, some of the 
+floorboards are collapsible.  So make your way to each bottle and 
+quickly break them and come back to the carpet.  Then go back and get 
+the remaining three tokens and go through the door with the golden K 
+token.  Break the checkered box and kill the bat and potted plant.  Then 
+quickly make your way across and break the 12th nitro box.  Go up the 
+stairs and jump up and get the R token.  Continue on up to more 
+collapsible floors, grab the K token, break the 13th nitro box, and hit 
+the door three times to break it.  Go through.  Some of the bookcases 
+here will fall down when you get close to them.  There's also a new 
+enemy in here, flying books.  Anyway, dodge the falling bookcases, kill 
+the flying books, break the 14th nitro box, and break the box to get the 
+N token.  Now move the large bookcase to the left or right to reveal a 
+doorway.  Go through.  You'll see another large bookcase.  Move it to 
+the left to reveal a painting.  Do a jumping tail swipe to it to reveal 
+an opening.  When you go in, a bat breaks through the window.  Take care 
+of it, break the 15th and 16th nitro boxes.  Now hit the bookcase, move 
+out the way to let it fall, and go in.  To the immediate left there's a 
+potted plant.  Take care of it, grab the F token, and break the 17th, 
+18th, 19th, and 20th nitro boxes.  Now go back out, break the 21st nitro 
+box, which also gives you the A token, and move forward a little so that 
+the collapsible floor breaks and you go with it.  You should be a room 
+with the first hostage.  Three bats break in.  Take care of them.  Now 
+you should see two stacks of boxes.  Hit it twice so that four boxes are 
+destroyed, leaving two.  Do a jumping glide onto them and jump towards 
+the wall with the painting while doing a tail swipe to hit the switch to 
+release the hostage.  Now go and break the 22nd nitro box, break the 
+remaining boxes, and go through the door.  This place should look 
+familiar.  Go back up to where you broke the 21st nitro box.  Go up the 
+stairs to the door with the golden K.  Go on in.  Inside the room, a bat 
+breaks in, so kill it.  You'll see a bunch of bottles, a checkered box, 
+the 23rd nitro box, and a brown box that regenerates.  Break the 
+bottles, the checkered box, and the 23rd nitro box.  Now break the brown 
+box, quickly go through the door, take a left, and plow through the 
+carpet.  Go down the hallway.  At the end, break the 24th nitro box, 
+then go in the doorway to the right.  The brown box has two enemies in 
+it and a bat breaks through the window.  Take care of them and break the 
+25th nitro box.  In the next room are two boxing spiders and a nitro 
+box.  I highly suggest you take care of them, then break the 26th nitro 
+box.  Now move that small bookcase towards where you entered.  The 
+switch is on the adjacent wall above the picture frame.  Also, another 
+bat enters through the window here.  When you take care of it, jump onto 
+the small bookcase, and do a jumping tail swipe to the switch to release 
+the second hostage.  Now go back to the hallway and go across to the 
+other door.  Break it down, and you'll see two chandeliers, a stack of 
+boxes, and a TNT box.  Get the goodies if you want.  Now, remember that 
+small bookcase?  You have to move it in here onto one of the peninsulas 
+so that you can make it to the first chandelier.  Then just make your 
+way across, take care of the potted plant, break the 27th nitro box, go 
+down the stairs, break the 28th nitro box, and continue down.  Take care 
+of the boxing spider here to get the K token, break the 29th nitro box, 
+and continue down.  Kill the two boxing spiders down here to get the N 
+and A tokens.  Then break the last nitro box, get the R and F tokens, go 
+up the stairs and go out the door to the next area.
+
+*Area 4*
+You're shown a cut scene of the front of the mansion with a window that 
+has K on it.  What you need to do is get there.  You start out in the 
+back of the mansion.  Jump from leaf to leaf to get to the roof, then 
+make your way to the front of the mansion.  When you get to the place 
+the cut scene showed you, punch the window and go in to meet this 
+mission's boss.
+
+*Boss Fight - Devil Woman*
+Thought this was a hot chick?  So did I, until she gained some weight 
+and become 500 pounds of monkey crap.  This boss has one main attack: a 
+spinning clothesline.  What you have to do is knock her down and jump on 
+her.  You can get her to run into the wall, which makes her fall.  Or 
+wait for her to do two spinning clotheslines, which makes her dizzy, 
+then knock her down.  Then proceed to jump on her belly.  What I did was 
+after I jumped on her belly, I stayed on, and when she stood up, I ended 
+up on her head, which made her run into the wall.  So if you can, do 
+that.  When her health gets down to 50%, she changes her attack to a 
+jumping smash maneuver.  Dodge this, and hit her when she lands.  When 
+you win, the lab goes kerplowie, and you get warped back to Downtown.
+
+------------------
+Chemical Wasteland
+------------------
+-Toxic Factory-
+*Area 1 - 5 Nitro Boxes*
+Start out by moving the camera.  When you see the 1st nitro box, go 
+break it.  It releases three eggplants, which are easy to kill.  Be 
+careful of the fence with the lightning bolt picture on it.  If you 
+touch it, you'll get damaged.  Go past the fence, break the 2nd nitro 
+box by the can and the 3rd nitro box near the entrance to the secret 
+level, then jump from the can onto the truck.  Jump to get the F token, 
+then jump to the steel girder and run down it, and jump at the other end 
+to get the R token.  Now make your way past the truck and an enemy will 
+appear.  It throws bombs when it gets hit.  Kill it if you like.  Now go 
+to the yellow car.  Hit it three times and get the extra life inside.  
+Go past the car and you should see a stove, a stack of tires and a 
+hopping tomato.  Don't hit the stove, unless you want to take care of a 
+bat.  Go hit the tires first, then attack the tomato.  The tires fall 
+into the toxic lake, making it possible for you to make it across.  Jump 
+on the closest tire to you, make your way towards the left.  Break the 
+4th and 5th nitro boxes and get the K token.  Watch out for the carrots 
+and bell peppers.  Now go over the pile of tires to the other side of 
+the fence.  On another pile of tires is a big guy tossing barrels.  
+You'll only be able to attack him after he attacks.  Four hits and he's 
+down, plus he gives you an extra life.  Past him is a refrigerator.  
+Behind it is the N token.  Inside is another bat.  Past that, hit the 
+tires and kill the tomato.  Go to the top of the next tire pile.  You 
+should see the A token from here over a can on the toxic lake.  Do a 
+jumping glide to it, then go towards the left to the gate with the 
+golden K on it.  Open the gate and go in.  You'll have to defeat two 
+boxing spiders before you can continue to the next area.  When you do 
+defeat them, hit the next gate and enter the next area.
+
+*Area 2 - 2 Nitro Boxes*
+To the right is a stack of tires and a tomato.  You know what to do.  
+Make your way across the toxic lake.  Note that you cannot land on the 
+barrels spewing fire.  Follow the path and make your way across the fire 
+pit.  Then make your way across the platforms.  Another new enemy is 
+here and I will calling them floating bombs.  Self explanatory.  When 
+you get to the platform with the two TNT boxes, do a jumping glide to 
+the island on the right.  Get the extra life and break the 6th nitro 
+box.  Now go to the left, jump from the girders to the next island, 
+watch out for the metal bees, and break the checkered box.  Now go 
+through the pipe the bees are coming from.  On the other side, jump from 
+the tires to the next path and go up.  At the top of the hill is a big 
+guy.  He gives you an extra life if you defeat him.  Continue on the 
+path and you'll see big cans.  Punch them.  Continue on the path and go 
+through the pipe.  On the other side, break the checkered box and hit 
+the tire stacks.  Don't forget to kill the hopping tomatoes.  Don't miss 
+the N token.  The A token is in the refrigerator.  Now make your way 
+across the toxic lake.  Follow the path that the TNT boxes make.  This 
+is where you'll get a lot of practice doing jumping glides.  Also, don't 
+miss the R token.  Once you make it across, you'll see a new enemy.  
+I'll call these guys piranha plants.  You'll also see a sub-boss whom 
+I'll call Eggplant Daddy.  What you have to do is attack the piranha 
+plants, pick up their heads, and throw them at Eggplant Daddy.  Five 
+hits and he's dead.  Also, if you don't pick up their heads and wait, 
+the piranha plants will regenerate.  Eggplant Daddy will also throw 
+seeds to grow more piranha plants.  When you take care of everything, 
+grab the K token, break the 7th nitro box, hit the oven to get the F 
+token, then jump on the grate and enter the next area.
+
+*Area 3 - 1 Nitro Box*
+You'll be shown cut scenes of a TNT box and a sign.  You start out 
+underground and you'll see turtles moving back and forth.  There's a 
+moving platform down at the end.  What you need to do is go from turtle 
+to turtle to the end of the sewers and ride the platform up.  When you 
+get up there, go to the right, around the building, past the orange 
+cans, to the yellow car.  Hit it three times to break it and break the 
+8th nitro box.  A little further down, you should see a big guy.  Hit 
+him four times to knock him down.  Now you have to move him towards the 
+large green box in the back of the building.  Now make your way up to 
+the roof and take care of the other big guy up here.  When you have done 
+so, pick up the TNT box and make your way to the front of the building 
+onto the conveyor belt.  If you miss, no problem.  The TNT box 
+regenerates, so just make your way back to the roof, grab another TNT 
+box, and go down to the conveyor belt.  Toss the TNT box at the sign and 
+enter the next area.
+
+*Area 4 - 1 Hostage*
+The first thing you'll see are two potted plants and a new enemy, a 
+robot.  Jump down and take care of the robot first.  Three hits and he's 
+gone.  Now take care of the potted plants.  Go up the ramp and take care 
+of the two robots here.  Continue on up and go to the next section.  On 
+the right wall behind the hostage is a switch.  Hit it.  It turns on the 
+conveyor belts and lights.  On the other side of the conveyor belts are 
+three robots.  If you're fast enough, you can kill them without getting 
+much damage.  Now jump on the moving platform and use it to get to the 
+conveyor belt.  Jump to the next one and you should see a switch on the 
+wall.  Do a jumping tail swipe to it to release the hostage.  Now go 
+back across the conveyor belts to the boxes.  Go from the boxes to the 
+moving platform, then jump to the conveyor belt and ride it to the next 
+room.  There are three more robots in this room.  Take care of them, 
+jump onto the boxes, then hit the switch on the wall, jump back onto the 
+boxes, then to the moving platform and go to the next room.  Take care 
+of the robot in here.  On the other side of the conveyor belt by the 
+wooden platforms you'll see a flying thing.  Don't attack.  If you 
+don't, it won't attack you.  So just make your way from platform to 
+platform then ride the conveyor belt to the next room.  The enemies in 
+here are potted plants and robots.  Take care of the potted plants if 
+you like, but I would suggest taking out the robots.  Anyway, on the 
+right from where you came in, there's some boxes and a ramp.  Jump from 
+the boxes to the ramp.  At the end, do a jumping glide to the pile of 
+boxes, then do another jumping glide to the next ramp.  Take care of the 
+robot here, then at the end of the ramp, do a jumping glide to where the 
+potted plant is.  Past the conveyor belt, you should see two platforms 
+and another conveyor belt.  Go to that second one.  Quickly make your 
+way from the platforms because they start to descend when you land on 
+them.  When you get to the second conveyor belt, ride it to the next 
+room.  Go through the hole and glide down.  Break the checkered box, 
+then make your way across each conveyor belt and platform until you come 
+to a moving platform.  Jump to it, then jump onto the pipe.  When the 
+next moving platforms comes, jump onto it, then jump to the yellow and 
+blue pipe.  Wait for it to come back in the direction you want to go, 
+then jump on it, then jump to the next moving platform.  Ride it up, 
+jump to the copper and green pipe, then make your way across the 
+conveyor belts and platforms to the next area.
+
+*Area 5 - 5 Nitro Boxes*
+The first thing you'll see are two lasers, a large box, and a whole 
+bunch of doors.  Jump down and a robot will come out of one of the 
+doors.  You need to defeat all the robots down here while dodging the 
+lasers.  Five of them hold nitro boxes which contain the five tokens.  
+After you've taken care of them, move the large box towards the platform 
+where the door with the golden K is.  Jump up and go in.  Break the 
+checkered box, then follow the path.  This next part is very difficult.  
+What you need to do is jump to the moving platform, then jump to the 
+first pipe.  Then you have to wait for the platform to come back and go 
+in the direction you want it to go, then jump to it, and jump to the 
+second pipe.  Do it again to get to the third pipe.  Then from the third 
+pipe, do a jumping glide to the grated path.  Once across, kill the 
+robot, wait for the water jets to stop, then jump to the next platform 
+and break the checkered box.  Now jump onto the pipe and follow it.  
+You'll face a sub-boss similar to McThord back in The Crypt mission.  
+Only this time, he only takes two green bottles to be defeated.  Now go 
+hit the switch he was protecting.  You'll see a cut scene of water jets 
+being turned off.  Now go back, continue on the path, kill the robot, 
+and jump to the platform with the switch and hit it.  You'll see a cut 
+scene of a manhole moving up.  Continue on the path and hit the switch 
+at the end.  Manhole covers will move up.  Make your way across them, 
+then to the conveyor belts.  When you get to the second conveyor belt, 
+jump to the platform, hit the switch, then continue on.  Hit the next 
+switch you come to and you'll be shown a cut scene showing a manhole 
+moving up.  Go up the next two conveyor belts and hop in the opening to 
+the next area.
+
+*Area 6 - 12 Nitro Boxes, 1 Hostage*
+Go down the pipe until you see a nitro box on a pipe on the side.  Jump 
+to the pipe, break the 14th nitro box, jump to the next pipe, break the 
+15th nitro box, then jump back to the main pipe and continue on.  When 
+you reach the branch, keep going straight, destroy the robot, and at the 
+end grab the K token.  Now go back to the branch and take it.  Follow 
+it, don't miss the N token, beware of bats, and make your way to the end 
+of the pipe.  You'll see manhole covers moving up and down by water 
+jets.  Wait for them to go down before you jump onto them.  Make your 
+way across while getting the last three tokens.  When you get to the 
+grated path, follow it while dodging the flames, take care of the big 
+guy, break the checkered box, open the door with the golden K, and ride 
+the elevator up.  At the top, jump out.  You'll see a bunch of manholes 
+and two steel bees.  What you have to do here is wait for the manholes 
+to come up before you jump on them.  If you jump on them while they're 
+down, you'll die because they're under the toxic water.  Anyway, make 
+your way across while taking care of the two steel bees, go in the door, 
+and ride the elevator down.  At the bottom, go out the door, go around 
+to the tower, break the checkered box, then make your way across the 
+platforms and moving platforms.  When you get to the platform after the 
+two shooting jets of water, jump onto the box, to the moving platform, 
+then to the next moving platform, and finally to the pipes.  Make your 
+way to the end of the pipes.  You should see a switch on the wall.  When 
+the moving platform is close to it, do a jumping tail swipe to the 
+switch and try to land on the moving platform.  Then jump to the grated 
+path.  Break the checkered box, take care of the robot, continue down 
+the path, take care of the next robot, go into the structure, and take 
+the left doorway.  Carefully make your way past the large falling box, 
+and break the 16th and 17th nitro boxes on either side of the structure.  
+If a wall comes down blocking the doorway, just wait for it to go back 
+up.  Now continue on the path, watch out for the two steel bees, break 
+the 18th nitro box on the left side of the next structure, ignore the 
+doorway on the opposite side for now, and continue on.  Past the next 
+structure are electric beams.  Carefully make your way through them, 
+don't miss the 19th nitro box, and hit the switch at the end.  You'll be 
+shown a cut scene of a fire wall coming down.  Now remember that path I 
+told you to ignore earlier?  Go down it, make your way past the large 
+falling boxes, open the door, take the left doorway, break the 20th 
+nitro box, and continue on to the structure.  Climb the rope, then jump 
+towards the checkered box and break it.  Make your way across the 
+conveyor belts while trying not to get flattened or fall off.  When you 
+get to the end of the conveyor belts, ride the green platform across.  
+The last five nitro boxes fall when you get near them, also giving you 
+the tokens.  When you get them, open the door and meet this mission's 
+boss.
+
+*Boss Fight - Spray Can*
+It's a spray that has the head of Franky, on wheels, with a cape.  How 
+screwed up is that?  Anyway, it has two attacks: a paint breath spray 
+and a cape twirl.  You can only attack this boss after it has attacked, 
+and you can only hit it in the head.  Just hang back after it's done a 
+few cape twirls and one or two paint breath sprays, then go do a jumping 
+tail swipe.  When you defeat it, the lab goes kerplowie, and you get 
+warped to Downtown.
+
+-Sludge Slides-
+*Area 1 - 5 Nitro Boxes*
+You'll be given a cut scene showing that the truck has been moved so 
+that you jump over the electrified fence.  The five nitro boxes are 
+located in the same places as in the first area of the Toxic Factory 
+mission.  Go get them, jump onto the truck and go over the fence, and 
+enter the pipe to start this mission.
+
+*Area 2 - 20 Nitro Boxes, 2 Hostages*
+This area is relatively easy because there's just a few slides and no 
+enemies.  You just have to stay on the slide and try to dodge the TNT 
+boxes.  Start out by breaking the four nitro boxes in this room, then 
+when you're ready, go through the opened pipe and start down the slide.  
+Jump up and hit the target to open the door, otherwise you'll go splat 
+and lose a life.  Next, hit the left target, don't miss the 10th nitro 
+box, hit the next target, don't miss the N token, and when you reach the 
+bottom, break the four nitro boxes on the platform and release the two 
+hostages.  Towards the door with the golden K are two more nitro boxes.  
+Break them.  Don't hit the switch just yet.  Now go across the way to 
+the elevator looking thing.  It'll warp you back to the beginning of the 
+area.  Go back down the same pipe and follow the same path again.  This 
+time when you hit the target the right door opens up.  Take that path to 
+get the K token and ride it down to the bottom again.  Go back up again 
+and go down the same pipe one last time.  Hit the remaining target on 
+the right, jump and hit the next target to open the door, do it one more 
+time, break the nitro box, get the F token, and ride it to the bottom 
+again.  Now, remember that switch?  Hit it now.  You'll be shown a cut 
+scene of a pipe closing and another one opening.  Teleport back up and 
+take the new pipe down.  Jump and hit the target to open the door, break 
+the last eight nitro boxes, then jump and hit the switch to open the 
+door on the right.  Don't miss the A token and ride it to the bottom.  
+Teleport back up for the last time and go through one more time.  Hit 
+the target to open up the left door this time and don't miss the R 
+token.  Ride the slide down to the bottom, open the door with the golden 
+K on it, and meet this mission's boss.
+
+*Boss Fight - Ooze*
+A bunch of platforms, some TNT boxes, toxic water, and a funky looking 
+boss.  Not much to say about this boss fight.  Dodge the boss by jumping 
+from platform to platform.  He throws sludge balls but they can be 
+easily dodged.  Unfortunately, you can only damage him by throwing TNT 
+boxes at him, but only while he's on the middle platform.  Once you 
+defeat him, the lab goes kerplowie and you get warped back to Downtown.
+
+Back in Downtown, you'll see Pumpkin Head hopping down a sewer.  Follow 
+him to access the next level, Sewer Port.
+
+----------
+Sewer Port
+----------
+-Amazing Boxes-
+*Area 1*
+Remember, turtles are your friends.  Alligators almost aren't.  Here, 
+you have to use the turtles, and sometimes alligators, to exit this 
+area.  Just make your way through hitting all the hanging barrels into 
+the sludge and hitting the checkered boxes and switches.  If there are 
+only TNT boxes around to jump on, do a jumping glide onto them or else 
+they'll blow up and you'll lose a life.  And also duck under shooting 
+water jets and jump over pipes.  I'm not gonna really write a walkthru 
+for this area since it's all pretty linear.  Once you get to the end and 
+hit the last switch, light will shine and a rope will drop down.  Climb 
+up the rope to get to the docks.
+
+*Area 2 - 11 Nitro Boxes*
+I guess this would be the general entrance area for the missions of this 
+level.  Here you'll notice large barrels surrounded by smaller barrels 
+with letters on them.  Just like in the cemetery level with the 
+headstones, hit the barrels in the order of the evil doctor's name.  At 
+the first large barrel, jump onto it, jump onto the boxes close to it, 
+and get onto the roof.  Follow it straight until you get to a crank.  
+Hit it until you can't hit it anymore.  You should have seen a platform 
+going across to the other roof.  Go across and to the left on the boxes 
+is the F token.  Go get it, then go directly go the other side where 
+there are two large barrels.  One of them has the R token.  I should 
+also point out that you should watch out for the seagulls.  Now jump 
+onto the barrel that had the token, then onto the roof and go over and 
+break the first 3 nitro boxes and get the N token.  Jump on out and go 
+towards the row boat.  Jump onto it and it'll go down.  You'll see the A 
+token.  Get it, get off the row boat at the top and jump onto the moving 
+container.  Jump onto the crane and break the 4th, 5th, and 6th nitro 
+boxes.  Jump back down to the container and ride it again to the end to 
+get the K token.  Take it one more time and jump to the containers on 
+the right of where you got the K token and break the remaining 5 nitro 
+boxes in this area.  When you're ready, go to the door with the gold K 
+token under the platform that you made.
+
+*Area 3 - 6 Nitro Boxes*
+Go forward and get the pumpkin.  The lighter shaded box is moveable.  
+Move it and you'll see a door with the number one on it.  That 
+corresponds to how many switches it takes to open it.  So to the left of 
+the box is a red switch.  Hit it to open the door.  Go through and go 
+towards where there are eyeballs popping up.  Around the corner is a 
+yellow switch.  Hit it to lower one of the boxes.  Go over the box, go 
+to the immediate left and break the 12th nitro box, which releases four 
+easy to defeat enemies.  Now go back, jump up to the higher path, hit 
+the crank, go over the platform that comes up, ignore the next crank, 
+hit the crank after that, go across, and hit the switch.  Now go back to 
+the lower path, hit the crank, jump on the switch, and the door with the 
+number two will open.  Move the lighter shaded box, move it again in the 
+other direction and jump onto the switch behind it.  Go back around the 
+corner and you should see another lighter shaded box straight ahead.  
+Move it and jump on the switch it's hiding.  Go around the boxes to the 
+other side of the moveable box, hit the crank and go across.  Hit the 
+switch you see and another door will open.  Before going on, move the 
+camera so that the view goes to the left.  You should see a yellow 
+switch.  Hit it and a platform will come down.  Ride it up and it'll 
+take you to a room with four boxes colored yellow, red, blue, and green.  
+Here's what to do: move the green box to the bluish platform closest to 
+where you came in, move the red box to the platform to the left of the 
+green, the blue box across the platform of the green, and the yellow box 
+to the platform to the right of the green.  You'll understand why in a 
+few seconds.  Now go back down and go to the right.  Break the 13th 
+nitro box, hit the crank, go across, hit the next two cranks, go across 
+and you'll arrive at a door with the number four on it.  To the right is 
+a moveable box.  Push it forward past the first opening on the left to 
+the second.  Put it down the second opening until it falls into a hold.  
+Now go to the left and you'll see a raised platform allowing you access 
+to a red switch and the 14th and 15th nitro boxes.  Break the nitro 
+boxes and hit the switch.  Now go back to where you were pushing the box 
+and go straight past the second opening.  Take out the enemy, a pirate 
+rat, then hit the crank and go across.  Now you'll see the pay off of 
+moving the boxes.  Hit the crank here and the red box will fall allowing 
+you to get to the platform in the middle.  Hit the three cranks there to 
+bring down the yellow, blue, and green boxes.  Go across each of these 
+boxes and hit the switches to open the door with the four on it.  Go 
+back to where the door was opened and go through.  Break the 16th and 
+17th nitro boxes here and get the A token.  Watch out for the pirate rat 
+and the flying helicopter.  The K token is over an open platform.  Hit 
+the crank to close it and get the token.  Past that crank is another 
+crank enclosed by boxes.  Hit it and a box will fall.  Ride it up and 
+get the N token.  Over by the closed platform, hit the crank and smaller 
+platform will come up.  Ride it up, then jump to the boxes ahead and get 
+the F token.  Now jump onto the forklift and ride the platform up to get 
+the A token.  Now move the camera to the right and jump to the boxes 
+there.  A little forward is a platform with a strip of stripes.  Jump to 
+it and you'll find a gate with the gold K.  Hit it open and go in to the 
+next area.
+
+*Area 4 - 11 Nitro Boxes, 1 Hostage*
+Start off by jumping to the boxes on the right and go down.  There's a 
+red switch on one of the walls.  Hit it.  Watch out for the seagulls.  
+One of the boxes is moveable.  Move it, then take care of the pirate rat 
+waiting for you on the other side.  There's another red switch on the 
+left wall.  Hit it to open the door.  Go towards the barrels and break 
+the piled up boxes.  Inside are the 18th, 19th, and 20th nitro boxes.  
+Go break them while dodging the falling lockers.  Now go towards the 
+light (no pun intended), turn left, jump on the switch, turn left again, 
+go through the path through the boxes, hit the cranks, and quickly make 
+your way across the platforms quickly.  Hit the switch next to the gate, 
+hit the other one on the wall to the left, go up the stairs past the 
+door with the five on it, break the 21st nitro box, then go to the 
+opening.  To the left near the barrels is another red switch.  Hit it, 
+go the other side of the opening, and break the 22nd and 23rd nitro 
+boxes.  Break the piled up boxes and jump down.  Jump on the red switch 
+down there to open the door with the five on it.  Follow the path, go up 
+the stairs and break the 24th nitro box to the right.  Go down the other 
+stairs to the left and move the box forward.  Take care of the enemy 
+here then move the next box forward all the way it can go.  Jump on it 
+then jump and hit the red switch on the wall to open the door.  Take 
+care of the enemy in here to get the N token.  Break the four nitro 
+boxes in this room to get the remaining tokens.  Then go to the gate 
+with the gold K and hit it open.  Be careful of falling boxes.  Jump 
+onto the yellow box, then do a jumping glide to the nearest box on the 
+left.  Jump to the next box and then jump and hit the switch on the wall 
+to release the hostage.  Now move the box closest to the switch and 
+you'll fall down a hole, which brings you to the next area.
+
+*Area 5*
+Just like Area 1, but not as long.  Just make your way across to the 
+other platform and climb up the rope.  This area was just unnecessary if 
+you ask me.
+
+*Area 6 - 7 Nitro Boxes, 1 Hostage*
+Go around the box on the left and hit the red switch to open the door 
+with the one on it.  Go through and in a little corridor on the left is 
+the 30th nitro box.  Continue on and you'll come to a room with grates 
+on the ground.  Under the first grate you see is the K token.  Around 
+the box on the left is a forklift.  Ride it up, hit the yellow switch on 
+the wall to raise the grate, jump down and grab the K token before it 
+comes back down and go back up and hit the yellow switch again.  Go 
+across the grate.  Hit the yellow switches and go across the grates till 
+you come to the end.  Then do a jumping glide to the box with the 31st 
+nitro box.  Break it and grab the F token.  From the large barrels, 
+you'll get the N and R tokens.  Don't miss the 32nd and 33rd nitro boxes 
+in here.  Ride the moving platforms in the corner of the room up to get 
+the A token.  Then take the platforms again to get to the door with the 
+gold K.  Hit it open and you'll be in front of a conveyor belt going 
+moving towards you.  Get ready for a long run.  On your run, bats will 
+break through the windows.  One hit and they're dead.  Once you reach 
+the end, jump down and break the 34th nitro box.  Now move the moveable 
+box and grab the tokens on the boxes then open the door.  Go straight 
+and turn left around the last box.  You should see a bunch of TNT boxes.  
+Hit these boxes and it'll move the crank and release the hostage.  In 
+the corner behind you is a gold pumpkin.  Now jump onto the boxes.  To 
+the right of where the hostage was is the last nitro box.  Break it, 
+then jump down to the other side where there's a hanging box.  When you 
+grab the gold pumpkin here, the box falls down and you'll meet this 
+mission's boss.
+
+*Boss Fight - Nuke the Gorilla*
+It's first attack is to run towards you and hit you with its fist.  What 
+I did was get it stuck in the door frame on the left side of the door.  
+When it starts eating a banana, you can attack it.  When its health gets 
+down to 50%, it changes its attack to a mad rush.  This is easy to 
+dodge.  Just run around him and attack when he scratches his head.  When 
+you beat him, he'll do a rush through the door and the lab gets blown 
+up.
+
+Back in Downtown, the fountain flips over and reveals two rockets with 
+Pumpkin Head sitting on one of them.  He blasts off.  You can follow or 
+you can do the second mission in Sewer Port.
+
+-Monkey's Trail-
+*Area 1*
+Hit the switch, go forward, ride the alligator and jump to the rope.  
+Climb it to get to the next area.
+
+*Area 2 - 11 Nitro Boxes*
+You'll see a cut scene of Nuke and a banana floating over a warehouse.  
+The 11 nitro boxes are in the same places so go get them.  If you're 
+having trouble getting the five nitro boxes on the containers, run on 
+the tracks and jump up onto the green container.  Then go over to where 
+the banana is and knock it down.  Once Nuke has the banana, he'll follow 
+you.  So go on over to where the crane is and jump onto the box with the 
+rope attached to it and you'll enter the main mission area.
+
+*Area 3 - 3 Nitro Boxes, 1 Hostage*
+This area's pretty linear.  Just jump from box to box.  Be careful of 
+the swinging nets and blue containers.  The blue containers tip when 
+you're on one side too long.  Don't miss the 3 nitro boxes in this area.  
+They're all located in the same place.  So when you see one, the other 
+two are close by.  Take care of the pirate rat before releasing the 
+hostage or you'll get hit with pot shots.  After releasing the hostage, 
+on the next platform, hit the box to make it come down and ride it up.  
+Hit the next box, ride it up and repeat one more time.  Continue on.  
+When you get to the crane, go to the opposite end, glide down to the 
+box, and jump on it to get to the next area.
+
+*Area 4 - 4 Nitro Boxes*
+First order of business, take care of that pirate rat throwing barrels 
+at you.  Next, take out that seagull.  Now grab the R token on the green 
+container near where the pirate rat was.  Now go break the black barrels 
+in the order of the evil doctor's name, Knarf, to get the N token from 
+the large black barrel.  Now knock down the box you were on to break 
+part of the floor away to reveal the K token.  Get it.  Now hit the 
+other box, not the one near the large barrel.  It'll break part of the 
+floor and reveal the A token.  Grab that.  Now go to the red switch.  
+Jump and stand on it to bring down the last hanging box.  When it's 
+down, jump on it and ride it up to get the F token.  Once you get the 
+gold K token, you'll be shown a cut scene of where to go.  Go there, 
+jump onto the grate and enter the next area.
+
+*Area 5 - 17 Nitro Boxes, 1 Hostage*
+Hit open the door and go through.  Break the 19th nitro box and hit the 
+switch.  Break the 20th nitro box and hit the switch.  Break the 21st 
+nitro box and hit the switch.  Go through and defeat the two pirate rats 
+to get the R and F tokens.  Don't miss the 3 nitro boxes in here.  Now 
+get the remaining tokens by doing jumping glides to the TNT boxes.  When 
+you get the gold K token, go around and up the stairs and punch open the 
+gate with the gold K.  Break the checkered box and the 25th and 26th 
+nitro boxes.  Now comes the fun part.  You have to jump from platform to 
+platform while dodging the spikey wheels.  Don't miss the 27th nitro 
+box.  On the final platform, it will go down and a door will open.  
+Break the 2 nitro boxes you see here.  Now go down the stairs, break the 
+30th nitro box, and open the door.  A bouncing octopus is the new enemy 
+here.  There's three of them and two rat pirates.  The bouncing octopi 
+can be killed with one hit.  The pirate rats still take 3-4 hits.  After 
+you take care of them, break the remaining 5 nitro boxes, and the K and 
+N barrels.  Use the TNT boxes to break the remaining three barrels.  
+Then go to the structure in the middle of the water and do a jumping 
+glide to the large barrel and get all the tokens.  Now hit the switch on 
+the wall to release the prisoner.  The barrels will rise up so you can 
+use them to get back to the platform.  Now go back up the structure and 
+jump on the gate to meet this mission's boss.
+
+*Boss Fight - Giant Octopus*
+You'll get a cut scene of Dr. Knarf and parts of the ground breaking 
+away.  Now the boss fight begins.  At first, all you'll be doing is 
+attacking small octopi while occasionally seeing the giant octopus 
+swimming outside the glass.  Finally, after killing many of the smaller 
+ones, the head will pop up in the middle opening while it attacks you 
+with its tentacles through the square openings.  What you need to do is 
+pick up TNT boxes and hurl it at the head while dodging the attacks from 
+the tentacles.  Of course, easier said than done, but eventually you'll 
+get there.  Once you beat the boss, the lab will blow up and you'll get 
+sent back to Downtown.
+
+--------------
+Knarf's Forest
+--------------
+
+-Through The Trees-
+
+To access this mission, ride the other rocket where the fountain used to 
+be.
+
+*Area 1 - 1 Hostage*
+This area's fairly linear.  New enemies here are the werewolf, masked 
+pumpkin, and bunny.  One hit to kill the bunny.  Run around and attack 
+the the werewolf when he's howling three times to kill it.  And about 5-
+6 hits fo kill the masked pumpkin.  Be careful of the bear traps.  Use 
+the lotus flowers as catapults.  It takes you in and spits you high up 
+in the air.  When you come to the grayish colored path, past the falling 
+rock is an elevated pathway.  Go up there and take care of the two 
+werewolves.  Now do a jumping glide to one of the TNT boxes and do a 
+jumping tail swipe to hit the crank and release the hostage.  Continue 
+on the other way and go across the striped roots.  Do a jumping tail 
+swipe to the tree that you come to and the leaves will act as a boulder 
+and knock down the wall.  Continue on.  Dodge the rolling boulders, jump 
+to the platform and go to the lotus flower.  It'll spit you up to the 
+next area.
+
+*Area 2 - 1 Hostage*
+First up, kill the bunny.  Now go forward and hit the boulder to knock 
+down the tree.  Go across the tree to the other side, take care of the 
+werewolf and hit the crank to release the hostage.  Now continue on and 
+make your way across the vines, spider webs, and lotus flowers while 
+dodging the floating eyes.  When you reach the tree, hit the door and go 
+in to get to the next area.
+
+*Area 3*
+You can either take care of the enemies here or start your way up.  Make 
+your way from lotus flower to lotus flower till you get to the opening 
+at the top.  Then you have to make your way from tree to tree while 
+dodging the giant bees.  Once you get to the last tree, go into the 
+opening and go down.  Grab the N token and exit the tree.  Grab the 
+remaining four tokens and open the door.  Use the lotus flower to shoot 
+you up to the spider webs and go all the way to the opening at the top.  
+Now make your way from tree to tree again.  Then go across the vines, 
+tree to tree again, then across bouncy leaves until you come to another 
+tree with an opening.  Don't jump down.  Jump on the spider webs and go 
+up to the other opening.  There, follow the pumpkins down to the next 
+area.
+
+*Area 4*
+Move forward and a giant carrot will pop up.  About 8 hits kills it, but 
+every time you hit it, little carrots pop off of it and run towards you.  
+Once you've taken care of everyone, move the carrot's body towards the 
+structure in the distance and use it as a trampoline to get across.  Hit 
+the crank and you'll see a cut scene of a cage lifting up and the gate 
+will be opened.  Go through to exit the mission.
+
+You'll now be in the first area of the next mission.
+
+-Knarf's Lair-
+*Area 1*
+First off, take care of the two werewolves.  If you followed this 
+walkthru in its entirety, you should have 10 tokens floating above the 
+signs in Downtown above the different missions.  You'll see them 
+floating here.  Follow them up to the switch and hit it.  This will give 
+you a cut scene of the bridge coming up.  Do a jumping glide down to the 
+ground below and cross the bridge.  The path is fairly linear.  When you 
+come to the fork, the left path gives you a werewolf and an extra life.  
+Take the right path to continue on.  When you come to the crank, hit it 
+to make the bridge come down, and quickly make your way across.  
+Continue on.  When you come to a platform with a pumpkin hanging on a 
+branch, hit and it'll roll down a hole, growing into a vine and 
+sprouting leaves.  Go up, quickly go across the daisies to the other 
+vine with leaves, then do a jumping glide to the next platform with 
+another pumpkin on a branch.  Take care of the potted plant and do the 
+same thing with the pumpkin here.  Go up the leaves and quickly across 
+the daisies and do a jumping glide off of the last daisy to the next 
+platform.  Jump onto the first leaf, do a jumping tail swipe to turn the 
+next leaf, jump to it, then jump to the next leaf and repeat.  More 
+daisies again.  Do a jumping glide off of the last one to the next 
+platform.  More leaves turned sideways here.  Make your way up, go 
+across the daisies, and jump onto the bouncy leaf.  Now comes the tricky 
+part.  Hit the first leaf, jump on it.  Quickly do a jumping tail swipe 
+to the second one, jump to it, and repeat with the third, then jump to 
+the bridge.  Continue on.  Kill the bunnies on this platform to get the 
+five tokens.  Once you get the gold K token, the bridge lowers.  Go 
+across and open the door.  Go in and face the last boss.
+
+*Boss Fight 1 - Pumpkin Head*
+Final boss fight time.  This time, Pumpkin Head has a wooden mallet.  He 
+has two attacks.  One is just a regular stomp hit.  The second is a 
+multiple stomping hit.  You can only hit him after he has attacked or 
+stopped moving.  You have to fight him while dodging the bottles being 
+thrown by Dr. Knarf.  After he's been defeated, you have to face the 
+good old doctor himself.
+
+*Boss Fight 2 - Dr. Knarf*
+Dr. Knarf stays on the platform and hurls three different colored 
+bottles.  The red explodes and creates flames.  The purple just explodes 
+on impact.  And the green can be hit back to cause damage to him.  Just 
+run around dodging the red and purple bottles and hit the green bottles 
+back to him.  When you finally defeat the good old doctor, he'll fall 
+into the liquid beneath him and the lab will explode.  Enjoy the ending 
+and the credits.
+
+=============
+Secret Levels
+=============
+------
+Museum
+------
+*2 Hostages*
+Straight ahead in the first area, push the statue, but only if your 
+power level is at least two.  When you push the statue, you should fall 
+down a hole.  This is one of the many secret levels.  The entire level 
+is a giant slide, so whenever you're ready, slide on down.  There are no 
+nitro boxes, but at the end, there are two hostages.  Watch out for the 
+barriers and TNT boxes and be careful of the turns.  This is a good 
+place to get extra lives.  After you release the hostages, go up the 
+stairs to exit the level.
+
+--------
+Cemetery
+--------
+*2 Hostages*
+When you have access to the Haunted Mansion mission, make your way 
+across the lake and you should see a big stone that says P05 on it.  
+Move it when your power level is at least five to enter another secret 
+level.  You'll arrive on a platform with a lava pit on it.  Every so 
+often, fire shoots up.  Anyway, get ready for the slide you're going to 
+go down.  When you're ready, jump to it and ride it down.  While you're 
+going down, try to dodge the hands.  When you stop, follow the path, 
+break the checkered box, then jump to the next platform while dodging 
+the swinging axe.  Dodge the two swinging axes on this platform then do 
+a jumping glide to the one with the lava pit.  Then jump to the next 
+slide and ride it down.  This slide now has swinging axes along with the 
+hands.  When you reach the bottom of this slide, it gets dark, kind of 
+like The Crypt mission where you have to get fireflies to see where 
+you're going.  I don't really think it's necessary if you turn the 
+brightness on your TV to max.  Anyway, get a firefly if you need it, 
+follow the path, break the checkered box, make your way across the 
+platforms while dodging the axes, and go down the final slide.  This 
+slide gets dark if you stop collecting fireflies.  But it shouldn't be 
+too hard.  Just follow the trail of pumpkins and dodge the hands and 
+swinging axes and you'll be find.  At the bottom of the slide, you'll 
+see the two hostages.  The switches are above each of the lava pits on 
+either side.  You have to do a jumping tail swipe to each of them.  If 
+you miss the first time, just keep trying.  When you free them, continue 
+on the path, dodge the swinging axes, jump to the platform, and climb up 
+the chain to exit the level.
+
+------------------
+Chemical Wasteland
+------------------
+*2 Hostages*
+When you have access to the Chemical Wasteland level, you can find the 
+entrance to another secret level near the yellow car.  There'll be a big 
+cover over a pipe that says P07 on it.  Punch it open when your power 
+level is at least seven to gain access to the secret level.  Another 
+sliding level.  When you're ready, go on down.  Grab some pumpkins and 
+extra lives and dodge the TNT boxes.  At the bottom, release the two 
+hostages and climb up the chain in the middle of the platform to exit 
+the level.
+
+----------
+Green Park
+----------
+*2 Hostages*
+When you have access to the Root Canal mission, make your way through 
+the level to the bottom of the slide.  At the bottom, you should arrive 
+on a big circle with P08 written on it.  Jump on it when your power 
+level is at least eight to gain access to the secret level.  Get ready 
+for another long slide.  No roots wanting to attack you here, but try to 
+dodge the TNT boxes.  About 1/3 of the way down, if you look ahead, 
+you'll see a platform lower than the rest of the slide.  Jump before you 
+come to the edge and glide down to it to find a crank.  Hit it and 
+release the first hostage.  About the same distance from that first 
+crank is another platform with another crank.  Do the same thing to land 
+on the platform and hit the crank to release the second hostage.  Then 
+ride the slide all the way down to the bottom and jump onto the shooting 
+water to exit the level.
+
+----------
+Sewer Port
+----------
+*2 Hostages*
+In Area 2 of the Sewer Port level, ride the row boat (close to the ship) 
+down, turn the camera around, and you should see P09 written on the 
+wall.  Punch it open when your power level is at least nine to gain 
+access to this secret level.  Hey, another sliding level.  Nothing 
+special here.  Just ride it down while dodging TNT boxes and getting 
+extra lives and pumpkins.  At the end glide down to the platform and 
+release the two hostages.  Climb the chain to exit the level.
+
+======
+Cheats
+======
+------------------
+From codes.ign.com
+------------------
+*99 Lives*
+At any time while you're playing press triangle, x, triangle, square, 
+square, and circle and you'll have 99 lives.
+-Submitted by Andrew Kim.-
+
+=======
+Credits
+=======
+Behavior Interactive, for developing the game.
+ReadySoft, for designing the game.
+GameFAQs, for posting this Walkthru.
+Video Game Strategies, for also posting this Walkthru.
+
+=========================
+Copyright and Other Stuff
+=========================
+Jersey Devil Walkthru © 2000 by charjer0
+Jersey Devil © 1998 by Behavior Interactive
+Disclaimer: This FAQ/Walkthru shall not be reproduced without the 
+expressed written consent of the creator.
+

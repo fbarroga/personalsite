@@ -1,0 +1,2691 @@
+Title: Final Fantasy XI Nation Mission Guide/FAQ
+Author: charjer0
+E-mail: charjer@gmail.com
+Date:
+Version: 1.0
+
+----------
+|Contents|
+----------
+A Brief Explanation of My FAQ
+Switching Nations
+How to Start a Mission
+Skippable Missions
+Missions Past Rank 5
+Why would I want to complete missions?
+A Note on Positions
+Terms
+Bastok Missions
+San d'Oria Missions
+Windurst Missions
+Credits
+Copyright & Other Stuff
+
+-----------------------------
+A Brief Explanation of My FAQ
+-----------------------------
+
+This FAQ/Guide is for the nation's rank missions.  More specifically, the
+missions of the town of Bastok, San d'Oria, and Windurst in Final Fantasy XI.
+Missions 3-3, 4-1, 5-1, and 5-2 are the same for each country and can be
+completed by people of any of these three nations together.  They will still,
+however, be given their own spots in each nation's list of missions.
+
+You must also be a citizen of the nation to do the nation missions.
+
+This guide will not go into quests as this just pertains to missions.  Also,
+some directions will be omitted as you should know where places are located
+if you're leveling up.
+
+-----------------
+Switching Nations
+-----------------
+
+It is possible to switch nations.  However, in order to do so, you must first
+be on no missions for your current nation.  Then you must travel to the nation
+you wish to switch to and pay a certain amount of gil.  The gil varies with the
+nation's standing in conquest.  If the nation is in last place, you must pay
+four thousand gil.  If the nation is in second place, the cost is twelve
+thousand gil.  If the nation is first in conquest, you must pay forty thousand
+gil.  You also lose any outpost warps that you've done for your current nation
+when you switch.  Any conquest points earned will be saved along with the rank
+of your former nation should you want to switch back eventually.
+
+----------------------
+How to Start a Mission
+----------------------
+
+To start a mission, talk to one of the many mission NPCs found by the gates.
+They are found close to the NPCs that cast signet on you.  Once you get past
+rank one, you'll need to first raise your rank point bar by either trading
+crystals to the signet guards or by doing repeatable missions.
+
+------------------
+Skippable Missions
+------------------
+
+Some missions are skippable.  You can skip them by either doing repeatable
+missions over and over again until you have enough rank points to do the last
+mission for that particular rank or you can trade crystals to the signet guards
+to fill up your rank point bar.
+
+--------------------
+Missions Past Rank 5
+--------------------
+
+Here's a little note about the rank missions past rank five.  The original
+release of Final Fantasy XI was just Final Fantasy XI and the missions ended at
+the Shadow Lord fight.  With the release of the Rise of the Zilart expansion,
+more rank missions were added that included the expansion areas.  To do these
+missions, you would need to have the Rise of the Zilart expansion installed and
+registered.
+
+--------------------------------------
+Why would I want to complete missions?
+--------------------------------------
+
+Every time you gain a rank, you get rewarded with gil.  Everyone likes money and
+that's one of the most difficult things to get in this game.  When you get to
+rank ten, you also get your nation's flag.  When you place it in your mog house,
+it gives you the added effect of conquest points +10%.  You get a little more
+conquest points every time you kill things with signet cast on you and you can
+use your conquest points to buy certain items that you wouldn't normally be able
+to purchase otherwise such as a signet staff or the nation's aketon or the more
+recent experience rings (empress and chariot bands).
+
+-------------------
+A Note on Positions
+-------------------
+
+In my Guide/FAQ, I'll use positions, such as G-10 or F-8.  This refers to the
+grid coordinates on your map.  The map command /map can be used to bring up your
+map.  If you do not have a map of the area, you'll see "NO MAP" instead.
+However, your current location will still appear in the upper left of the map in
+parentheses.
+
+-----
+Terms
+-----
+
+Here's a brief explanation of game terms I'll be using in this guide.
+
+Aggro:  A monster that will attack you while you either stand, sit, or heal in
+        front of it.
+
+Invisible:  A level 25 spell that makes you invisible.
+
+NPC:  It stands for non-playable character.  You'll find many of these around
+      towns and certain outdoor/dungeon areas.  Their names are in green.
+
+Sneak:  A level 20 spell that removes sound that you make while moving.
+
+Zone:  Each area is called a zone.  When you change from area to another, it's
+       called zoning.
+
+---------------
+Bastok Missions
+---------------
+
+Mission #:                  1-1
+Mission Name:               The Zeruhn Report
+Minimum Level Recommended:  5
+Requirements:               None
+
+Mission Orders: Collect Overseer Makarim's report from the Zeruhn Mines, in the
+                western section of the Bastok Mines District.  Deliver said
+                report to Sir Naji, a musketeer stationed near the President's
+                Office.
+
+What To Do:  You'll need to enter Zeruhn Mines.  You can find the zone in Bastok
+             Mines at D-7.  Head to H-11 where you'll find the NPC Makarim.
+             Talk to her and she'll give you her report.  Now, head back out to
+             Bastok Mines.  In case you got lost, the zone is at I-7.  Head over
+             to the Metalworks, which can be accessed from Bastok Markets at
+             H-6/7.  Go up one of the two elevators and head west to the upper
+             level.  Go to the farthest building and you'll find Naji.  Talk to
+             him to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  1-2
+Mission Name:               A Geological Survey
+Minimum Level Recommended:  15
+Requirements:               Complete mission 1-1
+
+Mission Orders:  Assist Chief Engineer Cid in conducting an analysis of the
+                 gaseous emissions in the Dangruf Wadi.  Meet with Cid for a
+                 more detailed explanation.
+
+What To Do:  Head over to the Metalworks and ride up one of the elevators.  In
+             G-8 are the doors to Cid's Lab.  Talk to Cid inside for a cutscene.
+             He'll give you a tester (key item).  What you'll need to do is head
+             over to Dangruf Wadi and walk around until the tester changes
+             color.  So you'll need to constantly check your key items.  Head
+             out to South Gustaberg and go to D-9 to zone into Dangruf Wadi.
+             Make your way to H-9.  You'll find a geyser there.  Ride up it and
+             go forward a ways.  Your tester should have changed.  At this
+             point, head back to Cid to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  1-3
+Mission Name:               Fetichism
+Minimum Level Recommended:  20
+Requirements:               Complete mission 1-2
+
+Mission Orders:  Hunt the Quadav in the Palborough Mines and collect the four
+                 parts of a Quadav fetich.
+
+What To Do:  For this mission, you'll need to go to the Palborough Mines.  The
+             zone can be found at K-3 in North Gustaberg.  Exit through Port
+             Bastok.  You'll need to head to the upper floors and kill greater,
+             veteran, and onyx quadavs.  They drop the fetich pieces you need
+             which are the head, arms, legs, and torso.  Also, if you have the
+             gil, you can purchase the pieces from the auction house or from a
+             bazaar.  Once you have all four pieces, head to Malduc.  He's next
+             to Naji, if you remember where he was.  Trade Malduc the pieces to
+             complete the mission.
+
+Reward:      Initial completion: Rank 2, 1,000 gil, rank points
+             Second completion and afterward: Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+Mission #:                  2-1
+Mission Name:               The Crystal Line
+Minimum Level Recommended:  15
+Requirements:               One quarter filled rank point bar
+
+Mission Orders:  Find a section of the strange structure on the Konschtat
+                 Highlands that drains the energy from crystals.  Bring a faded
+                 crystal back to Chief Engineer Cid for analysis.
+
+What To Do:  You'll need a crystal.  Next, you'll need to head to the nearest
+             crag.  In this case, it'll be the Crag of Dem found in Konschtat
+             Highlands.  Head to E-6 in South Gustaberg and zone into North
+             Gustaberg.  Then head to E-6 to zone into Konschtat Highlands.
+             Make your way to I-7 where you'll find the telepoint.  I recommend
+             that you examine it as it will give you a key item that will allow
+             you to be teleported to the telepoint.  Trade your crystal to the
+             telepoint to receive a faded crystal.  Now, head back to the
+             Metalworks and trade this to Cid to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  2-2
+Mission Name:               Wading Beasts
+Minimum Level Recommended:  20
+Requirements:               Complete mission 2-1
+
+Mission Orders:  Procure a lizard egg from monsters in the Dangruf Wadi.
+                 Deliver the egg to Senator Alois in the President's Office.
+
+What To Do:  You'll need to head over to Dangruf Wadi and kill steam lizards.
+             They drop the lizard eggs you need for this mission.  They can be
+             found in the northern parts of the Dangruf Wadi zone.  Once you
+             have one, head to Senator Alois.  He can be found in the
+             President's Building.  Trade him the lizard egg to complete the
+             mission.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   Yes
+
+
+Mission #:                  2-3
+Mission Name:               The Emissary
+Minimum Level Recommended:  20
+Requirements:               Complete mission 2-1, have a full rank point bar
+
+Mission Orders:  Gather information on San d'Oria and Windurst.  The Bastokan
+                 consulates in those two countries will provide you with a
+                 detailed briefing.
+
+What To Do:  This mission takes you to the two other nations in the world of
+             Vana'diel:  San d'Oria and Windurst.  It's up to you which nation
+             you visit first.  I'll post a walkthrough for both.
+
+             San d'Oria:  Head over to San d'Oria.  From Bastok, zone out to
+                          South Gustaberg and head to E-6 to zone into North
+                          Gustaberg.  Then head to E-6 to zone into Konschtat
+                          Highlands.  Make your way to G-3 to zone to Valkurm
+                          Dunes.  Make your way to K/L-5, which takes you to the
+                          La Theine Plateau.  Take this opportunity to visit the
+                          Crag of Holla.  At D-4, you'll find the zone to West
+                          Ronfaure.  You can zone into Southern San d'Oria at
+                          I-6 or Northern San d'Oria at I-5.  The Bastokan
+                          consulate can be found at J-9.  Head in and talk to
+                          the people in the back room.  Exit the consulate and
+                          head towards the castle to enter Chateau d'Oraguille.
+                          Talk to Halver right inside.  Now you'll have to head
+                          to Ghelsba Outpost.  Make your way to the topmost part
+                          of Ghelsba Outpost, which would be H-7/8.  Find and
+                          kill Warchief Vatgit then head back to the Bastokan
+                          consulate to complete this leg of the mission.
+
+                          Next, you'll need to head to Windurst.  From San
+                          d'Oria, head back to Valkurm Dunes and head to the
+                          Selbina zone at G-9.  Board the ferry there.  Exit the
+                          port once you reach Mhaura and head to H-6 to zone out
+                          to Buburimu Peninsula.  You'll need to make your way
+                          to D-7, which will take you to Tahrongi Canyon.  You
+                          might want to take this opportunity to head to the
+                          Crag of Mea.  Head to H-13 to zone to East
+                          Sarutabaruta.  Go to G-11, which is the zone into
+                          Windurst Woods.  The Bastokan consulate is located at
+                          E-5 in Port Windurst.  Talk to the people in the back
+                          room to find out what to do.  You'll need to gather
+                          some people together to help you kill a dragon and an
+                          ahriman.  When you've got your people, zone out to
+                          West Sarutabaruta and zone into Giddeus at F-8.  Make
+                          your way to G-12 to zone into Balga's Dais.
+
+                          Make sure that you have level 25 or lower gear before
+                          going in as this fight will be capped at level 25.
+                          Once everyone's ready, examine the burning circle and
+                          select the final rank two mission.  You'll view a
+                          cutscene.  It's recommended to sleep the dragon and
+                          kill the ahriman first.  Once the ahriman's dead, kill
+                          the dragon.  When the dragon's dead, you'll view
+                          another cutscene and exit the arena.  Head back to the
+                          consulate to complete this leg of the mission.
+
+             Windurst:  Exit from Bastok to South Gustaberg and head to E-6 to
+                        zone into North Gustaberg.  Then head to E-6 in North
+                        Gustaberg to zone into Konschtat Highlands.  Make your
+                        way to G-3, zoning into Valkurm Dunes.  Head to G-9 to
+                        enter Selbina and board the ferry.  When it docks in
+                        Mhaura, exit out and go to H-6 to zone to Buburimu
+                        Peninsula.  You'll want to head to D-7 to reach Tahrongi
+                        Canyon.  You may want to take this opportunity to head
+                        to the Crag of Mea.  Make your way down to H-13 to zone
+                        to East Sarutabaruta.  You can enter Windurst Woods at
+                        G-11.  You'll find the Bastokan consulate in Port
+                        Windurst at E-5.  Talk to the people in the back room.
+                        Exit the consulate and head south to the stairs on the
+                        side of the building to find a little Tarutaru NPC
+                        there.  He'll warp you to Windurst Walls, which is your
+                        next destination.  You'll end up at J-11 in Windurst
+                        Walls.  Make your way to H-6 and step into the blue
+                        light to zone into Heavens Tower.  You'll view a
+                        cutscene upon entry.  Head to the double doors across
+                        the way and inside, speak to Kupipi.  Then go back to
+                        the Bastokan consul.  Your next destination is Giddeus.
+
+                        Exit to West Sarutabaruta and make your way to F-8 to
+                        zone into Giddeus.  Head to G-8 where you'll find a
+                        hole.  Fall down.  On the bottom map, head to F-7 where
+                        you'll find a Yagudo NPC.  You'll be told to give him an
+                        aspir knife.  Your next task is to find Eyy Mon the
+                        Ironbreaker and kill him for the aspir knife.  Trade it
+                        to the Yagudo NPC.  Then head back to the Bastokan
+                        consulate to complete this leg of the mission.
+
+                        Head back to Mhaura and ride the ferry back to Selbina.
+                        Zone out to Valkurm Dunes and head to K/L-5 to zone into
+                        La Theine Plateau.  Make your way to D-4 to zone into
+                        West Ronfaure.  You can enter Northern San d'Oria at I-5
+                        and Southern San d'Oria at I-6.  The Bastokan consulate
+                        is located in Northern San d'Oria at J-9.  Talk to the
+                        people in the back room.  Now you'll have to gather
+                        people together to help you kill a dragon and an
+                        ahriman.  Once you have your people, zone back out to
+                        West Ronfaure and head to E-4 to zone into Ghelsba
+                        Outpost.  Head to the topmost part of Ghelsba Outpost
+                        and in H-8, go through the tent.  It'll take you through
+                        a tunnel that will zone you to Fort Ghelsba.  Head to
+                        G-7 where you'll find an elevator.  Ride it up.  Then
+                        head to J-8 to zone into Yughott Grotto.  Make your way
+                        to J-6 to zone into Horlais Peak.
+
+                        Make sure everyone has level 25 or lower equipment as
+                        the fight you will be entering will be capped at level
+                        25.  Examine the burning circle once everyone's ready
+                        and select the final rank two mission.  You'll view a
+                        cutscene.  It's recommended that you sleep the dragon
+                        and kill the ahriman first.  Once the ahriman is dead,
+                        kill the dragon.  When you win, you'll view a cutscene
+                        and be exited from the arena.  Head back to the
+                        consulate to complete this leg of the mission.
+
+           When you've completed your tasks at the other two nations, return to
+           Bastok and head to Naji in the Metalworks to complete the mission.
+
+Reward:      Rank 3, 3,000 gil, Adventurer's Certificate (key item), rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  3-1
+Mission Name:               The Four Musketeers
+Minimum Level Recommended:  30
+Requirements:               One quarter filled rank point bar
+
+Mission Orders:  You are to join a surprise attack on the Quadav stronghold in
+                 Beadeaux.  See Iron Eater in the President's Office for
+                 details.
+
+What To Do:  Iron Eater can be found in the Metalworks, past Naji.  Talk to him
+             for a cutscene.  Your next destination is Beadeaux.  From Konschtat
+             Highlands, head to K-4 to zone into Pashhow Marshlands.  You'll
+             find the zone to Beadeaux at K-11.  You may want to be careful if
+             you still get aggro in this area.  Your task is to eliminate twenty
+             copper quadavs.  If at any time you have to zone, your count will
+             continue from where you left off.  Also, the more people you have
+             with you on this mission, the easier it will be.  The counter will
+             be twenty copper quadavs for everyone, not each person.  Once
+             you've reached your twenty kills, zone back out to Pashhow
+             Marshlands.  Then head back to Bastok to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  3-2
+Mission Name:               To the Forsaken Mines
+Minimum Level Recommended:  40
+Requirements:               Complete mission 3-1
+
+Mission Orders:  Bring back a rare ore from the Gusgen Mines on the Konschtat
+                 Highlands.  First ask Davyad, an adventurer residing in the
+                 Mines district, how he acquired a load of the ore.
+
+What To Do:  Head over to the mines district and find Davyad in one of the homes
+             near the Alchemy guild.  Your next task is to get some hare meat.
+             The auction house or bazaars would be your best bet, or you can try
+             killing the rodents in Palborough Mines or Dangruf Wadi.  Once you
+             have your hare meat, head to Konschtat Highlands to make your way
+             to L-7 to zone into the Gusgen Mines.  You may want to have some
+             high level help here as everything aggroes to sound here and the
+             undead also aggro to low HP regardless of whether you have sneak
+             on or not.  Head to J-7 where you'll find a pond and a ??? point.
+             Trade your hare meat with the ??? point to spawn an NM pugil named
+             Blind Moby.  Kill it and it will drop a chunk of glocolite.  Take
+             this back to Bastok and trade it to a mission NPC to complete this
+             mission.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   Yes
+
+
+Mission #:                  3-3
+Mission Name:               Jeuno
+Minimum Level Recommended:  45
+Requirements:               Complete mission 3-1, have a full rank point bar
+
+Mission Orders:  You are to be sent to work for the Embassy of Bastok in Jeuno.
+                 First obtain a letter of recommendation from the Presidential
+                 Aide, Sir Lucius.
+
+What To Do:  South of the President's Office is the Presidential Aide's Office.
+             Head inside that building and speak to Lucius.  He'll give you a
+             letter to give to the people at the Bastokan Embassy in Jeuno.
+             Now, you'll have to make your way over to Jeuno.  Head to K-4 in
+             Konschtat Highlands to zone into Pashhow Marshlands.  Make your way
+             to L-4 to enter Rolanberry Fields.  The zone to Lower Jeuno can be
+             found in K-4.  Head up to Ru'Lude Gardens and speak to the people
+             in the Bastokan Embassy.  Your next destination is Delkfutt's Tower
+             on Qufim Island.
+
+             You'll need sneak and invisible for the entire climb up if you're
+             lower than level 50.  If you have someone helping you who's done
+             the mission before, have them lead you up, otherwise, here's some
+             directions.  There are monsters in the tower that will aggro to
+             magic.
+
+             Zone out to Qufim Island from Port Jeuno.  You'll find the entrance
+             to Lower Delkfutt's Tower at F-6.  This the first floor.  Head to
+             F-6, going counterclockwise from the entrance to reach some stairs
+             to the second floor.  Then head to J-9 to get to the stairs to the
+             third floor.  In G-6, you'll find a teleporter.  Use it.
+
+             You're now in Middle Delkfutt's Tower.  Head to the stairs in I-7
+             to the fifth floor.  Some paths are blocked, so you'll have to take
+             a roundabout path.  On the fifth floor, head to H-9 to the sixth
+             floor, then head to the teleporter in F-10.  You're now on the
+             seventh floor.  Go straight north to the stairs and go up to the
+             eighth floor.  Head east and go up the stairs to the ninth floor.
+             Make your way south and go down the stairs back down to the eighth
+             floor.  Go west, watch out for the hole, and go up the stairs to go
+             back up to the ninth floor.  Then head to the teleporter in F-6.
+
+             You've reached the tenth floor and Upper Delkfutt's Tower.  Go to
+             H-7 where you'll find a cermet door.  Go through.  You're looking
+             for a different colored gigas named Porphyrion.  He drops six
+             Delkfutt keys every time he's killed and repops every fifteen
+             minutes.  Keep this in mind if you're doing this in an alliance.
+             Once you have your key, trade it to the elevator in H-8 and take
+             the stairs all the way down.
+
+             Head through the door.  You're now back on the first floor of the
+             tower on the basement level.  Head to L-9 and trade the key to the
+             cermet door there for a cutscene.  You can find the exit to the
+             first floor in F-8.  Head back to the Bastokan Embassy to complete
+             the mission.
+
+Reward:      Rank 4, 5,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  4-1
+Mission Name:               Magicite
+Minimum Level Recommended:  50
+Requirements:               Have a full rank point bar
+
+Mission Orders:  Capture the three magicites in Davoi, Beadeaux, and Castle
+                 Oztroja to prevent the Shadow Lord's return.
+
+What To Do:  This mission begins at the Bastokan Embassy in Ru'Lude Gardens.
+             Talk to the people in there to receive an Archducal Audience Permit
+             (key item).  Head over to the Palace and examine the doors for a
+             cutscene.  At this point, you'll need to finish a few quests and
+             cutscenes to progress any further in the mission.
+
+             First, head to Upper Jeuno.  Find Baudin in G-7 and talk to him.
+             He'll ask for some coeurl meat.  You can go out and kill coeurls,
+             or, if you have the money, you can purchase one from the auction
+             house.  Trade it to Baudin and he'll give you a Crest of Davoi (key
+             item).
+
+             Next, head to I-8 in Upper Jeuno and talk to Paya-Sabya for a
+             cutscene.  Then head down to Lower Jeuno.  Enter Muckvix's Junk
+             Shop in H-9.  Head to the back room and talk to Muckvix for a
+             cutscene.  When it's finished, he'll give you a Yagudo torch (key
+             item).
+
+             You'll now have to enter the Tenshodo Headquarters, which requires
+             you to be a Tenshodo member.  If you aren't one yet, you better go
+             get an invite.  I'm not going to tell you how to become one because
+             that's a quest and this guide will only pertain to quests that
+             coincide with missions.  Head to the very back into Aldo's Room and
+             talk to Aldo for a cutscene.  When it's done, he'll give you a
+             silver bell (key item).  You should also have a coruscant rosary
+             (key item) and a black matinee necklace (key item) from doing the
+             two quests Mysteries of Beadeaux I & II.
+
+             Now that you're all set, it's time to head out.
+
+             Davoi:  Head to H-7 where you'll find a wall of dark arts.  Examine
+                     it to go through to Monastic Cavern.  Head all the way in
+                     and examine the magicite for a cutscene.
+
+             Beadeaux:  Head to H-7 to go down to the lower map.  At the
+                        intersection you come to, head east to zone into Qulun
+                        Dome.  Head in and examine the door to open it.  You
+                        have to be really close to it.  Head all the way in and
+                        examine the magicite for a cutscene.
+
+             Castle Oztroja:  Head to I-8 where you'll find the trap door and
+                              levers.  One of them will open the door and the
+                              other will open the trap door.  They change every
+                              Vana'diel day.  Head through and at J-8, the map
+                              changes.  From here, head to G-7 to another map.
+                              Head north to I-7 to yet another map.  Finally,
+                              make your way to H-9 where you'll find two torches
+                              and two Yagudo.  If you're by yourself, make sure
+                              they face away before attempting to examine the
+                              torch.  You have to be facing a certain way and be
+                              extremely close to them to light it.  Once you're
+                              through, head west to the brass door.  Go through
+                              and zone into the Altar Room.  You'll view a
+                              cutscene upon entry if this is your last magicite
+                              to visit.  Once it's done, head all the way in and
+                              examine the magicite for a cutscene.
+
+             Go back to Ru'Lude Gardens and examine the doors to the audience
+             chamber for a cutscene.  Then head back to the Bastokan Embassy and
+             talk to everyone in there.
+
+Reward:      Rank 5, 10,000 gil, rank points, Airship Pass (key item)
+             If you already have the Airship Pass, you'll receive 20,000 gil
+             instead.
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  5-1
+Mission Name:               Darkness Rising
+Minimum Level Recommended:  50
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  You are to head north to a place called Fei'Yin on the
+                 Beaucedine Glacier.  Naji will show you in.
+
+What To Do:  Head to the President's Office and speak to Karst for a cutscene.
+             You'll be entering a fight with a level 50 cap, so make sure you
+             have the appropriate equipment.  Once you have your party together,
+             head over to Beaucedine Glacier.  If you don't have the Vahzl
+             telepoint crystal, you'll have to walk.  Head over to East Ronfaure
+             and zone into Ranguemont Pass at K-4.  At F-10, talk to the NPC
+             behind the contraption and he'll open the door for you.  Once
+             through, head to L-4 to zone out to Beaucedine Glacier.  If you are
+             lower than level 55, you'll will get aggro here.  You'll need to
+             head to Fei'Yin and the path is a long and roundabout one.  The
+             zone is at J-4.
+
+             Fei'Yin has numerous undead and things that aggro to magic.  You'll
+             want to make your way to K-8 where you'll find a cermet gate.  Go
+             through that to zone into Qu'Bia Arena.  Examine the burning circle
+             there and enter the fight once everyone's ready.  You'll be up
+             against a whole bunch of skeletons.  If you have a bard with you,
+             they'll make the fight easier as undead have a higher resistance to
+             sleep than lullaby.  Your target will be the larger skeleton as
+             once he's dead, the fight will be over.
+
+             When you're done there, head back to Bastok to finish the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  5-2
+Mission Name:               Xarcabard, Land of Truths
+Minimum Level Recommended:  65
+Requirements:               Complete mission 5-1, have a full rank point bar
+
+Mission Orders:  You must go to Castle Zvahl in Xarcabard.  The President
+                 himself will brief you in his office.
+
+What To Do:  If you're lower than level 72, you'll need to bring some silent oil
+             and prism powder to make this mission move faster as you will be
+             walking through Xarcabard, Castle Zvahl Baileys, and Castle Zvahl
+             Keep.  You'll be encountering demons and each type of beastmen in
+             the castle.  Once you have your party together, head over to
+             Xarcabard.  If you don't have the Vahzl telepoint crystal, you'll
+             have to walk.  Head to F-6 in Beaucedine Glacier to zone into
+             Xarcabard.  Take this opportunity to get the Vahzl telepoint.  It's
+             located in H-8.  Head west to E-7/8 to zone into Castle Zvahl
+             Baileys.
+
+             At G-8 you'll come to an intersection.  Head south, go down the
+             stairs and head to F-8 to the next map.  Go south again and go up
+             the stairs at either H-9 or I-9.  Head west and go down the stairs
+             in G-9.  Follow the path until you come to an intersection at H-9.
+             Head north, then west.  Head north at the next intersection you
+             come to.  Then east at the next intersection and go up the stairs.
+             Then head west and up the long flight of stairs to zone into
+             Castle Zvahl Keep.
+
+             Head in and go north to H-7 to the gate.  If someone is level 72 or
+             higher, have that person be the designated door opener.  Head north
+             to the next gate.  Right past that gate, to the immediate west is
+             an ore door.  Head through that and straight west through the next
+             one.  Turn north and head through the next one.  Go west, then
+             north to the long flight of stairs up.  Then make your way to F-8
+             to the next map.  Head straight to the machine you see.  It's a
+             teleporter.  Take them until you've ridden all four.  The last will
+             send you to I-7 on the next map.  Go to G-7 to find an ore door.
+             Go through to zone into the Throne Room.
+
+             You'll be entering an uncapped fight against the Shadow Lord.  This
+             fight has two parts to it.  For the first part, the Shadow Lord has
+             two forms.  In one form, he's immune to magic.  In the other form,
+             he's immune to physical attacks.  Once you beat his first form,
+             you'll be given about thirty seconds before he starts attacking
+             again.  In the second part, he'll do nothing but an AoE attack
+             called Implosion.  Once you've beaten him, you'll view a long
+             cutscene.  Head back to Bastok to finish the mission.
+
+Reward:      Rank 6, 20,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  6-1
+Mission Name:               Return of the Talekeeper
+Minimum Level Recommended:  65
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  A new Talekeeper is rumored to have appeared among the Galka.
+                 Speak to Medicine Eagle, the Mines District guard on post near
+                 the entrance to Ore Street, for further details.
+
+What To Do:  You can find Medicine Eagle in Bastok Mines at G-5.  Talk to him
+             for a cutscene.  Next, zone into Zeruhn Mines and talk to Drake
+             Fang at H-6 for another cutscene.  You'll now have to head to
+             Western Altepa Desert.  If you don't have the Altepa telepoint
+             crystal, you'll have to walk.  Head to H-7 and talk to Lasthenes in
+             order to go through the gate.  Follow the path to zone into
+             Korroloka Tunnel.  If you're above level 50, you can just run
+             straight through to the other end and out to Eastern Altepa Desert.
+             Take this opportunity to get the Altepa telepoint crystal in G-6.
+             Then head to I-6 to zone to Western Altepa Desert.  If you're lower
+             than level 70, head north to Rabao and rent a chocobo.
+
+             Bring your party/alliance to G-8 in Western Altepa Desert where
+             you'll find a ??? point.  Go ahead and clear the area to gain TP
+             and when everyone's ready, examine the ??? to pop two NM manticores
+             named Eastern Sphinx and Western Sphinx.  Sleep one if you need to.
+             They have regular manticore moves such as riddle (max mp down),
+             deadly hold, and a couple of others, one that adds choke.  When
+             they're both dead, examine the ??? to get an Altepa moonpebble (key
+             item).  Head back to Bastok Mines and talk to Tall Mountain in J-7
+             for a cutscene.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  6-2
+Mission Name:               The Pirates' Cove
+Minimum Level Recommended:  65
+Requirements:               Complete mission 6-1, have a full rank point bar
+
+Mission Orders:  You are being sent to Norg as an emissary of Bastok.  Meet Sir
+                 Naji in front of the President's Office for a full briefing.
+
+What To Do:  Talk to Naji for a cutscene.  Next, you'll need to head to Norg.
+             Make your way to Jeuno and board the airship to Kazham.  If you
+             don't have a Kazham airship pass yet, I suggest you get one.  Once
+             in Kazham, rent a chocobo (it's faster, trust me) and make your
+             way down to G-11.  Fall down one of the holes closer to the west of
+             that small area and go behind the waterfall in F-11.  Follow that
+             tunnel and at the end, dismount from your chocobo and zone into Sea
+             Serpent Grotto.  If you're lower than level 50, you'll need sneak
+             the entire way.  Follow the right wall to H-6 where you'll appear
+             to be at a dead end.  Target the wall and you'll target a blank
+             spot.  Examine it to open a hidden door and go through.  Follow the
+             right wall again to zone into Norg.  If you pass by some pillars
+             with torches on them, you're going the right way.  Head up the
+             stairs and enter the door all the way at the end and speak to
+             Gilgamesh.
+
+             Now, you'll need to get some adaman ore.  You'll need one for every
+             six people.  So, if you're going with a full alliance with everyone
+             currently on this mission, you'll need three adaman ore.  You'll
+             also need sneak and invisible in the next area you'll be going to.
+             Things also aggro magic in there.
+
+             If you don't have the Yhoat telepoint crystal, I recommend getting
+             it now.  If you're still in Norg, rent a chocobo and make your way
+             back towards Kazham.  Aim for G-6.  Head east to H-6 where you'll
+             find a hole.  Drop down and head to I-8 to zone to Yhoator Jungle.
+             The Yhoat telepoint crystal can be found in F-9.  When you're done
+             with that, head to the east entrance to Ifrit's Cauldron in I-6.
+
+             Get sneak and invisible up and head in.  At J-8, you'll come to an
+             intersection.  Head south and follow the right wall all the way to
+             H-7 where you'll find a ??? point.  When everyone's ready, trade an
+             adaman ore to spawn two NMs:  a bomb and a lizard.  Magma and
+             Salamandar respectively.  Your target is Magma as it drops six frag
+             rocks, which is the item you need.  Salamandar is just a
+             distraction.  If you're doing this with a full alliance with
+             everyone currently on the mission, you'll have to do multiple
+             trades.  There's a five minute wait after the last monster was
+             killed.
+
+             Take the frag rock you got and head back to Norg and trade it to
+             Gilgamesh.  Then head back to Naji in the Metalworks to complete
+             the mission.
+
+Reward:      Rank 7, 40,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  7-1
+Mission Name:               The Final Image
+Minimum Level Recommended:  70
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  You are to investigate the Zilart ruins of Ro'Maeve.  Chief
+                 Engineer Cid has more details.
+
+What To Do:  Talk to Cid and make sure he asks you to retrieve some cermet for
+             him from Ro'Maeve.  To prepare, you'll need silent oils because
+             all the weapons in Ro'Maeve aggro to sound and everything aggroes
+             to magic.
+
+             When you've got your party/alliance together, make your way over to
+             Ro'Maeve.  The fastest way would be from Jeuno.  Rent a chocobo
+             from Port Jeuno and head to K-11 in Sauromugue Champaign to zone to
+             Meriphataud Mountains.  The Sanctuary of Zi'Tah zone is at L-4.
+             From there, head to F-5 to zone into Ro'Maeve.  You'll need to find
+             a ??? point.  There's one in M-8, but this is for something else.
+             So, go around the zone until you find a different ??? point.  When
+             everyone's ready, examine it to pop two NM golems.  When they're
+             both dead, examine the ??? again to obtain the key item.
+
+             Head back to Cid to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  7-2
+Mission Name:               On My Way
+Minimum Level Recommended:  70
+Requirements:               Complete mission 7-1, have a full rank point bar
+
+Mission Orders:  A search has begun for information regarding the whereabouts of
+                 the missing Galkan elder, Werei.  The president will brief you
+                 on the details of this mission.
+
+What To Do:  Speak to Karst in the President's building.  Then head over to Port
+             Bastok.  You're looking for Hilda in the Steaming Sheep Restaurant.
+             Your next destination is Palborough Mines.  Get your party together
+             because you'll be entering an uncapped fight against four quadavs.
+             Make sure you have a sleeper in your party.  Head to I-8 in
+             Palborough Mines where you can ride the elevator to the top floor.
+             Make your way to H-10 to zone into Waughroon Shrine.
+
+             When you're ready, examine the burning circle to enter the fight.
+             Have your sleeper go in and sleep everything.  Sleepga II or horde
+             lullaby is recommended.  Kill them in this order:  Soulsaver,
+             Knightslayer, Slaughterer, Graniteskin.  Once they're dead, you'll
+             view a cutscene and be put out of the arena, close to the where the
+             elevator is.
+
+             Head back to Karst for a cutscene.  He'll give you a letter.  Head
+             over to Bastok Mines and talk to Gumbah inside a house in J-7 for
+             another cutscene.
+
+Reward:      Rank 8, 60,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  8-1
+Mission Name:               The Chains that Bind Us
+Minimum Level Recommended:  70
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  The president has ordered a full-scale investigation of Zepwell
+                 Island.  You are to travel to the Quicksand Caves located in
+                 the central Altepa Desert.  Report to Iron Eater for a
+                 briefing.
+
+What To Do:  Talk to Karst in the President's building, then talk to Iron Eater
+             right outside the door.  To prepare, you'll need some echo drops
+             and silent oil if you can't cast sneak.  Gather together your party
+             or alliance and head to the G-5 entrance to Quicksand Caves in
+             Western Altepa Desert.  Sneak up and head to the pressure plate in
+             H-8.  To activate it, have one galka, two humes/elvaans/mithras, or
+             three tarutarus stand on it to open the door.  Go through and head
+             south to H-10 where you'll find another pressure plate.  Stand on
+             it again to open the door.  You'll find another door in G-11 that
+             leads to a small room where you'll find the ??? point needed for
+             this mission.
+
+             You might want to clear the small hallway of the sand tarantulas
+             first.  Upon examination of the ??? point, three NM anticans will
+             spawn.  They can be sneak popped and if you have a summoner in your
+             party/alliance, you can find them one at a time.  Once they're dead
+             sneak up and go into the room and examine the ??? for a cutscene.
+
+             Now, either escape out or walk out.  You'll have to head to the
+             D-12 entrance to Quicksand Caves in Western Altepa Desert.  It's
+             accessible through a tunnel in C-11.  Head to K-8 and go east to
+             another map.  Make your way over to G-8 where you'll find a
+             pressure plate.  Activate it and go through the door.  You'll find
+             a ??? point inside.  Examine it for a cutscene.  When you're done
+             here, head back to Iron Eater in the Metalworks to complete the
+             mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  8-2
+Mission Name:               Jeuno
+Minimum Level Recommended:  70
+Requirements:               Complete mission 8-1, have a full rank point bar
+
+Mission Orders:  You are to investigate the Kuftal Tunnel which connects
+                 Zepwell Island with Cape Terrigan.  Zeruhn Mines guard Drake
+                 Fang will provide you with further details.
+
+What To Do:  Zone into Zeruhn Mines and speak to Drake Fang for a cutscene.  Get
+             together a party or alliance and head over to H-4 in Western Altepa
+             Desert to zone into Kuftal Tunnel.  Head in and go past the lizards
+             to find a ??? point.  Examine it.  Now, have one person with a
+             ranged attack go down right below the ??? point where you'll find
+             another ??? point.  Examine that to pop three NM ghosts.  You'll
+             only need to kill the one named Gordov's Ghost, but if you kill
+             it fast enough, you can kill all three.  You might want to clear
+             out the robber crabs and haunts at the bottom first to get TP and
+             to make a clean pull.
+
+             If, while you're fighting Gordov's Ghost and the other two despawn,
+             you're still okay as long as Gordov's Ghost is still alive.  When
+             it's dead, sneak up and go down to the bottom ??? and examine it
+             for a cutscene.  Head back and talk to Drake Fang for a very long
+             cutscene.
+
+Reward:      Rank 9, 80,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  9-1
+Mission Name:               The Salt of the Earth
+Minimum Level Recommended:  73
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  You have been assigned to an investigation in the Vollbow
+                 Region.  Speak with Senator Alois for further details.
+
+What To Do:  Talk to Senator Alois for a cutscene, then head over to Rabao.
+             Head to G-6 to find Dancing Wolf.  Speak with him.  Now get
+             together your alliance.  Your next destination will be Gustav
+             Tunnel.  You can reach Gustav Tunnel from Valkurm Dunes.  Head to
+             C-6 to enter a tunnel.  Go through that to the hidden beach.  Go
+             down to B-8 to zone into Gustav Tunnel.
+
+             Go down to G-9 to get to the second map.  At this point you'll need
+             sneak and invisible.  Make your way to G/H-7.  This is where you'll
+             be camping.  The ??? point is at G-6 in the small pond there.  If
+             you can kill things fast enough, you can kill everything north of
+             where you're camping and pop it after everything's dead.  Or you
+             can have a sleeper on the mission sneak up and dodge the monsters
+             that aggro by sight.  Have him/her pop the NM ooze and sleep it,
+             sneak back up, and run back to the alliance.
+
+             Now for the ooze.  At first, you'll be fighting a Gigaplasm.  When
+             it dies, it'll split into two mascroplasms.  When each macroplasm
+             dies, they'll both split into two microplasms.  When each
+             microplasms die, they'll both split into two nanoplasms.  That's a
+             total of fifteen monsters you'll be fighting.  So be sure you have
+             multiple sleepers in your alliance.  Once they're all dead, put
+             sneak and invisible up and head to the ??? point.  Examine it to
+             get the miraclesalt (key item).
+
+             Head back to Rabao and talk to Dancing Wolf again, then go to the
+             Metalworks and talk to Senator Alois to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  9-2
+Mission Name:               Where Two Paths Converge
+Minimum Level Recommended:  73
+Requirements:               Complete mission 9-1, have a full rank point bar
+
+Mission Orders:  An adventurer has been attacked while on an investigation to
+                 Xarcabard--and the attacker is said to be none other than the
+                 Dark Knight, Zeid!  Report to the President's Office for a
+                 briefing on the situation at hand.
+
+What To Do:  Talk to Iron Eater for a cutscene.  Now gather together your party
+             and head to the Throne Room.  You'll be entering an uncapped fight
+             against Zeid.  He's got all the Dark Knight's job abilities and
+             weapon skills as well as an AoE that puts people to sleep in the
+             move's radius.  He can also summon two monsters called Shadow of
+             Rage, but they can be killed easily by any black mage's tier III
+             -ga spell.
+
+             When Zeid gets to 50% health, the fighting stops momentarily and
+             Volker joins the battle.  If Volker dies, you automatically lose,
+             so have a dedicated healer on him.  When the fight's over, you'll
+             view a cutscene.  Head back to Iron Eater in the Metalworks to
+             complete the mission.
+
+Reward:      Rank 10, 10,000 gil, rank points, Bastokan Flag (furniture)
+Repeatable:  No
+Skippable:   No
+
+-------------------
+San d'Oria Missions
+-------------------
+
+Mission #:                  1-1
+Mission Name:               Smash the Orcish Scouts
+Minimum Level Recommended:  5
+Requirements:               None
+
+Mission Orders:  Hunt Orcs lurking outside San d'Oria and bring back one of
+                 their axes.
+
+What To Do:  Head out to East or West Ronfaure and kill Orcish Fodders until one
+             of them drops an Orcish axe.  Trade this to any mission NPC to
+             complete the mission.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+Mission #:                  1-2
+Mission Name:               Bat Hunt
+Minimum Level Recommended:  12
+Requirements:               Complete mission 1-1
+
+Mission Orders:  Exterminate bats from King Ranperre's Tomb, and bring back
+                 proof of your deeds.
+
+What To Do:  You'll need to head to King Ranperre's Tomb for this mission.  Exit
+             out to East Ronfaure and head to H-11, which will zone you into
+             King Ranperre's Tomb.  Make your way to H/I-10 where you'll find a
+             tombstone.  Examine it for a cutscene.  Now you'll need to kill
+             bats until one drops an Orcish scale mail.  Take this back to any
+             mission NPC to complete the mission.
+
+             If you're repeating this mission, the mission NPC will ask you to
+             bring back a bat fang.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+
+
+Mission #:                  1-3
+Mission Name:               Save the Children
+Minimum Level Recommended:  15
+Requirements:               Complete mission 1-2
+
+Mission Orders:  Rescue the children held captive in the Orcish camp in Ghelsba
+                 Outpost.
+
+What To Do:  Head to the cathedral in Northern San d'Oria and speak to Arnau for
+             a cutscene.  Now, zone out to West Ronfaure and zone into Ghelsba
+             Outpost at G-4.  At F-10, there's a hut with a targetable door.
+             This is your destination.  You'll be entering an uncapped fight
+             against three orcs, so if you have friends who can help you, that
+             would be to your advantage.  Once they're dead, you'll view a
+             cutscene.  You'll also receive an Orcish hut key (key item).
+             Examine the hut door for another cutscene.  Return to a mission
+             NPC to complete the mission.
+
+Reward:      Initial completion: Rank 2, 1,000 gil, rank points
+             Second completion and afterward: Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+Mission #:                  2-1
+Mission Name:               The Rescue Drill
+Minimum Level Recommended:  15
+Requirements:               Have a quarter filled rank point bar
+
+Mission Orders:  Participate in the Temple Knights' rescue drill out on La
+                 Theine Plateau.
+
+What To Do:  Zone out to West Ronfaure and head to F-12 to zone out to La Theine
+             Plateau.  At F-6 on the eastern side of the ravine, you'll find an
+             NPC.  Follow the path of NPCs down and talk to each one.  Then zone
+             into Ordelles' Caves.  Head in to the first large room.  Past the
+             water hiding behind a stalagmite is an NPC named Ruillont.  Talk to
+             him then head back out and talk to each NPC until one gives you a
+             bronze sword.  Head back to Ruillont once you get it and trade it
+             to him.
+
+             Then head back out to La Theine Plateau and look for Vicorpasse.
+             Speak to him and he'll give you a rescue training certificate (key
+             item).  Head back to San d'Oria to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  2-2
+Mission Name:               The Davoi Report
+Minimum Level Recommended:  25
+Requirements:               Complete mission 2-1
+
+Mission Orders:  Retrieve the latest scouting report from the Temple Knight
+                 scouts somewhere in Davoi.
+
+What To Do:  You'll need to head over to Davoi.  Head to M-8 in La Theine
+             Plateau to zone into Jugner Forest.  Now make your way to G-12 to
+             zone into Davoi.  Right at the zone, you'll see an NPC hiding
+             behind a tree.  Talk to him and he'll ask you retrieve the last
+             page of the report.  Head down to J-8 on the south part of the lake
+             and you'll find an ! point.  Examine it to receive the last page.
+             Go back to Zantaviat (the NPC hiding behind the tree) and he'll
+             give you the Temple Knights' Davoi report (key item).
+
+             Head back to a mission NPC.  They'll tell you that Prince Pieuje is
+             in the Cathedral.  Head to the cathedral and go up the stairs all
+             the way to the top floor.  Examine the Papal Chambers door there
+             for a cutscene.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+Mission #:                  2-3
+Mission Name:               Journey Abroad
+Minimum Level Recommended:  25
+Requirements:               Complete mission 3-1, have a full rank point bar
+
+Mission Orders:  Visit the faraway nations of Bastok and Windurst and receive
+                 official recognition as an adventurer.
+
+What To Do:  Head to Chateau d'Oraguille and speak to Halver.  Now you'll have
+             to travel to the other two nations.  It doesn't matter which one
+             you go to first.  I'll post a walkthrough for both.
+
+             Bastok:  Head to I-12 in La Theine Plateau to zone to Valkurm Dunes
+                      and make your way to the Konschtat Highlands at M-11.  Be
+                      sure to head to the Crag of Dem while you're here. Go to
+                      I-12 to zone to North Gustaberg and head south to E-12 to
+                      zone to South Gustaberg.  The zone to Bastok Markets is
+                      at J-7.  Make your way to the Metalworks and ride the
+                      elevator up.  Head to the outdoor area and you'll find the
+                      San d'Orian consulate at I-9.  Talk to the people inside.
+                      Then head to the President's building and speak to Pius.
+                      Purchase a few pickaxes and head to Palborough Mines.
+                      Exit through Port Bastok and head to K-3 in North
+                      Gustaberg to zone into Palborough Mines.  At I-8 you'll
+                      find an elevator which will take you to the top floor.
+                      You'll be able to find mythril seams in I-9 and J-9.  When
+                      you have some mine gravel, head to I-6 where you'll find a
+                      refiner.  Trade the mine gravel to the door and pull the
+                      lever.  Then head over to the left side of it and fall
+                      down to the bottom.  Get the mythril sand out and take
+                      this back to Pius.  Talk to the people in your consulate
+                      to complete this leg of the mission.
+
+                      Now head back to Valkurm Dunes and head to G-9 to zone
+                      into Selbina.  Board the ferry and ride it to Mhaura.
+                      Zone out to Buburimu Peninsula and head to D-7 to zone to
+                      Tahrongi Canyon.  Be sure to head to the Crag of Mea while
+                      you're here.  You'll want to head to H-13 which will zone
+                      you to East Sarutabaruta.  Zone into Windurst Woods at
+                      G-11 and you'll find the San d'Orian consulate at F-10.
+                      Talk to the people inside.  They'll send you to Heavens
+                      Tower.  Head over to Windurst Walls and make your way to
+                      H-6.  Step on the blue light to zone into Heavens Tower.
+                      You'll view a cutscene as you enter.  Head through the
+                      doors on the opposite side and talk to everyone inside.
+
+                      You'll now need to gather together some people to help you
+                      kill a dragon and an ahriman.  The fight you'll be
+                      entering will be capped at level 25, so make sure you have
+                      the appropriate equipment.  Zone out to West Sarutabaruta
+                      and zone into Giddeus at F-8.  Head to G-12 to zone into
+                      Balga's Dais.  Examine the burning circle when everyone's
+                      ready.
+
+                      When you're in the fight after viewing the cutscene, head
+                      on in.  It's recommended to sleep the dragon while first
+                      and kill the ahriman.  Once the ahriman is dead, kill the
+                      dragon.  When the dragon dies, you'll view a cutscene.
+                      Head back to the San d'Orian consulate in Windurst Woods
+                      to complete this leg of the mission.
+
+             Windurst:  Head to I-12 in La Theine Plateau to zone into Valkurm
+                        Dunes.  Then zone into Selbina at G-9 and board the
+                        ferry to Mhaura.  When you reach Mhaura, zone out to
+                        Buburimu Peninsula and head to D-7 to zone to Tahrongi
+                        Canyon.  Take this opportunity to head to the Crag of
+                        Mea.  H-13 will take you to East Sarutabaruta and you
+                        can zone into Windurst Woods at G-11.  You'll find the
+                        San d'Orian consulate at F-10.  Talk to the people
+                        inside.  They'll send you to Heavens Tower.  Head to
+                        Windurst Walls and make your way to H-6.  Step into the
+                        blue light to be transported into Heavens Tower.  Go
+                        through the double doors across the way and speak to
+                        Kupipi.  She'll give you a shield offering (key item).
+
+                        Next, zone out to West Sarutabaruta and enter Giddeus at
+                        F-8.  You'll need to head to the lower map and look for
+                        a Yagudo named Zhuu Buxu the Silent.  Kill him for a
+                        parana shield.  Once you have one, make your way to F-7
+                        on the same map to find a Yagudo NPC.  Talk to him to
+                        give him the shield offering.  Now go back and kill Zhuu
+                        Buxu the Silent again.  He takes fifteen minutes to
+                        respawn.  You should now have two parana shields.  Take
+                        these back to the San d'Orian consulate and trade both
+                        of them to the ambassador to complete this leg of the
+                        mission.
+
+                        Now, head back to Valkurm Dunes and head to M-11 to zone
+                        to Konschtat Highlands.  Be sure to stop by the Crag of
+                        Dem while you're here.  Make your way to I-12 to zone to
+                        North Gustaberg and head south to E-12 to get to South
+                        Gustaberg.  You can enter Bastok Markets at J-7.  Make
+                        your way to the Metalworks district and ride the
+                        elevators up.  Head east to the outdoor area and you'll
+                        find the San d'Orian consulate at I-9.  Talk to everyone
+                        inside.  Next, head to the President's building and talk
+                        to Pius.  You'll be sent over to Grohm, who can be found
+                        in the craftmen's eatery in G-9.
+
+                        You'll now have to find some people to help you because
+                        you'll be entering a fight capped at level 25 against a
+                        dragon and an ahriman, so make sure you have the
+                        appropriate equipment.  Once you have your party
+                        together, head out to North Gustaberg through Port
+                        Bastok and enter Palborough Mines at K-3.  Ride up the
+                        elevator at I-8 to the top floor and zone into
+                        Waughroon Shrine at H-10.  When everyone's ready, check
+                        the burning circle there to enter the fight.
+
+                        You'll view a cutscene upon entry.  When everyone's in
+                        the arena, head on in.  It's recommended to sleep the
+                        dragon and kill the ahriman first.  Once the ahriman is
+                        dead, kill the dragon.  Once they're both dead, you'll
+                        view a cutscene.  Head back to the San d'Orian consulate
+                        in the Metalworks to complete this leg of the mission.
+
+             Whichever path you choose to do, once you're finished in both
+             nations, head back to San d'Oria and speak to a mission NPC.  They
+             will send you to Halver, so head to Chateau d'Oraguille and speak
+             to him to complete the mission.
+
+Reward:      Rank 3, 3,000 gil, Adventurer's certificate (key item), rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  3-1
+Mission Name:               Infiltrate Davoi
+Minimum Level Recommended:  45
+Requirements:               Have a quarter filled rank point bar
+
+Mission Orders:  The scout in Davoi needs the help of an adventurer.
+
+What To Do:  Enter Chateau d'Oraguille and head to Prince Trion's room in H-7.
+             Examine his door for a cutscene.  Now, head to Davoi and zone in
+             for another cutscene.  You're looking for an NPC named Quericond.
+             He walks between G-7 and H-7.  Talk to him and he'll give you the
+             Royal Knights' Davoi report (key item).  Head back to Prince
+             Trion's room to complete the mission.
+
+             If you are repeating the mission, the objective is different.
+             Instead of talking to Quericond, you'll have to speak to Zantaviat
+             right inside the zone hiding behind a tree.  He'll ask you to
+             retrieve codes the Orcs leave for each other.  You can find them at
+             ! points at J-7, K-7, and L-8.  They'll each give you a key item.
+             Head back to Zantaviat once you have the three key items.  Then
+             head back to a mission NPC back in San d'Oria to complete the
+             mission.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+Mission #:                  3-2
+Mission Name:               The Crystal Spring
+Minimum Level Recommended:  45
+Requirements:               Complete mission 3-1
+
+Mission Orders:  Catch a crystal bass from Crystwater Spring, located on the
+                 eastern edge of Jugner Forest.
+
+What To Do:  You'll be asked for a crystal bass.  You can fish this up from the
+             far eastern lake in Jugner Forest using a carbon or composite
+             fishing rod with insect paste if you have enough fishing skill.
+             Otherwise, your best bet would be to purchase one from the auction
+             house.  Trade it to any mission NPC and you'll be told to head to
+             the castle.  Zone into Chateau d'Oraguille for a cutscene.  Then,
+             head to F-7 and speak to Chalvatot for another cutscene.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+Mission #:                  3-3
+Mission Name:               Appointment to Jeuno
+Minimum Level Recommended:  45
+Requirements:               Complete mission 3-1, have a full rank point bar
+
+Mission Orders:  Head to the Embassy of San d'Oria in Jeuno to fill your
+                 appointed post.
+
+What To Do:  Head to Halver in Chateau d'Oraguille and talk to him.  Go past him
+             and examine the doors to the audience chamber for a cutscene.  Now,
+             you'll have to head to Jeuno.  Head over to Jugner Forest and zone
+             to L-4 to zone to Batallia Downs.  You can enter Upper Jeuno at
+             L-9.  Head up to Ru'Lude Gardens and speak to the people in the
+             San d'Orian Embassy.  Your next destination is Delkfutt's Tower
+             on Qufim Island.
+
+             You'll need sneak and invisible for the entire climb up if you're
+             lower than level 50.  If you have someone helping you who's done
+             the mission before, have them lead you up, otherwise, here's some
+             directions.  There are monsters in the tower that will aggro to
+             magic.
+
+             Zone out to Qufim Island from Port Jeuno.  You'll find the entrance
+             to Lower Delkfutt's Tower at F-6.  This the first floor.  Head to
+             F-6, going counterclockwise from the entrance to reach some stairs
+             to the second floor.  Then head to J-9 to get to the stairs to the
+             third floor.  In G-6, you'll find a teleporter.  Use it.
+
+             You're now in Middle Delkfutt's Tower.  Head to the stairs in I-7
+             to the fifth floor.  Some paths are blocked, so you'll have to take
+             a roundabout path.  On the fifth floor, head to H-9 to the sixth
+             floor, then head to the teleporter in F-10.  You're now on the
+             seventh floor.  Go straight north to the stairs and go up to the
+             eighth floor.  Head east and go up the stairs to the ninth floor.
+             Make your way south and go down the stairs back down to the eighth
+             floor.  Go west, watch out for the hole, and go up the stairs to go
+             back up to the ninth floor.  Then head to the teleporter in F-6.
+
+             You've reached the tenth floor and Upper Delkfutt's Tower.  Go to
+             H-7 where you'll find a cermet door.  Go through.  You're looking
+             for a different colored gigas named Porphyrion.  He drops six
+             Delkfutt keys every time he's killed and repops every fifteen
+             minutes.  Keep this in mind if you're doing this in an alliance.
+             Once you have your key, trade it to the elevator in H-8 and take
+             the stairs all the way down.
+
+             Head through the door.  You're now back on the first floor of the
+             tower on the basement level.  Head to M-8 and trade the key to the
+             cermet door there for a cutscene.  You can find the exit to the
+             first floor in F-8.  Head back to the San d'orian Embassy to
+             complete the mission.
+
+Reward:      Rank 4, 5,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  4-1
+Mission Name:               Magicite
+Minimum Level Recommended:  50
+Requirements:               Have a full rank point bar
+
+Mission Orders:  Seize the three types of magicite in Davoi, Beadeaux, and
+                 Castle Oztroja to prevent the Shadow Lord's return.
+
+What To Do:  This mission begins at the San d'Orian Embassy in Ru'Lude Gardens.
+             Talk to the people in there to receive an Archducal Audience Permit
+             (key item).  Head over to the Palace and examine the doors for a
+             cutscene.  At this point, you'll need to finish a few quests and
+             cutscenes to progress any further in the mission.
+
+             First, head to Upper Jeuno.  Find Baudin in G-7 and talk to him.
+             He'll ask for some coeurl meat.  You can go out and kill coeurls,
+             or, if you have the money, you can purchase one from the auction
+             house.  Trade it to Baudin and he'll give you a Crest of Davoi (key
+             item).
+
+             Next, head to I-8 in Upper Jeuno and talk to Paya-Sabya for a
+             cutscene.  Then head down to Lower Jeuno.  Enter Muckvix's Junk
+             Shop in H-9.  Head to the back room and talk to Muckvix for a
+             cutscene.  When it's finished, he'll give you a Yagudo torch (key
+             item).
+
+             You'll now have to enter the Tenshodo Headquarters, which requires
+             you to be a Tenshodo member.  If you aren't one yet, you better go
+             get an invite.  I'm not going to tell you how to become one because
+             that's a quest and this guide will only pertain to quests that
+             coincide with missions.  Head to the very back into Aldo's Room and
+             talk to Aldo for a cutscene.  When it's done, he'll give you a
+             silver bell (key item).  You should also have a coruscant rosary
+             (key item) and a black matinee necklace (key item) from doing the
+             two quests Mysteries of Beadeaux I & II.
+
+             Now that you're all set, it's time to head out.
+
+             Davoi:  Head to H-7 where you'll find a wall of dark arts.  Examine
+                     it to go through to Monastic Cavern.  Head all the way in
+                     and examine the magicite for a cutscene.
+
+             Beadeaux:  Head to H-7 to go down to the lower map.  At the
+                        intersection you come to, head east to zone into Qulun
+                        Dome.  Head in and examine the door to open it.  You
+                        have to be really close to it.  Head all the way in and
+                        examine the magicite for a cutscene.
+
+             Castle Oztroja:  Head to I-8 where you'll find the trap door and
+                              levers.  One of them will open the door and the
+                              other will open the trap door.  They change every
+                              Vana'diel day.  Head through and at J-8, the map
+                              changes.  From here, head to G-7 to another map.
+                              Head north to I-7 to yet another map.  Finally,
+                              make your way to H-9 where you'll find two torches
+                              and two Yagudo.  If you're by yourself, make sure
+                              they face away before attempting to examine the
+                              torch.  You have to be facing a certain way and be
+                              extremely close to them to light it.  Once you're
+                              through, head west to the brass door.  Go through
+                              and zone into the Altar Room.  You'll view a
+                              cutscene upon entry if this is your last magicite
+                              to visit.  Once it's done, head all the way in and
+                              examine the magicite for a cutscene.
+
+             Go back to Ru'Lude Gardens and examine the doors to the audience
+             chamber for a cutscene.  Then head back to the San d'Orian Embassy
+             and talk to everyone in there.
+
+Reward:      Rank 5, 10,000 gil, rank points, Airship Pass (key item)
+             If you already have the Airship Pass, you'll receive 20,000 gil
+             instead.
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  5-1
+Mission Name:               The Ruins of Fei'Yin
+Minimum Level Recommended:  50
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  This mission involves traveling to Fei'Yin, located on the
+                 Beaucedine Glacier.  Visit Chateau d'Oraguille to learn more.
+
+What To Do:  Zone into Chateau d'Oraguille for a cutscene, then get the mission
+             from a gate guard.  Then head back to the castle and speak to
+             Halver for a key item.  You'll be entering a fight with a level 50
+             cap, so make sure you have the appropriate equipment.  Once you
+             have your party together, head over to Beaucedine Glacier.  If you
+             don't have the Vahzl telepoint crystal, you'll have to walk.  Head
+             over to East Ronfaure and zone into Ranguemont Pass at K-4.  At
+             F-10, talk to the NPC behind the contraption and he'll open the
+             door for you.  Once through, head to L-4 to zone out to Beaucedine
+             Glacier.  If you are lower than level 55, you'll will get aggro
+             here.  You'll need to head to Fei'Yin and the path is a long and
+             roundabout one.  The zone is at J-4.
+
+             Fei'Yin has numerous undead and things that aggro to magic.  You'll
+             want to make your way to K-8 where you'll find a cermet gate.  Go
+             through that to zone into Qu'Bia Arena.  Examine the burning circle
+             there and enter the fight once everyone's ready.  You'll be up
+             against a whole bunch of skeletons.  If you have a bard with you,
+             they'll make the fight easier as undead have a higher resistance to
+             sleep than lullaby.  Your target will be the larger skeleton as
+             once he's dead, the fight will be over.
+
+             When you're done there, head back to San d'Oria to finish the
+             mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  5-2
+Mission Name:               The Shadow Lord
+Minimum Level Recommended:  65
+Requirements:               Complete mission 5-1, have a full rank point bar
+
+Mission Orders:  Head to castle Zvahl in Xarcabard.  Visit Chateau d'Oraguille
+                 to learn more.
+
+What To Do:  Zone into Chateau d'Oraguille and speak to Halver.  He'll tell you
+             to speak to Prince Trion.  Head over to his room and examine his
+             room door for a cutscene.
+
+             If you're lower than level 72, you'll need to bring some silent oil
+             and prism powder to make this mission move faster as you will be
+             walking through Xarcabard, Castle Zvahl Baileys, and Castle Zvahl
+             Keep.  You'll be encountering demons and each type of beastmen in
+             the castle.  Once you have your party together, head over to
+             Xarcabard.  If you don't have the Vahzl telepoint crystal, you'll
+             have to walk.  Head to F-6 in Beaucedine Glacier to zone into
+             Xarcabard.  Take this opportunity to get the Vahzl telepoint.  It's
+             located in H-8.  Head west to E-7/8 to zone into Castle Zvahl
+             Baileys.
+
+             At G-8 you'll come to an intersection.  Head south, go down the
+             stairs and head to F-8 to the next map.  Go south again and go up
+             the stairs at either H-9 or I-9.  Head west and go down the stairs
+             in G-9.  Follow the path until you come to an intersection at H-9.
+             Head north, then west.  Head north at the next intersection you
+             come to.  Then east at the next intersection and go up the stairs.
+             Then head west and up the long flight of stairs to zone into
+             Castle Zvahl Keep.
+
+             Head in and go north to H-7 to the gate.  If someone is level 72 or
+             higher, have that person be the designated door opener.  Head north
+             to the next gate.  Right past that gate, to the immediate west is
+             an ore door.  Head through that and straight west through the next
+             one.  Turn north and head through the next one.  Go west, then
+             north to the long flight of stairs up.  Then make your way to F-8
+             to the next map.  Head straight to the machine you see.  It's a
+             teleporter.  Take them until you've ridden all four.  The last will
+             send you to I-7 on the next map.  Go to G-7 to find an ore door.
+             Go through to zone into the Throne Room.
+
+             You'll be entering an uncapped fight against the Shadow Lord.  This
+             fight has two parts to it.  For the first part, the Shadow Lord has
+             two forms.  In one form, he's immune to magic.  In the other form,
+             he's immune to physical attacks.  Once you beat his first form,
+             you'll be given about thirty seconds before he starts attacking
+             again.  In the second part, he'll do nothing but an AoE attack
+             called Implosion.  Once you've beaten him, you'll view a long
+             cutscene.  Head back to San d'Oria to finish the mission.
+
+Reward:      Rank 6, 20,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  6-1
+Mission Name:               Leaute's Last Wishes
+Minimum Level Recommended:  60
+Requirements:               Half filled rank point bar
+
+Mission Orders:  This mission involves the late Queen Leaute.  Visit Monarlais
+                 Halver in Chateau d'Oraguille to learn more.
+
+What To Do:  Enter Chateau d'Oraguille and speak to Halver.  Then examine the
+             doors to the audience chamber behind him for a cutscene.  Now find
+             some people to help you that are high leveled.  You'll be heading
+             over to Western Altepa Desert.  If you don't have the Altepa
+             telepoint crystal yet, you'll have to walk.
+
+             Enter Zeruhn Mines and head to Lasthenes.  Talk to him to get
+             through the gate.  Zone into Korroloka Tunnel.  You should be at or
+             above level 50 by now, so just run straight through and zone out to
+             Eastern Altepa Desert.  Take this opportunity to get the Altepa
+             telepoint crystal at G-6.  Head to I-6 to zone into Western Altepa
+             Desert.  If you need a chocobo, head straight north to Rabao and
+             rent one there.
+
+             You'll be heading to the oasis in G-7.  You may want to kill the
+             cactuars around the area so they won't link unless you have a
+             summoner with you.  When you're ready, examine the dreamrose to pop
+             an NM cactuar named Sabotender Enamorado.  It does all the cactuar
+             moves.  Be careful when it gets below 30% health as it starts to
+             use 1000 Needles more often.  When it's dead, examine the dreamrose
+             to get a key item.
+
+             Head back to Halver in Chateau d'Oraguille.  He'll point you over
+             to the garden.  Head that way and you'll view a cutscene.  Select
+             yes when prompted.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  6-2
+Mission Name:               Ranperre's Final Rest
+Minimum Level Recommended:  65
+Requirements:               Complete mission 6-1, have a full rank point bar
+
+Mission Orders:  Prince Trion seeks an adventurer.  Find the prince in his
+                 chamber to learn more.
+
+What To Do:  Visit Prince Trion in his room in Chateau d'Oraguille for a
+             cutscene.  Then you'll need to find a few high level people to help
+             you with this next part.  Head to King Ranperre's Tomb and make
+             your way to H-8 where you'll find a heavy oak door.  You'll be
+             fighting three NM skeletons.  The good news is you don't need to
+             fight all three and you can sneak pop them.  Skeletons don't link,
+             so you can pull them one at a time.  If while you're fighting one
+             and the others depop, you'll still get credit as long as the one
+             you're fighting is still alive before the others depop.
+
+             Once you're done killing however many it was you've killed, examine
+             the heavy oak door for a cutscene.  You'll receive an Ancient San
+             d'Orian book (key item).  Take this to any mission NPC.  You'll now
+             have to wait until midnight JST has passed.  Once it has, talk to
+             a mission NPC and then head back to the heavy oak door in King
+             Ranperre's Tomb for a cutscene.  Head back to San d'Oria to finish
+             the mission.
+
+Reward:      Rank 7, 40,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  7-1
+Mission Name:               Prestige of the Papsque
+Minimum Level Recommended:  70
+Requirements:               Half filled rank point bar
+
+Mission Orders:  The papsque has requested an adventurer of renown.  Speak to
+                 His Holiness in the cathedral.  His chambers lie upstairs.
+
+What To Do:  Head over to the Papsque's Chambers and examine the door for a
+             cutscene.  Now find a few high level friends who can help.  You'll
+             be fighting an NM orc named Marauder Dvogzog.  Make sure you have
+             a way to sneak yourself and enter Chateau d'Oraguille.  Go to I-8
+             to zone into Bostaunieu Oubliette.  Head to E-7/8 where you'll
+             find a sewer lid.  Sneak yourself, then talk to the NPC to let him
+             let you go down to the bottom level.  Once down, follow the right
+             wall all the way to E-10 to zone back out to West Ronfaure.
+
+             You can have everyone else meet you at this position if you want.
+             People on the mission need to stay up on the ledge, however.  Once
+             you're ready, examine the ??? to pop the NM orc.  Watch out for
+             Hundred Fists.  Once it's dead, examine the ??? again and you'll
+             receive an Ancient San d'Orian tome (key item).
+
+             Head back to the Papsque's chambers for a cutscene.  Then head over
+             to a mission NPC.  You'll be told to head to the garden.  So, enter
+             Chateau d'Oraguille and make your way to the garden for a cutscene.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+
+
+Mission #:                  7-2
+Mission Name:               The Secret Weapon
+Minimum Level Recommended:  70
+Requirements:               Complete mission 7-1, have a full rank point bar
+
+Mission Orders:  Reports from Ghelsba indicate that the Orcs in Yughott Grotto
+                 are up to something.  Investigate, but speak of this to no one.
+
+What To Do:  You'll be entering an uncapped burning circle fight in Horlais
+             Peak.  So when putting together your party, make sure you get
+             people who can enter the fight.  Make sure you have a tank, healer,
+             and sleeper.  You'll be fighting three orcs and two orcish
+             warmachines.
+
+             When you're ready, head over to Horlais Peak and examine the
+             burning circle to enter the fight.  Have your sleeper head in and
+             sleep everything and have your tank pick which one to fight first.
+
+             When they're all dead, head back to San d'Oria to complete the
+             mission.
+
+Reward:      Rank 8, 60,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  8-1
+Mission Name:               Coming of Age
+Minimum Level Recommended:  70
+Requirements:               Half filled rank point bar
+
+Mission Orders:  Princess Claidie will soon celebrate her coming-of-age, and the
+                 court in d'Oraguille needs help with the ceremonies.  Speak to
+                 Monarlais Halver and offer your assistance.
+
+What To Do:  Zone into Chateau d'Oraguille for a cutscene.  Then talk to Halver.
+             Now get together a party or alliance, bring some echo drops, and
+             head over to Eastern Altepa Desert.  Enter Quicksand Caves at G-9.
+             Head over to E-11, fall down the sinkhole, turn south, and follow
+             the left wall down to F-14 where you'll find some water and a point
+             labeled fountain of kings.  You might want to kill everything in
+             the room first so you don't get aggroed during the fight and to
+             build TP.
+
+             When you're ready, put sneak up and examine the fountain of kings
+             to pop two NM sea monks named Honor and Valor.  Honor is the
+             smaller of the two and casts silencega and paralyzega.  Valor is
+             the bigger one and uses Hundred Fists.  Once they're dead, examine
+             the fountain of kings to receive some drops of amnio (key item).
+
+             Head back to Halver to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  8-2
+Mission Name:               Lightbringer
+Minimum Level Recommended:  70
+Requirements:               Complete mission 8-1, have a full rank point bar
+
+Mission Orders:  Royaulais Destin himself has summoned you for a vital mission.
+                 Seek audience with His Majesty in Chateau d'Oraguille
+                 immediately.
+
+What To Do:  After you complete mission 8-1, you'll have to wait for midnight
+             JST to pass before this mission becomes available.  Once you have
+             the mission, enter Chateau d'Oraguille and examine the doors to the
+             audience chamber for a cutscene.  When it's done, head to the Royal
+             Knights' Quarters and speak to Rahal.  He'll give you a crystal
+             dowser (key item).
+
+             Now, get together your party/alliance.  You'll be heading to the
+             Temple of Uggalepih.  If you don't have the Yhoat telepoint crystal
+             yet, you'll have to take the long way.  Head to Port Jeuno and take
+             the airship to Kazham.  When you arrive in Kazham, rent a chocobo.
+             Head to the Yhoator Jungle zone in I-8.  You can find the Yhoat
+             telepoint crystal in F-9.  Make your way to the Temple of Uggalepih
+             zone at J-11.  If anyone is lower than level 70 on the first two
+             maps, they will get aggroed.
+
+             Your first order of business is first get a prelate key.  It drops
+             from Tonberry Stabbers.  Once you have one, from the entrance,
+             follow the right wall all the way to F-5, which zones you back out
+             to Yhoator Jungle.  Follow the left wall to zone back into the
+             Temple of Uggalepih.  Head down to the wooden gate at H-9 and go
+             through.  Go down to J-10 where you'll find a granite door guarded
+             by a doll named temple guardian.  You'll need to kill the temple
+             guardian to open the granite door.  Once through, head up the
+             stairs directly above the door where you'll find another door.  Be
+             careful of the NM doll Manipulator because it aggroes to magic.
+
+             Trade the prelate key to the door to open it.  You can open it from
+             the opposite side in case anyone didn't make it.  Head south and at
+             G-10, you'll find the first of four rooms.  From west to east, I'll
+             number them rooms one through four.  You'll want to clear the hall
+             and things inside the room first.  Then go into rooms one, three,
+             and four and examine the ??? points in those room for three key
+             items.  Room four has two ??? points, so make sure you get a key
+             item.  When you're ready, examine the door to room two to pop two
+             NM dolls named Nio-A and Nio-Hum.
+
+             Once they're dead, examine the door to room two again for a
+             cutscene.  It may take numerous examinations.  Then head back to
+             the audience chamber in Chateau d'Oraguille to complete this
+             mission.
+
+Reward:      Rank 9, 80,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  9-1
+Mission Name:               Breaking Barriers
+Minimum Level Recommended:  73
+Requirements:               Half filled rank point bar
+
+Mission Orders:  Darkness looms over San d'Oria.  Report to the Audience Chamber
+                 in Chateau d'Oraguille for further details.
+
+What To Do:  Examine the doors to the audience chamber in Chateau d'Oraguille
+             for a cutscene.  You'll have to head to three locations.  The first
+             two can be done solo.
+
+             Your first stop is the Valley of Sorrows.  In Western Altepa Desert
+             you'll want to enter Kuftal Tunnel at H-4.  You'll need sneak for
+             the entire trip through Kuftal Tunnel, unless Guivre, an NM wyvern,
+             is out.  Then you'll need sneak and invisible.  From the entrance
+             of Kuftal Tunnel, head to J-6 to the next map.  Then make your way
+             north to G-3 to zone to Cape Teriggan.  You'll want to make your
+             way northeast around the mountains to the I-8 entrance to Valley of
+             Sorrows.  Here you'll need sneak for the raptors and invisible for
+             everything else.  Head to I-8 where you'll find a ??? point.  Don't
+             fall off the ledge or you'll have to walk back around.  Examine the
+             ??? to obtain a figure of Titan (key item).
+
+             Your next stop is Xarcabard.  You'll find the ??? point in G-7 in
+             the middle of a bunch of firs.  Examine it to get a figure of
+             Garuda (key item).
+
+             Your last stop is the small island to the south of Batallia Downs.
+             You'll need a party/alliance for this one.  Enter The Eldieme
+             Necropolis at I-10 of Batallia Downs.  Head to the intersection at
+             H-9.  If the door is closed, have one person head to the switch at
+             H-8.  You'll want to head to G-9.  There's another switch there to
+             allow the first switch person into the same room as everyone else.
+             Once everyone's together, fall down the middle grave to another
+             map.  Head east to yet another map and head to J-9 to zone back out
+             to Batallia Downs.  You should now be on the tiny island.  You may
+             want to kill the NM treant Ahtu so he doesn't aggro anyone in the
+             middle of fighting.
+
+             Look for a ??? point on the southeastern part of the island and
+             when everyone's ready, examine it to pop two NM greater birds named
+             Suparna and Suparna Fledgling.  The Fledgling will use Benediction,
+             so try to keep it away from Suparna.  They both can also use bard
+             songs.  When they're both dead, examine the ??? point for a long
+             cutscene.  When it's done, you'll receive a figure of Leviathan
+             (key item).  Head back to the audience chamber in Chateau
+             d'Oraguille to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  9-2
+Mission Name:               The Heir to the Light
+Minimum Level Recommended:  73
+Requirements:               Complete mission 9-1, have a full rank point bar
+
+Mission Orders:  The Rites of Succession will be held at the cathedral in
+                 Northern San d'Oria.  You are to report there for guard duty.
+
+What To Do:  Zone into Northern San d'Oria from Southern San d'Oria for a
+             cutscene.  Then zone into Chateau d'Oraguille for a cutscene.
+             Your next destination is Qu'Bia Arena.  You'll be entering an
+             uncapped burning circle fight, so you'll want to build your party
+             with people who are able to enter the fight with you.  Be sure to
+             get a tank, healer, refresher, and sleeper.  These are the jobs you
+             need to get to make this fight easier.  When you're ready, head to
+             Fei'Yin and enter to view a cutscene.  Head to Qu'Bia Arena and
+             examine the burning circle when you're ready.
+
+             There are two parts to this fight.  For the first part, you'll be
+             up against a bunch of orcs and an orcish warmachine.  Have your
+             sleeper go in and sleep everything and have your tank pick which
+             one to attack.
+
+             For the second part, Prince Trion will join you in a fight against
+             three Orcs:  a PLD, BLM, and DRK.  Again, have your sleeper go in
+             and sleep everything and fight whichever one Trion attacks.  When
+             they're all dead, you'll view a cutscene.
+
+             Zone into Northern San d'Oria from Southern San d'Oria to view a
+             cutscene, then head to the audience chamber in Chateau d'Oraguille
+             for another cutscene.  Next, head to King Ranperre's Tomb and head
+             to the heavy oak door in H-8.  Examine it for another cutscene.
+             Now, go and speak to Halver in Chateau d'Oraguille for another
+             cutscene.  Finally, zone into Southern San d'Oria for one final
+             cutscene.
+
+Reward:      Rank 10, 100,000 gil, San d'Orian Flag (furniture), rank points
+Repeatable:  No
+Skippable:   No
+
+-----------------
+Windurst Missions
+-----------------
+
+Mission #:                  1-1
+Mission Name:               The Horutoto Ruins Experiment
+Minimum Level Recommended:  10
+Requirements:               None
+
+Mission Orders:  The Minister of the Orastery is conducting an experiment in the
+                 eastern magic tower of the Horutoto Ruins, located in East
+                 Sarutabaruta.  Inquire at the Orastery first, then go assist
+                 him.
+
+What To Do:  Head to the Orastery in Port Windurst in E-7.  Talk to Hakkuru-
+             Rinkuru on the stage for a cutscene.  Then zone out to East
+             Sarutabaruta and head to the tower in J-7 and enter it to zone into
+             the Inner Horutoto Ruins.  Head south to H-9 and target the wall
+             there until you target a point named cracked wall.  Examine it to
+             open it and go through.  Head down to I-10 where you'll find a
+             magical gizmo.  Examine it for a cutscene.
+
+             Your next task is to go back to the large room and examine the six
+             ancient magical gizmos until you receive a cracked mana orb (key
+             item).  Head back to Hakkuru-Rinkuru to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  1-2
+Mission Name:               The Heart of the Matter
+Minimum Level Recommended:  10
+Requirements:               Complete mission 1-1
+
+Mission Orders:  Assist the Manustery in the creation of Cardians.  You must go
+                 to the southeastern magic tower of the Horutoto Ruins in East
+                 Sarutabaruta, and energize the mana orbs that serve as the
+                 hearts of the Cardians.  Inquire at the Manustery first for
+                 details.
+
+What To Do:  Head to Windurst Woods and enter the Manustery in H-9 to speak to
+             Apururu.  Zone out to East Sarutabaruta and head to the tower in
+             J-11.  Speak to the tarutaru right in front of the stairs for a key
+             item then zone into the Outer Horutoto Ruins.  Head down and you'll
+             need to examine all six ancient magical gizmos.  There's one in
+             each corner as well as two hidden behind cracked walls on the north
+             and south walls.  Once you've examine all six, head through the
+             cracked wall on the east wall and examine the magical gizmo there
+             for a cutscene.  Now, you'll have to go back to each ancient
+             magical gizmo and examine them.  Then exit for a cutscene.  Head
+             back to Apururu to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  1-3
+Mission Name:               The Price of Peace
+Minimum Level Recommended:  15
+Requirements:               Complete mission 1-2
+
+Mission Orders:  Receive two bags of food offerings from the Rhinostery, and
+                 deliver one bag to each of the Yagudo who stand by the altars
+                 of offerings in Giddeus.  Don't forget to report back to the
+                 Rhinostery after completing the mission.
+
+What To Do:  Head to the Rhinostery in Windurst Waters.  Windurst Waters has two
+             maps and the Rhinostery is located on the southern map.  Head to
+             J-9 and you'll find Leepe-Hoppe on the roof.  Talk to him for a
+             cutscene.  You'll receive a food offering (key item) and a drink
+             offering (key item).
+
+             Zone out to West Sarutabaruta and enter Giddeus at F-8.  You'll
+             find the two Yagudo NPCs at G-7 and H-7.  Talk to them both to
+             deliver both offerings.  Then head back to Leepe-Hoppe for a
+             cutscene and then talk to a mission NPC to complete the mission.
+
+Reward:      Rank 2, 1,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  2-1
+Mission Name:               Lost for Words
+Minimum Level Recommended:  20
+Requirements:               One quarter filled rank point bar
+
+Mission Orders:  There are reports that the Cat Burglar has her paws on a "Book
+                 of the Gods," a restricted book that was lost twenty years ago.
+                 Assist the Optistery in investigating the reports, and attempt
+                 to retrieve the priceless, but dangerous, tome.
+
+What To Do:  Head to the northern map of Windurst Waters and enter the Orastery
+             at G-8 to talk to Tosuka-Porika for a cutscene.  Next, head to J-3
+             in Windurst Woods to talk to Nanaa Mihgo.  She'll give you a lapis
+             monocle (key item).  Next, you'll have to head to the Maze of
+             Shakhrami.
+
+             To get there, zone out to East Sarutabaruta and head to J-4 to zone
+             to Tahrongi Canyon.  You'll find the zone to the Maze of Shakhrami
+             at K-5.  You may need sneak and invisible here if you're lower than
+             level 25.  From the entrance, head to G-6 and take the eastern
+             path to the next map.  In the next room you come to, you'll find a
+             bunch of fossile rocks that are targetable points.  Examine them
+             until one gives you a lapis coral (key item).
+
+             Head back to Nanaa Mihgo for a cutscene.  She'll give you a hideout
+             key (key item).  Now, zone out to East Sarutabaruta and enter the
+             tower at J-7 and enter the Inner Horutoto Ruins.  Head to the room
+             in G-8 and go through the cracked wall on the northern part of the
+             room to the next map.  Then head over to G-8 on this map to find a
+             mahogany door.  Examine it for a cutscene.
+
+             Now, head to Windurst Walls and head to the House of the Hero in
+             G-3.  Examine the door for a cutscene.  Then head to Tosuka-Porika
+             in the Optistery to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  2-2
+Mission Name:               A Testing Time
+Minimum Level Recommended:  20
+Requirements:               Complete mission 2-1
+
+Mission Orders:  Assist the Aurastery's School of Magic in the selection of the
+                 venue for their next skills test.  They want you to record the
+                 number of monsters you can hunt at a specific area, in a set
+                 number of days, to fairly standardize their skills test.
+
+What To Do:  This is a timed mission, so make sure you have a way to get back to
+             Windurst quickly.  Head to the Aurastery in L-6 and enter to speak
+             to Moreno-Toeno.  Talk to him for a cutscene.  He'll give you a
+             "Creature Counter" magic doll (key item).
+
+             Make your way to Tahrongi Canyon and kill roughly about 30 monsters
+             in less than one earth hour.  Then you'll need to head back to
+             Moreno-Toeno within the same hour before the hour is up to complete
+             the mission.
+
+             If you're repeating this mission, you'll be asked to head to
+             Buburimu Peninsula and you'll be given two earth hours to complete
+             the mission.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   Yes
+
+
+Mission #:                  2-3
+Mission Name:               The Three Kingdoms
+Minimum Level Recommended:  20
+Requirements:               Complete mission 2-1, have a full rank point bar
+
+Mission Orders:  Determine the state of affairs in San d'Oria and Bastok, and
+                 render assistance on behalf of Heavens Tower.  Inquire at our
+                 consulate in each country for more information.  Traveling by
+                 ship from Mhaura to Selbina is recommended.
+
+What To Do:  Head to Kupipi inside Heavens Tower and talk to her for a cutscene.
+             You'll now have to head to the other two nations.  The order in
+             which you visit them doesn't matter.  I'll place the walkthrough
+             for both paths in here.
+
+             San d'Oria:  Head to K-8 in Tahrongi Canyon to zone into Buburimu
+                          Peninsula.  Head to I-9 to zone into Mhaura.  Catch
+                          the ferry to Selbina and exit out to Valkurm Dunes
+                          once you get there.  Make your way to L-6 to reach La
+                          Theine Plateau and head to D-4, which will take you to
+                          West Ronfaure.  Enter Northern San d'Oria in I-5 and
+                          head to the Windurstian consulate in H-9.  Talk to the
+                          people in the back room .  They'll send you to Halver.
+                          Enter Chateau d'Oraguille and he can be found right
+                          inside.  Your next destination is Ghelsba Outpost.  Go
+                          back out to West Ronfaure and enter Ghelsba Outpost at
+                          H-7, you'll find Warchief Vatgit.  Kill it, then go
+                          back to the Windurstian consulate to complete this leg
+                          of the mission.
+
+                          Head back to Valkurm Dunes and make your way to the
+                          Konschtat Highlands zone at M-11.  Head south to I-12
+                          to zone to North Gustaberg.  Go south to E-12 to South
+                          Gustaberg and enter Bastok Markets at J-7.  Head to
+                          the Metalworks and you'll find the Windurstian
+                          consulate at I-7.  They'll send you to Pius.  He's in
+                          the President's building.  He in turn will send you to
+                          Grohm, who can be found in the craftmen's eatery.
+
+                          Now get together a party.  You'll be entering a fight
+                          capped at level 25, so make sure you bring the
+                          appropriate equipment.  Once you have your party
+                          together, head out to North Gustaberg through the exit
+                          in Port Bastok.  Zone into the Palborough Mines at
+                          K-3.  Head to the elevator in I-8 and ride it up to
+                          the third floor.  Then head to H-10 to zone into
+                          Waughroon Shrine.  When everyone' ready, examine the
+                          burning circle to enter the fight.  Once everyone's
+                          ready, head in.  It's recommended to sleep the dragon
+                          while you kill the ahriman first.  Once the ahriman is
+                          dead, kill the dragon.  When they're both dead, you'll
+                          view a cutscene.  Head back to the consulate to finish
+                          this leg of the mission.
+
+             Bastok:  Head to K-8 in Tahrongi Canyon to zone into Buburimu
+                      Peninsula.  Head to I-9 to zone into Mhaura.  Catch the
+                      ferry to Selbina and exit out to Valkurm Dunes once you
+                      get there.  Make your way to the Konschtat Highlands zone
+                      at M-11.  Head south to I-12 to zone to North Gustaberg.
+                      Go south to E-12 to South Gustaberg and enter Bastok
+                      Markets at J-7.  Head to the Metalworks and you can find
+                      the Windurstian consulate in I-7.  Talk to the people in
+                      there.  They'll send you to Pius, who can be found in the
+                      President's building.  Now you'll have to grab a few
+                      pickaxes and head over to Palborough Mines.  Exit to North
+                      Gustaberg through the exit in Port Bastok and zone into
+                      Palborough Mines at K-3.  Ride the elevator in I-8 to the
+                      top floor.  You're looking for a mythril seam, which can
+                      usually be found in I-9.  Mine it for some mine gravel,
+                      then take that to the refiner in I-6.  Trade it with the
+                      door and pull the lever.  Then head down to the level
+                      right below you and retrieve the mythril sand.  Take this
+                      back to the consulate to complete this leg of the mission.
+
+                      Head back to Valkurm Dunes and make your way to the La
+                      Theine Plateau zone at L-6.  Head to D-4, which will take
+                      you to West Ronfaure.  Enter Northern San d'Oria in I-5
+                      and head to the Windurstian consulate in H-9.  Talk to the
+                      people in the back room .  They'll send you to talk to
+                      Halver.  Enter Chateau d'Oraguille and you'll find him
+                      right inside.  Talk to him, then get together a party.
+
+                      You'll be entering a fight capped at level 25, so make
+                      sure you bring the appropriate equipment.  Once you're
+                      ready, head back out to West Ronfaure and enter Ghelsba
+                      Outpost at E-4.  Make your way to the top of Ghelsba
+                      Outpost and at H-8, enter the tent.  It'll take you to a
+                      tunnel that zones you to Fort Ghelsba.  In Fort Ghelsba,
+                      head to H-7 where you'll find an elevator.  Ride it up and
+                      make your way to J-8 and enter Yughott Grotto.  Zone into
+                      Horlais Peak at J-6 and examine the burning circle when
+                      everyone's ready to enter the fight.  Once everyone's has
+                      entered, head up.  It's recommended to sleep dragon while
+                      you kill the ahriman first.  Once the ahriman is dead,
+                      kill the dragon.  Once they're both dead, you'll view a
+                      cutscene.  Head back to the consulate to complete this leg
+                      of the mission.
+
+             Once you're done with the tasks in both nations, head back to
+             Kupipi in Heavens Tower to complete the mission.
+
+Reward:      Rank 3, 3,000 gil, Adventurer's Certificate (key item), rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  3-1
+Mission Name:               To Each His Own Right
+Minimum Level Recommended:  25
+Requirements:               One quarter filled rank point bar
+
+Mission Orders:  On the command of Smih Lafihna, captain of the Sibyl Guards,
+                 you are requested to track down the Minister of the Orastery,
+                 Ajido-Marujido, and discover his true intentions.  Inquire at
+                 the Orastery if you lose track of him.
+
+What To Do:  Head to Heavens Tower and talk to Kupipi.  She'll give you a
+             Starway Stairway bauble (key item).  Go through the blue glowing
+             door and go all the way up to the top floor and speak to Rhy
+             Epocan for a cutscene.  You can use the glowing light to get back
+             down to the first floor quicker.  Now head to Port Windurst and
+             talk to Hakkuru-Rinkuru in the Orastery.  Your next stop is Castle
+             Oztroja.
+
+             Head to G-4 in Tahrongi Canyon to zone into Meriphataud Mountains.
+             Then zone into Castle Oztroja at K-8.  You'll want to head to the
+             trap door at I-8 and fall down through the door.  You'll view a
+             cutscene.  Then head back to Rhy Epocan to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  3-2
+Mission Name:               Written in the Stars
+Minimum Level Recommended:  30
+Requirements:               Complete mission 3-1
+
+Mission Orders:  On the command of Zubaba, the head lady-in-waiting, you are to
+                 journey beneath the central magic tower of the Horutoto Ruins.
+                 There, you are to report to the facility managed by Heavens
+                 Tower, which protects the talisman that seals Castle Zvahl.
+                 Render whatever assistance is necessary.
+
+What To Do:  Enter Heavens Tower and head up to the second floor and speak to
+             Zubaba.  You'll view a cutscene and receive a Charm of light (key
+             item).  Now, you'll need to find a white mage, black mage, and red
+             mage to help you open the three mage gate in the Inner Horutoto
+             Ruins.  Exit out to East Sarutabaruta and enter the tower at J-7 to
+             enter the Inner Horutoto Ruins.
+
+             Head to the room in G-8 and go through the cracked wall in the
+             north wall to the next map.  Make your way to E-10 and go through
+             the door.  Head straight west and go through the cracked wall to
+             the next map.  In H-9 you'll find the three mage gate.  Have the
+             three mages stand on their corresponding color to open the gate.
+             Once through, head through the "wall" in H-8 to the next map.  Find
+             the gate of light and examine it for a cutscene.  Once you're done,
+             head back to Zubaba to complete the mission.
+
+             If you're repeating this mission or doing it once you're past rank
+             five, you'll instead need to kill wendigos near the gate of light
+             for three rusty daggers.  Trade these to Zubaba to complete the
+             mission.
+
+Reward:      Rank points
+Repeatable:  Yes
+Skippable:   No
+
+
+Mission #:                  3-3
+Mission Name:               A New Journey
+Minimum Level Recommended:  45
+Requirements:               Complete mission 3-1, have a full rank point bar
+
+Mission Orders:  As requested by the Star Sibyl, you are to render service at
+                 the Embassy of Windurst in Jeuno.  Great responsibility and
+                 tact are required.
+
+What To Do:  Head to the top floor of Heavens Tower and examine the vestal
+             chambers door for a cutscene.  Now, you'll have to head to Jeuno.
+             Make your way to Meriphataud Mountains and head to D-4 to zone to
+             Sauromugue Champaign.  Head to E-6 to zone into Port Jeuno.  Head
+             up to Ru'Lude Gardens where you'll find the embassy.  Talk to the
+             people inside.  Your next destination is Delkfutt's Tower, which is
+             found on Qufim Island.
+
+             You'll need sneak and invisible for the entire climb up if you're
+             lower than level 50.  If you have someone helping you who's done
+             the mission before, have them lead you up, otherwise, here's some
+             directions.  There are monsters in the tower that will aggro to
+             magic.
+
+             Zone out to Qufim Island from Port Jeuno.  You'll find the entrance
+             to Lower Delkfutt's Tower at F-6.  This the first floor.  Head to
+             F-6, going counterclockwise from the entrance to reach some stairs
+             to the second floor.  Then head to J-9 to get to the stairs to the
+             third floor.  In G-6, you'll find a teleporter.  Use it.
+
+             You're now in Middle Delkfutt's Tower.  Head to the stairs in I-7
+             to the fifth floor.  Some paths are blocked, so you'll have to take
+             a roundabout path.  On the fifth floor, head to H-9 to the sixth
+             floor, then head to the teleporter in F-10.  You're now on the
+             seventh floor.  Go straight north to the stairs and go up to the
+             eighth floor.  Head east and go up the stairs to the ninth floor.
+             Make your way south and go down the stairs back down to the eighth
+             floor.  Go west, watch out for the hole, and go up the stairs to go
+             back up to the ninth floor.  Then head to the teleporter in F-6.
+
+             You've reached the tenth floor and Upper Delkfutt's Tower.  Go to
+             H-7 where you'll find a cermet door.  Go through.  You're looking
+             for a different colored gigas named Porphyrion.  He drops six
+             Delkfutt keys every time he's killed and repops every fifteen
+             minutes.  Keep this in mind if you're doing this in an alliance.
+             Once you have your key, trade it to the elevator in H-8 and take
+             the stairs all the way down.
+
+             Head through the door.  You're now back on the first floor of the
+             tower on the basement level.  Head to M-7 and trade the key to the
+             cermet door there for a cutscene.  You can find the exit to the
+             first floor in F-8.  Head back to the Windurstian Embassy to
+             complete the mission.
+
+Reward:      Rank 4, 5,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  4-1
+Mission Name:               Magicite
+Minimum Level Recommended:  50
+Requirements:               Have a full rank point bar
+
+Mission Orders:  Confiscate the three kinds of magicite in Davoi, Beadeaux, and
+                 Castle Oztroja to prevent the resurrection of the Shadow Lord.
+
+What To Do:  This mission begins at the Windurstian Embassy in Ru'Lude Gardens.
+             Talk to the people in there to receive an Archducal Audience Permit
+             (key item).  Head over to the Palace and examine the doors for a
+             cutscene.  At this point, you'll need to finish a few quests and
+             cutscenes to progress any further in the mission.
+
+             First, head to Upper Jeuno.  Find Baudin in G-7 and talk to him.
+             He'll ask for some coeurl meat.  You can go out and kill coeurls,
+             or, if you have the money, you can purchase one from the auction
+             house.  Trade it to Baudin and he'll give you a Crest of Davoi (key
+             item).
+
+             Next, head to I-8 in Upper Jeuno and talk to Paya-Sabya for a
+             cutscene.  Then head down to Lower Jeuno.  Enter Muckvix's Junk
+             Shop in H-9.  Head to the back room and talk to Muckvix for a
+             cutscene.  When it's finished, he'll give you a Yagudo torch (key
+             item).
+
+             You'll now have to enter the Tenshodo Headquarters, which requires
+             you to be a Tenshodo member.  If you aren't one yet, you better go
+             get an invite.  I'm not going to tell you how to become one because
+             that's a quest and this guide will only pertain to quests that
+             coincide with missions.  Head to the very back into Aldo's Room and
+             talk to Aldo for a cutscene.  When it's done, he'll give you a
+             silver bell (key item).  You should also have a coruscant rosary
+             (key item) and a black matinee necklace (key item) from doing the
+             two quests Mysteries of Beadeaux I & II.
+
+             Now that you're all set, it's time to head out.
+
+             Davoi:  Head to H-7 where you'll find a wall of dark arts.  Examine
+                     it to go through to Monastic Cavern.  Head all the way in
+                     and examine the magicite for a cutscene.
+
+             Beadeaux:  Head to H-7 to go down to the lower map.  At the
+                        intersection you come to, head east to zone into Qulun
+                        Dome.  Head in and examine the door to open it.  You
+                        have to be really close to it.  Head all the way in and
+                        examine the magicite for a cutscene.
+
+             Castle Oztroja:  Head to I-8 where you'll find the trap door and
+                              levers.  One of them will open the door and the
+                              other will open the trap door.  They change every
+                              Vana'diel day.  Head through and at J-8, the map
+                              changes.  From here, head to G-7 to another map.
+                              Head north to I-7 to yet another map.  Finally,
+                              make your way to H-9 where you'll find two torches
+                              and two Yagudo.  If you're by yourself, make sure
+                              they face away before attempting to examine the
+                              torch.  You have to be facing a certain way and be
+                              extremely close to them to light it.  Once you're
+                              through, head west to the brass door.  Go through
+                              and zone into the Altar Room.  You'll view a
+                              cutscene upon entry if this is your last magicite
+                              to visit.  Once it's done, head all the way in and
+                              examine the magicite for a cutscene.
+
+             Go back to Ru'Lude Gardens and examine the doors to the audience
+             chamber for a cutscene.  Then head back to the Windurstian Embassy
+             and talk to everyone in there.
+
+Reward:      Rank 5, 10,000 gil, rank points, Airship Pass (key item)
+             If you already have the Airship Pass, you'll receive 20,000 gil
+             instead.
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  5-1
+Mission Name:               The Final Seal
+Minimum Level Recommended:  50
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  On the Star Sibyl's command, you are to head north to the ruins
+                 of Fei'Yin, somewhere on the Beaucedine Glacier.  There, you
+                 are to confirm whether the final seal is doing its job.
+
+What To Do:  Examine the vestal chambers door for a cutscene.  You'll be
+             entering a fight with a level 50 cap, so make sure you have the
+             appropriate equipment.  Once you have your party together, head
+             over to Beaucedine Glacier.  If you don't have the Vahzl telepoint
+             crystal, you'll have to walk.  Head over to East Ronfaure and zone
+             into Ranguemont Pass at K-4.  At F-10, talk to the NPC behind the
+             contraption and he'll open the door for you.  Once through, head to
+             L-4 to zone out to Beaucedine Glacier.  If you are lower than level
+             55, you'll will get aggro here.  You'll need to head to Fei'Yin and
+             the path is a long and roundabout one.  The zone is at J-4.
+
+             Fei'Yin has numerous undead and things that aggro to magic.  You'll
+             want to make your way to K-8 where you'll find a cermet gate.  Go
+             through that to zone into Qu'Bia Arena.  Examine the burning circle
+             there and enter the fight once everyone's ready.  You'll be up
+             against a whole bunch of skeletons.  If you have a bard with you,
+             they'll make the fight easier as undead have a higher resistance to
+             sleep than lullaby.  Your target will be the larger skeleton as
+             once he's dead, the fight will be over.
+
+             When you're done there, head back to Windurst to finish the
+             mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  5-2
+Mission Name:               The Shadow Awaits
+Minimum Level Recommended:  65
+Requirements:               Complete mission 5-1, have a full rank point bar
+
+Mission Orders:  As written in the stars and interpreted by the Star Sibyl, you
+                 are destined to journey to Castle Zvahl, which towers over
+                 Xarcabard, the end of the known lands.  There, you are to
+                 witness what fate has in store for our world.
+
+What To Do:  Head to the vestal chambers door and examine it for a cutscene.
+
+             If you're lower than level 72, you'll need to bring some silent oil
+             and prism powder to make this mission move faster as you will be
+             walking through Xarcabard, Castle Zvahl Baileys, and Castle Zvahl
+             Keep.  You'll be encountering demons and each type of beastmen in
+             the castle.  Once you have your party together, head over to
+             Xarcabard.  If you don't have the Vahzl telepoint crystal, you'll
+             have to walk.  Head to F-6 in Beaucedine Glacier to zone into
+             Xarcabard.  Take this opportunity to get the Vahzl telepoint.  It's
+             located in H-8.  Head west to E-7/8 to zone into Castle Zvahl
+             Baileys.
+
+             At G-8 you'll come to an intersection.  Head south, go down the
+             stairs and head to F-8 to the next map.  Go south again and go up
+             the stairs at either H-9 or I-9.  Head west and go down the stairs
+             in G-9.  Follow the path until you come to an intersection at H-9.
+             Head north, then west.  Head north at the next intersection you
+             come to.  Then east at the next intersection and go up the stairs.
+             Then head west and up the long flight of stairs to zone into
+             Castle Zvahl Keep.
+
+             Head in and go north to H-7 to the gate.  If someone is level 72 or
+             higher, have that person be the designated door opener.  Head north
+             to the next gate.  Right past that gate, to the immediate west is
+             an ore door.  Head through that and straight west through the next
+             one.  Turn north and head through the next one.  Go west, then
+             north to the long flight of stairs up.  Then make your way to F-8
+             to the next map.  Head straight to the machine you see.  It's a
+             teleporter.  Take them until you've ridden all four.  The last will
+             send you to I-7 on the next map.  Go to G-7 to find an ore door.
+             Go through to zone into the Throne Room.
+
+             You'll be entering an uncapped fight against the Shadow Lord.  This
+             fight has two parts to it.  For the first part, the Shadow Lord has
+             two forms.  In one form, he's immune to magic.  In the other form,
+             he's immune to physical attacks.  Once you beat his first form,
+             you'll be given about thirty seconds before he starts attacking
+             again.  In the second part, he'll do nothing but an AoE attack
+             called Implosion.  Once you've beaten him, you'll view a long
+             cutscene.  Head back to San d'Oria to finish the mission.
+
+Reward:      Rank 6, 20,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  6-1
+Mission Name:               Full Moon Fountain
+Minimum Level Recommended:  65
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  At the request of the Orastery, you are to go to the
+                 southwestern magic tower of the Horutoto Ruins, located in West
+                 Sarutabaruta.  Deep within you will find a laboratory, where
+                 you are ordered to switch on the magical gizmo.
+
+What To Do:  Head to Port Windurst and talk to Hakkuru-Rinkuru inside the
+             Orastery for a cutscene.  Now get together a few high levels to
+             help you with the next part.  It helps if you have a summoner or
+             someone who can sub summoner.
+
+             Zone out to West Sarutabaruta and enter the tower at F-11 to enter
+             the Outer Horutoto Ruins.  Head to I-8 and in the go through the
+             cracked wall in the east wall.  Head straight east and go through
+             the next cracked wall.  You'll be in a small room with the ten
+             cardians and the magical gizmo.  Put sneak up and examine the
+             magical gizmo to pop four Jack cardians.  You can pull them one at
+             a time with an avatar.
+
+             Once they're dead, examine the magical gizmo for a cutscene.  Head
+             back to Hakkuru-Rinkuru again.  Now, you'll have to head to the
+             Full Moon Fountain.  Head to the three mage gate and enter the
+             Toraimarai Canal.  If you're lower than level 70, you'll need sneak
+             for the entire trip.  Go down the stairs at H-7 and go south, then
+             west, then south again and go back up the stairs.  Then make your
+             way to F-8 where you'll find a door.  Go through and zone into the
+             Full Moon Fountain for a cutscene to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  6-2
+Mission Name:               Saintly Invitation
+Minimum Level Recommended:  65
+Requirements:               Complete mission 6-1, have a full rank point bar
+
+Mission Orders:  A mission issued by Heavens Tower.  In reply to the Yagudo Holy
+                 One's invitation, you are to compete and triumph at the contest
+                held at Balga's Dais deep within Giddeus.
+
+What To Do:  Head to the vestal chambers door and examine it for a cutscene.
+             Get together a party and head to Giddeus.  You'll be entering an
+             uncapped fight against four Yagudo.  Head to G-12 in Giddeus to
+             zone into Balga's Dais.  When you're ready, examine the burning
+             circle to enter the fight.  It's recommended to sleep them all
+             first, so having someone with Sleepga II or Horde Lullaby would be
+             good.  Kill them in this order:  Gentle (WHM), Profound (SMN),
+             Bloodfaced (SAM), and Poisonmist (NIN).  Fight the white mage away
+             from the rest because when Benediction is used, it'll wake up the
+             rest of the Yagudo and keep the summoner's avatar slept.  Also, be
+             careful of Mijin Gakure.
+
+             Your next stop is Castle Oztroja.  Head to the top floor and kill
+             flagellants until a judgment key drops.  Then enter the brass door.
+             You can open it by examining any of the torches in one of the four
+             rooms.  You'll now need to examine the brass statue inside and
+             enter the three passwords.  They change daily and you can find a
+             list on any FFXI site.  Once you fall down the door, you'll have to
+             make your way north to the brass door.  There's an HNM there named
+             the Yagudo High Priest that you need to get past.  If you make it
+             to the brass door with no aggro, trade your judgment key to it and
+             go in.  Talk to the Yagudo NPC inside.  Then head back to Windurst
+             to complete the mission.
+             door with no aggro, trade your
+
+Reward:      Rank 7, 40,000 gil, Ashura Necklace (level 54), rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  7-1
+Mission Name:               The Sixth Ministry
+Minimum Level Recommended:  65
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  At the request of the Optistery, you ar to find former minister
+                 Karaha-Baruha's laboratory in Toraimarai Canal, and delve
+                 deeper into the mystery of the Book of the Gods.
+
+What To Do:  Head to the Optistery on the north map of Windurst Waters and talk
+             to Tosuka-Porika for a cutscene.  He'll give you an optistery ring
+             (key item).  Your next destination is Toraimarai Canal, so get some
+             high level friends to help you with this part.
+
+             Head to Toraimarai Canal and make your way to G-8 of the second
+             map.  If you're lower than level 70, you'll need sneak for the
+             entire trip.  Once you get there, you'll need to kill four slimes
+             named hinge oil.  Once they're all dead, the marble door to the
+             west up the stairs will become unlocked.  Go through it to enter
+             the small laboratory.  You'll find many Tome of Magic points.
+             Check each until you get a cutscene.  Head back to Tosuka-Porika to
+             complete the mission.
+
+Reward:      Blank Book of the Gods (key item), rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  7-2
+Mission Name:               Awakening of the Gods
+Minimum Level Recommended:  70
+Requirements:               Complete mission 7-1, have a full rank point bar
+
+Mission Orders:  Rhinostery minister Rukususu has traveled to Elshimo to
+                 investigate the facts concerning Iru-Kuiru, a research from
+                 thirty years past.  The Rhinostery has asked you to bring
+                 Minister Rukususu back for her own safety.
+
+What To Do:  Head to the Rhinostery on the southern map of Windurst Waters and
+             talk to Leepe-Hoppe on the roof.  Then speak to Kerutoto inside the
+             Rhinostery.  Next, head to Kazham.
+
+             Close to where you exit the airship area, you'll find Vanono.  Talk
+             to her.  Then head to the Mihgo residence and speak to Romaa Mihgo.
+             Next, you'll need a few people to help you with the next part.
+             Rent a chocobo and head to I-8 in Yuhtunga Jungle to zone into
+             Yhoator Jungle.  If you don't have the Yhoat telepoint crystal,
+             take this opportunity to get it.  It's located at F-9.  Head to
+             the Temple of Uggalepih zone at J-11.
+
+             If you're lower than level 70, you'll need invisible for the entire
+             trip through the temple.  From the entrance, follow the left wall
+             and head to K-3 to zone back out to Yhoator Jungle.  Then follow
+             the right wall to zone back into the Temple of Uggalepih.  On this
+             map, level 75s will get aggroed.  You'll want to make your way to
+             the room at J-9 where you'll find the NM tonberry named Bonze
+             Marberry.  He drops two cursed keys every time he dies.  Everyone
+             on this mission will need one.  He takes fifteen minutes to repop
+             after he dies, so keep this in mind if doing this with a large
+             group.
+
+             Once you have your key, head to J-6 and use your key on the door
+             there for a cutscene.  Once it's done, head back to Leepe-Hoppe to
+             complete the mission.
+
+Reward:      Rank 8, 60,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  8-1
+Mission Name:               Vain
+Minimum Level Recommended:  70
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  At the request of the Aurastery, you are to discover the
+                 whereabouts of their former minister who fled from his duties
+                 several years ago.
+
+What To Do:  Head over the Aurastery on the north map of the Windurst Waters and
+             speak to Moreno-Toeno for a cutscene.  He'll give you a "Star
+             Seeker" (key item).
+
+             Your next stop is Ro'Maeve.  Head over to Meriphataud Mountains and
+             zone into the Sanctuary of Zi'Tah at L-4.  Then head to F-5 to zone
+             into Ro'Maeve.  You'll need sneak for the entire trip.  Everything
+             here aggroes to magic, so you'll probably want to bring some silent
+             oil.  Make your way to Qu'Hau Springs at H-6 and examine the spring
+             for a cutscene.
+
+             Your next destination is Davoi.  You'll need to gather together an
+             alliance for this next part.  Enter Davoi and head to H-11 to zone
+             into Monastic Cavern.  You'll need invisible for the whole trip
+             through Monastic Cavern.  Head to I-8 to zone back out to Davoi.
+             You'll now be on the little island in the middle of the map.  Make
+             your way up to the house and you'll need to kill the NM orc named
+             Dirtyhanded Gochakzuk.  He drops two cursed wands every time he's
+             killed.  He repops about every fifteen minutes, so keep this in
+             mind if you're doing this with a large group of people in this
+             mission.
+
+             Once you have your wand, head over to Sedal-Godjal in J-8.  Talk to
+             him until he says something about a cursed wand.  Then trade him
+             the wand for a cutscene.  When it's done, head back to Moreno-Toeno
+             in the Aurastery in Windurst Waters to complete the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  8-2
+Mission Name:               The Jester Who'd Be King
+Minimum Level Recommended:  70
+Requirements:               Complete mission 8-1, have a full rank point bar
+
+Mission Orders:  The time for the Dark Dungeon jailbreak is at hand!  At the
+                 request of the Manustery, you are to collect the ministry rings
+                 from al five ministers.
+
+What To Do:  Head to the Manustery in Windurst Woods and talk to Apururu for a
+             cutscene.  She'll give you the Manustery ring (key item).  You'll
+             now have to gather the other four rings.
+
+             Head to the north map of Windurst Waters and enter the Optistery.
+             Talk to Tosuka-Porika for a cutscene.  He'll give you the Optistery
+             ring (key item).
+
+             Next head to Davoi.  Make your way to the central island and speak
+             to Sedal-Godjal.  He'll give you the Aurastery ring (key item).
+
+             The next stop is Fei'Yin.  Head to G-9 to get to the lower level.
+             Head to F-6 and check the cermet gates for a cutscene.  You'll get
+             the Rhinostery ring (key item).
+
+             Now, head back to Apururu.  She'll direct you to Kupipi, so head to
+             Heavens Tower and talk to her for a cutscene.  Get together a few
+             high levels to help you with the next part.  Zone out to West
+             Sarutabaruta and head to the tower in F-4 to enter the Outer
+             Horutoto Ruins.  Head to the room in I-6 and go through the cracked
+             wall in the east wall to the next map.  Head to G-8 where you'll
+             find another cracked wall.  Put sneak up.  It helps if you have a
+             summoner or someone who can sub summoner.  Examining the cracked
+             wall makes two NM cardians pop.  You can pull them one at a time
+             with an avatar.
+
+             Once they're dead, examine the cracked wall for a cutscene.  When
+             it's done, you'll get the Orastery ring (key item).  Head back to
+             Apururu for a cutscene.  She'll send you over to Shantotto.  Head
+             over to Windurst Walls and enter her manor and talk to her for a
+             cutscene.  She'll give you a glove of perpetual twilight (key
+             item).  Go back to Apururu for another cutscene.
+
+             Now, zone out to East Sarutabaruta and enter the tower in J-7 to
+             enter the Inner Horutoto Ruins.  Head past the three mage gate and
+             look for the gate of darkness.  It's in the same area as the
+             wendigos that drop the rusty daggers.  Examine the gate for a
+             cutscene.  Then head back to Apururu to complete the mission.
+
+Reward:      Rank 9, 80,000 gil, rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  9-1
+Mission Name:               Doll of the Dead
+Minimum Level Recommended:  73
+Requirements:               Have a half filled rank point bar
+
+Mission Orders:  The Orastery Minister has awoken and the Bearer of Darkness
+                 once again terrorizes Heavens Tower.  At the request of the
+                 Manustery you are to speak with a person imprisoned within the
+                 Boyahda Tree and discover the truth behind the doll of the
+                 dead.
+
+What To Do:  Talk to Apururu in the Manustery in Windurst Woods for a cutscene.
+             Then zone into Heavens Tower for a cutscene.  When it's done, head
+             to the top floor and examine the vestal chambers door for another
+             cutscene.  Then head back to Apururu for another cutscene.  Next,
+             get a few high level people together and head to the Boyahda Tree.
+             The zone to the Boyahda Tree is at K-12 in the Sanctuary of Zi'Tah.
+
+             Everything you'll be passing in the Boyahda Tree aggroes to sound,
+             so you'll need sneak for most of your trip.  You'll first have to
+             kill elder goobue until they drop a clump of goobue humus.  Then,
+             head to the first map and make your way to F-4 where you'll find a
+             solitary mandragora warden NPC there.  Talk to it and it'll say it
+             wants something.  Trade it the goobue humus for a cutscene.  Go
+             through each selection until you've gone through each at least
+             once.
+
+             Head back to Apururu for a cutscene.  You'll be told to head to the
+             Full Moon Fountain.  Zone into the Full Moon Fountain to view a
+             cutscene that completes the mission.
+
+Reward:      Rank points
+Repeatable:  No
+Skippable:   No
+
+
+Mission #:                  9-2
+Mission Name:               Moon Reading
+Minimum Level Recommended:  73
+Requirements:               Complete mission 9-1, have a full rank point bar
+
+Mission Orders:  To lure the Bearer of Darkness to the Full Moon Fountain, you
+                 must collect the three verses of the ancient people.  As her
+                 guiding star, the Star Sibyl is counting on you to help her
+                 decide the path for Windurst's future.  The fate of Windurst
+                 rests upon your shoulders!
+
+What To Do:  Head to the vestal chambers door on the top floor of Heavens Tower
+             for a cutscene.  You'll be sent to retrieve three verses.  One from
+             Ro'Maeve, Chamber of Oracles, and the Temple of Uggalepih.
+
+             Head to Ro'Maeve and make your way to Qu'Hau Springs.  Examine the
+             springs for a cutscene.  You'll receive the Ancient verse of
+             Ro'Maeve (key item).
+
+             Now you'll need a few friends to help you with the next area.  Head
+             to the D-12 entrance of Quicksand Caves in Western Altepa Desert.
+             You'll need sneak for the entire trip.  Follow the left wall to a
+             door.  Use the pressure plate to open it.  Go through and follow
+             left wall again to another door and pressure plate.  Head through
+             the door and go straight to a drop.  Drop down and follow the left
+             wall to the Chamber of Oracles.  Zone in to view a cutscene.  When
+             it's done you'll receive the Ancient verse of Altepa (key item).
+
+             Your last stop is the Temple of Uggalepih.  You'll need to kill
+             Tonberry cutters for an Uggalepih key.  Once you get one, you'll
+             need to head to the next map.  From the main entrance, follow the
+             right wall to zone back out to Yhoator Jungle.  Follow the left
+             wall back into the Temple of Uggalepih.  Head to E-8 where you'll
+             find a granite door.  Trade your key to the door to open it.  It
+             can also be opened from the inside.  Head into the room and examine
+             the ??? point there for a cutscene.  When it's done, you'll receive
+             the Ancient verse of Uggalepih (key item).
+
+             When you've collected all three verses, head back to the vestal
+             chambers door and examine it for a cutscene.  Your next destination
+             is an uncapped fight in the Full Moon Fountain.  You'll have to put
+             together a party of people who can enter the fight with you.  Once
+             you have, make your way to the Full Moon Fountain.  Make sure you
+             have a tank, healer, and sleeper at the very least.  Examine the
+             moon spiral once you're ready to enter the fight.
+
+             There's two parts to this fight.  For the first part, you'll be up
+             against four ace cardians.  Sleep them all, then kill them in this
+             order:  Batons (BLM), Coins (RDM), Swords (PLD), and Cups (WHM).
+             After you kill the paladin, keep the white mage slept if you need
+             to recover mp.
+
+             For the second part of the fight, Ajido-Marujido joins the fight.
+             If he dies, you automatically lose, so keep a healer on him.
+             You'll be fighting a manticore and a wyvern.  Ajido-Marujido will
+             choose whichever one to fight first, so make sure you assist him.
+             Kite whichever one you're not fighting.
+
+             When they're both dead, you'll view a cutscene.  Head back to
+             Heavens Tower and examine the vestal chambers door for a cutscene.
+             Then check it one more time for one final cutscene.
+
+Reward:      Rank 10, 100,000 gil, Windurstian flag (furnishing), rank points
+Repeatable:  No
+Skippable:   No
+
+-------
+Credits
+-------
+Square-Enix, for creating Final Fantasy XI Online.
+GameFAQs, for posting my FAQ.
+The hundreds of thousands of people across the world who play this MMORPG.
+
+-----------------------
+Copyright & Other Stuff
+-----------------------
+Final Fantasy XI Nation Mission Guide/FAQ © 2006
+Final Fantasy XI © 2003-2006 Square-Enix, Inc.
+Disclaimer: This FAQ shall not be reproduced without the expressed written
+consent of the creator.

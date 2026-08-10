@@ -1,0 +1,697 @@
+Title:   Final Fantasy XI: Rise of the Zilart Missions Guide
+Author:  charjer0
+E-mail:  charjer@gmail.com
+Version: 1.0
+Date:    December 11, 2007
+
+========
+Contents
+========
+
+A Brief Explanation of My Guide
+Prerequisites
+Can I Skip Any Missions?
+Why Would I Want to Complete Missions?
+A Note on Positions
+Terms
+A Word on Maps
+The Missions
+Credits
+Copyright and Other Stuff
+
+===============================
+A Brief Explanation of My Guide
+===============================
+
+I've written this to be a guide, not a walkthru.  I won't tell you that you
+need a certain job to complete this mission or what kind of tactics you should
+be doing.  This is an online game and everyone has their own unique play style.
+Instead, I'll be ambiguous by saying things like, "It's recommended you have at
+least a tank, a healer, and some damage dealers."
+
+I'll also omit on how to get to certain areas, such as Ro'Maeve, as you should
+know how to get there as you progress in levels.  You've probably already been
+there in an experience party.
+
+=============
+Prerequisites
+=============
+
+To progress to the next mission, you need to complete the one you are currently
+on.  To start the first mission, you'll need to be at a minimum of rank six in
+any of the three starting nations (Bastok, San d'Oria, and Windurst).  You'll
+also need the Rise of the Zilart expansion installed and registered as well.
+
+========================
+Can I Skip Any Missions?
+========================
+
+The answer, simply put, is no.  Unlike certain nation missions, Rise of the
+Zilart missions cannot be skipped.  Unlike the nation missions, these missions
+are part of an expansion pack that has its own unique story and any skippable
+missions would destroy the "links" in each "chapter," so to speak.
+
+======================================
+Why Would I Want to Complete Missions?
+======================================
+
+A lot of people who play Final Fantasy games or RPGs in general do so for the
+story.  And that's what Rise of the Zilart is trying to give here:  a story.
+That, and the good feeling of killing something that's been blocking your story
+progression.
+
+If playing Final Fantasy XI for the story isn't what you're looking for, then
+you're probably better off playing World of Warcraft or Guild Wars.
+
+===================
+A Note on Positions
+===================
+
+Throughout my guide, I'll be using coordinates, such as G-7 or L-2.  These
+coordinates refer to your position on your map.  You can check your position
+by typing <pos> or by looking at your map by using the /map command.  Note that
+if you have no map for the current area you're in, it will simply display a
+map page with "No Map" in capital letters across the center.  Your position
+will still appear in the upper left area of the map.
+
+=====
+Terms
+=====
+
+Here's a brief explanation of some game terms I'll be using in this guide.
+
+Aggro:  A monster that will attack you while you either stand, sit, heal, or
+        cast magic close enough in front of it.
+
+Buff:  Casting spells that are beneficial to the party, such as protect, shell,
+       and haste.
+
+Damage Dealer:  Any job that can dish out the damage.  Jobs sought out as
+                damage dealers are ninjas, samurais, dark knights, thieves,
+                black mages, red mages, warriors, monks, and beastmasters, but
+                it can pretty much include any job depending on what type of
+                partying you'll be doing (i.e. skill up party, experience
+                party, etc.)
+
+Healer:  Any mage type character that usually will cast only healing spells.
+         Jobs most sought out as healers are white mages and red mages but can
+         also include bards and black mages.
+
+Invisible:  A spell that makes you invisible.  Usable by red mages and white
+            mages at level 25.  Usable by any level 50 job with a sub job of
+            red mage or white mage at a minimum of level 25.
+
+NPC:  It stands for non-playable character.  You'll find many of these around
+      towns and some outdoor/dungeon areas.  Their names are in green when you
+      target them.
+
+Sky:  As opposed to "the thing we see when we look up," this refers to the
+      region of Vana'diel known as Tu'Lia.  It is made up of many floating
+      islands with one large mass in the middle with many smaller islands
+      surrounding it.
+
+Sleeper:  Any mage type character that will usually focus on keeping all the
+          monsters slept.  Jobs most sought out as sleepers are black mages,
+          red mages, and bards but can also include white mages.  Also, some
+          damage dealing type characters can also sleep monsters using the
+          appropriate weapons such as thieves, samurais, dark knights, and
+          rangers.
+
+Sneak:  A spell that removes the sound you make while running.  Usable by red
+        mages and white mages at level 20.  Usable by any level 40 job with a
+        sub job of red mage or white mage at a minimum of 20.
+
+Tank:  Your meat shield, or the person taking all the monster's hate.  Jobs
+       most sought out as tanks are paladins and ninjas but can also include
+       warriors, thieves, and red mages (usually with ninja as a sub job).
+
+True Sight:  An ability that a monster has that allows it to aggro you despite
+             having invisible up.
+
+True Sound:  An ability that a monster has that allows it to aggro you despite
+             having sneak up.
+
+Zone:  Each area is called a zone.  When you change from one area to another,
+       it's called zoning.
+
+==============
+A Word on Maps
+==============
+
+I will assume that you already know where all these locations, what connects to
+what, and so forth.  However, if you do find yourself needing a map and you do
+not possess a certain one, you can go to http://www.ffxi-atlas.com for them.
+
+============
+The Missions
+============
+
+Mission Name:               The New Frontier
+Minimum Level Recommended:  50
+
+Mission Orders:  Vana'diel is expanding day by day.  What adventures await you
+                 in the Outlands?
+
+What to do:  Once you are rank six in any of the starting nations, enter Norg
+             for a cutscene.
+
+Reward:      Map of Norg (Key item)
+
+
+Mission Name:               Welcome t'Norg
+Minimum Level Recommended:  50
+
+Mission Orders:  Lion has someone she wants you to meet.  She will be waiting
+                 for you at the room at the end of the hallway on the second
+                 floor of Norg.
+
+What to do:  Head to Gilgamesh's quarters to view a cutscene.  It's up the
+             stairs and all the way to the end of the hall.
+
+Reward:      None
+
+
+Mission Name:               Kazham's Chieftainness
+Minimum Level Recommended:  50
+
+Mission Orders:  Before you travel to the Temple of Uggalepih, you are to meet
+                 with the Kazham chieftainness, Jakoh Wahcondalo.
+
+What to do:  Head for Jakoh Wahcondalo's residence and speak with her for a
+             cutscene.
+
+Reward:      Sacrificial Chamber Key (key item)
+
+
+Mission Name:               The Temple of Uggalepih
+Minimum Level Recommended:  65
+
+Mission orders:  The Temple of uggalepih is an ancient place where it is said
+                 that evil deities were once worshipped.  Gilgamesh has
+                 ordered you to travel there and search out a strange, old
+                 hermit.
+
+What to do:  You'll need to fight three Tonberries to compolete this mission.
+             But before you do, you'll need to make some preparations.  You'll
+             need a paintbrush (key item).  If you don't have one, you'll need
+             to get one or find someone who already has one.  You'll also need
+             four unlit lanterns which drop from Tonberry Maledictors.  You can
+             do it with one unlit lantern.  Four just makes the process faster.
+
+             You also don't need a full party to do this fight.  I did it in a
+             party of four and others have done it with as little as two.  I do
+             recommend getting someone that can tank and someone who can
+             sleep/cure.
+
+             Once you're all set with your items and party, enter the Temple of
+             Uggalepih via the J-12 entrance in Yhoator Jungle.  If you're
+             lower than level 70, you'll need invisible for the entire trip
+             through the temple.  Follow the right wall (point of view from
+             zoning in) back out to Yhoator Jungle.  From there, follow the
+             left wall back into the temple.
+
+             Follow the right wall again to a wooden gate.  If you have someone
+             high leveled or if you are, open the gate or have the jigh leveled
+             person do it to let everyone through.  Once on the other side,
+             head south to a T-intersection and head east.  You'll find a
+             temple guardian (doll monster) guarding a door that's magically
+             sealed.  It opens when you kill the temple guardian, so go ahead
+             and take care of business.  Be careful about casting magic in this
+             area because the NM Manipulator walks around on the other side of
+             the door and it aggroes to magic casting.
+
+             Once through the door, head to the northeast hall and follow it to
+             a 'secret door.'  Go through and have everyone go to the northeast
+             part of the room while the person with the paintbrush examines the
+             middle painting on the eastern wall to open the secret panel.
+
+             To open the secret panel, examine the painting and when that
+             little arrow thing appears that means there's more coming in the
+             chat log, wait 30 seconds then hit enter.  If you hit enter too
+             early, you'll have to do it over again.
+
+             Once the door opens, head through and zone into the Den of Rancor.
+             Here, you'll need sneak for bats and invisible for bombs and
+             tonberries.  From where you zoned in, follow the right wall to
+             find an altar of rancor.  You may need to kill everything around
+             it to avoid people getting aggroed.  Once everything is dead, have
+             everyone with an unlit lantern trade it to the altar of rancor to
+             receive a rancor flame.
+
+             Now, head back to the zone, but instead of running back and zoning
+             into the Temple of Uggalepih, go past it following the left wall
+             to another tunnel.  Once in the tunnel, follow the right wall and
+             you'll be on a different map once you reach the bottom.  Keep
+             following the right wall and you'll come to an area that has four
+             large apparatuses and a wooden gate. You may need to kill
+             everything in the area to make it easier to approach the
+             apparatuses.  Once they're dead, or if you're sneaky enough, have
+             each person with a rancor flame to up to a different pillar and
+             trade the flame to it to light it.  Once all four are lit, the
+             wooden gate will open.  Go through to zone into the Sacrificial
+             Chamber.
+
+             Take this chance to rest and buff up.  Once everyone's ready,
+             examine the gate to enter the fight.  You'll be facing three
+             Tonberries:  a thief, a black mage, and a summoner.  Defeat them
+             in that order.  I recommend an elemental seal sleepga II at the
+             start.  The first one you fight will be the one that won't be put
+             to sleep, which is the thief.  Be careful of the summoner's astral
+             flow.  If possible, try to keep the avatar slept at all times.
+
+             Once all three are defeated, you'll view a cutscene.
+
+Reward:      Dark fragment (key item)
+
+
+Mission Name:               Headstone Pilgrimage
+Minimum Level Recommended:  65
+
+Mission Orders:  Somewhere on the island of Zepwell lie the remains of an
+                 ancient temple.
+
+What to do:  You'll need to go around the world and collect seven different
+             colored fragments.  Be sure to bring prism powders and silent oil
+             as needed as most of the places you'll be travelling will have
+             magic aggro.  The dark fragment was given to you at the end of the
+             last mission.  For the last four, you'll be fighting spawned
+             monsters.  Here are the locations of the other seven:
+
+                  La Theine Plateau:    G-11, accessible only by going through
+                                        Ordelle's Caves.  From the main
+                                        entrance in F-7 of La Theine Plateau,
+                                        head down to I-6, which should bring
+                                        you to the second map.  Make your way
+                                        to H-12 and fall down the hole.  You'll
+                                        find yourself on the second map again,
+                                        but on a raised ledge.  Head through
+                                        the tunnel on the eastern side and
+                                        you'll find yourself on the third map
+                                        after ascending those stairs.  The zone
+                                        back out to La Theine Plateau is at
+                                        G-10 of this map.  Follow the ravine to
+                                        the end and examine the headstone to
+                                        get the wind fragment.
+
+                  Cloister of Frost:    There are two ways to get to this one.
+                                        The easiest way is to have the level
+                                        20 summoner quest available in which
+                                        you have the mini-tuning fork of ice.
+                                        Otherwise, head to Beaucedine Glacier
+                                        and enter Fei'Yin.  From the entrance,
+                                        make your way to G-9, which takes you
+                                        to the lower map.  Then head over to
+                                        I-5, which zones you into the Cloister
+                                        of Frost.  The headstone is on the
+                                        opposite side of the crystal.  Examine
+                                        it to get the ice fragment.
+
+                  Western Altepa Desert: You'll need to travel through the
+                                         Quicksand Caves to get to this one.
+                                         Rent a chocobo in Rabao and head to
+                                         J-9 in Western Altepa Desert and enter
+                                         the Quicksand Caves.  From the
+                                         entrance, follow the right wall and
+                                         you'll eventually come to some
+                                         quicksand.  Stand on it to fall
+                                         through, then follow the path and zone
+                                         back out to Western Altepa Desert.
+                                         You'll find the headstone in H-9.
+                                         Examine it to get the earth fragment.
+
+                  Cape Terrigan:        There are two way to get here.  If you
+                                        have done the supplies quest for the
+                                        Vollbow region, you can take the
+                                        outpost warp there.  Otherwise, you'll
+                                        need a Teleport-Altep and travel
+                                        through Western Altepa Desert and zone
+                                        into Kuftal Tunnel.  For Kuftal Tunnel,
+                                        you'll need sneak the entire way.  You
+                                        may need invisible if the NM Guivre is
+                                        up.  Head north to zone out to Cape
+                                        Terrigan.  Make your way to G-5.  Note
+                                        that this area is not marked on the
+                                        map.  Clear the area of monsters and
+                                        examine the headstone to spawn a shadow
+                                        type monster.  Once it's defeated,
+                                        examine the headstone to get the wind
+                                        fragment.
+
+                  Sanctuary of Zi'tah:  Make your way to J-9 to a tunnel not
+                                        marked on the map.  From there, head to
+                                        I-7 where you'll find the headstone.
+                                        Examine it when you're ready to spawn
+                                        an NM undead toad.  Examine the
+                                        headstone again once it's dead to get
+                                        the light fragment.
+
+                  Behemoth's Dominion:  From the entry area, make your way to
+                                        G-9 where you'll find the headstone.
+                                        When everyone's ready, examine the
+                                        headstone and two NM weapons will pop.
+                                        After they're dead, examine the
+                                        headstone again to get the lightning
+                                        fragment.
+
+                  Yuhtunga Jungle:      I saved the most difficult for last.
+                                        I suggest stocking up on some ice
+                                        clusters, prism powders, and silent
+                                        oils.  Rent a chocobo from Kazham and
+                                        head over to the G-5 entrance in
+                                        Yhoator Jungle to Ifrit's Cauldron.
+                                        Head to H-8 from the entry and you'll
+                                        be on another map.  Follow the left
+                                        wall from here and that will bring you
+                                        to C-12 and another map.  Make your way
+                                        to H-7 where you'll find a flame spout.
+                                        You can either way for it to go out or
+                                        you can trade an ice cluster to it,
+                                        thus putting out the flame for a good
+                                        five seconds.  Whatever you choose to
+                                        do, once you're past it, follow the
+                                        path to J-7/8 and you'll be on another
+                                        map yet again.  Follow the left wall to
+                                        E-7 to get to the next map.  Keep on
+                                        following the left wall again to G-6 to
+                                        the last map you'll need to go through
+                                        in Ifrit's Cauldron.
+
+                                        Follow the one way path here to I-8
+                                        where you'll find another of those
+                                        flame spouts.  Once past it, your next
+                                        task is to make it through the large
+                                        chamber where the HNM ash dragon is
+                                        lurking.  Be warned that it has true
+                                        sound during the night hours (18:00-
+                                        05:59).  After getting past the ash
+                                        dragon, you'll find another flame spout
+                                        at E-7.  Past it is the zone out to
+                                        Yuhtunga Jungle.
+
+                                        The headstone is in K-6 behind one of
+                                        the waterfalls.  Once everyone is
+                                        ready, examine the headstone to spawn
+                                        two NM opo-opos.  Once they're dead,
+                                        examine the headstone to get the fire
+                                        fragment.
+
+             Note that for the headstones that spawn NMs that you only need to
+             fight them once for everyone that is on the mission.  There is
+             also an easier way for a big group to get to the headstone in
+             Yuhtunga Jungle.  Have someone with tractor go through Ifrit's
+             Cauldron while everyone else waits around the ledge in Yuhtunga
+             Jungle.  Once the person makes it through, have everyone die and
+             tractor them up and raise them all.  Of course, it's more fair to
+             have everyone run through, but if you're dealing with newbies, it
+             might be easier doing it this way.
+
+Reward:      Light fragment, Earth fragment, Wind fragment, Ice fragment, Fire
+             fragment, Water fragment, Light fragment (key items)
+
+
+Mission Name:               Through the Quicksand Caves
+Minimum Level Recommended:  65
+
+Mission Orders:  You must hurry to Zepwell Island's ancient temple.
+
+What to do:  You'll want to put together a party for this one.  If the group
+             that did the last mission is still together, you should be good to
+             go.  It's recommended to have a tank of some sort, a healer, a
+             sleeper, and some damage dealers for this fight.  You'll be going
+             up against three anticans.  Be sure that any magic casters bring
+             some echo drops.
+
+             Rent a chocobo from Rabao (or run if you're high enough not to get
+             aggro) and make your way to C-11 in Western Altepa Desert.  This
+             is the entrance of an unmarked tunnel on the map.  Take the D-12
+             entrance to Quicksand Caves.  You'll need sneak for the whole trip
+             in here.  Follow the left wall from the entrance to I-9 where
+             you'll find a large pressure plate.  To activate it, have one
+             galka, two humes/elvaans/mithras, or three tarutarus stand on it
+             to open the door.  Follow the left wall again and you'll find
+             another pressure plate at H-7.  Activate it and go through the
+             door and fall down the hole to the lower level.  Follow the left
+             wall again to the Chamber of Oracles.  Buff up and once everyone
+             is ready, enter the fight.  Defeat the anticans in this order:
+             BLM, PLD, and RNG.  They will each use their two hours.
+
+Reward:      None
+
+
+Mission Name:               The Chamber of Oracles
+Minimum Level Recommended:  65
+
+Mission Orders:  The Chamber of Oracles is said to be located in the deepest
+                 area of the Quicksand Caves.
+
+What to do:  You'll be in a different area of the Chamber of Oracles.  Examine
+             each of the eight machines.  After the eighth one is examined,
+             you'll view a cutscene.
+
+Reward:      Prismatic fragment (key item)
+
+
+Mission Name:               Return to Delkfutt's Tower
+Minimum Level Recommended:  70
+
+Mission Orders:  Hurry to Delkfutt's Tower and stop the Zilartian princes from
+                 completing their plan to open the Gate of the Gods.
+
+What to do:  If you still have your Delkfutt's key from completing the starting
+             nations mission 3-3, then you'll only have to climb the last few
+             floors to get to your destination.  Otherwise, you'll have to trek
+             up twelve floors to get up to the Stellar Fulcrum.  For the
+             eleventh and twelfth floors, you'll need both sneak and invisible.
+             For the upcoming fight, you'll probably want a tank, a healer, a
+             back up healer, and some damage dealers.
+
+             If you remember the ending part of starting nations mission 3-3
+             (and by starting nations mission 3-3, I mission Bastok/San
+             d'Oria/Windurst mission 3-3, where you had to rescue your
+             embassy's ambassador from Delkfutt's Tower), that's the way we're
+             going, if you still have your Delkfutt's key.  On the first floor,
+             head to E-8 and trade the key to the door to go through.  Then
+             head to J-8 and examine this door in order to get through.  Head
+             straight in and you'll find a ??? spot.  Examine it and it will
+             take you up to the tenth floor on top of the elevator.
+
+             From the elevator, head to F-10 and head up to the eleventh floor.
+             Make your way to I-7 and you'll reach the twelfth floor.  In F-10
+             you'll find a teleporter that takes you up to the Stellar Fulcrum.
+             Once you're buffed up and everyone's ready, enter the fight.
+             Beware of dispelga and the hate reset move that he does.  Also, he
+             has a really hard hitting light attack.  I won't mention who
+             you'll be fighting so as not to give any spoilers.
+
+             Once he's defeated, you'll view a cutscene.  Then make your way to
+             the Tenshodo Headquarters and talk to Aldo for another cutscene.
+
+
+Mission Name:               Ro'Maeve
+Minimum Level Recommended:  70
+
+Mission Orders:  The Gate of the Gods, Tu'Lia, has been restored by
+                 Eald'narche.  What do his words "Ro'Maeve" and "blessed by
+                 the light" mean?  What is Lion's next move?
+
+What to do:  Head to Norg and examine the door to Gilgamesh's quarters for a
+             cutscene.
+
+Reward:      None
+
+
+Mission Name:               The Temple of Desolation
+Minimum Level Recommended:  70
+
+Mission Orders:  On the northernmost point of Mindartia and deep within the
+                 wilderness known as the Sanctuary of Zi'Tah lies a body of
+                 ruins feared by many.  Ro'Maeve, the Temple of Desolation.
+
+What to do:  For this trip, be sure you at least have some silent oil.
+             Monsters in the area you'll be going through aggro to sound and
+             magic casting.
+
+             Enter Ro'Maeve and head to the Hall of Gods.  Once there, head all
+             the way to the end and examine the cermet gate.
+
+Reward:      None
+
+
+Mission Name:               The Hall of the Gods
+Minimum Level Recommended:  70
+
+Mission Orders:  A strange grate prohibits you from journeying into the Hall of
+                 the Gods.  The depression in the center may be the key to
+                 getting through.  You should probably report this find to
+                 Gilgamesh.
+
+What to do:  Head to Norg and talk to Gilgamesh.
+
+Reward:      None
+
+
+Mission Name:               The Mithra and the Crystal
+Minimum Level Recommended:  70
+
+Mission Orders:  According to Gilgamesh, a Mithra carrying a mysterious
+                 crystal she found in Zi'Tah was recently in Norg.  Her name
+                 was Mary or Maroo or Maree...
+
+What to do:  Head to Rabao and speak to Maryoh Comyuja in G-7.  Next, rent a
+             chocobo or run out to the D-12 Quicksand Caves entrance in
+             Western Altepa Desert.  From the entrance, follow the right wall
+             to a pressure plate in K-8.  You'll need one galka, two humes/
+             elvaans/mithras, or three tarutarus to stand on the plate to open
+             the nearby door.  Once it's open, go through and you'll be on a
+             different map.  Make your way to G-8 to another pressure plate and
+             open up the next door.  Once through, fall down the ledge at the
+             end of the path.  Kill any monsters you find down here and search
+             around for a ??? point.  When you find it, buff up, rest, and when
+             you're ready, examine it to spawn an NM pot.  Once it's dead,
+             examine the ??? again for a scrap of papyrus (key item).  Now head
+             back to Rabao and talk to Maryoh Comyuja again.
+
+Reward:      Cerulean crystal (key item)
+
+
+Mission Name:               The Gate of the Gods
+Minimum Level Recommended:  70
+
+Mission Orders:  The path to Tu'Lia has opened!
+
+What to do:  Head back to the Hall of Gods and examine the cermet gate again.
+             Once past it, head all the way to the end of the path and examine
+             the shimmerling light for a cutscene.
+
+Reward:      Sky access
+
+
+Mission Name:               Ark Angels
+Minimum Level Recommended:  70
+
+Mission Orders:  Apathy, arrogance, cowardice, envy, rage--the darkness that
+                 lurks within us all.
+
+What to do:  Your next fight (or fights, depending on what you do) will up
+             against perhaps the most difficult things you've encountered yet.
+             Your foes this time will be what are called ark angels.  There are
+             five of these bad boys and they do not mess around.  You may have
+             noticed them in an earlier cutscene.
+
+             These guys have a main job and a sub job, just like you.  Unlike
+             you, they are able to use both their main job and sub job's two
+             hour ability.
+
+             Here's a run down of what they're called and what their jobs are:
+             Ark Angel TT is a BLM/DRK; Ark Angel MR is a THF/BST; Ark Angel HM
+             is a NIN/WAR; Ark Angel EV is a PLD/WHM (yeah, Invicible and
+             Benediction); Ark Angel GK is a DRG/SAM.  Dangerous combinations
+             when you give them the ability to use the two hour of the sub job,
+             too.
+
+             There's two ways to go about this mission.  You can either fight
+             them one on one by teleporting to their seperate islands in Ru'Aun
+             Gardens or you can choose to open up the quest titled Divine Might
+             wherein you will be allowed up to 18 people (3 full parties) but
+             must fight all five at once.
+
+             The path you choose in defeating them is yours.  I will say this
+             about Divine Might:  if you choose to do this quest with Ark
+             Angels open, it will count as a mission completion if you do
+             successfully complete the quest as it gives you the five key items
+             that you would normally get if you did the mission and defeated
+             them one at a time.  Again, I will not give out strategies because
+             everyone has their own play style and sometimes you can't win by
+             regular means.
+
+Reward:      Shard of apathy, Shard of arrogance, Shard of cowardice, Shard of
+             envy, Shard of rage (key items)
+
+
+Mission Name:               The Sealed Shrine
+Minimum Level Recommended:  70
+
+Mission Orders:  The door dep within the Shrine of Ru'Auvitau is sealed with
+                 some form of supernatural power.  Could this be the work of
+                 Eald'narche?
+
+What to do:  Enter the main entrance of the Shrine of Ru'Auvitau for a
+             cutscene.  Then head to Norg and speak to Gilgamesh, then run all
+             the way back to the main entrance of the Shrine of Ru'Auvitau for
+             another cutscene.
+
+Reward:      None
+
+
+Mission Name:               The Celestia Nexus
+Minimum Level Recommended:  70
+
+Mission Orders:  The fate of Vana'diel awaits you in the Celestial Nexus!
+
+What to do:  You're coming upon the final battle for the Rise of the Zilart
+             missions.  Get together your party, which I recommend having a
+             tank, a healer with erase, a back up healer, and damage dealers.
+             Be sure to also bring along some prism powders and silent oil as
+             needed.  Having your tank as a ninja or something subbing ninja
+             with your melee also subbing ninja will be beneficial.  You may
+             also want to search for some ranged attackers for your damage
+             dealers.
+
+             Make your way to the I-6 entrance of the Shrine of Ru'Auvitau in
+             Ru'Aun Gardens.  Some of the groundskeepers here will actually
+             aggro you, but these will only be the ones in the little hollowed
+             out sections of the walls you pass by and they'll only aggro if
+             you get too close to them.
+
+             You may need to have someone go into the main entrance to activate
+             a monolith.  There are two of them, each with a different color
+             and they open doors of the corresponding color while the door with
+             the other color becomes closed.  Be sure to apply sneak for
+             detectors (they look like floating orbs) and weapons and invisible
+             for the golems.
+
+             Once you've zoned in at the I-6 entrance, follow the right wall
+             until you reach the room in H-7.  Take the south path and you'll
+             arrive in a hallway that goes around and forms a kind of squarish
+             shape.  Head to H-9 where you'll find some stairs that go down.
+             Take them down and follow the path at the bottom and you'll zone
+             into the Celestial Nexus.
+
+             This fight will be in two parts.  In the first part of this fight,
+             you'll find your opponent with technically two forms.  I say
+             technically because he's protected by armor, so attacking him with
+             his armor in tact will be for naught because he is invulnerable at
+             this point.  There will also be two orbitals casting high level
+             magic.  Have your nukers or ranged attackers focus on these while
+             your tank and melee focus on taking out the armor.  The attacks by
+             the armor can be absorbed by utsusemi.
+
+             Once the armor's down, go ahead and attack him.  After his HP is
+             depleted, the battle will stop momentarily for you to view a
+             cutscene and you'll be immediately thrown into the second portion
+             of the fight.
+
+             In this second part, he'll teleport all over the place and pelt
+             you with ancient magic with fast cast.  Just try to keep up with
+             healing and basically go all out.
+
+             Once he's defeated, you'll view a cutscene.  To finish up some of
+             the story, head to Norg and speak to Gilgamesh, then head to the
+             Tenshodo Headquarters and speak to Aldo.
+
+Reward:      None
+
+=======
+Credits
+=======
+Square Enix, for developing the game.
+GameFAQs, for posting this list.
+Everyone online who has been gracious enough to help me see the story progress.
+
+=========================
+Copyright and Other Stuff
+=========================
+Final Fantasy XI: Rise of the Zilart Missions Guide (c) 2007 by charjer0.
+Final Fantasy XI: Rise of the Zilart (c) 2003-2004 by Square Enix Co., Ltd.
+Disclaimer: This List shall not be reproduced without the 
+expressed written consent of the creator.

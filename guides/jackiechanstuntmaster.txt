@@ -1,0 +1,999 @@
+Title:  Jackie Chan Stuntmaster Walkthru
+Author:  charjer0
+E-mail:  charjer@gmail.com
+Date:  May 10, 2000
+Version:  0.1
+
+--------
+Contents
+--------
+
+Default Controls
+Objects
+Items
+Walkthru
+Credits
+Copyright & Other Stuff
+
+----------------
+Default Controls
+----------------
+
+U - Move to the background area
+L - Move to the left
+D - Move to the foreground area
+R - Move to the right
+/\ - Kick
+[] - Punch
+X - Jump
+O - Grab enemy/Pick up weapon/Throw weapon/Grab ladder
+R1 - Dive roll
+R2 - Strafe
+L1 - Block
+L2 - Status display
+
+Note:  If you have a dual shock analog controller, turning on the LED 
+will activate the left analog stick, but you cannot use the D-Pad, or 
+directional pad.  It's one or the other.  In some situations, you may 
+have to use the D-Pad instead of the analog stick.
+
+-------
+Objects
+-------
+
+During the course of the game, you may become overwhelmed with enemies 
+mobbing you.  Don't worry because there is something you can do.  Jackie 
+can use weapons, just like in the movies.  His weapons range from 
+garbage can lids to pool sticks to umbrellas to even a potted sunflower.  
+Just pick them up with the grab button and use the kick or punch button 
+to use wield your weapon.
+
+You may also come upon red barrels.  When hit, there is a countdown of 
+about two seconds before it explodes.  So run away, or you'll get blown 
+to bits or lose a lot of energy, depending on your health bar.
+
+-----
+Items
+-----
+
+Jackie is not invincible and he is not Superman.  It's just like any 
+other adventure game where you have to get some kind of power up to 
+replenish energy.  There are three types that can be found in the game 
+to help replenish energy:
+
+Rice - Replenishes a little energy
+Milk - Replenishes more than rice
+Take-out Box - Replenishes almost the entire health bar
+
+There are also hard to find extra lives, which look like the thing in 
+the lower right hand corner of the screen when you bring up the status 
+display menu during game play.  There will also be some items in boxes 
+and barrels.  I'll leave you to find out what's in them.
+
+--------
+Walkthru
+--------
+
+The game begins with an FMV in a warehouse.  Jackie is loading up a 
+truck with boxes and his grandfather entrusts a box to him to be 
+delivered.  Meanwhile, the bad guys are not too far away.  In fact, 
+they're very close.    The next scene is in a restaurant and Jackie is 
+eating dinner.  He looks outside and sees his grandfather being 
+kidnapped.  Jackie rushes out to save him, but he's too late and the 
+people that kidnapped him have disappeared.  Now begins the game.
+
+=========
+Chinatown
+=========
+
+-Level 1-
+When you start off the level, go towards the right.  You should see a 
+crate and a balcony.  Go up there.  To the right, you should see a 
+hangover and the first dragon head.  Go get it, then jump down and go 
+into the alley.  You should see the second dragon head.  You can either 
+push that block towards it and jump up to get it, or do a double jump 
+off the wall.  Now take care of the bad guy to unlock the door.  Inside, 
+there will be two enemies, so take care of them.  Now, go up the stack 
+of boxes on the right side and go all the way to the top, then left.  
+Across, you should see the third dragon head and an enemy.  Get the 
+dragon head and follow him up and kick his ass.  Around the corner 
+you'll see the fourth dragon head.  Get it then go out the opening.  
+You'll see an FMV of Jackie sliding down the wire and crashing into a 
+light which sends him down into two barrels.  When you have regained 
+control, take care of the two enemies here and go towards the right.  
+You should see a stack of boxes and a hangover.  Go onto the boxes and 
+you'll see the fifth dragon head.  Use the hangover to help you get it 
+and to help you get over the wall.  Over the wall will be one enemy, so 
+take care of him.  Now go up to the elevated path, the one that's fenced 
+off, bounce off the hangover to the next elevated path to get the sixth 
+dragon head.  Now keep going and jump onto the next hangover, then the 
+next one and get the seventh dragon head.  Now go all the way down to 
+ground level and go back to the left to the first hangover.  You should 
+see two brown boxes.  Kick it to break it, then roll into it to go into 
+a secret area.  Take care of the two enemies here, then break the barrel 
+to get the eight dragon head.  Now follow the path up and go out the 
+door.  You should be in the area where you got the seventh dragon head.  
+Go down to ground level and take care of the two enemies.  Now jump down 
+and start running towards the screen, away from the truck.  Don't miss 
+the ninth dragon head.  Keep running and at the end of this path is the 
+last dragon head.  Go to the right and through the door.  Take care of 
+all of the enemies here to end the level.
+
+-Level 2-
+When you start off the level, go to the right and you should see an 
+alley.  Go there.  Climb up the boxes, but don't go in the door yet.  
+Instead, come towards the screen and you'll see the first dragon head.  
+Jump on the barrel, then jump to the rooftop, get the first dragon head, 
+then climb back up and go through the door.  Take care of the two 
+enemies here then get the second dragon head over the stove.  Go to the 
+right and take care of the rest of the enemies to unlock the door.  Take 
+care of the enemy here  then go to the right.  You'll see a collapsable 
+platform.  Jump across quickly to the ledge after the collapsable 
+platform and get the third dragon head.  Then jump across to the 
+balcony, go to the right and jump to the fire escape to get the fourth 
+dragon head.  Now go down the fire escape to ground level.  If you fell 
+off during the collapsable platform part, don't worry.  Just take care 
+of the enemy here and break the barrel all the way to the left to get 
+the fifth dragon head, then go to the right.  You should see a balcony.  
+Do a wall jump to it, then do another wall jump to the balcony right 
+above it.  Yes, it is possible.  Then get the two dragon heads.  Now go 
+in the alley towards the enemy that runs away.  You'll see an FMV of 
+Jackie getting away from a truck.  When you regain control, run towards 
+the screen, go around the boxes and don't miss the sixth dragon head, 
+and jump over the fence at the end.  Take care of the enemy here, then 
+go up the boxes and up to the ledge.  You'll see a sloped rooftop.  Go 
+all the way to the wall, then turn right and slide down the rooftop, and 
+jump to the collapsable platform, run to the other sloped rooftop, get 
+the seventh dragon head, you'll start sliding down again, jump to the 
+fire escape, get the eighth dragon head, drop down, you'll be on another 
+sloped rooftop, and get the ninth dragon head.  If you missed any of 
+these, don't worry.  Once you get to ground level, go to the left.  
+You'll see a building with boxes for windows.  Kick 'em out, then roll 
+into them and go to the left.  You'll end up on the top of the roof 
+again, except you'll be on the side with the longer sloped rooftop.  
+You'll see a barrel, kick it open to get the last dragon head of the 
+level.  Get any dragon heads you missed, then go back to ground level.  
+Go all the way to the right and you should find some bad guys.  Take 
+care of all the bad guys here to end the level.
+
+-Level 3-
+Start out by jumping onto the box behind you, jumping onto the pipe, and 
+then jumping over the hot surface to the other side to get the first 
+dragon head.  Take care of the two enemies here and go up the boxes, 
+jump to the next pile of boxes to the other side and go through the 
+door.  You're now on a balcony.  To the left is a stack of boxes.  Jump 
+to it, then jump again to the left to get the second dragon head.  Now 
+do a wall jump to the top of the boxes and go back to the balcony.  To 
+the right, you'll see hangovers on which you can bounce on.  There's two 
+of them, so do your thing and jump over to the next landing, while 
+collecting the third dragon head on the way.  Here, you'll have to fight 
+two enemies, or you can knock 'em down to the ground.  Now, go over to 
+where the enemy in the background was originally standing and the enemy 
+from the next landing should attempt to jump over.  If he makes it, kick 
+'im down to the ground.  If he doesn't, go to where that enemy 
+originally was and wrap around the building.  Next, we have two 
+collapsable platforms, so don't dawdle.  Go over to the next landing 
+quick and get the fourth dragon head and take care of the enemy or knock 
+'im to the ground.  Now, in the background, you should see a ledge.  
+Jump to it and go to the right side.  Above it, you should see another 
+ledge.  Do a wall jump to get up there.  Come towards the screen and you 
+should see the fifth dragon head.  Get it, and go through the door.  You 
+should be on a platform and to the right should be a car.  There'll be 
+three of them, then a ledge.  Jump to each car to get to the ledge and 
+break the barrel to get the sixth dragon head.  If you fall before you 
+get to the ledge, just go to the right while staying on the higher 
+elevation ground and you'll see a barrel.  Jump on the barrel and jump 
+up to the ledge and get the sixth dragon head.  Now go down and defeat 
+all the enemies to open the garage door.  You will see an FMV of Jackie 
+dodging a car.  When you regain control, defeat the enemy that pops up.  
+Go in the direction the car was going and you should see some boxes you 
+can jump on and the seventh dragon head.  Jump onto the boxes quickly 
+and grab the sign because the car will come back and break the boxes.  
+Get the seventh dragon head and jump up to the balcony.  Follow it to 
+get the gold dragon head and go through the door.  Break the box up here 
+to get the extra life.  Jump down and take care of all the enemies.  Go 
+towards the right and jump on the barrel to the suspended platform and 
+through the opening and get the eighth dragon head.  You'll land on a 
+truck.  Soon you'll be approaching the ninth dragon head.  Get it and 
+don't forget to watch for obstacles, then you'll be approaching a roof 
+top where you'll see the last dragon head.  Jump up to the roof top and 
+get the dragon head, then defeat all the enemies to end the level.  On 
+to the boss.
+
+-Boss-
+This area's boss is called Chef and he looks like Chef Boyardee, only he 
+has black hair.  If you stay away from him too long, he does a hop which 
+sends out a tremor.  My advice: go close range and hit with a five hit 
+combo, but don't stay too close.  This boss shouldn't be very difficult.  
+You'll then be rewarded with an FMV of Jackie taking out the trash.
+
+==========
+Waterfront
+==========
+
+-Level 1-
+Climb up the ladder and get the first dragon head.  Then continue on 
+that elevated path, jump on that pile of boxes and quickly jump onto the 
+sturdier pile of boxes.  From there, jump onto the pipe and you'll see 
+the second dragon head.  Jump towards it and land on the platform, then 
+go through the door.  Now you don't have to deal with the enemy you saw 
+down there  You will end up on a balcony.  Grab the life preserver and 
+jump down, two enemies will appear.  Use your life preserver as long as 
+you have it and defeat those two enemies.  Now climb onto the boxes and 
+go to the right.  You should see the third dragon head right under the 
+pipe, so jump for the pipe to get the dragon head, and then jump towards 
+the higher platform.  If you miss, don't worry because there's an 
+escalator down below near to where you land.  There will be an enemy up 
+there, so take care of him and you can go through the door.  There will 
+be two enemies, take care of them and the door down below will unlock.  
+I suggest pushing the box with the two arrows to the right so you can 
+jump up to the platform, break the box to get the fourth head, then do a 
+wall jump to the upper door and go in.  Break the box to get an extra 
+life and fall down the collapsable floor.  When you land, you'll see a 
+gauntlet and an enemy.  Deal with him, and one more will show up.  After 
+you defeat the second one, go to the right, push the box with two arrows 
+to the left towards the stack of boxes.  Climb up, roll under the 
+swinging net, and collect the fifth dragon head.  Now go through the 
+gauntlet that you saw earlier and defeat that big guy to unlock the 
+door.  Now in this next section, you'll have to be careful because you 
+can lose a lot of lives here.  Basically, just go towards the right and 
+get the sixth dragon head, then go up the ladder and beat the guy that 
+comes down to unlock the door.  You'll see a box swinging.  If you can, 
+time it just right so that you jump over to the stack of boxes, run to 
+the right, roll under the box, and repeat one more time to get to the 
+platform.  Jump on the box and jump once more to get the seventh dragon 
+head.  However, if you do fall off, you'll have to deal with two 
+enemies, plus getting back up onto the boxes is a bit trickier.  In the 
+next section, you'll have to deal with 7 enemies before you move on.  If 
+you can, kick 'em off the side of the bridge.  Once you deal with the 
+enemies, the gate will open and you can get the eighth dragon head.  You 
+will then see an FMV of a train coming towards Jackie.  When you regain 
+control, run towards the screen and you'll see the ninth dragon head.  
+Run to this platform and it will bring you down to water level.  Follow 
+these platorms and go up the stairs.  It's not necessary to take care of 
+the two enemies here, but you may have to.  Whether you choose to or 
+not, go up the stack of boxes and wait.  You'll see a swinging box.  
+Wait till it starts swinging in the opposite direction then jump to the 
+next stack of boxes, roll, then jump to the next stack of boxes.  Repeat 
+this process one more time.  You should now be on a stack of boxes and 
+see a box directly under a ladder.  Break the box to collect the last 
+dragon head.  Now go up the ladder and take care of the two guys up here 
+to unlock the door.  Take care of all the enemies and the level ends.
+
+-Level 2-
+When you start the level, you'll see a swinging net.  Roll under it and 
+jump to the pipe.  Swing to the right and get the first dragon head.  
+Now go all the way to the right until you reach the fence.  Kick it 
+down, jump to the platform and get the second dragon head.  Now go back 
+and wrap around the wall and go down the collapsable floor.  Defeat all 
+the enemies here to unlock the door.  You should see a gauntlet.  Go 
+through it and get the third dragon head.  Now continue on and go up the 
+ladder.  You should see a moving platform.  Jump to it, then the next 
+one, then to the balcony and get the fourth dragon head.  If you fall 
+off, don't worry because you can do a wall jump to the first platform.  
+Now follow the balcony and jump to the ladder and grab it.  If you miss, 
+you'll have to take care of the two enemies, move the box with two 
+arrows under the ladder, then climb up.  In this section, there are 
+three enemies.  Take care of them then go to the right.  You'll see a 
+swinging box.  Roll under it, jump to the pipe, and wait.  You'll see a 
+swinging net on the other side.  Time it so you can jump to the other 
+side and then roll under the swinging net.  Once you've done so, get the 
+fifth dragon head, take care of the enemy, then jump onto the boxes in 
+the background.  Do a wall jump to the area above and wrap around the 
+wall to the other side, watching out for the swinging box.  Break the 
+boxes.  One of them will have the sixth dragon head.  Now go back to the 
+other side where you came up and face right.  Jump up and go towards the 
+right and you should grab on to a ledge.  Pull yourself up and go in.  
+You'll find yourself in a small room with a box.  Break it and you'll be 
+able to get a golden dragon head.  Exit out to the right.  Turn to the 
+right and jump to the pipe, then jump to the next pipe.  You should see 
+the seventh dragon head.  What you should do here is aim for the 
+platform behind the dragon head.  Climb up, go to the right and you'll 
+see an FMV of Jackie sliding down a wire down to a boat and jumping onto 
+a pier.  When you regain control, go up the stairs.  You can fight the 
+bad guys here, but you don't have to.  Just go up the boxes, go in the 
+left direction, jump to the next stack of boxes, roll under the swinging 
+net, jump to the next stack of boxes, roll under the swinging box, jump 
+to the next stack of boxes, pull yourself up, get the eighth dragon 
+head, roll under the swinging box, jump to the next stack of boxes, 
+follow the bad guy, and get the ninth dragon head.  Take him out, go to 
+the left, kick out the fence, jump over to the next pier, and jump up to 
+the elevated pier.  Now you should see the last dragon head to the left.  
+The pier you see where the dragon head is collapsable.  So jump to it, 
+and run to the left while getting the last dragon head, then jump and 
+grab the pier at the end.  Take care of all the enemies here to end the 
+level.
+
+-Level 3-
+Go towards the left.  When you get to the third pillar, stop and wait.  
+You should see a swinging box.  Time your jump, roll under it, jump to 
+the next pillar to get the first dragon head, and then jump up to the 
+pipe and over to the platform.  If you miss the pipe, hopefully you'll 
+land on the platform down below.  If you landed on the platform, jump to 
+the area to the left, go down and go up the escalator.  You'll have to 
+deal with three enemies here to unlock the door.  Here, you'll have to 
+deal with three enemies again.  Once you've done that, go to the right 
+and up the stack of boxes and you'll see a swinging box.  Time it 
+correctly and roll under it and jump to the next stack of boxes.  Repeat 
+one more time and jump for the pipe and you'll see the second dragon 
+head on the boxes directly ahead.  Jump up there and get it then jump 
+and grab the ladder and go up.  You'll see a gauntlet.  Go through it, 
+then through the door.  You'll then see a moving platform.  Jump onto it 
+and ride it to a stationary platform with the third dragon head and a 
+ladder.  Go up the ladder and go to the right.  Take care of the enemy, 
+jump to the pipe, jump to the platform, jump to the pipe, jump to the 
+other pipe, then jump towards the window.  You'll see an FMV of Jackie 
+crashing through the window.  Take care of the five enemies to unlock 
+the door.  Go to the right and jump on the first pillar and you should 
+see opening in the wall in the upper part of the screen and another 
+pillar in the foreground.  Go to that pillar and do a wall jump to the 
+opening and go in.  Take care of the two enemies and break open the box 
+in the background to get the fourth dragon head.  Go up the ramp to the 
+right onto the boxes and go through the opening.  You should land on a 
+platform.  Now go up and down towards the screen and you'll see a 
+swinging box.  Do as you usually do with swinging boxes and go towards 
+the right until you see two boxes and another swinging box.  Break the 
+box in the back to get the fifth dragon head.  Now roll under the 
+swinging box and repeat for the next swinging box and one more time for 
+the third and jump for the pipe.  You'll see the sixth dragon head in 
+front of you close to the piece of ground.  Go get it, run to the right 
+a little and you should see a platform on the water.  Jump down to it 
+and jump to the one on the right and then jump to the bigger bluish 
+platform and take care of six enemies to unlock the door.  Go into the 
+room and go up the escalator.  You'll see a swinging box and the seventh 
+dragon head.  What I like to do is roll under the box and go down the 
+ramp because that lines you up with the dragon head.  You'll then land 
+on train tracks.  Run towards the screen on the left side.  Roll under 
+the box and get the eighth dragon head.  Keep going and you'll see the 
+ninth dragon head on a platform.  The platform will drop down and you'll 
+land on a wooden platform.  What you want to do is go towards the 
+background, then jump to the next platform, which is collapsable.  Run 
+to the left and at some point you'll have to roll under a swinging net 
+to get the last dragon head, jump to the next platform, go towards the 
+door, and the level ends.  On to the boss fight.
+
+-Boss-
+This area's boss is named Barney, but he's no fun loving dinosaur.  He's 
+a fat bad tempered guy with a huge steel pipe.  Try to stay away from 
+that pipe and attack from the back.  If you attack from the front, he 
+tends to grab you, so be careful when using a front attack.  The best 
+time to attack him is right after he tries to attack you.  So run 
+around, try to get him to attack, and kick his ass.  After the fight, 
+you'll get a nice FMV of the post-fight.
+
+======
+Sewers
+======
+
+-Level 1-
+You'll see the first dragon head when you start this level.  So do a 
+wall jump to get it.  Go in the pipe and defeat the enemy waiting in 
+here.  Not too far down is another one, so take care of him, too.  
+Continue on and you'll come across flowing sewage and moving platforms.  
+On the side where the platforms come out, you'll see the second dragon 
+head.  Get it and continue on.  You'll then come across another enemy.  
+Get rid of him and follow the path, which leads you to a ramp.  Slide 
+down the ramp and get the third dragon head.  You're now in the next 
+section.  Go up the ladder and do wall jumps until you get to the 
+highest level.  Go to the right and you'll see the fourth dragon head on 
+a collapsable platform.  Jump to it and just ride it out to the bottom, 
+where you'll meet two enemies.  Take care of them or go through the 
+opening.  Now, you're in the next section and you should see the fifth 
+dragon head.  Go get it and continue on to the right, but don't get 
+blown off by the fan.  You'll face one enemy here and the door will open 
+once you defeat him.  Continue on and you'll come up to sewage flowing 
+again.  Jump onto the moving platform to the middle island.  Then jump 
+onto the other moving platform and ride it to the right until you see a 
+suspended platform.  There should be another above it.  Do a wall jump 
+to it and go in that pipe to get the golden dragon head, then go through 
+the opening down to the sixth dragon head, and go up the ladder.  In the 
+next section, defeat the two enemies to unlock the door.  Before you go 
+through the door, there is a box that's in the left side of the room.  
+Break it and you'll receive the seventh dragon head.  Go through the 
+door and you'll see an FMV of Jackie landing on a train.  Watch out for 
+the obstacles and you'll come upon the eighth dragon head.  Watch out 
+for a couple of enemies.  At one point, you'll have to jump to another 
+train.  When you do, you'll come upon the ninth dragon head.  When the 
+train stops, you will be under a platform with the last dragon head.  Go 
+to the front of the train and a little to the left and do a wall jump to 
+the platform because there is an opening there, get the last dragon 
+head, then jump down to the area below and defeat all the enemies to end 
+the level.
+
+-Level 2-
+You start off this level by facing three enemies.  Defeat them, climb up  
+the soda machine, jump to the platform, then jump and grab the ladder.  
+Follow the path, watch out for the fan, and go through the opening.  In 
+this section, either beat the bad guy or go to the right and jump onto 
+the left-most train.  After you see the obstacle for the right-most 
+train, jump to it so you can get the first dragon head, then jump back 
+to the left train so you can get the second dragon head.  After the 
+tunnel, jump back to the right train to get the third and fourth dragon 
+heads, and back to the left train to avoid the obstacle.  Three enemies 
+will jump down.  Take care of them.  When the train starts to slow down, 
+you'll see the fifth dragon head on a little platform.  Jump up to it.  
+You get a little FMV of Jackie dodging a train and rolling into the next 
+area, knocking an enemy into the water.  You should see the sixth dragon 
+head from where you are.  So jump onto the moving platform, get it, jump 
+back, and follow it until you reach the opening of the next area.  
+Defeat the enemy here to open the door.  There will be an enemy here.  
+Take care of him, watch for the steam jets, and follow the path to the 
+ramp.  Slide down the ramp dodging the obstacles and also don't miss the 
+seventh dragon head after the second obstacle.  The ramp will bring you 
+into the next section.  Ride the moving platform all the way to the 
+right to get the eighth dragon head, then jump off to the opening of the 
+next area.  Defeat four enemies here to open the door.  Follow the path 
+to the flowing sewage and two rows of moving platforms.  Here you will 
+find the last two dragon heads on both sides.  Once you have gotten 
+them, proceed to the other side and go through the opening to the next 
+section.  Defeat all the enemies here to end the level.
+
+-Level 3-
+You start off in a sewer pipe, so come towards the screen and go to the 
+left.  Watch out for the jet streams.  Jump to the bridge and go towards 
+the background.  You should see a platform above you.  Do a wall jump to 
+it, get the extra life and the first dragon head, then go through the 
+opening.  Now go to the left, past the first jet stream then wait for 
+the fan to stop blowing.  When it does, get the second dragon head and 
+continue to the left.  Jump to the bridge, go towards the background, 
+jump over the little gap in the bridge, then go through the door.  Take 
+care of all the enemies here to unlock the door.  Wrap around the wall 
+and you'll see moving platforms.  Jump across to the other side and 
+there'll be a ramp.  Slide down and don't miss the third dragon head.  
+You'll now be in the next section.  You should see a platform on the 
+sewage to the right.  Use it to jump to the other side.  Take care of 
+the enemies here, then climb all the way up to the top of the ladder and 
+you'll see the fourth dragon head on a collapsable platform.  Jump to 
+the platform and get it and ride the platforms all the way to the 
+bottom.  Jump back across to the other side, use the ladder, then use 
+wall jumps to get to the upper platforms.  At the top, you'll see the 
+fifth dragon head to the right.  Jump to it and you'll also fall down 
+the hole.  You'll then see an FMV of Jackie falling onto a train.  Dodge 
+the obstacles and don't miss the sixth dragon head.  Watch for an 
+incoming enemy.  Take care of him, don't miss the seventh dragon head, 
+them jump to the train on the right.  Dodge more obstacles, another 
+enemy, jump to the train on the left, dodge more obstacles, jump to the 
+train on the right, after the obstacle jump back to the train on the 
+left, then jump back to the train on the right to get the eighth dragon 
+head.  Dodge more obstacles, watch for more enemies jumping down, jump 
+to the train on the left, dodge more obstacles, jump to the train on the 
+right, dodge more obstacles, jump to the train on the left, dodge more 
+obstacles, watch for an enemy, jump to the train on the right and don't 
+miss the ninth dragon head.  Watch for another enemy, jump to the train 
+to the right, then jump to the other train on the right, jump to the 
+train on the left, then back to the right, then back to the left, then 
+the train on the left, then one more time while getting the last dragon 
+head.  When this train stops, jump down to the waiting platform and take 
+care of all the enemies to end the level.  Up next, the boss fight.
+
+-Boss-
+This area's boss is called Clown, and he has a helper: a mime.  I 
+recommend getting rid of the mime first because he just gets in the way 
+of you beating up Clown.  The Clown wears boxing gloves, but that's not 
+intimidating, is it?  A useful tactic is to keep hitting him and running 
+away.  If you stay too close for too long, he either stuns you and gives 
+you a nasty combo, or picks you up and throws you.  A good thing to know 
+is that he can't get you in high places, and lo and behold, there are 
+three lockers.  So if you need a little breather to think out your 
+strategy, go up there.  So stick to hitting to knock 'im down, run away, 
+and repeat.  After the fight you'll see an FMV.
+
+========
+Roof Top
+========
+
+-Level 1-
+Use the wooden ramp to jump to the rooftop in the left direction.  Take 
+care of all the enemies here to lower the ladder.  Climb all the way up 
+to the next rooftop.  A helicopter will come up but you don't have to 
+worry about it.  In the background to the left is a chimney.  Break it 
+and you can get the first dragon head.  Now go to the right and jump to 
+the next rooftop, wait for the fan, then go to the left, wrap around the 
+structure and go towards the background to the next rooftop.  Take care 
+of two enemies here, jump to the next rooftop to the right, and you can 
+either take care of this enemy or you can go up the ladder.  Climb all 
+the way up to the next rooftop and take care of the bad guy here.  Use 
+the ramp to jump to the ledge to the right.  Wrap around the building, 
+run in the right direction and don't miss the second dragon head, and 
+pause the game at the end of the ledge.  You'll see a suspended platform 
+in front of you.  It's collapsable, so you'll have to be quick when you 
+do this part.  Jump to the collapsable platform, run to the right, jump 
+to the next collapsable platform and do a wall jump go get to the 
+balcony above the second collapsable platform.  You should've gotten the 
+third dragon head when you did the wall jump.  If you missed the 
+balcony, you'll have to start over again.  It's that difficult.  If you 
+made it, go in the door.  Take care of the two enemies here and the door 
+all the way to the right will unlock.  You'll now be on a rooftop with a 
+barrel in the foreground.  Break it and you can get the golden dragon 
+head.  Now run towards the background and use the wooden ramp to get to 
+the ledge.  Turn right and jump to the scaffolding.  Ride it until it 
+stops.  Go to the left and jump up to get the fourth dragon head.  Now 
+go to the right and wrap around the building and go towards the 
+background.  You'll see an FMV of Jackie, well you'll see it.  He lands 
+in a pigeon cage.  Go to the right and use the wooden ramp to jump to 
+the platform, then jump to the next rooftop.  Use the ramp here to jump 
+to the rooftop in the background.  Defeat all the enemies here to lower 
+the ladder.  Climb all the way up to the next rooftop and use the ramp 
+to jump to the rooftop to the right.  Jump to the scaffolding and run to 
+the right and jump to the collapsable platform to get the fifth dragon 
+head.  Ride the collapsable platform down to the rooftop.  You should 
+see the sixth dragon head to the right on the balcony.  Jump to the 
+balcony and get the sixth dragon head then climb up the ladder to the 
+next rooftop.  Take care of the two enemies here, use the ramp to jump 
+to the hangover, jump to the next hangover, and then to the next rooftop 
+where you'll see the seventh dragon head.  Get it, then wait for the fan 
+to stop blowing, jump over the rolling block, take care of the enemy 
+that kicked the rolling block, and jump to the ledge in the background.  
+Run to the right and jump to the flagpole and you'll get the eighth 
+dragon head.  Swing to the collapsable platform, then run to the right 
+and jump to the rooftop.  You'll see the ninth dragon head in the 
+foreground on the sloped rooftop.  Jump to it, then slide down and jump 
+before you reach the end to get to the next rooftop.  Take care of the 
+bad guy here.  Don't worry if he gets away.  Use the ramp to jump to the 
+next rooftop and wrap around the building and go to the right.  Jump to 
+the platform to the right, and then jump to the next rooftop.  You 
+should see a wooden platform right above you.  Use the pillar to do a 
+wall jump to it, then face left, jump to the collapsable platform, climb 
+up, run to the left getting all the goodies and the last dragon head, 
+then go back to the rooftop on the right and enter the door.  Take care 
+of all the enemies in here to end the level.
+
+-Level 2-
+First, jump on the elevator to the right and ride it all the way to the 
+top.  When you get there, jump to the left balcony, get the first dragon 
+head and go through the door.  Jump onto the elevator all the way to the 
+top again and this time, jump to the balcony on the right, climb up the 
+ladder, and follow the enemy you see.  Here, you can either take care of 
+the enemies or climb up the ladders to the next rooftop.  On the next 
+rooftop, wait for the fans to stop blowing and go to the right, jump to 
+the flagpole, swing to the hangover, get the second dragon head, jump to 
+the next flagpole, then swing to the next rooftop.  Wait for the fans to 
+stop blowing, go to the right and you should see a grayish thing on the 
+right.  Kick it and get the third dragon head.  Now run towards the 
+background, jump to the ledge, then jump to the next ledge on the right, 
+then to the next one, and jump to the next rooftop, and take care of the 
+two enemies here.  Then jump to the next rooftop, go to the right, jump 
+to the ledge, wrap around the building and jump to the next ledge, jump 
+again to the next ledge, wrap around the building, and you should see a 
+ninja.  Follow the ninja's path to the background.  When you get to the 
+part where the ninja jumped off, you should see a box.  Break it and get 
+the fourth dragon head.  Then go to the right and climb up the ladder.  
+You'll see an FMV of Jackie sliding down the wire and getting kicked off 
+by the ninja you saw.  When you regain control, go in the door and take 
+care of the enemies in here to lower the ladder.  Go up and take care of 
+the enemies on the rooftop.  Then go to the left, in between the 
+building and the shack.  Do a wall jump off the shack onto the building, 
+go to the left, down the sloped rooftop, jump to the flagpole, jump to 
+the hangover, jump to the next flagpole, and then to the sloped rooftop.  
+Don't miss the fifth dragon head.  You'll then land on another rooftop.  
+This next part is tricky.  Come towards the screen and jump onto the 
+edge of the rooftop, jump to the foreground to the ledge, run towards 
+the screen and wrap around the building to the right and jump, wrap 
+around the building towards the background and go to the edge of the 
+ledge.  Face right and jump to that rooftop.  Break the barrels and get 
+the sixth dragon head.  Now go back to the rooftop you came from, and 
+use the wooden ramp to jump to the ledge on the left.  Follow the ledge 
+to the left, use the collapsable platforms to get to the other side, 
+then jump to the next ledge to the left.  Wrap around the building, 
+climb up the ladder, and you'll have to deal with three air ducts that 
+are blasting air.  The seventh dragon head in the background is your 
+goal.  So run towards it.  If you start getting blown off the rooftop, 
+run towards the air duct until you can run towards the background 
+without getting pushed away too much.  When you've gotten to the ledge 
+with the seventh dragon head, run to the left and jump to the ledge and 
+go through the door.  Take care of the enemies in here, then move the 
+box with red arrows to the structure in the middle then jump onto it.  
+Go to the right, jump to the pipe, then swing to the ledge and go 
+through the door.  You'll see a scaffolding.  Jump to it, run to the 
+right, jump to the next scaffolding, run to the right, jump to the next 
+scaffolding, run to the right and get the eighth dragon head.  If you 
+missed it, run to the left waiting for the fans to stop blowing and 
+you'll see a small box.  Break it and roll into it and you'll end up on 
+the platform before the first scaffolding.  Now run to the right and 
+you'll see a structure spewing fire.  Time it so that you jump over to 
+the rooftop with the ninth dragon head.  If you miss, come towards the 
+screen to the sloped rooftop.  Slide down the left side and jump to the 
+ledge.  You'll see a small box again.  Break it and roll through it.  
+You'll end up after the last fan and before the structure that spews 
+fire.  After you get the ninth dragon head, come towards the screen to 
+the sloped rooftop.  Slide down the right side and get the last draogn 
+head.  Then take care of all the enemies here to end the level.
+
+-Level 3-
+First, go down the ramp.  Before you hit the bottom of the ramp, jump, 
+and you should catch the flagpole.  Jump to the left to the hangover and 
+get the first dragon head.  Now jump to the hangover to the right and 
+you should see the second dragon head below.  Get it and wrap around the 
+building and wait for the fans to stop blowing.  Once you get past the 
+fans, jump to the next ledge.  Next you'll find yourself in front of 
+three collapsable platforms.  Jump on them to get to the other side 
+while getting the third dragon head.  Now wrap around the building and 
+jump to the scaffolding, run and jump to the next scaffolding and get 
+the fourth dragon head.  You should've caught the ledge as you fell.  If 
+you missed the dragon head and you're still to the scaffolding, jump to 
+the ledge.  Come towards the screen and you should see a ladder.  Go up 
+it, go towards the background and you should see another ladder.  Jump 
+and grab it, go up, then go to the left through the door.  In here is an 
+extra life.  Go through the other door and you'll end up right before 
+the first scaffolding for a second try.  When you have the fourth dragon 
+head, head through the door.  Defeat all the enemies in here to unlock 
+the door.  You'll now be on a balcony and you should see the fifth 
+dragon head looking right at you.  Come towards the screen as much as 
+you can, then turn right and jump to the next balcony.  Come towards the 
+screen as much as you can again and turn left and jump to the next 
+balcony.  Now, line yourself up with the dragon head's shadow and jump 
+for the hangover.  Jump up to the flagpole and jump back towards the 
+balcony to get the fifth dragon head.  Now jump back to the hangover, up 
+to the flagpole, and to the ledge in the foreground.  Wrap around the 
+building and you'll face three collapsable platforms.  Jump on these 
+while going towards the left to get to the next ledge, then jump to the 
+next ledge and keep going until you reach a rooftop.  You can either 
+take care of the enemies here or climb up the ladders to the next roof 
+top.  Take care of the enemy up here and slide down the roof.  Jump to 
+the next roof and don't miss the sixth dragon head.  You'll then see an 
+FMV of Jackie crashing through glass and landing in the next section.  
+Defeat all the enemies here to unlock the door.  You'll now find 
+yourself on a balcony.  Go towards the left to the end of the balcony 
+and you'll see a wooden platform above you.  There's a pillar you can 
+use to do a wall jump to it.  Go up to the wooden platform, jump to the 
+next platform, then jump to the next platform.  Now go down and jump to 
+the next ledge, wrap around the wall and go up the ladder.  Now you'll 
+see three air ducts.  Each is blowing out a tremendous amount of air.  
+If it starts blowing you, run towards it and attempt to run towards the 
+background.  The next ledge is your short term goal right now.  Once 
+you've made it to that ledge, go to the left and jump to the roof top.  
+You should've seen a ninja jump in the background.  Go to where he was 
+before he jumped.  Now you should see an elevator.  Jump on top of it 
+and ride it to the top.  Once it stops at the top, jump to the balcony 
+on the right side and go in the door.  Climb up the boxes to the higher 
+ledge and go into the door on the right to get to the rooftop.  Defeat 
+the enemies here and use the wooden ramp to jump to the platform, then 
+stop.  You should see a swinging piano.  Same drill as the swinging box, 
+except that there are gaps between the platforms, so you'll have to time 
+it correctly to get to the other side.  Once you get there, you should 
+see a ledge in the foreground.  Jump to it, wrap around the building and 
+go down.  Now, go down the roof and jump before you read the end to grab 
+the flagpole.  Swing yourself over to the hangover and make your way 
+down jumping to each hangover, but don't go all the way to the bottom.  
+Just jump down to the ledge before bottom level.  If you're in the 
+correct place, you should see fans again.  Make your way past them and 
+jump to the next platform.  You'll see more collapsable platforms again, 
+so do your thing and get the seventh dragon head on the way to the other 
+side.  Once you get to the other side, wrap around the building and jump 
+and grab the flagpole, jump to the hangover, jump to the next flagpole, 
+and jump to the platform.  Jump to the next platform and run towards the 
+right like a madman not missing the eighth dragon head because it's all 
+collapsable platforms, then jump to the next platform.  You should see a 
+balcony in the foreground.  Jump to it and go through the door.  You 
+should be on a high ledge.  Jump down and defeat all the enemies here.  
+Push the box with the red arrows towards the structure in the middle of 
+the room and climb up.  Go to the right and jump to the pipe and swing 
+yourself to the platform and go through the door.  This places you 
+outside.  You should see a structure spitting out fire.  Time your jump 
+because you don't want to get burned and jump to the other side to get 
+the ninth dragon head.  Slide down the roof and jump to the next 
+platform.  Keep going to the right jumping onto the structures to the 
+next platform and you'll see the last dragon head.  Keep going to the 
+right and the level will end when you get to the last platform.  On to 
+the boss fight.
+
+-Boss-
+First, follow the hall in the right direction and go up the ladder.  
+You'll see an FMV of Jackie meeting this area's boss, Disco.  Be 
+careful, because this guy is fast and he does a lot of break-dancing 
+attack moves.  If you knock 'im down, watch out for his counter attack.  
+Kicks work best for this boss, but you can occasionally get in a punch 
+or two.  After the fight you'll see an FMV of Jackie running and 
+grabbing on to a helicopter.
+
+=======
+Factory
+=======
+
+-Level 1-
+Start off the level by riding the conveyor belt on the right, jump to 
+the right to the next conveyor belt, then jump to the next conveyor 
+belt, then jump to the platform.  To right, you'll see platforms moving 
+up.  Ride one to the top and jump to the left to the platform.  Then 
+jump to the left to the conveyor belt, jump to the ledge, run to the 
+left and jump to the platform, take care of the enemy here, and jump on 
+the platform to the left to go up.  Ride the conveyor belt to the 
+background while watching out for the fire spewing out the holes.  Then 
+ride the next conveyor belt that goes to the right and watch out for the 
+three wall push outs.  Before the end of the conveyor belt, jump to the 
+right to the platform and take care of the enemy here.  Then wait for 
+the collapsable pathway to come into the up position.  To the right, 
+you'll see the first dragon head.  Get it and slide down the chute.  At 
+the bottom, wait for the collapsable pathway to come up and cross it.  
+Then jump to the background to the first ledge, then again to the second 
+ledge and jump down.  Take care of all the enemies here to unlock the 
+door.  Here, you'll see structures spewing out fire.  Jump onto these to 
+get to the ledge on the right, then do it again to get to the next 
+ledge.  On the top of the roof, don't miss the second dragon head.  Drop 
+down and take care of the three enemies here to unlock the door to the 
+right.  In here, run to the left and jump onto the conveyor belt.  To 
+the left is a moving platform.  You may have to wait for it to come to 
+the up position.  When it does, jump to it and run to solid ground.  Go 
+to the left to the next moving platform, wait for it to come to the up 
+position, run onto it, and jump to the left to the conveyor belt.  Then 
+jump to the next conveyor belt, jump onto the moving platform, get to 
+solid ground, run to the left to the other moving platform, wait for it 
+to get to the up position, run onto it, and jump to the left to the 
+conveyor belt.  Jump to the next conveyor belt and run to the left, then 
+jump to the platform.  You'll see some moving platforms going up and 
+down.  Use these to get to the background, and don't miss the third 
+dragon head, then go into the opening in the back wall.  Now ride the 
+conveyor belt, but fall down to the path below.  Take care of the enemy 
+here, follow the path to the end, jump onto the platform at the end and 
+ride it up.  When you get to the top, don't jump back down to the 
+original path yet.  Instead, go towards the background and break the 
+barrel to get the fourth dragon head.  Now go down to the original path, 
+ride the conveyor belt, jump to the next conveyor belt, then jump to the 
+next conveyor belt and run to the right, jump to the platform, then jump 
+onto one of the moving platforms and ride it to the top.  When you get 
+there, jump to the platform on the left, jump to the conveyor belt, wait 
+for the wall push out to come out, jump and grab it, climb up, run to 
+the left, jump to the platform, and take care of the two enemies here to 
+unlock the door.  Ride the conveyor belt to the background while 
+watching out for the fire.  Then ride the other conveyor belt and watch 
+out for the wall push outs.  Before the end of the conveyor belt, you'll 
+have to jump onto a moving platform.  You might have to wait for one to 
+come out.  Ride it to the top, jump to the left to the conveyor belt, 
+watch out for the wall push outs, then go through the door after you get 
+off the conveyor belt.  Take care of all the enemies here to unlock the 
+door to the right.  You'll see an FMV of Jackie taking care of an enemy.  
+When you regain control, go to the left and you should see a block that 
+doesn't match the rest of the wall.  Break it and get the fifth dragon 
+head.  Go back to the right and use the structures to get to the next 
+platform, then use the next structure to help you jump to the ledge.  
+Follow the bad guy to the next area and watch out for the other one 
+around the corner.  In this next section, you'll see swinging boxes, so 
+do your thing.  When you get past them, follow the path and go through 
+the door.  Here, ride the conveyor belt, jump to the right to the next 
+one, then jump to the platform.  Wait for the wall push out to come out 
+and run onto it and jump to the next platform.  Jump onto one of the 
+moving platforms, ride it to the top, jump to the left to the ledge, 
+jump to the conveyor belt, jump to the platform, wait for the wall push 
+out to come all the way out, run onto it, and jump to the platform on 
+the left and get the sixth dragon head.  Go to the left and jump onto 
+the moving platform, then get off of it and fall through the space it 
+was covering to get the seventh dragon head.  Now you can either do a 
+wall jump to get back up or fall down.  If you fall down, just follow 
+the path to get back up.  When you get there, get on the moving platform 
+and ride it up, then go through the door.  Take care of all the enemies 
+here to unlock the door on the right.  Hop onto the conveyor belt and 
+watch out for the wall push outs.  Before the end of the conveyor belt, 
+you'll have to wait for the moving pathway to come to the up position.  
+When it does, go across quickly, get the eighth dragon head, and go 
+through the door.  Hop onto one of the moving platforms, ride it around 
+to get the ninth dragon head, then when you get to the other side, jump 
+off and take care of the enemy.  Then jump to the conveyor belt to the 
+left, wait for the moving platform to come up, jump to it, and get to 
+solid ground.  Then run to the left, wait for the moving platform to 
+come up, run onto it and jump to the left to the conveyor belt, jump to 
+the left to the next conveyor belt, wait for the moving platform to come 
+up, jump to it and run to solid ground.  Go to the left and you should 
+see a couple of boxes in the wall.  Wait for the moving platform to come 
+up, then go to the wall, kick it, and roll in.  You should've gotten the 
+last dragon head when you rolled into the space.  Use the moving 
+platforms to get to the background, then go through the door.  Take care 
+of all the enemies here to end the level.
+
+-Level 2-
+First, stay along the right wall and come towards the foreground.  
+You'll see an enemy.  Follow him and beat 'im up.  Follow the path and 
+defeat the next enemy to unlock the door.  Take care of the two enemies 
+in here, then go to the left, roll under the swinging box, come towards 
+the foreground to another swinging box.  Time your jump right so that 
+you can roll under the box on the other side, then run towards the 
+background and get the first dragon head.  Go through the door.  Do a 
+wall jump to the platform above, jump to the conveyor belt on the right, 
+and jump to the upside down stomper.  Then jump to the piping on the 
+right and get the second dragon head.  Go to the right and jump down 
+back to the ground and take care of the enemy here.  Use the conveyor 
+belt and drop down to the next level and take care of the enemy there to 
+unlock the door to the right.  Jump to the conveyor belt to the right, 
+jump to the next conveyor belt to the right, watch for the stomper, go 
+to the right to the next conveyor belt, watch for the stomper, and jump 
+to the moving platform.  Turn left and wait till you're up there, then 
+jump to the ledge, jump onto the upside down stomper, jump onto the wall 
+push-out, jump to the next upside down stomper, then jump to the 
+balcony.  Follow the path and go to the movable platform.  Ride it to 
+the next level, jump onto the conveyor belt, run towards the background 
+and jump onto the wall push-out, then jump to the next conveyor belt, 
+run towards the background again, and take out the enemy.  Jump onto the 
+conveyor belt to the right side and ride it down.  Before you reach the 
+end, jump to the other conveyor belt and run to the right.  Before 
+reaching the top, jump to the next section and defeat the enemies here, 
+then run to the right and jump onto the slide and slide down.  Watch the 
+moving pathway here and time it to get across.  Once you get across, 
+jump to the wall push-out and then jump to the stack of boxes, and jump 
+down.  Take care of all the enemies here to unlock the door.  You should 
+see a conveyor belt and structures blowing out fire.  Hop onto the 
+conveyor belt and use the structures to get across to the next section, 
+take care of the enemy here, follow the path, then take care of the next 
+enemy to unlock the door.  In here, face the foreground, break the 
+fence, follow the path and get the third dragon head.  Now go back to 
+where you broke the fence, continue towards the background, make your 
+way to the movable pathway, time it so you can make it across, follow 
+the path to the next movable pathway and swinging box, time this one 
+also, then do this one more time, follow the path, and take care of the 
+two enemies.  Now go to the part of the ground where you see yellow and 
+black stripes.  Wait for a moving platform to come by, jump on it, then 
+when you get across, jump off of it.  Go to the right, jump onto the 
+conveyor belt, jump to the next conveyor belt and watch out for all the 
+obstacles, jump to the next conveyor belt, watch for the stomper, go to 
+the next conveyor belt, watch for the stomper, and the conveyor belt 
+should bring you down to a ledge.  Jump to the upside stomper, jump to 
+the next upside down stomper, then jump to the platform while getting 
+the fourth dragon head.  Take the movable platform down, jump to the 
+conveyor belt to the left to get the fifth dragon head, then jump back 
+to the place where you jumped from and follow the path to the next 
+movable platform.  This one will take you up.  Follow the enemy into the 
+next section.  Defeat all the enemies here, go into the space in the 
+background to go to the next section, jump to the conveyor belt to the 
+left, watch for the obstacles, at the end come towards the screen and 
+follow the path and go in the door.  Defeat all the enemies here to 
+unlock the door on the right side.  You will then see an FMV of Jackie 
+getting hit with a metal object and then kicking an enemy off the 
+platform.  When you regain control, go back towards the left and you 
+will see a block that does not match the rest.  Kick it and get the 
+sixth dragon head.  Now go back to the right, watch the stomper, then 
+jump to the conveyor belt, jump to the platform to get the seventh 
+dragon head, jump to the next conveyor belt, watch for the stomper, and 
+jump to the landing.  Go towards the background.  Jump on the moving 
+platforms to get to the other side, go into the space in the wall, and 
+take care of the two enemies.  Push the box with two arrows towards the 
+fork lift, jump onto it, turn right, jump to the stacks of boxes and you 
+should jump through a space which slides you down, making you able to 
+get the eighth dragon head.  Take care of the enemy you see, then jump 
+to the ledge on the right and go through the door.  Follow the path now, 
+using the moving platforms, and don't miss the ninth dragon head.  When 
+you get to the end of this section, take care of the enemy to unlock the 
+door.  Follow the enemy you see, take care of him, then go to the right 
+and jump onto the moving platform, turn left and wait.  When you get to 
+the top, jump onto the upside down stomper, jump to the next one, then 
+jump to the platform.  You'll see the last dragon head here.  To get it, 
+jump across the gap, pull yourself up, then go through the door.  Use 
+the conveyor belt to get to the higher platform, just to be safe.  Then 
+take care of all the enemies here to end the level.
+
+-Level 3-
+You'll see a conveyor belt and some structures spewing out fire.  Use 
+these to jump to the other side to the right.  Defeat the two enemies 
+here to unlock the door.  You'll see a swinging box and a collapsable 
+pathway.  Time it to make it to the next platform.  Take care of the two 
+enemies here, time the collapsable pathway and swinging box one more 
+time, get the first dragon head, and follow the path.  Take care of the 
+enemy here, then go towards the background.  You'll see some conveyor 
+belts and fire spitting out from the wall.  Jump to the first conveyor 
+belt while dodging the fire, jump to the platform, and look at the 
+second conveyor belt.  You'll see some boxes there.  What you need to do 
+is break them, jump to the platform with the door, jump back to the 
+conveyor belt, then roll into the space.  Jump to the conveyor belt, run 
+to the right, watch out for the stomper, and get the golden dragon head.  
+Jump to the next platform and go into the hole in the wall on the right 
+side.  Use the conveyor belts to go to the right, get on the movable 
+platform and ride it up, turn left.  When it gets to the top, jump to 
+the platform, and use the conveyor belt and wall push outs to get to the 
+other side.  You'll see the second dragon head.  So jump over the fence, 
+get it and you should land on the first conveyor belt.  So go back to 
+the top where you first saw the second dragon head, take care of the bad 
+guys here to unlock the door on the left.  Come towards the foreground 
+and take care of the two bad guys here.  Continue towards the 
+foreground, turn right, jump onto the conveyor belt, jump to the next 
+conveyor belt and run to the right, jump to the platform, jump to the 
+conveyor belt and watch out for the stomper, jump the platform, jump to 
+the next conveyor belt, jump to the other conveyor belt and run to the 
+right, jump to the platform, and take care of the enemy here.  Now go to 
+the right and go onto the conveyor belt, jump to the next conveyor belt, 
+watch for the wall push outs, jump to the next conveyor belt and watch 
+for the stomper, run to the next conveyor belt and watch for the next 
+two stompers, then jump to the upside down stomper, when it's all the 
+way up jump to the platform on the right.  Take care of the enemies 
+here, follow the path, line yourself up with the third red dragon head, 
+slide down the ramp and get it, then jump to the conveyor belt before 
+you reach the bottom.  Watch out for the stomper and jump to the path.  
+Come towards the screen, jump down, then slide down the ramp while 
+getting the fourth dragon head.  Take care of all the enemies here to 
+unlock the door.  Go to the right and push the forklift off the ledge to 
+reveal the fifth dragon head.  Get it, then go to the left, hop onto the 
+movable platform and ride it up, follow the path into the background.  
+Take care of all the enemies here, then go into the doorway to the left.  
+Jump to the left onto the conveyor belt, watch for the two stompers, and 
+when you get to the end of the conveyor belt, follow the path in the 
+foreground, and defeat the enemy here to unlock the door.  You'll see an 
+FMV of Jackie crashing through the window, and then another window.  
+When you regain control, break the barrel to the left to get the sixth 
+dragon head.  Then go towards the right and follow the path.  Defeat the 
+three enemies here, then go to the path on the right side and wait.  
+You'll see a swinging box and a collapsable pathway.  Same drill here, 
+time it to get to the other side.  Jump to the platform in the 
+background, then do the same here, except that you'll have to roll to 
+the side a bit because of a box that's in the way.  When you get to the 
+side with the box, jump onto it, face the background and kick it.  Roll 
+into the space, go towards the right and you'll get the seventh dragon 
+head, and you should be in an area with green goop and moving platforms.  
+Jump towards the background to the door and go through it.  Come towards 
+the foreground and you'll see the eighth dragon head.  Kick the fence, 
+jump onto the structure to get the eighth dragon head, then jump back.  
+Now go to the right and use the structures to help you get across.  When 
+you get to the rooftop, defeat all the enemies here.  Then go to the 
+right and you'll see the ninth dragon head over a structure that spews 
+fire.  Wait for the fire to stop, jump to the structure, get the ninth 
+dragon head, then jump to the right to the ledge, and go in the door.  
+Take care of the two enemies here, follow the path, go up the conveyor 
+belt to the next platform, then turn to the right.  Jump onto the 
+conveyor belt, jump to the next conveyor belt and watch for the two 
+stompers, run to the next conveyor belt and watch for the stomper, and 
+jump onto a moving platform.  You may have to wait for it.  Ride it to 
+the top, jump to the ledge to the left, jump onto the upside down 
+stomper, jump to the next upside down stomper, do it one more time, then 
+jump to the platform.  Take care of the enemy here or run into the 
+doorway to the left.  Jump to the conveyor belt to the left, run to the 
+left, then jump to the collapsable platform.  You may have to wait for 
+it to come up.  Run to solid ground, then take care of the enemy here, 
+then go to the left, wait for the collapsable ledge to come up, then 
+jump to the conveyor belt to the left.  Run to the left, jump to the 
+next conveyor belt, wait for the collapsable ledge to come up, jump to 
+it, run to solid ground, then take care of the enemy here.  You'll see 
+the last dragon head here.  Line yourself up with it, jump over the 
+fence and get it, wait for the collapsable ledge on the left to come up, 
+jump to it, then jump to the conveyor belt, jump to the next conveyor 
+belt, run to the left, then jump to the ledge.  Slide down the ramp, 
+then slide down the chute, and take care of all the enemies here to end 
+the level.  On to the boss fight.
+
+-Boss-
+You will see a nice FMV of Jackie finding the delivery truck and then 
+recovering the package.  Then it'll move to inside the tall building and 
+you'll meet Dante, this area's boss.  He has Jackie's grandfather.  
+Jackie arrives, and the fight begins.  Dante isn't too hard at first.  
+Just use some combos to knock 'im down.  He does counterattack by doing 
+a throw.  He also has an attack that shoots flames in a straight line 
+when he's on his desk.  So be careful about that.  He does hit hard, but 
+he shouldn't be too difficult.  After the fight, you'll see an FMV or 
+Jackie lowering his grandfather, Dante standing back up, and one last 
+fight scene before Dante dies.  The FMV ends with the packages being 
+cleared out, Jackie and grandfather driving away in the delivery truck, 
+and the special package falling out of the back of the truck.
+
+You're now rewarded with the credits.  Stick around for some hilarious 
+out-takes, and I do mean hilarious.
+
+==============
+Shaolin Temple
+==============
+
+This is a secret area.  It's pretty straightforward.  Just go to the 
+left, take either the top path or the bottom path.  The top path takes 
+you across a bridge to the entrance of the Shaolin Temple while the 
+bottom path takes you to poles which you have to jump to so you can get 
+to the other path, which also leads to the entrance of the Shaolin 
+Temple.  If you take the top path, you'll have to deal with an enemy on 
+the bridge.  When you get to the front of the temple, take care of all 
+the enemies here to open the gates.  Go in.  Take care of the enemy here 
+to open the next gate to the inner chamber.  Defeat all the enemies here 
+and you will be rewarded with a bonus movie.  Congratulations on beating 
+the game.
+
+-------
+Credits
+-------
+
+Jackie Chan, just for being the only actor who does his own dangerous 
+stunts.
+Radical Entertainment Ltd, for developing the game.
+Midway, for producing the game.
+GameFAQs, for posting this walkthru.
+
+-----------------------
+Copyright & Other Stuff
+-----------------------
+
+Jackie Chan Stuntmaster Walkthru © 2000 by charjer0
+Jackie Chan Stuntmaster © 2000 by Midway Games, Inc.
+Jackie Chan Stuntmaster developed by Radical Entertainment Ltd.
+Name, likeness, and appearance of Jackie Chan used under license.
+Disclaimer:  This FAQ shall not be reproduced without the expressed 
+written consent of the creator.

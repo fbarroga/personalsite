@@ -1,0 +1,494 @@
+Title: Pong FAQ
+Author: charjer0
+E-mail: charjer@gmail.com
+Date:
+Version: 0.1
+
+--------
+Contents
+--------
+A Brief Explanation of My FAQ
+Controls
+On To The Game
+  Zone 1
+    Area 1 - Penguin Pong
+      Level 1 - Seal Saver
+      Level 2 - Polar Power
+      Level 3 - Snowstorm
+    Area 2 - Soccer Stars
+      Level 1 - Plain Pitch
+      Level 2 - Mole Hills
+      Level 3 - Mole Holes
+    Area 3 - Log Jam
+    Area 4 - Clown Around
+      Level 1 - Two Tone
+      Level 2 - Color Match
+      Level 3 - Multicolors
+  Zone 2
+    Area 1 - Beach Party
+      Level 1 - Plain Sailing
+      Level 2 - Iced Over
+      Level 3 - Lighthouse
+    Area 2 - Rock N Roll
+      Level 1 - Table Tips
+      Level 2 - Up And Over
+      Level 3 - Total Tilt
+    Area 3 - Seal Juggle
+      Level 1 - Simple Seals
+      Level 2 - Trained Seals
+      Level 3 - Seal Skill
+  Zone 3
+    Area 1 - In A Spin
+      Level 1 - Sling Shot
+      Level 2 - Turntable
+      Level 3 - Toothless
+    Area 2 - Puck Pong
+      Level 1 - Puck Power
+      Level 2 - Puck Fans
+      Level 3 - Fan Frenzy
+    Area 3 - Fishing Frenzy
+      Level 1 - Croc Alert
+      Level 2 - Foolish Fishing
+      Level 3 - Fast Fishing
+  Zone 4
+    Area 1 - Jungle Japes
+      Level 1 - Jungle Spikes
+      Level 2 - Kong Khaos
+      Level 3 - Monkey Business
+    Area 2 - Balloon Circus
+      Level 1 - Balloon Busters
+      Level 2 - Double Whammy
+      Level 3 - Weak Walls
+    Area 3 - Flock Fiasco
+      Level 1 - Not Baaaaad
+      Level 2 - Ewe Loser
+      Level 3 - Cry Wolf
+  Zone 5
+    Area 1 - Dervish Danger
+      Level 1 - Vortex
+      Level 2 - Robot Wars
+      Level 3 - Belt Up
+    Area 2 - Pongball Wizard
+      Level 1 - Warm
+      Level 2 - Hotter
+      Level 3 - On Fire
+    Area 3 - Frog Follies
+      Level 1 - Fools Gold
+      Level 2 - Rickety Raft
+      Level 3 - Hopping Mad
+  Zone 6
+    Area 1 - Henhouse Surprise
+      Level 1 - Egg On Your Face
+      Level 2 - Egg-cellent
+      Level 3 - Egg-streme
+    Area 2 - Polar Pivot
+      Level 1 - Penguin Parade
+      Level 2 -Penguin Panic
+      Level 3 - Pick a penguin
+  Zone 7
+    Game Type 1
+    Game Type 2
+    Game Type 3
+  Zone 8
+    Game 1
+    Game 2
+    Game 3
+  Secrets
+Credits
+Copyright & Other Stuff
+
+-----------------------------
+A Brief Explanation of My FAQ
+-----------------------------
+
+First of all, I'll explain the format of the game a little and what I've done in 
+my FAQ.  There are eight sections in the game that are called zones and in each 
+zone are sub-zones that have three different difficulty levels each.  So, I will 
+be calling these sections "Zones", the sub-zones "Areas", and the difficulty 
+levels "Levels".  In some of the areas, you'll see some tops spinning in the 
+game play area with pictures on them.  When you get these things, which I call 
+"Power Ups", you can use them to your advantage, or sometimes disadvantage.  If 
+you see "Power Ups" under the area name, that means that the power ups appear in 
+all levels of that area.  Otherwise, you'll just see what "Power Ups" can be 
+used in each level.
+
+--------
+Controls
+--------
+
+Well, basically, it's just the D-Pad, or Directional Pad, to move the paddle and 
+the X button to use the power ups.  When you have more than one power up, as in 
+different types as opposed to amount, and want to switch between them, use the 
+R1 button.
+
+--------------
+On To The Game
+--------------
+
+In the areas where you play against the computer, assuming you're trying to 
+unlock all the areas, you must win with a difference of at least two points 
+between your score and the computer's score.  For example, if you have nine 
+points and the computer has eight points, you can win if you get one more point.  
+In the same situation, if the computer scores and ties, then you will have to 
+play on until either side wins.
+
+======
+Zone 1
+======
+
+Area 1 - Penguin Pong
+Pong on ice with two penguins in the middle of the game play area walking back 
+and forth.  One paddle to each side.  Each time you hit a penguin, another ball 
+comes out, four balls max at once and you play to ten points.
+Level 1 - Seal Saver
+Power Ups: You get a seal to help you deflect the ball.
+Level 2 - Polar Power
+Power Ups: You get a polar bear.  It lifts up your side so the opponent's side 
+can't get the ball over, if the ball is on that side.  Use carefully.
+Level 3 - Snowstorm
+A strong wind blows and can change the direction the ball is travelling.
+Power Ups: None
+
+Area 2 - Soccer Stars
+Power Ups: None
+Pong on the soccer field.  Two paddles to each side; one on offense and the 
+other as goalie.  You play to ten points.
+Level 1 - Plain Pitch
+Plain soccer, just score to get points.
+Level 2 - Mole Hills
+Now there are mole hills that can deflect the ball.
+Level 3 - Mole Holes
+Now there are holes and the ball can go in them and they come out another.
+
+Area 3 - Log Jam
+Game area has four logs in the middle that can spin.  One paddle to each side.  
+You have two goal areas and play to ten points.
+Level 1 - One Way
+Power Ups: One power up to make the logs spin; if opponent gets it, logs spin 
+toward you and vice versa.  One power up for a power hit; you get three power 
+hits to each power up you get, max three.
+Level 2 - Cuts Both Ways
+Now the logs are cut in half.
+Power Ups: Same as "One Way" except that for making the logs spin, there's two 
+that corresponds to the colors on the logs.
+Level 3 - Saw Point
+Logs are cut in half, plus the saw that cut them appears from time to time and 
+it can create more balls if a ball hits it.
+Power Ups: Same as "Cuts Both Ways".
+
+Area 4 - Clown Around
+Power Ups: None
+Colored ball will come out and you have to match them with the corresponding 
+colored box.
+Level 1 - Two Tone
+Basically what I just said above.
+Level 2 - Color Match
+Just like "Two Tone" except that there are more colored boxes.
+Level 3 - Multicolors
+Just like "Color Match", just faster.
+
+======
+Zone 2
+======
+
+Area 1 - Beach Party
+Power Ups: Infinite holding.
+Pong at the beach.  Two paddles to each side, infinite holding for a limited 
+amount of time.  You play to seven points.
+Level 1 - Plain Sailing
+Pong on water.
+Level 2 - Iced Over
+Pong on ice.  It's very slippery.
+Level 3 - Lighthouse
+Just like "Plain Sailing", except that your view is now a circle that looks like 
+a circle of light on the ocean that's been created by a light house.
+
+
+Area 2 - Rock N Roll
+Pong on what looks like an air hockey table.  One paddle to each side.  You play 
+to ten points.
+Level 1 - Table Tips
+Power Ups: Power up to tip the table.
+Level 2 - Up And Over
+Power Ups: Power up to tip the table and another to create a hill in the middle 
+of the playing area.
+Level 3 - Total Tilt
+Power Ups: Same as "Up and Over" with one more that makes a dip in the game 
+area.
+
+Area 3 - Seal Juggle
+Power Ups: Infinite bumping
+Description: Object is to get a ball to each seal.
+Level 1 - Simple Seals
+Three balls, three seals.  Get a ball to each seal.
+Level 2 - Trained Seals
+Same as "Simple Seals" except there's four balls and four seals.
+Level 3 - Seal Skill
+Same as "Trained Seals" except there's five balls and five seals.
+
+======
+Zone 3
+======
+
+Area 1 - In A Spin
+Power Ups: Infinite throwing; score in a lighted goal to get a defensive 
+barrier.
+You have two goal areas.
+Level 1 - Sling Shot
+Game area has a hill in the middle with a piece of wood sticking out.  Play to 
+five points.
+Level 2 - Turntable
+Game area is like "Sling Shot" except that there are now two monkeys with a 
+level in the middle that can make the hill revolve.  Hit the wood in the middle 
+or the green button at the top to make them revolve.  Play to seven points.
+Level 3 - Toothless
+You now have four goal areas, but it's the same idea as "Turntable", just a 
+little more difficult.
+
+Area 2 - Puck Pong
+Power Ups: Infinite holding
+Pong played in a hockey rink.  One paddle to each side, one big puck in the 
+middle, two balls to each side.  You play to five points.  You have to grab a 
+ball and launch it toward the puck and make it cross over the line to score a 
+point.
+Level 1 - Puck Power
+Power Ups: None
+Just basically what I said above.
+Level 2 - Puck Fans
+Power Ups: Fan blower
+Now you have the use of the fans behind you.  These can be used to your 
+advantage as it blows the puck away from your side.  Game play is still the 
+same.
+Level 3 - Fan Frenzy
+Power Ups: Fan blower, and another with a skull on it that makes the opponents 
+fans operate.
+Game play is the same as "Fan Blower".
+
+Area 3 - Fishing Frenzy
+Power Ups: None
+Fishing, with a crocodile swimming in the outer ring close to the shore.  Hold 
+down the X button for the strength of the cast and hold down X again to reel it 
+back in.  There's eight fish and you have to get every one.  You lose if the 
+crocodile eats one of the fish.
+Level 1 - Croc Alert
+Fish pop up and all you have to do is land the sinker on the fish and reel 'em 
+in.
+Level 2 - Foolish Fishing
+In this level, the fish move towards the shore, in the area where the crocodile 
+swims.
+Level 3 - Fast Fishing
+Same as "Foolish Fishing" except the fish start coming to the surface pretty 
+fast.
+
+======
+Zone 4
+======
+
+Area 1 - Jungle Japes
+Power Ups: Infinite holding and power hitting
+The game area has a bunch of holes in it and each side has four goal areas.  
+Play to seven points.  Score in each goal to get defense spikes.
+Level 1 - Jungle Spikes
+Power Ups: One with a skull on it to raise the spikes up.
+Level 2 - Kong Khaos
+Power Ups: One with a skull on it that brings down a giant gorilla that makes 
+the game play area uneven.
+Level 3 - Monkey Business
+Power Ups: One with a skull on it that brings down a monkey that looks like the 
+giant gorilla from "Kong Khaos".  What it does is flattens your paddle if it 
+gets ahold of it.
+
+Area 2 - Balloon Circus
+Power Ups: None
+Twelve balloons, 12 points.  The wall is divided into 16 pieces and the game 
+play area is round, sort of like a circus ring.
+Level 1 - Balloon Busters
+Hit each balloon once to pop them.  A section of wall falls when then ball hits 
+it.
+Level 2 - Double Whammy
+Hit each balloon *twice* to pop them.  A portion of wall falls when the ball 
+hits it.  A portion, as opposed to a section, corresponds to four sections.
+Level 3 - Weak Walls
+Same as "Double Whammy" except that when you hit any section of the wall, the 
+whole wall goes down.  Looks very cool, kinda like dominoes.
+
+Area 3 - Flock Fiasco
+Power Ups: None
+Game area is a circular piece of land with high elevation with sheep on it and a 
+red circle in the middle.  Object is to get the sheep on the red circle.  Each 
+time the the ball goes over the side any sheep in the red circle come out and go 
+towards the edge of the cliff.  You lose if any sheep fall off the side of the 
+cliff.
+Level 1 - Not Baaaaad
+You start off with three sheep.
+Level 2 - Ewe Loser
+More sheep in this level.
+Level 3 - Cry Wolf
+There's a wolf in this level.  Each time the wolf goes into the red circle and 
+if there are any sheep in the circle, they run out to get away from the wolf.
+
+======
+Zone 5
+======
+
+Area 1 - Dervish Danger
+Each side has two goal areas and you play to ten points.
+Level 1 - Vortex
+Power Ups: Holding, power hitting, and one with a skull on it to make the fans 
+spin to create wind cyclones.
+Level 2 - Robot Wars
+Power Ups: None
+There's a robot in this level that if you hit, it lays a smart bomb that burns 
+the opponent's paddle, making it slower.
+Level 3 - Belt Up
+Power Ups: Same as "Vortex".
+There are green buttons that are placed in between the goals making four goal 
+areas.  Hitting the green button makes the conveyor belt under the paddle go in 
+the corresponding direction of the arrow in the back of the green button.
+
+Area 2 - Pongball Wizard
+Power Ups: Infinite bumping
+This is basically like a pinball machine.  There are four pillars, one has the 
+gold bars on it and to start off, one will be glowing.  The one that's glowing 
+is the only one that can be reduced.  Keep going at it until you can hit the 
+gold bars with the ball.
+Level 1 - Warm
+One ball at a time, three gold bars.
+Level 2 - Hotter
+Start off with one ball and another ball comes out, kind of like a multi-ball in 
+pinball, two gold bars.
+Level 3 - On Fire
+Start off with one ball and the other two come out, not at the same time though.  
+Once you get all the pillars down, they come back up and you have to do it one 
+more time before you have access to the gold bar.
+
+Area 3 - Frog Follies
+Power Ups: None
+You're on a raft with four paddles and frogs and the object is to get the gold 
+bars without the ball hitting a frog or falling off the raft.  There is one 
+paddle to each side; the paddles on top and bottom control the direction of the 
+ball in the left/right directions and the paddles on the left and right control 
+the direction of the ball in the up/down directions.
+Level 1 - Fools Gold
+Three frogs.  Just manuever your way around them to get the three gold bars.
+Level 2 - Rickety Raft
+Five frogs, one isn't moving, and the raft has some openings.  My strategy was 
+to go to the left where the furthest frog was and then go up.  Then to to the 
+right where the right most paddle was and go down to get the two gold bars.
+Level 3 - Hopping Mad
+Seven frogs, three aren't moving, and this is just like "Rickety Raft" where 
+there are openings.  The trick is to make get all the non-moving frogs to move.  
+My strategy was to go towards the frog to the right of the ball and go down.  
+Then go towards the side of the right most paddle and go up; this should get the 
+frog that was initially to the right of the ball moving.  Wait for it then go 
+past it, beyond the point where it stopped to get the frog that was initially to 
+the left of the ball moving.  Once you've done that, go down to the last frog 
+via the first non-moving frog's path and watch its path.  Once you've got it 
+down, to up and tweak the ball to the left to get the gold bar.
+
+======
+Zone 6
+======
+
+Area 1 - Henhouse Surprise
+Power Ups: None
+There are four hens above the paddle and four coops behind it, each with a 
+different color.  The object here is to get the different colored eggs laid by 
+the hens into the coop with the corresponding color, and you go to 12 points.
+Level 1 - Egg On Your Face
+Just get the different colored eggs into the corresponding coop with the same 
+color.
+Level 2 - Egg-cellent
+Just like "Egg On Your Face" only it's a little faster.
+Level 3 - Egg-streme
+In this level, a board comes down to cover a coop, so you have to keep juggling 
+that egg until the coop opens up again.
+
+Area 2 - Polar Pivot
+Power Ups: None
+You're on a circular platform and there's penguins walking in a circle and the 
+ball is in the middle of them.
+Level 1 - Penguin Parade
+The object of this level is to use the ball to get the penguins to jump into the 
+water.
+Level 2 -Penguin Panic
+Same as "Penguin Parade" except that the penguins move faster and they 
+ocassionally change direction.
+Level 3 - Pick a Penguin
+Same as "Penguin Parade" except that they move back towards the center of the 
+iceberg as you keep hitting or missing them.
+
+======
+Zone 7
+======
+
+Game Type 1
+There will be three different colors below the paddle and balls will fall down.  
+The object is to match the colored balls with the color below the paddle and it 
+goes to six points.  The game area is the left part of the Atari symbol.
+
+Game Type 2
+Same as "Game Type 1" except that it goes a little faster.  The game area is the 
+right part of the Atari symbol.
+
+Game Type 3
+Same as "Game Type 2", and it goes to 12 points.  The game area is the middle 
+part of the Atari symbol.
+
+======
+Zone 8
+======
+
+Game 1
+Classic Pong game.  One paddle to each side, play to ten points.
+
+Game 2
+Another classic Pong game.  Two paddles to each side with a wall with an opening 
+in the middle as a goal.  Play to ten points.
+
+Game 3
+Another classic Pong game.  Two paddles to each side and the goal area looks 
+like the goal in "Soccer Stars".  Play to ten points.
+
+=======
+Secrets
+=======
+
+[Note: Pong Size and Ball Speed work in any area and any level.  Extra Power Ups 
+1 and 2 only work in certain areas.
+Pong Size
+ Ranges from Default, Small, Medium, and Large.
+  Bat 1
+  Bat 2
+  Bat 3
+  Bat 4
+Ball Speed
+ Ranges from Default, Slow, and Fast
+Extra Power Ups 1
+  Grab
+  Whack
+  Spingrab
+  Smart Bomb
+Extra Power Ups 2
+  Stretch
+  Spike
+  Turbo Throw
+
+-------
+Credits
+-------
+Atari, for creating the original Pong.
+Hasbro Interactive, for producing the new levels.
+Supersonic Softward Ltd., for designing and developing the game.
+SCEA, for licensing the game.
+GameFAQs, for posting my FAQ.
+Aardvark and striker64, who started writing FAQs for this game but never 
+finished them, for inspiring me to create one myself.
+
+-----------------------
+Copyright & Other Stuff
+-----------------------
+Pong FAQ © 2000
+Pong © 1999 Hasbro Interactive, Inc.
+Disclaimer: This FAQ shall not be reproduced without the expressed written 
+consent of the creator.

@@ -1,0 +1,2054 @@
+Title: ECW Hardcore Revolution FAQ
+Author: charjer0
+E-mail: charjer@gmail.com
+Date: April 27, 2000
+Version: 0.1
+
+--------
+Contents
+--------
+
+Types of Matches
+Default Controls
+Basic Moves
+A Note About The Moves
+Character Move List
+Secrets
+Credits
+Copyright & Other Stuff
+
+----------------
+Types of Matches
+----------------
+
+These are the matches in the Exhibition mode.
+
+1-Player
+  Vs - One on One
+  Tag Team - Two on Two
+  Tornado - 4-player Elimination Match
+  One on Two - Player against two computer
+  One on Three - Player against three computer
+  Lumberjack - Two in the ring, two "Lumberjacks" outside
+  3-Way Dance - Triple threat rules
+  Battle Royal - 4 in the ring, win by tossing opponents over top rope
+  Vs* - 3-man gauntlet
+  Tag Team* - One player controls a team, computer controls two teams
+  8-Man Tag* - 4 on 4
+  Battle Royal* - Royal Rumble match
+  4-Way Dance* - 4-player elimination match
+  Stable Match* - 4 teams of 4
+  3-Way Dance* - 3-player elimination match
+
+2-Player
+  Vs - One on one
+  Tag Team - One tag team vs. another tag team, each controlled by one 
+player
+  Co-op Tag Team - Both players play on the same team
+  Tornado - 4-player elimination match
+  Co-op Tornado - Tag team elimination match
+  1 on 2 - One player & computer take on another player
+  Co-op 2 on 1 - Both players take on computer
+  1 on 3 - One player & two computer take on another player
+  Co-op 3 on 1 - Both players & computer take on computer
+  Lumberjack - Same as 1-player
+  3-Way Dance - Triple threat match
+  Battle Royal - 4 in the ring, win by tossing opponents over top rope
+  Vs* - 3-man gauntlet
+  Tag Team* - One player controls one team, one player controls two 
+teams
+  Co-op Tag Team* - 3-team gauntlet, both players on same team
+  8-Man Tag* - Eliminate 4 opponents, each player controls one team
+  Co-op 8-Man Tag* - Eliminate 4 opponents, both players on same team
+  Battle Royal* - Royal Rumble match
+  4-Way Dance* - 4-player elimination match
+  Stable Match* - 4 teams of four, two controlled by players, two by 
+computer
+  3-Way Dance* - 3-man elimination match
+
+3-Player
+  Tag Team - Two players on one team, one on another
+  Tornado - 4-player elimination match
+  2 on 1 - Two players against one player
+  3 on 1 - Two players & computer against one player
+  Co-op 3 on 1 - 3 players against computer
+  3-Way Dance - Triple threat match
+  Battle Royal - 4 in the ring, win by tossing opponents over top rope
+  Tag Team* - Two on one team, one controlling two other teams
+  8-Man Tag* - Two players on one team, one player controls other
+  Battle Royal* - Royal Rumble Match
+  4-Way Dance* - 4-player elimination match
+  Stable Match* - 4 teams of 4, one team per player, one team for 
+computer
+  3-Way Dance* - 3-player elimination match
+
+4-Player
+  Tag Team - 2 on 2
+  Tornado - 4-player elimination match
+  3 on 1 - 3 players against one
+  Battle Royal - 4-player elimination match
+  Tag Team* - Two players on one team, two players controls two teams
+  8-Man Tag* - Pair of players each control one team
+  Battle Royal* - Royal Rumble Match
+  4-Way Dance* - 4-player elimination match
+  Stable Match* - 4 teams of 4, each player controls own team
+
+----------------
+Default Controls
+----------------
+
+U - Move player up
+D - Move player down/Come down from turnbuckle
+L - Move player left
+R - Move player right
+/\ - Punch/Use weapon
+[] - Kick/Use weapon
+X - Block/Reversal
+O - Tie-up
+L1 - Switch focus/Pick up or put down weapons
+L2 - Climb turnbuckle/Leave or Enter ring/Climb cage
+R1 - Break pin or submission hold
+R2 - Run
+O+[] - Taunt
+
+
+-----------
+Basic Moves
+-----------
+
+Ready
+  O - Tie-Up
+  L,L,/\ - Body Slam
+  L,L,[] - Hiptoss
+  L,L,O - Vertical Suplex
+  L,L,X - Toss Over Ropes (when opponent is groggy)
+Tie-Up
+  L,L,X - Whip
+  /\ - Arm Wrench
+  [] - Hammerlock
+  O - Top Wristlock
+  U,U,X - To Behind Tie-Up
+Behind
+  /\ - Belly Back Suplex
+  [] - Full Nelson
+  O - Put Opponent on Shoulders
+  L,L,X - Atomic Whip
+Opponent on Ground
+  Head
+    O - Pickup By Head
+    [] - Stomp
+    /\ - Rear Chinlock
+  Side
+    O - Pin
+    [] - Stomp
+    /\ - Elbow Drop
+  Feet
+    [] - Stomp
+    /\ - Knee to Inside Leg
+Top Rope
+  Opponent Standing
+    /\ - Ax Handle Smash
+  Opponent Lying Down
+    /\ - Elbow Drop
+Corner
+  [] - Kick in Corner
+  /\ - Chops to Chest
+  U,/\ - Climb Turnbuckle and Pummel
+  O - Superplex
+  L,L,X - Whip
+Running
+  Player
+    /\ - Running Clothesline
+  Opponent
+    /\ - Back Body Drop
+
+----------------------
+A Note About The Moves
+----------------------
+
+I'd just like to point out that I've listed the Finishing and Trademark 
+moves for all the characters.  You won't be able to do these moves right 
+away.  In order to do the Trademark moves, your opponent's health meter 
+must be at least be yellow.  In order to do the Finishing moves, your 
+opponent's health meter must be red.  No ifs, ands, or buts about it.
+
+-------------------
+Character Move List
+-------------------
+
+Angel
+  Ready
+    L,R,D,O - Fallen Angel (Finisher)
+    U,D,[] - Enziguri (Trademark)
+    L,D,[] - Reverse Tiger Suplex
+    L,U,/\ - Spinning Neck Breaker
+    L,R,[] - Double Underhook Suplex
+  Tie-Up
+    L,R,/\ - Side Neck Buster
+    L,O - Front Brainbuster
+    L,/\ - Three Knee Combo
+    L,[] - Side Slam
+  Behind
+    L,O - Fallaway Pump Slam
+    L,/\ - Reverse DDT
+    L,[] - Neckbreaker
+  Opponent on Ground
+    Side
+      L,R,O - Mount Punches
+      U,D,O - Twitching Kneedrop
+    Feet
+      L,R,L,[] - Texas Cloverleaf
+      L,R,[] - Elbow to Groin
+  Top Rope
+    Opponent Standing
+      []+X - Clothesline      
+    Opponent Lying Down
+      /\+O - Fist Drop
+  Corner
+    U,U,/\ - Tree of Woe
+    L,L,[] - Choke with Boot
+  Running
+    Opponent
+      O - Power Slam
+
+Mike Awesome
+  Ready
+    L,R,U,/\ - Awesome Bomb (Finisher)
+    L,R,/\ - Overhead Belly Suplex
+    U,D,U,/\ - Gorilla Press Slam
+    L,R,[] - Sitout Powerbomb (Trademark)
+    U,D,/\ - Snap Suplex
+  Tie-Up
+    L,/\ - Side Belly to Belly Suplex
+    L,[] - Double Underhook Suplex
+    L,U,O - Sitout Powerbomb (Trademark)
+    L,O - Pinning Powerbomb
+  Behind
+    L,O - Bridging German Suplex
+    L,/\ - German Suplex
+    L,[] - Rolling Prawn Hold
+  Opponent on Ground
+    Head
+      L,R,/\ - Camel Clutch
+      L,R,[] - Leglock Chokehold
+  Top Rope
+    Opponent Lying Down
+      []+X - Splash
+  Corner
+    L,R,[] - Choke with Boot
+    U,U,[] - Belly to Belly Suplex
+  Running
+    Player
+      [] - Spear
+      O - Cross Body Block
+    Opponent
+      O - Power Slam
+
+Axl Rotten
+  Ready
+    L,R,L,/\ - Death Valley Driver
+    L,U,[] - Crucifix Powerbomb
+    L,D,[] - One Handed Chokeslam
+    U,D,/\ - Jazz Stinger
+    U,D,U,O - Gorilla Press Slam
+    L,R,/\ - Tiger Driver
+  Tie-Up
+    L,R,[] - T-Bone Suplex (Trademark)
+    L,O - Samoan Drop
+    L,/\ - European Uppercut
+    L,[] - Chestbreaker
+  Behind
+    L,[] - Roll Up Pin
+    L,/\ - Full Nelson Slam
+    L,O - High Angle Back Drop
+    L,R,O - SST (Finisher)
+  Opponent on Ground
+    Side
+      U,D,O - Mount Punches
+    Feet
+      L,R,[] - STF
+  Top Rope
+    Opponent Standing
+      /\+O - Bionic Elbow
+  Corner
+    U,U,[] - Overhead Press
+  Running
+    Player
+      [] - Flying Clothesline
+    Opponent
+      [] - Spinebuster
+
+Bill Alfonso
+  Ready
+    U,D,U,/\ - One Handed Chokeslam (Finisher)
+    L,U,[] - Superkick (Trademark)
+    L,R,/\ - Spinal Tap
+    U,D,[] - Hairgrab Takeover
+    U,D,O - Hurricanrana
+  Tie-Up
+    L,O - Underhook Headbutts
+    L,/\ - European Uppercut
+    L,[] - Inverted Atomic Drop
+  Behind
+    U,D,/\ - Rolling German Suplex
+    L,O - Tiger Suplex
+    L,/\ - Beast Choker
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      L,R,U,/\ - Camel Clutch
+      U,D,/\ - Blatant Choke
+    Feet
+      U,D,[] - Headbutt to Groin
+  Top Rope
+    Opponent Standing
+      []+X - Hurricanrana
+      /\+O - Missile Dropkick
+    Opponent Lying Down
+      []+X - Splash
+  Corner
+    U,U,/\ - Flying Swinging DDT
+  Running
+    Player
+      O - Cross Body Block
+
+Balls Mahoney
+  Ready
+    U,D,[] - Superkick (Trademark)
+    L,R,U,O - Nutcracker Suite (Finisher)
+    L,D,[] - Overhead Belly Suplex
+    L,R,O - Shoulderbreaker
+    L,D,/\ - DDT
+    L,U,[] - Small Package
+  Tie-Up
+    L,U,/\ - Hanging Vertical Suplex
+    L,O - Bulldog
+    L,/\ - Atomic Drop
+    L,[] - Backbreaker
+  Behind
+    L,[] - Victory Roll
+    L,/\ - Russian Leg Sweep
+    L,O - Reverse DDT
+  Opponent on Ground
+    Head
+      L,R,/\ - Camel Clutch
+    Side
+      U,D,O - Leg Drop
+    Feet
+      L,R,[] - STF
+  Top Rope
+    Opponent Standing
+    Opponent Lying Down
+      []+X - Splash
+      X+O - NJ Jam
+  Running
+    Opponent
+      O - Ball Breaker
+      [] - Sidewalk Slam
+
+Beulah McGillicutty
+  Ready
+    L,R,[] - Hairgrab Takeover
+    L,U,[] - Leg Scissor Stomp
+    U,D,O - Hurricanrana (Finisher)
+    L,R,U,/\ - Ace Crusher
+    L,R,D,/\ - Double Arm DDT
+  Tie-Up
+    L,O - Big Head Punch
+    L,/\ - Bulldog
+    L,[] - European Uppercut
+    L,R,/\ - Dreamer DDT (Trademark)
+  Behind
+    L,[] - Low Blow
+    L,/\ - Octopus Hold
+    L,O - Bulldog
+  Opponent on Ground
+    Feet
+      U,D,[] - Fist to Groin
+      L,R,[] - Spinning Toehold
+  Top Rope
+    Opponent Standing
+      []+X - Hurricanrana
+    Opponent Lying Down
+      /\+[] - Swivel Splash
+  Corner
+    U,U,O - Baseball Slide
+    U,U,/\ - Head Pounder
+  Running
+    Player
+      [] - Cross Body Block
+      O - Flying Clothesline
+    Opponent
+      O - Flapjack
+
+Big Sal
+  Ready
+    L,R,U,/\ - One Handed Chokeslam
+    U,D,[] - Rocker Dropper
+    L,D,O - Running Powerslam
+    U,D,/\ - Fall Forward Slam
+    U,D,U,O - Front Face Gutwrench
+  Tie-Up
+    L,D,/\ - Bearhug Slam (Trademark)
+    L,R,[] - Chokeslam
+    L,O - Powerbomb
+    L,/\ - Side Backbreaker
+    L,[] - Chestbreaker
+  Behind
+    L,O - Pumphandle Slam
+    L,/\ - Neckbreaker
+    L,[] - Cobra Clutch
+  Opponent on Ground
+    Head
+      L,R,/\ - Blatant Choke
+    Side
+      U,D,O - Leg Drop
+      U,D,U,/\ - Pinning Splash
+    Feet
+      U,D,[] - Elbow to Groin
+  Top Rope
+    Opponent Lying Down
+      []+X - Splash
+  Corner
+    U,U,O - Tree of Woe
+    U,D,[] - Bada Bing (Finisher)
+
+CW Anderson
+  Ready
+    L,R,O - Superkick
+    U,D,O - Spinning Neck Breaker
+    L,R,/\ - Tiger Driver
+    U,D,/\ - Shortarm Clothesline
+    U,D,[] - Single Arm DDT
+    L,R,[] - Armdrag
+    L,D,[] - Snap Suplex
+  Tie-Up
+    L,O - Front Brainbuster
+    L,/\ - Powerbomb
+    L,[] - Armbar
+    L,R,[] - Big Left Punch (Trademark)
+  Behind
+    U,D,/\ - Reverse Brainbuster
+    L,O - Sleeper Hold
+    L,/\ - Atomic Drop
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      L,U,[] - Stepover Facelock
+    Feet
+      L,R,[] - Leg Lock
+  Top Rope
+    Opponent Lying Down
+      X+O - Tennessee Jam
+  Corner
+    U,U,/\ - Oklahoma Stampede
+  Running
+    Opponent
+      [] - Spinebuster (Finisher)
+      O - Powerslam
+
+Chris Ghetti
+  Ready
+    L,R,[] - Enziguri
+    U,D,O - Superkick
+    U,D,U,/\ - Axe Kick
+    L,R,O - Flying Head Scissors
+    L,U,[] - Hurricanrana
+    L,D,[] - Reverse Fujiwara
+  Tie-Up
+    L,U,/\ - Amityville Horror (Trademark)
+    L,O - Northern Lights Suplex
+    L,/\ - Front Suplex
+    L,[] - Armbar
+  Behind
+    L,O - Rolling German Suplex
+    L,/\ - Low Blow
+    L,[] - Roll Up Pin
+  Opponent on Ground
+    Head
+      U,D,O - La Magistral
+    Side
+      U,D,/\ - Senton Splash
+  Top Rope
+    Opponent Lying Down
+      []+X - Turnaround Moonsault (Finisher)
+  Corner
+    U,U,/\ - Spin Kick Combo
+    L,R,/\ - Four Kick Combo
+    L,R,[] - Springboard Dropkick
+  Running
+    Opponent
+      [] - Spinning Heel Kick
+
+Steve Corino
+  Ready
+    U,D,[] - Superkick (Trademark)
+    L,R,[] - Spinal Tap
+    U,D,/\ - DDT
+    L,R,/\ - Spinning Neck Breaker
+    L,D,[] - Firemans Carry
+  Tie-Up
+    U,D,/\ - Hanging Vertical Suplex
+    L,O - Bulldog
+    L,/\ - Old School Plex (Finisher)
+  Behind
+    L,O - Full Nelson Slam
+    L,/\ - Sleeper Hold
+    L,[] - Abdominal Stretch
+    L,R,[] - Corino Driver
+  Opponent on Ground
+    Head
+      U,D,/\ - Blatant Choke
+  Top Rope
+    Opponent Standing
+      []+X - Body Press
+    Opponent Lying Down
+      X+O - Tennessee Jam
+      /\+O - Fist Drop
+  Running
+    Player
+      O - Flying Back Elbow
+    Opponent
+      [] - High Leg Clothesline
+      O - Power Slam
+
+Justin Credible
+  Ready
+    L,R,/\ - Enziguri
+    L,U,[] - Choke
+    U,D,/\ - Chin Crusher
+    L,D,[] - Spinning DDT (Trademark)
+    L,R,D,O - That's Incredible (Finisher)
+    U,D,[] - Knee to Face
+  Tie-Up
+    L,R,/\ - Hanging Vertical Suplex
+    L,D,[] - Gutwrench Powerbomb
+    L,/\ - Backbreaker
+    L,[] - Armbar
+    L,O - Northern Lights Suplex
+  Behind
+    L,O - Russian Leg Sweep
+    L,/\ - Low Blow
+    L,[] - Roll Up Pin
+  Opponent on Ground
+    Feet
+      L,R,L,[] - Figure Four Leglock
+  Top Rope
+    Opponent Standing
+      []+X - Clothesline
+      /\+O - Dropkick
+  Corner
+    U,U,[] - Choke with Boot
+    L,D,[] - Beatdown Poewrbomb
+  Running
+    Opponent
+      O - Power Slam
+      [] - Arm Drag
+
+Cyrus the Virus
+  Ready
+    L,R,L,O - Sicilian Drop
+    L,R,U,/\ - Seated Crucifix Bomb
+    U,D,O - Reverse Tiger Suplex
+    L,D,[] - Knee to Face
+    U,D,[] - Leg Drag
+  Tie-Up
+    L,O - Northern Lights Suplex (Trademark)
+    U,D,/\ - Hanging Brainbuster
+    U,D,[] - Tiger Driver Slam
+    L,/\ - Floatover Suplex
+    L,[] - Fisherman's Suplex
+  Behind
+    U,D,[] - Dragon Suplex
+    L,O - Rolling German Suplex
+    L,/\ - Octopus Hold
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      L,R,/\ - Leglock Chokehold
+    Feet
+      L,R,[] - Elbow to Groin
+      U,D,[] - Groin Claw (Finisher)
+  Top Rope
+    Opponent Lying Down
+      /\+O - Knee Drop
+  Corner
+    U,U,[] - Belly to Belly Suplex
+  Running
+    Opponent
+      [] - Flapjack
+
+Danny Doring
+  Ready
+    L,R,U,O - Fallen Angel
+    L,R,U,/\ - Bareback (Trademark)
+    U,D,U,O - Whambam Thankyou Ma'am (Finisher)
+    L,R,O - Flying Head Scissors
+    U,D,/\ - Crucifix Pin
+    U,D,[] - Japanese Arm Drag
+  Tie-Up
+    U,D,/\ - Piledriver
+    L,R,[] - Brainbuster
+    L,O - Front Suplex
+    L,/\ - European Uppercut
+    L,[] - Inverted Atomic Drop
+  Behind
+    L,O - Reverse DDT
+    L,/\ - Front Russian Legsweep
+    L,[] - Rolling Prawn Hold
+  Opponent on Ground
+    Head
+      L,R,/\ - Fujiwara Arm Bar
+  Top Rope
+    Opponent Standing
+      []+X - Dropkick
+    Opponent Lying Down
+      X+O - Tennessee Jam
+      []+X - Driving Elbow
+  Corner
+    U,U,O - Turnpost Slam
+  Running
+    Player
+      [] - Dropkick
+
+Dawn Marie Bytch
+  Ready
+    L,D,[] - Hairgrab Takeover
+    U,D,[] - Leg Scissor Stomp
+    L,R,[] - Throat Toss (Trademark)
+    U,D,U,O - Double Arm Facebuster
+  Tie-Up
+    L,/\ - European Uppercut
+    L,[] - Neckbreaker
+    L,O - Bytch Slap (Finisher)
+  Behind
+    L,/\ - Rissian Leg Sweep
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      L,R,/\ - Blatant Choke
+      L,R,D,/\ - Fujiwara Arm Bar
+    Side
+      U,D,O - Legdrop Onto Arm
+    Feet
+      U,D,[] - Headbutt to Groin
+  Top Rope
+    Opponent Standing
+      []+X - Body Press
+    Opponent Lying Down
+      /\+O - Driving Elbow
+  Corner
+    U,U,/\ - Four Kick Combo
+    U,U,[] - Choke with Boot
+  Running
+    Player
+      [] - Dropkick
+    Opponent
+      [] - Tilt a Whirl Slam
+      O - Arm Drag
+
+Tommy Dreamer
+  Ready
+    L,D,/\ - Fallaway Slam
+    L,R,/\ - Enziguri
+    U,D,D,/\ - Dreamer Driver (Trademark)
+    U,D,/\ - Spinning Neck Breaker
+    L,R,[] - Frontface DDT
+    U,D,[] - Japanese Arm Drag
+  Tie-Up
+    L,R,/\ - Dreamer DDT (Finisher)
+    L,O - Piledriver
+    L,/\ - Side Slam
+    L,[] - Neckbreaker
+    L,R,O - Big Head Punch
+  Behind
+    L,R,[] - Pumphandle Slam
+    L,O - Russian Leg Sweep
+    L,/\ - Bulldog
+    L,[] - Cobra Clutch
+  Opponent on Ground
+    Side
+      U,D,O - Mount Punches
+  Top Rope
+    Opponent Lying Down
+      /\+O - Splash
+  Corner
+    U,U,O - Baseball Slide
+    U,D,[] - Big Punch Combo
+  Running
+    Player
+      O - Tackle With Punches
+    Opponent
+      O - Spinebuster
+
+Francine
+  Ready
+    L,R,[] - Hairgrab Takeover
+    U,D,[] - Choke
+    L,R,D,/\ - Ace Crusher
+    L,D,[] - Small Package
+  Tie-Up
+    L,O - Side Belly to Belly Suplex
+    L,/\ - Bulldog
+    L,[] - Armbar
+    L,R,O - Dreamer DDT (Trademark)
+  Behind
+    L,/\ - Sleeper Hold
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      U,D,/\ - Blatant Choke
+    Side
+      U,D,O - Leg Drop
+      L,U,O - Double Stomp
+    Feet
+      L,R,D,[] - Figure Four Leglock
+      U,D,[] - Elbow to Groin
+  Top Rope
+    Opponent Standing
+      /\+[] - Body Press
+    Opponent Lying Down
+      X+O - Front Flip Senton
+  Corner
+    U,U,O - Bronco Buster (Finisher)
+  Running
+    Player
+      [] - Spear
+
+Joel Gertner
+  Ready
+    L,R,/\ - Bearhug (Trademark)
+    L,R,[] - Hairgrab Takeover
+    L,D,/\ - Fall Forward Slam
+    L,D,O - DDT
+    U,D,O - Side Belly to Belly Suplex
+  Tie-Up
+    L,R,O - Piledriver
+    L,O - Side Belly to Belly Suplex
+    L,/\ - DDT
+    L,[] - Chestbreaker
+  Behind
+    L,[] - Low Blow
+    L,/\ - Sleeper Hold
+    L,O - Reverse DDT
+  Opponent on Ground
+    Head
+      U,D,/\ - Squeeze Head
+    Side
+      U,D,O - Standing Splash
+    Feet
+      U,D,U,[] - Spinning Toehold
+  Top Rope
+    Opponent Standing
+      X+O - Body Press
+    Opponent Lying Down
+      X+O - 450 Splash (Finisher)
+  Corner
+    U,D,[] - Swinging Bulldog
+  Running
+    Player
+      [] - Cross Body Block
+
+Little Guido
+  Ready
+    L,R,L,O - Sicilian Drop (Trademark)
+    L,U,[] - Spinal Tap
+    U,D,/\ - Hurricanrana
+    L,R,L,[] - Flying Head Scissors
+    L,R,[] - Reverse Fujiwara
+  Tie-Up
+    L,O - Hanging Vertical Suplex
+    L,/\ - Powerbomb
+    L,[] - Floatover Suplex
+  Behind
+    L,O - German Suplex
+    L,/\ - Reverse DDT
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      U,D,/\ - Leglock Chokehold
+    Feet
+      L,R,D,[] - Ankle Lock
+      U,D,[] - Leg Grapvine
+      L,R,U,[] - Sicilian Crab (Finisher)
+  Top Rope
+    Opponent Standing
+      []+X - Body Press
+      /\+O - Missile Dropkick
+  Corner
+    U,U,/\ - Turnpost Slam
+  Running
+    Player
+      O - Vertical Body Press
+    Opponent
+      O - Arm Drag
+
+Joey Styles
+  Ready
+    U,D,[] - Novacaine (Finisher)
+    U,D,U,/\ - Seated Crucifix Bomb
+    L,U,[] - Crucifix Powerbomb
+    L,U,/\ - Single Arm DDT
+    L,D,[] - Crucifix Pin
+    L,R,[] - Drop Toe Hold
+  Tie-Up
+    L,O - Front Suplex
+    L,/\ - DDT
+    L,[] - Neckbreaker
+  Behind
+    L,/\ - Atomic Drop
+    L,[] - Rolling Prawn Hold
+    L,D,/\ - Dragon Suplex (Trademark)
+    L,O - Sleeping Neckbreaker
+  Opponent on Ground
+    Head
+      L,D,/\ - Leglock Chokehold
+    Side
+      L,R,O - Standing Splash
+    Feet
+      L,R,D,[] - Elevated Crab
+  Top Rope
+    Opponent Standing
+      []+X - Body Press
+  Corner
+    U,U,/\ - Victory Combo
+  Running
+    Player
+      [] - Flying Head Scissors
+    Opponent
+      [] - High Leg Clothesline
+
+Jack Victory
+  Ready
+    L,R,[] - Running Powerslam
+    L,D,O - Pump Kick
+    L,R,D,[] - Shoulderbreaker
+    L,R,/\ - DDT
+    L,D,[] - Shortarm Clothesline
+    L,U,[] - Knee to Face
+  Tie-Up
+    U,D,/\ - Piledriver (Finisher)
+    L,O - Front Suplex (Trademark)
+    L,R,O - Hanging Vertical Suplex
+    L,/\ - Big Head Punch
+  Behind
+    L,O - Reverse Powerbomb
+    L,[] - Low Blow
+  Opponent on Ground
+    Side
+      L,D,O - Mount Punches
+      L,U,O - Pretzel
+  Top Rope
+    Opponent Standing
+      /\+O - Bionic Elbow
+    Opponent Lying Down
+      /\+O - Fist Drop
+  Corner
+    U,U,[] - Overhead Press
+    U,D,[] - Victory Combo
+  Running
+    Player
+      [] - Flying Back Elbow
+    Opponent
+      O - Spinebuster
+      [] - Boot to Face
+
+Jason
+  Ready
+    L,R,L,/\ - Night Driver (Finisher)
+    L,R,[] - Enziguri (Trademark)
+    L,R,/\ - Pump Kick
+    U,D,[] - Snapmare
+    L,U,[] - Kneebreaker
+    U,D,O - Snap Suplex
+  Tie-Up
+    L,U,/\ - Hanging Vertical Suplex
+    L,O - Tiger Driver Slam
+    L,/\ - Inverted Atomic Drop
+    L,[] - Backbreaker
+  Behind
+    L,O - Russian Leg Sweep
+    L,[] - Low Blow
+    L,D,[] - High Angle Back Drop
+    L,/\ - Front Russian Legsweep
+  Opponent on Ground
+    Feet
+      L,R,U,[] - Deathlock
+      L,R,D,[] - Figure Four Leglock
+  Top Rope
+    Opponent Standing
+      []+X - Body Press
+    Opponent Lying Down
+      /\+O - Driving Elbow
+  Corner
+    U,U,O - Tree of Woe
+  Running
+    Player
+      [] - Flying Back Elbow
+    Opponent
+      [] - Arm Drag
+
+Jazz
+  Ready
+    U,D,O - Jazz Stinger (Finisher)
+    L,R,D,O - One Arm Slam
+    U,D,/\ - Snapmare
+    L,U,[] - Crucifix Pin
+    */L,D,[] - Drop Toe Hold
+  Tie-Up
+    L,O - Samoan Drop
+    L,/\ - Bulldog
+    L,[] - Armbar
+  Behind
+    L,[] - Low blow
+    L,/\ - Sleeper Hold
+    L,O - Bulldog
+  Opponent on Ground
+    Feet
+      U,D,[] - Fist to Groin
+      L,D,[] - Headbutt to Groin
+  Top Rope
+    Opponent Standing
+      []+X - Body Press
+    Opponent Lying Down
+      []+X - Splash
+  Corner
+    U,U,O - Bronco Buster
+    U,D,[] - Flying Swinging DDT (Trademark)
+  Running
+    Player
+      O - Cross Body Block
+    Opponent
+      O - Ball Breaker
+      [] - Drop Kick
+
+Judge Jeff Jones
+  Ready
+    L,D,/\ - Running Knee Hit
+    L,R,[] - Overhead Belly Suplex
+    U,D,D,O - Double Arm Facebuster (Finisher)
+    L,D,[] - Knee to Face (Trademark)
+    L,D,O - Front Backbreaker
+    U,D,[] - Sidewalk Slam
+  Tie-Up
+    L,R,D,O - Sitout Powerbomb
+    L,O - Norther Lights Suplex
+    L,/\ - Inverted Atomic Drop
+    L,[] - Backbreaker
+  Behind
+    L,O - German Suplex
+    L,/\ - Sleeper Hold
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      L,R,/\ - Reverse Chinlock
+      U,D,/\ - Blatant Choke
+    Feet
+      L,D,[] - Fist to Groin
+  Top Rope
+    Opponent Standing
+      []+X - Shoulder Tackle
+    Opponent Lying Down
+      /\+O - Knee Drop
+  Corner
+    U,U,[] - Choke with Boot
+  Running
+    Player
+      O - Tackle with Punches
+    Opponent
+      O - Tilt a Whirl Slam
+
+Jerry Lynn
+  Ready
+    L,R,U,/\ - Running Powerbomb (Trademark)
+    U,D,/\ - Enziguri
+    U,D,U,[] - Jazz Stinger
+    L,R,L,O - That's Incredible
+    U,D,U,O - Cradle Piledriver (Finisher)
+    L,D,/\ - Flying Head Scissors
+    L,U,/\ - Front Backbreaker
+  Tie-Up
+    L,O - Northern Lights Suplex
+    L,/\ - DDT
+    L,[] - Chestbreaker
+  Behind
+    L,/\ - Reverse DDT
+    L,O - Bridging German Suplex
+    L,[] - Victory Roll
+  Opponent on Ground
+    Head
+      U,D,/\ - La Magistral
+    Side
+      L,R,O - Mount Punches
+    Feet
+      U,D,[] - Surfboard
+  Top Rope
+    Opponent Standing
+      /\+O - Missile Dropkick
+  Corner
+    U,D,[] - Hurricanrana
+  Running
+    Opponent
+      O - Tilt a Whirl Slam
+
+Louie Spicolli
+  Ready
+    L,R,L,O - One Arm Slam
+    L,R,U,/\ - Fall Forward Powerbomb
+    L,R,[] - Wrap Around DDT
+    L,U,[] - Choke
+    U,D,U,O - Death Valley Driver (Finisher)
+    U,D,[] - Japanese Arm Drag
+  Tie-Up
+    U,D,[] - Gutwrench Powerbomb
+    L,O - Big Head Punch
+    L,/\ - Northern Lights Suplex
+    L,[] - Side Belly to Belly Suplex
+  Behind
+    L,O - Full Nelson Slam
+    L,/\ - Octopus Hold
+    L,[] - Roll Up Pin
+  Opponent on Ground
+    Head
+      U,D,/\ - Toehold Half Crab
+    Feet
+      U,D,[] - Elbow to Groin
+  Corner
+    U,U,O - Flying Swinging DDT
+  Running
+    Player
+      O - Tackle with Punches
+    Opponent
+      O - Spinebuster (Trademark)
+      [] - Flapjack
+
+New Jack
+  Ready
+    L,R,D,O - Running Powerbomb
+    U,D,[] - Choke
+    U,D,O - Side Belly to Belly Suplex (Trademark)
+    L,R,[] - Armdrag
+    L,D,[] - Knee to Face
+    U,D,/\ - Snap Suplex
+  Tie-Up
+     L,O - Big Head Punch
+     L,/\ - Inverted Atomic Drop
+     L,R,[] - Powerbomb
+     L,R,/\ - Piledriver
+  Behind
+      L,[] - Low Blow
+      L,O - Sleeping Neckbreaker
+  Opponent on Ground
+      Head
+        L,R,D,/\ - Stranglehold Gamma
+        U,D,/\ - Scissored Armbar
+        L,R,/\ - Blatant Choke
+      Side
+        U,D,O - Knee Drop
+      Feet
+        L,D,[] - Headbutt to Groin
+  Top Rope
+      Opponent Standing
+        /\+O - Flying Butt Bump
+      Opponent Lying Down
+        /\+O - 187 (Finisher)
+  Corner
+    U,D,[] - Top Rope Superplex
+  Running
+    Player
+      [] - Flying Clothesline
+
+Nova
+  Ready
+    U,D,[] - Novacaine
+    L,R,[] - Snapmare
+    L,R,L,/\ - Sitdown Slam
+    L,R,O - Front Backbreaker
+    U,D,U,O - Deep Impact (Trademark)
+  Tie-Up
+    L,/\ - Fisherman's Suplex
+    L,[] - Inverted Atomic Drop
+    U,D,O - Kryptonite Krunch (Finisher)
+    L,O - Side Neck Buster
+  Behind
+    L,O - Bulldog
+    L,[] - Rolling Prawn Hold
+    L,/\ - Front Russian Legsweep
+    U,D,O - Reverse Brainbuster
+  Opponent on Ground
+    Side
+      U,D,O - Senton Splash
+      L,R,O - Axhandle Smash
+    Feet
+      L,R,[] - Cloverleaf
+  Top Rope
+    Opponent Lying Down
+      X+O - Frog Splash
+  Corner
+    U,U,/\ - Rocker Dropper
+  Running
+    Player
+      O - Flying Back Elbow
+    Opponent
+      O - Arm Drag
+
+Raven
+  Ready
+    L,R,/\ - Running Knee Hit
+    L,D,[] - Chin Crusher
+    U,D,/\ - Snapmare
+    L,R,D,O - Evenflow DDT (Finisher)
+    U,D,D,O - Double Arm DDT
+    U,D,[] - Double Underhook Suplex
+    L,R,[] - Small Package
+  Tie-Up
+    L,R,/\ - Piledriver
+    L,O - Bulldog
+    L,/\ - Big Head Punch
+    L,[] - Inverted Atomic Drop
+  Behind
+    L,O - Russian Leg Sweep
+    L,[] - Low Blow
+    L,/\ - Sleeper Hold
+  Opponent on Ground
+    Head
+      L,R,L,/\ - Camel Clutch
+    Side
+      U,D,O - Mount Punches
+    Feet
+      L,D,[] - Fist to Groin (Trademark)
+      L,U,[] - Headbutt to Groin
+  Corner
+    U,D,[] - Tree of Woe
+  Running
+    Opponent
+      O - Arm Drag
+      [] - Flapjack
+
+Rhino
+  Ready
+    L,U,O - Running Powerslam
+    L,D,O - Running Powerbomb
+    L,R,U,O - Death Valley Driver (Trademark)
+    L,R,U,/\ - Gorilla Press Slam
+    L,U,[] - Shortarm Clothesline
+    L,D,[] - Spinning Neck Breaker
+  Tie-Up
+    L,R,/\ - Hanging Powerslam
+    U,D,[] - Sitout Powerbomb (Finisher)
+    L,O - Bearhug Slam
+    L,/\ - Side Slam
+    U,D,O - Sitout Piledriver
+  Behind
+    L,O - Fallaway Pump Slam
+    L,/\ - Rolling German Suplex
+    L,[] - Roll Up Pin
+  Opponent on Ground
+    Head
+      L,D,/\ - Scissored Armbar
+  Top Rope
+    Opponent Lying Down
+      []+X - Splash
+  Corner
+    U,U,[] - Overhead Press
+  Running
+    Player
+      [] - Tackle with Punches
+    Opponent
+      O - Power Slam
+      [] - Boot to Face
+
+Roadkill
+  Ready
+    L,D,/\ - Fall Forward Powerbomb
+    U,D,[] - Running Powerslam (Trademark)
+    L,U,[] - Crucifix Powerbomb
+    U,D,U,O - Running Powerbomb
+    L,R,O - Side Belly to Belly Suplex
+    L,U,/\ - Tiger Driver
+    L,D,[] - Hurricanrana
+  Tie-Up
+    L,O - Bearhug Slam
+    L,/\ - Powerbomb
+    L,[] - Side Slam
+  Behind
+    L,R,/\ - Reverse Powerbomb
+    U,D,[] - Pumphandle Slam
+    L,/\ - Full Nelson Slam
+    L,[] - Headbutt
+  Opponent on Ground
+    Head
+      U,D,/\ - Chicken Choke
+      L,R,/\ - Stump Puller
+  Top Rope
+    Opponent Lying Down
+      []+X - Splash (Finisher)
+      /\+O - Senton Bomb
+  Corner
+    U,U,O - Top Rope Superplex
+  Running
+    Opponent
+      O - Power Slam
+
+Rob Van Dam
+  Ready
+    L,R,/\ - Enziguri
+    L,R,[] - Pump Kick
+    L,U,[] - Superkick
+    U,D,[] - Hurricanrana
+    L,R,D,[] - Tiger Driver
+  Tie-Up
+    L,/\ - Floatover Suplex
+    L,[] - Leg Stretch
+    L,O - Northern Lights Suplex
+  Behind
+    L,O - Bridging German Suplex
+    L,[] - Victory Roll
+    L,/\ - Tiger Suplex
+  Opponent on Ground
+    Side
+      L,R,D,O - Spinning Splash (Trademark)
+    Feet
+      L,R,[] - Surfboard
+  Top Rope
+    Opponent Lying Down
+      X+O - Somersault Leg Drop
+      /\+[] - Fiver Star Splash (Finisher)
+      /\+O - Turnaround Moonsault
+  Corner
+    U,U,[] - Four Kick Combo
+    U,U,/\ - Springboard Dropkick
+  Running
+    Opponent
+      [] - High Leg Clothesline
+
+Super Crazy
+  Ready
+    L,U,[] - Sitdown Slam
+    U,D,O - Enziguri
+    U,D,/\ - Flying Head Scissors
+    L,R,/\ - Single Arm DDT
+    L,D,[] - Hurricanrana
+    U,D,[] - Crucifix Pin
+    L,R,O - Small Package
+  Tie-Up
+    L,R,[] - Powerbomb (Trademark)
+    L,/\ - Reversal DDT
+  Behind
+    L,O - Reverse DDT
+    L,[] - Victory Roll
+  Opponent on Ground
+    Head
+      L,U,/\ - La Magistral
+    Side
+      L,D,O - Longbow Backbreaker
+    Feet
+      L,R,/\ - Prawn Hold
+  Top Rope
+    Opponent Standing
+      /\+O - Hurricanrana
+    Opponent Lying Down
+      /\+[] - Somersault Leg Drop
+      []+X - Turnaround Moonsault
+      X - Moonsault (Finisher)
+  Corner
+    L,L,/\ - Springboard Dropkick
+  Running
+    Player
+      O - Flying Head Scissors
+    Opponent
+      [] - Tilt a Whirl Slam
+
+Simon Diamond
+  Ready
+    L,R,U,/\ - Wrap Around DDT
+    U,D,U,/\ - Double Arm DDT
+    U,D,/\ - Spinning Neck Breaker
+    L,D,[] - Small Package
+    L,U,[] - Crucifix Pin
+    U,D,[] - Drop Toe Hold
+    L,D,[] - Snap Suplex
+  Tie-Up
+    L,/\ - Samoan Drop
+    L,R,/\ - Simonizer (Finisher)
+    L,U,O - Simon Series (Trademark)
+    L,O - Standing Dropkick
+  Behind
+    L,O - Russian Leg Sweep
+    L,[] - Octopus Hold
+    L,/\ - Rolling Prawn Hold
+  Opponent on Ground
+    Head
+      L,/\ - Blatant Choke
+    Side
+      U,D,O - Leg Drop
+  Top Rope
+    Opponent Standing
+      []+X - Hurricanrana
+      /\+O - Missile Dropkick
+  Running
+    Player
+      [] - Dropkick
+    Opponent
+      [] - Spinebuster
+
+Sabu
+  Ready
+    U,D,[] - Implant DDT
+    L,R,O - Pump Kick
+    U,D,L,O - Axe Kick
+    U,D,/\ - Shortarm Clothesline
+    L,D,[] - Reverse Fujiwara
+  Tie-Up
+    L,/\ - Northern Lights Suplex
+    L,[] - Floatover Suplex
+  Behind
+    L,O - Rolling German Suplex
+    L,/\ - Fallaway Pump Slam
+    L,[] - Victory Roll
+  Opponent on Ground
+    Head
+      U,D,D,/\ - Camel Clutch (Trademark)
+      L,R,/\ - Blatant Choke
+    Side
+      U,D,O - Mount Punches
+  Top Rope
+    Opponent Standing
+      []+X - Hurricanrana
+    Opponent Lying Down
+      /\+O - Senton Bomb
+      /\+[] - Arabian Guillotine (Finisher)
+  Corner
+    U,U,/\ - Spin Kick Combo
+  Running
+    Player
+      O - Tackle with Punches
+    Opponent
+      O - High Leg Clothesline
+      [] - Spinning Heel Kick
+
+Tracey Smothers
+  Ready
+    L,R,[] - Enziguri
+    L,R,/\ - Spinal Tap
+    U,D,[] - Shoulderbreaker
+    L,U,[] - Fireman's Carry
+    L,D,[] - Kneebreaker
+  Tie-Up
+    L,R,/\ - Hanging Vertical Suplex
+    L,/\ - Three Knee Combo
+    L,[] - Backbreaker
+    L,O - Standing Dropkick
+  Behind
+    L,R,[] - Pumphandle Slam (Finisher)
+    U,D,O - Reverse Brainbuster
+    L,/\ - Atomic Drop
+    L,[] - Rolling Prawn Hold
+    L,R,/\ - High Angle Back Drop
+  Opponent on Ground
+    Feet
+      U,D,[] - STF
+  Top Rope
+    Opponent Standing
+      X+O - Tennessee Jawjacker (Trademark)
+    Opponent Lying Down
+      []+X - Butt Drop
+  Corner
+    U,U,/\ - Turnpost Slam
+  Running
+    Player
+      O - Cross Body Block
+    Opponent
+      O - Sidewalk Slam
+
+Spike Dudley
+  Ready
+    L,R,U,/\ - Rocker Dropper
+    U,D,O - Hurricanrana
+    U,D,[] - Drop Toe Hold
+    L,U,[] - Japanese Arm Drag
+    L,D,[] - Small Package
+  Tie-Up
+    L,O - Bulldog
+    L,/\ - Three Knee Combo
+    L,[] - Neckbreaker
+  Behind
+    L,O - Front Russian Legsweep
+    L,/\ - Russian Leg Sweep
+    L,[] - Abdominal Stretch
+  Opponent on Ground
+    Side
+      U,D,U,O - Pinning Splash
+    Feet
+      L,R,[] - STF
+  Top Rope
+    Opponent Standing
+      []+X - Hurricanrana
+      /\+O - Dropkick
+    Opponent Lying Down
+      []+X - Splash
+  Corner
+    U,D,[] - Swinging Bulldog (Trademark)
+    L,D,[] - Rocker Dropper
+    L,R,[] - Acid Drop (Finisher)
+  Running
+    Player
+      O - Tackle with Punches
+    Opponent
+      O - Arm Drag
+
+Lance Storm
+  Ready
+    U,D,O - Falling Reverse DDT
+    L,D,/\ - Enziguri
+    L,R,/\ - Overhead Belly  Suplex
+    U,D,[] - Gorilla Press Slam
+    U,D,/\ - Tiger Driver
+    L,R,[] - Hurricanrana
+    L,U,[] - Small Package
+  Tie-Up
+    L,[] - Northern Lights Suplex
+    L,/\ - Powerbomb
+    L,O - Hanging Vertical Suplex
+    L,R,O - Sitout Powerbomb
+  Behind
+    L,/\ - Russian Leg Sweep
+    L,O - German Suplex
+  Opponent on Ground
+    Feet
+      L,R,D,[] - Deathlock
+  Top Rope
+    Opponent Standing
+      []+X - Top Rope Spinkick (Finisher)
+      /\+O - Clothesline
+    Opponent Lying Down
+      []+X - 450 Splash
+  Corner
+    U,U,[] - Overhead Press
+    L,R,[] - Baseball Slide (Trademark)
+  Running
+    Player
+      [] - Spinning Heel Kick
+    Opponent
+      [] - High Leg Clothesline
+
+Tony DeVito
+  Ready
+    L,R,[] - Running Powerslam
+    L,R,/\ - Ball Breaker
+    U,D,U,/\ - One Arm Slam
+    U,D,D,/\ - Double Arm DDT
+    U,D,[] - Sitout Powerbomb
+    U,D,/\ - Hurricanrana
+    L,D,[] - Flying Head Scissors
+  Tie-Up
+    U,D,O - Hanging Vertical Suplex
+    L,/\ - Powerbomb
+    L,[] - Northern Lights Suplex
+    L,R,[] - Front Brainbuster (Trademark)
+    L,O - Floatover Suplex
+  Behind
+    L,O - Reverse DDT
+    L,/\ - Cobra Clutch
+    L,[] - Victory Roll
+  Opponent on Ground
+    Head
+      L,R,/\ - Shortarm Scissor
+    Side
+      U,D,O - Leg Drop
+  Top Rope
+    Opponent Standing
+      /\+O - Missile Dropkick
+    Opponent Lying Down
+      /\+O - Kamikaze Headbutt
+  Corner
+    U,D,[] - Oklahoma Stampede (Finisher)
+
+Yoshahiro Tajiri
+  Ready
+    L,D,O - Superkick
+    U,D,/\ - Pump Kick
+    L,U,/\ - Enziguri
+    L,U,[] - Double Face Kick (Trademark)
+    L,D,[] - Reverse Tiger Suplex
+    L,R,/\ - Hurricanrana
+    U,D,[] - Japanese Arm Drag
+  Tie-Up
+    L,R,/\ - Hanging Brainbuster (Finisher)
+    L,[] - Double Underhook Suplex
+    U,D,[] - Reversal DDT
+    L,O - Roundhouse Kicks
+  Behind
+    L,[] - Victory Roll
+    U,D,/\ - Dragon Suplex
+    L,O - German Suplex
+    L,/\ - Octopus Hold
+  Opponent on Ground
+    Head
+      U,D,U,O - Stranglehold Gamma
+    Side
+      U,D,O - Double Stomp
+  Corner
+    U,D,[] - Hurricanrana
+    L,R,[] - Four Kick Combo
+    U,U,O - Baseball Slide
+
+Taz
+  Ready
+    U,D,U,/\ - Death Valley Driver
+    U,D,O - Reverse Tiger Tazplex
+    L,R,[] - Overhead Belly Tazplex
+    U,D,/\ - Shortarm Clothesline
+    L,U,/\ - Samoan Drop
+    L,D,[] - Headlock Takedown
+  Tie-Up
+    U,D,/\ - Hanging Vertical Suplex
+    U,D,O - Head Arm Tazplex
+    L,[] - Double Underhook Tazplex
+    L,O - Northern Tazplex
+    L,R,[] - T-Bone Tazplex
+  Behind
+    L,U,/\ - Tazmission (Finisher)
+    L,D,O - Tazmission Plex (Trademark)
+    L,/\ - Pumphandle Tazplex
+    U,D,[] - Dragon Tazplex
+    L,O - Tiger Tazplex
+    L,[] - German Tazplex
+  Opponent on Ground
+    Head
+      L,D,O - Crossface Punch
+    Feet
+      L,R,[] - STF
+  Corner
+    U,U,/\ - Tree of Woe
+
+The Sheik
+  Ready
+    L,R,U,/\ - Fall Forward Powerbomb
+    L,R,/\ - Spinal Tap
+    U,D,/\ - Pump Kick
+    L,D,[] - Choke
+    U,D,[] - Press Slam
+  Tie-Up
+    L,R,[] - Bug Head Punch
+    L,O - Underhook Headbutts
+    L,/\ - Shoulder Breaker
+    L,[] - Armbar
+  Behind
+    L,O - Sleeping Neckbreaker
+    L,/\ - Sleeper Hold
+    L,[] - Roll Up Pin
+  Opponent on Ground
+    Head
+      L,R,L,/\ - Camel Clutch (Finisher)
+      U,D,/\ - Blatant Choke (Trademark)
+    Side
+      U,D,U,O - Pinning Splash
+  Top Rope
+    Opponent Standing
+      /\+O - Shoulder Tackle
+  Corner
+    U,U,/\ - Turnpost Slam
+    U,U,[] - Choke with Boot
+  Running
+    Player
+      [] - Tackle with Punches
+    Opponent
+      [] - Sidewalk Slam
+      O - Boot to Face
+
+Tommy Rich
+  Ready
+    L,R,U,O - Sicilian Drop
+    L,R,U,/\ - Gutwrench Powerbomb
+    L,R,D,/\ - Front Face Gutwrench
+    U,D,[] - Press Slam
+    L,U,[] - Small Package
+  Tie-Up
+    U,D,/\ - Piledriver (Trademark)
+    L,O - Big Head Punch
+    L,/\ - Side Slam
+    L,[] - Backbreaker
+  Behind
+    L,O - German Suplex
+    L,/\ - Sleeper Hold
+    L,[] - Low Blow
+  Opponent on Ground
+    Head
+      L,R,/\ - Reverse Chinlock
+    Side
+      L,R,O - Jumping Fistdrop
+  Top Rope
+    Opponent Standing
+      /\+O - Bionic Elbow
+    Opponent Lying Down
+      /\+O - Fist Drop
+  Corner
+    U,U,[] - Choke with Boot
+  Running
+    Player
+      O - Vertical Body Press (Finisher)
+    Opponent
+      O - Flapjack
+
+Wild Bill
+  Ready
+    L,R,U,O - Sitdown Slam
+    L,R,U,/\ - Running Powerbomb
+    U,D,[] - Running Powerslam
+    L,U,[] - Superkick
+    L,R,[] - Reverse Tiger Suplex
+    L,R,/\ - Japanese Arm Drag
+    L,D,[] - Leg Drag
+  Tie-Up
+    L,O - Big Head Punch
+    L,/\ - European Uppercut
+    L,[] - Side Slam
+    L,R,/\ - Piledriver (Trademark)
+  Behind
+    L,O - Dragon Suplex
+    L,/\ - German Suplex
+    L,[] - Reverse DDT
+  Opponent on Ground
+    Head
+      L,R,D,/\ - Camel Clutch
+    Side
+      U,D,O - Knee Drop
+    Feet
+      U,D,[] - Fist to Groin
+  Top Rope
+    Opponent Standing
+      /\+O - Clothesline
+  Corner
+    U,U,/\ - Turnpost Slam
+    U,U,[] - Choke with Boot
+  Running
+    Opponent
+      [] - Time Bomb (Finisher)
+
+Jobbers
+
+  A. Master
+    Ready
+      L,D,/\ - Snapmare
+      U,D,U,O - Ace Crusher (Finisher)
+      L,D,O - Samoan Drop
+      U,D,/\ - DDT
+      L,D,[] - Drop Toe Hold
+      L,U,[] - Sidewalk Slam
+      L,R,O - Shoulderbreaker
+    Tie-Up
+      L,O - Samoan Drop
+      L,/\ - Inverted Atomic Drop
+      L,[] - Neckbreaker
+      L,R,/\ - Piledriver
+    Behind
+      L,O - Reverse DDT
+      L,/\ - Sleeper Hold
+      L,[] - Roll Up Pin
+    Opponent on Ground
+      Head
+        L,U,/\ - Stepover  Facelock
+      Side
+        L,D,O - Mount Punches
+      Feet
+        L,D,[] - Texas Cloverleaf
+    Top Rope
+      Opponent Lying Down
+        /\+O - Driving Elbow
+    Running
+      Player
+        O - Vertical Body Press (Trademark)
+      Opponent
+        O - Power Slam
+
+  Bruzzese
+    Ready
+      U,D,/\ - Spinal Tap
+      L,R,O - DDT
+      L,R,[] - Drop Toe Hold
+      L,D,[] - Sidewalk Slam
+      L,R,/\ - Neckbreaker
+      U,D,O - Knee to Face
+    Tie-Up
+      U,D,O - Piledriver
+      L,[] - Neckbreaker
+      L,/\ - Vertical Suplex
+      L,O - Side Backbreaker
+    Behind
+      L,/\ - Russian Leg Sweep
+      L,[] - Roll Up Pin
+      L,R,[] - Pumphandle Slam (Finisher)
+    Opponent on Ground
+      Head
+        U,D,/\ - Flipover Neck Whip
+      Side
+        L,R,O - Twitching Kneedrop (Trademark)
+      Feet
+        L,R,L,[] - Texas Cloverleaf
+    Top Rope
+      Opponent Standing
+        []+X - Dropkick
+    Corner
+      U,D,[] - Swinging Bulldog
+    Running
+      Player
+        O - Flying Head Scissors
+        [] - Dropkick
+
+  Buffone
+    Ready
+      L,D,/\ - Chin Crusher
+      U,D,[] - Leg Scissor Stomp
+      L,D,[] - Shoulderbreaker
+      U,D,O - Front Backbreaker
+      U,D,/\ - Shortarm Clothesline
+      L,R,[] - Sidewalk Slam
+    Tie-Up
+      L,O - Bulldog
+      L,/\ - Inverted Atomic Drop
+      L,[] - Neckbreaker
+    Behind
+      L,U,O - SST (Finisher)
+      L,O - Bulldog
+      L,[] - Roll Up Pin
+      L,/\ - Sleeper Hold
+    Opponent on Ground
+      Head
+        L,D,/\ - Stump Puller
+      Side
+        L,D,O - Spinning Splash
+      Feet
+        L,R,[] - Headbutt to Groin
+    Top Rope
+      Opponent Standing
+        X+O - Flying Butt Bump
+      Opponent Lying Down
+        []+X - Butt Drop
+    Corner
+      L,R,/\ - Kick to Groin (Trademark)
+    Running
+      Opponent
+        O - Spinebuster
+
+  Excel
+    Ready
+      U,D,O - Implant DDT (Finisher)
+      U,D,[] - Falling Reverse DDT (Trademark)
+      U,D,/\ - Running Knee Hit
+      L,D,[] - Reverse Tiger Suplex
+      L,U,/\ - DDT
+      L,R,/\ - Single Arm DDT
+    Tie-Up
+      L,R,O - Powerbomb
+      L,R,/\ - Piledriver
+      L,R,[] - Three Knee Combo
+      L,O - Bearhug Slam
+      L,/\ - Neckbreaker
+      L,[] - T-Bone Suplex
+    Behind
+      U,D,/\ - Full Nelson Slam
+      L,R,[] - Sleeping Neckbreaker
+    Opponent on Ground
+      Side
+        L,U,O - Mount Punches
+      Feet
+        L,U,[] - Cloverleaf
+    Corner
+      U,U,/\ - Four Kick Combo
+    Running
+      Player
+        [] - Vertical Body Press
+      Opponent
+        O - Power Slam
+
+  H. Slash
+    Ready
+      L,R,[] - Hairgrab Takeover
+      L,D,/\ - Snapmare
+      U,D,O - Hurricanrana
+      L,R,/\ - Flying Head Scissors
+      U,D,[] - Drop Toe Hold
+    Tie-Up
+      L,O - Bulldog
+      L,/\ - Three Knee Combo
+      L,[] - Leg Stretch
+      L,U,[] - Powerbomb (Finisher)
+    Behind
+      L,O - Bulldog
+      L,/\ - Russian Leg Sweep
+      L,[] - Victory Roll
+    Opponent on Ground
+      Head
+        L,R,/\ - Leglock Chokehold
+      Side
+        L,R,O - Standing Splash
+      Feet
+        L,R,[] - Leg Grapevine
+    Top Rope
+      Opponent Standing
+        /\+[] - Body Press
+      Opponent Lying Down
+        X+O - Splash
+    Corner
+      U,D,[] - Hurricanrana (Trademark)
+    Running
+      Player
+        [] - Cross Body Block
+      Opponent
+        [] - High Leg Clothesline
+
+  Mack Daddy
+    Ready
+      L,R,L,/\ - Seated Crucifix Bomb
+      U,D,O - Fallaway Slam
+      L,D,O - Double Underhook Suplex (Trademark)
+      L,R,L,O - Gorilla Press Slam
+      L,U,/\ - Neckbreaker
+    Tie-Up
+      L,D,[] - Powerbomb
+      L,O - Front Suplex
+      L,/\ - Shoulder Breaker
+      L,[] - Armbar
+      L,R,/\ - Pinning Powerbomb (Finisher)
+    Behind
+      L,/\ - Neckbreaker
+      L,[] - Roll Up Pin
+    Opponent on Ground
+      Head
+        U,D,/\ - Scissored Armbar
+      Feet
+        L,R,[] - Wishbone Legsplitter
+        U,D,[] - Surfboard
+    Corner
+      U,U,[] - Charging Shoulder
+      U,U,/\ - Overhead Press
+    Running
+      Player
+        O - Flying Back Elbow
+      Opponent
+        O - Power Slam
+
+  Mad Goat
+    Ready
+      L,R,D,/\ - Bareback
+      L,R,O - Pump Kick
+      U,D,/\ - Sitdown Slam
+      L,R,U,/\ - Deep Impact
+      L,R,[] - Snap Suplex
+      L,R,/\ - DDT
+    Tie-Up
+      L,[] - Atomic Drop
+      L,O - Bulldog
+      L,/\ - Front Suplex
+    Behind
+      L,O - Headbutt
+      L,/\ - Sleeper Hold
+      L,[] - Roll Up Pin
+    Opponent on Ground
+      Head
+        L,R,D,O - Chicken Choke
+      Side
+        L,R,O - Axhandle Smash
+      Feet
+        L,R,[] - Fist to Groin
+    Corner
+      U,D,[] - Beatdown Powerbomb (Trademark)
+    Running
+      Player
+        [] - Flying Back Elbow
+      Opponent
+        O - Boot to Face
+        [] - Single Arm Slam (Finisher)
+
+  Nurse
+    Ready
+      U,D,/\ - Leg Scissor Stomp
+      L,R,[] - Reverse Tiger Suplex
+      U,D,O - Frontface DDT
+      L,D,/\ - Double Underhook Suplex
+      U,D,[] - Armdrag
+    Tie-Up
+      L,U,/\ - Side Neck Buster (Finisher)
+      L,O - Underhook Headbutts (Trademark)
+      U,D,U,O - Piledriver
+      L,/\ - Double Underhook Suplex
+      L,[] - Side Slam
+    Behind
+      L,U,[] - Rolling German Suplex
+      L,/\ - Reverse DDT
+      L,[] - Roll Up Pin
+    Opponent on Ground
+      Head
+        U,D,/\ - Crossface Punch
+      Feet
+        U,D,[] - STF
+    Corner
+      U,U,/\ - Top Rope Arm Wrench
+    Running
+      Opponent
+        [] - High Leg Clothesline
+
+  Santoro
+    Ready
+      L,U,/\ - Chin Crusher
+      L,U,[] - Running Knee Hit
+      L,R,[] - Bearhug
+      L,U,O - Gutwrench Powerbomb
+      L,D,/\ - Samoan Drop
+      U,D,[] - Small Package
+      L,R,D,O - Gorilla Press Slam (Finisher)
+    Tie-Up
+      U,D,/\ - Piledriver
+      L,O - Samoan Drop
+      L,/\ - DDT
+      L,[] - Armbar
+    Behind
+      L,O - Bulldog
+      L,/\ - Russian Leg Sweep
+      L,[] - Low Blow
+    Opponent on Ground
+      Head
+        U,D,U,/\ - Camel Clutch
+      Side
+        U,U,O - Leg Drop
+      Feet
+        L,U,[] - Inverted STF
+    Top Rope
+      Opponent Lying Down
+        []+X - Turnaround Moonsault (Trademark)
+    Corner
+      U,U,O - Overhead Press
+    Running
+      Opponent
+        O - Power Slam
+
+  Sound Guy
+    Ready
+      L,R,[] - Running Powerbomb
+      L,R,/\ - Superkick
+      L,R,D,/\ - Swinging DDT (Finisher)
+      U,D,U,/\ - Gorilla Press Slam
+      L,U,[] - Japanese Arm Drag
+      U,D,[] - Shortarm Clothesline
+    Tie-Up
+      L,O - Hanging Vertical Suplex
+      L,/\ - Big Head Punch
+      L,[] - Shoulder Breaker
+    Behind
+      L,O - Sleeping Neckbreaker
+      L,/\ - Russian Leg Sweep
+      L,[] - Roll Up Pin
+    Opponent on Ground
+       Side
+         U,D,O - Knee Drop
+       Feet
+         L,R,D,/\ - Elevated Crab
+         U,D,[] - Shuffle
+    Top Rope
+      Opponent Standing
+        /\+O - Clothesline
+      Opponent Lying Down
+        X+O - Flying Elbow (Trademark)
+    Running
+      Player
+        [] - Spinning Heel Kick
+      Opponent
+        O - Power Slam
+        [] - Tilt a Whirl Slam
+
+  Trainer
+    Ready
+      U,D,U,O - Gutwrench Powerbomb
+      U,D,R,/\ - Front Face Gutwrench
+      U,D,/\ - Tiger Driver
+      U,D,[] - Gorilla Press Slam
+      L,R,/\ - High Angle Suplex
+      L,R,[] - Small Package
+    Tie-Up
+      U,D,/\ - Inverted Piledriver (Trademark)
+      L,O - Pinning Powerbomb
+      L,/\ - Front Brainbuster
+      L,[] - Front Suplex
+    Behind
+      L,O - Rolling German Suplex
+      L,/\ - Tiger Suplex
+      L,[] - Beast Choker
+    Opponent on Ground
+      Head
+        U,D,O - Blatant Choke
+      Side
+        U,D,[] - Spinning Splash
+      Feet
+        U,D,L,/\ - Cloverleaf
+    Corner
+      U,U,O - Power Slam
+    Running
+      Player
+        [] - Spear
+      Opponent
+        O - Flapjack
+
+-------
+Secrets
+-------
+
+Career
+  Single Player
+    Unlock Joey Styles & Joel Gertner
+      Win the Acclaim Belt
+    Unlock Tommy Rich & Cyrus the Virus
+      Win the TV Belt
+    Unlock Taz & Louie Spicolli
+      Win the ECW Heavyweight Belt
+    Unlock the Jobbers
+      Defend the ECW Heavyweight Belt 5 times
+  Tag Team
+    Unlock Beulah McGillicutty & The Sheik
+      Win the ECW Tag Team Belts
+Tournament
+  Unlock Bill Alfonso
+    Win using Rob Van Dam
+  Unlock Judge Jeff Jones
+    Win using Mike Awesome
+  Modes
+    Big Feet
+      Win using Balls Mahoney
+    Big Hands
+      Win using Jason
+    Big Head
+      Win using Rhino
+    Ego
+      Win using Chris Chetti
+    Fat Man
+      Win using Spike Dudley
+    Hangman
+      Win using Sal E. Graziano
+    Headless
+      Win using Taz
+    Little Head
+      Win using Roadkill
+    Random Head
+      Win using Louie Spicolli
+  Miscellaneous
+    Custom Wrestler Textures
+      Win using Tommy Dreamer
+Alternate Costumes
+  Hold down L1, L2, or R2 while selecting character.
+
+-------
+Credits
+-------
+
+ECW and its wrestlers.
+ESRB, for the M rating.
+GameFAQs, for posting this FAQ.
+
+-----------------------
+Copyright & Other Stuff
+-----------------------
+
+ECW Hardcore Revolution FAQ © 2000 by charjer0
+ECW Hardcore Revolution © 2000 by Acclaim Entertainment, Inc.
+Disclaimer: This FAQ shall not be reproduced without the expressed 
+written consent of the creator.

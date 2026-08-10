@@ -1,0 +1,1272 @@
+Title:   Ephemeral Fantasia Walkthru (NA version)
+Author:  charjer0
+E-mail:  charjer@gmail.com
+Version: 0.1
+Date:    March 03, 2002
+
+========
+Contents
+========
+Controls
+A Little About This Walkthru
+A Little About The Game
+Characters
+Walkthru
+Credits
+Copyright and Other Stuff
+
+========
+Controls
+========
+-----
+Field
+-----
+Left Analog Stick - Move around; LED light on
+D-Pad - Move around; LED light off
+Select - Show map (this will show you the area map if you have it, 
+otherwise it will show you the entire map of the island)
+Start - Pause
+X - Accept; in the map, if you are looking at an area map, pressing this 
+button brings up the entire map of the island
+O - Cancel, skip through dialogue
+[] - Shows compass/clock; brings up menu; closes menu
+/\ - Fast forward through CGs; camera zoom
+R1/L1 - Rotate camera
+
+------
+Battle
+------
+Up/Down - Scroll through menu
+Right/X - Accept
+Left/O - Cancel
+/\ - Change camera view
+L1/R1 - Change ready character
+L2 - Semi-auto AI mode
+R2 - Full AI mode
+Start - Pause
+
+---------------
+Music Mini-Game
+---------------
+Start - Begin song
+O - Pick
+L2 - Red
+L1 - Green
+Right - Blue
+
+============================
+A Little About This Walkthru
+============================
+This walkthru will not include a list of magic spells, skills, secrets, 
+or items in the game.  It will also not have boss fight tips.  Except 
+for the boss fight tips, the rest of the information can be found in 
+BAnderson's Ephemeral Fantasia FAQ/Walkthru.  This walkthru is just to 
+make it a bit easier to follow what to do in the game and when and how 
+to recruit the characters.
+
+=======================
+A Little About The Game
+=======================
+This is not your ordinary, run-of-the-mill RPG.  The game is based on a 
+five day week.  Not seven, five.  At the end of five days, time "loops".  
+Or, you start back on day one, but count it as the next week.  For 
+example, if you've gone through week one and time loops, don't count it 
+as day one on week one.  Instead, count it as day one on week two.  
+Confused?  Go through it a couple of times and you'll lose count of what 
+week you're on.  Then it won't matter what week it is.
+
+There is also the concept of time in this game that I should tell you 
+about.  You may think, "Hey, this is like any other game.  I have lots 
+of time to get to my next destination."  Well, you're wrong.  One game 
+hour (if you follow the clock/compass) is approximately equal to one 
+"real world" (as in the world you and I are in right now) minute.  So 
+please be careful about this.  You don't want to miss key events that 
+you need to see in order to complete the game.
+
+Also, there is an option to let the computer take over your battles.  
+You can do that if you like, although it is not recommended by me.  And 
+don't forget to pause the game when you need to go to the bathroom or 
+get something to eat.  It stops the watch from running and during 
+battles.  Unlike RPGs like the Final Fantasy series, there is no "Wait".  
+All the battles in this game are "Active".
+
+During the course of the walkthru, don't worry if you don't follow what 
+I did word for word.  I'm just putting down what I did.
+
+==========
+Characters
+==========
+-----
+Mouse
+-----
+The main character of the game.
+A thief and travelling musician.
+Renameable.
+
+-------
+Pattimo
+-------
+Mouse's companion.
+A talking guitar.
+
+--------
+Loreille
+--------
+Princess of the island of Pandule.
+
+------------
+Xelpherpolis
+------------
+Prince of Pandule.
+He is going to marry Loreille so he can become the new king of Pandule.
+
+-----
+Rummy
+-----
+Captain of the guards that protect the princess.
+
+------
+Bagoth
+------
+General of Pandule's army.
+
+------
+Claire
+------
+Resident watch maker.
+Frequents the bar often.
+
+---
+Ano
+---
+Palace's top magic scientist.
+
+----
+Kyte
+----
+Old sea captain.
+
+-----
+Plosi
+-----
+An artist.  A perverted artist.
+
+-----
+Rinna
+-----
+Daughter of the innkeeper.
+
+----
+Beak
+----
+A friend of Mouse and another thief.
+Renameable.
+
+----
+Fang
+----
+A friend of Mouse and another thief.
+Renameable.
+
+--------
+Gallhint
+--------
+Another thief.  His fortress is on the eastern part of Pandule.
+
+-----
+Lloyd
+-----
+A robot brought to life with the help of magic.
+
+-------
+Grantus
+-------
+One of three of Xelpherpolis' group of time priests.
+He has the head of a bull.
+
+--------
+Twinboom
+--------
+One of three of Xelpherpolis' group of time priests.
+He has the head of a bird.
+
+-------
+Jawarro
+-------
+One of three of Xelpherpolis' group of time priests.
+You'll find out what this person looks like.
+
+------------------
+Celestial Citizens
+------------------
+People who live in the clouds above the island of Pandule.
+Confused?  You'll see later in the game.
+
+========
+Walkthru
+========
+
+--------
+Week One
+--------
+
+-Day One-
+
+"Congratulations, you've been invited to play for Prince Xelpherpolis at 
+his wedding, blah, blah, blah..."
+
+You (Mouse, or whatever you decided to name him) start out on a boat.  
+After the conversation with the captain, you talk to Pattimo.  It asks 
+you a question, so answer however you want.  I don't think it affects 
+the story at all.  The opening credits come out and you get dropped off 
+at the docks on the island of Pandule.  Rummy (you did read the 
+Characters section, right?) meets you there.  She drops you off at the 
+inn and suggests that you explore town a little.  After she leaves, the 
+innkeeper comes in and starts talking, and talking, and talking.  When 
+he finally finishes, you get your first map piece.  You can sleep if you 
+like, or you can explore town.  If at any time you'd like to rest, go to 
+the single bed and examine it and select how many hours you'd like to 
+rest.  I suggest exploring town.  You can go into people's homes and 
+loot their belongs.  For now, just stay within the map that you have 
+currently.
+
+Eventually, the game will stop and Rummy will arrive and pick you up to 
+meet the Prince and Princess.  You meet them and you get your first song 
+of the game.  Don't worry about not doing a good job on it.  You just 
+have to finish playing it.  If you've played Guitar Freaks before, this 
+mini-game shouldn't be too hard.  After the meeting, you'll be free to 
+go and do as you please again.  Some time during that night you'll be 
+magically whisked away to the castle.  Okay, not magically, but the game 
+will take you there.
+
+Feel free to look around, take things, what not.  When it reaches a 
+certain time, you'll be automatically taken to the Princess' room.  
+After the conversation, you leave.  You should be taken back to the inn.
+
+-Day Two-
+
+"Witness the amazing....snake dance?"
+
+Welcome to day two of your stay on the island of Pandule.  Enjoying 
+yourself?
+
+Anyway, the innkeeper comes in and suggests watching the summoning of 
+one of the sacred stones.  When Pattimo talks, you get to make another 
+decision (don't you like making those; feels like you have your own 
+mind, doesn't it?).  I chose yes.  After you leave, Rinna comes in and 
+finds that you had already left.
+
+You get sent to the beach, where you find Rummy swimming.  She changes 
+her clothes and joins your party, which consists of just you and her.  
+Roam around, get in a couple of battles, search for chests.  The game 
+will automatically take you to the ceremony.  There you meet General 
+Bagoth who makes a request of you.
+
+After the ceremony, feel free to roam around again.  When the time 
+arrives, you'll be taken to the castle and have your meeting with 
+Bagoth.  During the conversation, when I could, I chose "No".  He's 
+happy, then let's you go.  Be careful now because the castle has become 
+a dungeon.  Random battles occur here now.  Anyway, make your way down 
+two floors and out of the castle (the main entrance/exit to the castle 
+is on the second floor).  Rummy meets you outside and asks you to meet 
+at the restaurant at 7:30 pm that night.  She gives you the map for the 
+area.  Take a look at it.  I know you don't have the map showing the 
+route so follow my directions.  Best to do it now before you run out of 
+time.
+
+Go south down the bridge to the town center.  You'll see buildings to 
+the west.  Go around these buildings so that you're going north.  Keep 
+going north until the path turns towards the northeast and continue 
+following it in the easterly direction.  Following this path takes you 
+back to the inn.  Now, before the inn, there should have been a path 
+going north.  Take that path and follow it east.  The screen will change 
+to black and you'll see Now Loading in the bottom right.  You are now on 
+a new map block.  Continue east past the ramp.  Go up the first north 
+path past the ramp and continue north until you get the Now Loading 
+black screen again.  If you check the map, you'll see that you have the 
+map for this area.  It's the one that Rummy just gave you.
+
+Now that you've found the restaurant, feel free to do what you like.  
+Just don't forget where the restaurant is.  Around 7:30 pm, go into the 
+restaurant and Rummy should be on the second floor.  When you two talk, 
+you'll have a list of conversation topics.  If you want information, 
+choose the option about Princess Loreille last.  Otherwise, just pick 
+that one and the story progresses.  Dinner ends and you can do what you 
+like.
+
+-Day Three-
+
+If you want to go on a tour of the city with Rinna, make sure you're at 
+the inn between 6 and 10 am.  Those are the times Rinna is working.  If 
+you don't want to, don't sweat it.  What you do is go up the innkeeper 
+and talk to him.  Rinna overhears the conversation and asks if you'd 
+like her to take you on a tour.  I chose "Yes".  She takes you through 
+parts of the city, you play a song for her, and you get to see another 
+ceremony take place.
+
+After the ceremony, exit the gates and go in a northeasterly direction 
+to find a chest.  In it is another map piece.  Sooner or later, Rinna 
+has to leave to go back to work.  Take a look at the map to see how to 
+get back to town.  Once you get back, in the map that has "Town" on it, 
+there should be the word "Mall" to the west of the town center.  Go 
+there and you'll find a bunch of shops.  There's also a blacksmith here 
+that'll upgrade Pattimo.  Remember this location for future reference.
+
+If you're on this map around 3:15 pm on this day, you'll get to see 
+another ceremony in the town center.  Not a sacred stone ceremony, but 
+it still involves dancing.  Later, a maid from the castle meets you and 
+tells you that she's to escort you to the castle for a wedding dress 
+ceremony.  During the ceremony, Gallhint and his bandits attack.  Watch 
+the events, then you'll be free to do what you want.
+
+Let's go get another map piece.  Remember the route you took to get to 
+the restaurant?  Let's go get the map piece for the area you don't have 
+yet, the one in between the restaurant map and town center map.  Take 
+that same route, but instead of going north to the restaurant map, you 
+should see a path going to the east.  Take that path and enter the first 
+house on the south.  Talk to one of the people next to the door inside 
+and they'll give you a map piece.
+
+-Day Four-
+
+"Trouble brewing..."
+
+You should get a cut scene involving Ano, Loreille, and Xelpherpolis.  
+Not all of them together at once, but one having them.  Any who, head up 
+to the castle some time in the morning and you'll have a run in with 
+Xelpherpolis and his priests.  Ano comes in during the conversation, 
+then you get invited to dinner later that night at the castle.
+
+Next, if you want to take part in a scene involving Loreille, go to the 
+other side of the castle.  If you don't want to, skip to the next part.  
+Pass by the front and go to the tower on that side.  You'll get into an 
+auto event with Princess Loreille.  When you have to choose an option, 
+pick whichever you want.  It shouldn't matter which one you pick.  You 
+just get a different response.
+
+Let's go get more map pieces.  Why are we getting them?  Well, one is to 
+be able to find things easier.  And the second, you'll find out later, 
+when you start forming your party.  Go down to the town center map.  
+Take a look at the map for this area and you'll see there are two exits 
+go the west.  Take the northern west exit off this map.  Go in a 
+southwest direction following the path until you come to a building that 
+looks like a temple.  Go inside and search the bookshelves to find a map 
+piece.  Leave the temple and go to the northwest to the map west of the 
+town center map.  Look for another temple-like building and go in.  
+Inside is a fortune teller.  Pay the man, he'll give you your fortune, 
+and offers you a map piece.
+
+Now you're free until around 7:30 pm when someone from the castle comes 
+to pick you up for the dinner that Xelpherpolis invited you to.  Watch 
+what happens during dinner.  After all that, there's an explosion.  
+Watch it play out.  After all this is done, you're free again.  If you 
+have enough time, I suggest paying a visit to the bar.  You need to get 
+there before 12 am.  If you don't make it, it's okay.  Just do it before 
+the end of the second week between 8 pm and 12 am.
+
+In order to get there, start from the town center map and go south of 
+that big statue.  Follow the path to the east and you'll change to 
+another map block.  Continue east over the bridge and through the 
+bazarre.  Then go south and you should see a cobblestone path.  Follow 
+it for a while.  If you arrive see a squarish block of water surrounded 
+by a fence (this is the pond, keep it in memory for now), you've gone 
+too far.  You'll need to go back one map block.  Go a bit to the east 
+and one of the buildings here is the bar.  You'll get a cut scene where 
+you meet Claire.  After that's done, go up to the lady behind the 
+counter to the west and buy some liquor.  Go back and talk to Claire 
+again and watch the scene play out.
+
+-Day Five-
+
+"The wedding day is finally here..."
+
+At 6 am, you'll be shown a cut scene with Xelpherpolis and Loreille.  
+And then you have free time until 9 am.  Why not spend this time getting 
+another map piece?  Simply take the same route you took to go to the 
+pub, but keep going south, following the cobblestone path to the next 
+map block.  Continue following the path until you reach a pond.  There 
+should be a man on the north side of that pond.  Talk to him and he'll 
+give you a map piece.
+
+If it's between 12 and 6 pm and if you'd like to learn a new song, go 
+back to the castle.  Go to the west after passing through the gates 
+until Pattimo says something.  When it does say something, don't move.  
+Stay at that spot.  Go into your item screen and select Pattimo and play 
+a song.  The Princess comes out, says something, and you'll learn a new 
+song.  If you play that song, she'll give you an item.
+
+Now let's go get another map piece.  Go into the castle.  On this floor, 
+in the room in the southeast, talk to the soldiers.  One of them will 
+give you a map piece.
+
+Around 8 pm, you'll be shown another event, so have a watch at that.  
+Around 9 pm, you'll be taken to the wedding ceremony, where you'll have 
+to play.  Go ahead and select the newest song that's on that list.  
+After that's over, watch what happens next.
+
+--------
+Week Two
+--------
+
+-Day One-
+
+"What the hell?..."
+
+You're on a boat on your way to Pandule.  Prince Xelpherpolis invited 
+you to play at his wedding ceremony and you're wondering, "What the 
+hell?!"  Basically what happens is Rummy comes and picks you up and 
+drops you off at the inn.  You have a chat with Pattimo.  It tells you 
+what's happening to the best of its knowledge and you get the lead out 
+of there before the innkeeper comes in and starts babbling.
+
+Around 5 pm, Rummy comes to pick you up to meet Xelpherpolis and 
+Loreille, again.  You can use the /\ button to fast forward through the 
+events if you don't want to watch them (you did read the Controls 
+section, right?).  After this event, leave the castle and go to the town 
+center.  Do you remember that building that looks like one of those city 
+hall type buildings that you pass by when you go to the inn from the 
+town center?  To get your money, it has to be before 8 pm.  Go in there 
+and talk to the guy sitting down and he'll give you your payment.
+
+Why not start recruiting people for your party?  Let's start with the 
+one named Kyte.  If it's between 6 and 10 pm on days one, two, or three, 
+follow these directions.  Take the same route you took to go to the bar, 
+but continue on like you were going for the map piece.  Keep going and 
+you'll eventually reach the docks where you arrived.  Go past that to a 
+building that has a row boat on it.  Once inside, an event will occur.  
+So play them a song and drink that drink.  Then he'll tell you his name 
+and when you can go get him.  For those of you who can't remember, it's 
+days one through three.
+
+If it's still before midnight, go back to the bar and talk to Claire.  
+She'll tell you to take a visit at her watch shop later on.  Remember 
+this bit of info.  Now comes the hard part.  Recruiting Rummy.  I 
+suggest that you do this right after you leave the bar.
+
+-Day Two-
+
+You have to go through the map with the Forest Ruins on it.  Follow the 
+path until you change map blocks.  You should have exited to the north.  
+Follow the path and cross the bridge.  Now travel in a northeasterly 
+direction until you change map blocks again.  This time, go east until 
+you hit the shore and just wait here until about 7 am where an event 
+will happen with Rummy.  As a side note, this area should look like the 
+area where you were during week one when you were brought to this area 
+as an auto event.  After getting her in your party, go north to the Sea 
+Ruins and watch the ceremony again.  Bagoth will talk to you again, 
+blah, blah.  You'll automatically be taken to your meeting when the time 
+arrives.  Pick "No" again.
+
+After the meeting, rush down to the second floor and go to the northwest 
+area.  Enter the room to the north and talk to the soldiers there, then 
+go to the room to the west and speak with Ano.  After you finish there, 
+run out of the castle.  Rummy may come and find you here and ask you to 
+meet her at the restaurant again.  Anyway, go east around to the back of 
+the castle and speak to the guy next to the plant.  His name's Jailson.  
+After you speak to him, examine the plant and you'll fight it.  After 
+the fight, examine Jailson's body to find a key.  Go back into the 
+castle, turn east, then north, and Jailson's room should be on the first 
+door on the left.  Search around for Jailson's clothes.  Once you have 
+them, go back to the area before going into the room that Ano is in and 
+select Jailson's clothes in your item screen.  You'll see an event and 
+receive a key from Ano.
+
+Now make your way go the restaurant and wait outside till about 7:25 pm.  
+Go in and Rummy will be upstairs.  You'll have dinner again, but this 
+time will be a bit different.  When she asks if you think she's weaker 
+than the Princess, pick "No".  You can pick "Yes" if you like, but "No" 
+is nicer.  Then you'll walk her home.  Get ready for the next day.
+
+-Day Three-
+
+If it's between 6 am and 12 pm and if you remember the way, go back to 
+the docks and get Kyte.  He'll be to the east of the docks.  Speak to 
+him and he'll join your group.  Now you need to convince him, so go back 
+to the castle and go to the east after passing through the gates.  Go as 
+if you were going to talk to Jailson, but instead go into the first door 
+you see.  You'll get into a fight to convince Kyte and you'll be able to 
+recruit him any time from now on.  To upgrade hiw weapon, you'll have to 
+buy different types of fish.  Don't ask.  I hardly used him.
+
+If it's still before 12 pm and if you have at least 2000 G, go to the 
+map directly south of the town center.  For future reference, Rummy's 
+house is the second house on the west when you enter this map.  Anyway, 
+go into the first building on the right, and exit through the northeast 
+to get to the beach.  Go south to a building that has a roof that's 
+blue.  Inside, buy something from the shop owner.  You don't have to buy 
+a lot, just something.  Quit the menu and you should get the option to 
+purchase a map piece.  Purchase it.
+
+Now, go on to Rummy's house between 12 and 6 pm.  You should get some 
+kind of event where you hear her talk.  Okay, that's that.  If it's 
+before 6 pm, pay Claire a visit.  Follow these directions.  From Rummy's 
+house, go north to the town center map.  From there, go west until you 
+change to another map block.  Continue on west and you should get to a 
+building.  This is Claire's watch shop.  Remember where this building 
+is.  It will serve as your base of operations later in the game.  The 
+door should be unlocked so go in.  You'll be shown an event.  After it's 
+done, exit the building.  You'll be shown another event and you will now 
+be able to recruit Claire into your party like Kyte.  Go back into her 
+shop and you'll be shown another event and be able to recruit her.  Her 
+weapon upgrade shop is two buildings west of the restaurant.
+
+-Day Four-
+
+Between 12 and 6 pm you'll need to go to Rummy's room in the castle.  
+It's located on the first floor, so you'll need to go one floor down 
+from the entrance.  Once on the first floor, head to the southeast 
+corner.  Her room is the one to the east in the southeastern corner.  
+You'll see an event.  After she leaves, read the note on the desk, then 
+examine the flower.  You'll get into a fight.  Kill it and you'll 
+receive an item.  Next, you'll need to find the kitchen.  It's on the 
+same floor, but in the northwest corner.  You'll find it.  It has two 
+cooks in it.
+
+Between 7 and 8 pm, make sure you're in there.  Talk to the chefs in 
+there and they'll direct you to the cups.  Examine the cups, select the 
+middle option, and you'll fight the flower again.  Not a hard fight.  
+After that, it'll cut to dinner.  Then you'll see what transpires and 
+after that, you'll be able to recruit Rummy.  As a side note, Rummy's 
+weapon upgrade shop is on the town center map.  It's to the east of the 
+big statue thing and a bit to the south.  The entrance to the building 
+is on the west.
+
+-Day Five-
+
+Nothing really important here except the wedding and time looping again.
+
+----------
+Week Three
+----------
+
+-Day One-
+
+Just a recap, if you saw a beam of light and a message saying "so-and-
+so" has been released from the time loop or something to that equivalent 
+after the steps above for Rummy, Kyte, and Claire, then you actually 
+were able to recruit them.
+
+Okay, moving on.  Someone should come to meet you at the docks when you 
+first arrive.  In my game, it was Claire.  You'll go back to the inn and 
+have a conversation and you'll see Rinna listen in.  After that event, 
+head downstairs and talk to the innkeeper.  After that event, check your 
+items.  If you don't have the spare key that was given to you by Ano 
+from the previous week, then you'll have to do those events again.  Just 
+go back up to Week Two Day Two for the reminder.
+
+Anyway, let's go recruit another character.  Follow these steps.  From 
+the inn, go to the west and up the ramp.  From the ramp go east until 
+you change map blocks.  From here go east until you see a ramp.  Go up 
+the ramp and head west until you change map blocks again.  Keep going 
+west until you change map blocks one more time.  On this map block, you 
+should see a monument in the middle.  Go past this to the northwest part 
+of the area.  It should lead off to a forest path.  Follow this path to 
+the southwest until you reach a house.  If anyone is in your party, you 
+must remove them.  Make sure the time is between 12 and 6 pm then talk 
+to the guy outside and he'll tell you that this house belongs to Plosi, 
+the name of the character you'll recruit next.
+
+You'll see an event.  After the event, go get either Rummy or Claire.  
+Claire's probably easier to find right now, so go get her.  You do 
+remember where her watch shop is, right?  Once you have her, go back to 
+Plosi's house.  Best to do this in one day.  Anyway, once you get back 
+and see the event, remember that you need to return here on day three 
+between 6 and 9 am.
+
+-Day Two-
+
+Nothing special here.  You should get the meeting with General Bagoth 
+event again around 1 pm.  Again, answer "No" when you get the chance.  
+This event will be a bit different.  Also, if you found that you didn't 
+have the spare key, do the events above again.  Have fun with this 
+stuff.
+
+-Day Three-
+
+Okay, now some action.  Go back to Plosi's house on this day between 6 
+and 9 am.  Watch the event here and you'll be able to recruit him from 
+now on.
+
+After you recruit Plosi, go back to Claire's watch shop and you should 
+get an event involving Claire's magic mirror.  This thing makes it 
+possible to recruit members that you've "freed" from the time loop 
+engulfing the island into your party without going out to hunt them 
+down.  Remember this.  It will make life easier.  Also, I would like to 
+add the reminder about the Time Vault.  Store the items on you that are 
+perishable.  Key items and equipable items will not be afffected by the 
+time loop.  The other stuff will disappear.
+
+Around 7 pm, go back to the inn and talk to the innkeeper to see an 
+event.  After that's done, open up your map and take a look at the map 
+block that has the Forest Ruins on it.  If you notice, on the southern 
+part of the map is a path that has a small pond at the end of it.  That 
+is your destination so get there as fast as you can.  Once you arrive, 
+you'll be shown an event introducing Grantus.
+
+You may or may not get into a battle.  I can't remember.  After the 
+event finishes, you'll be shown another event and you should end up in 
+the inn.
+
+-Day Four-
+
+During the day, do pretty much whatever you like.  Around 7 pm, go up to 
+the castle.  After you pass through the gates, turn west and follow this 
+path around to the side of the castle.  It should bring you to the door 
+that General Bagoth came out of during week one where he died.  What you 
+need to do is go in that door, go up the huge flight of stairs and wait 
+by the door until 8 pm.  When the time arrives, Bagoth should be up 
+there.  Talk to him, then enter the door.  You'll be shown an event, get 
+into a fight (not with Bagoth), then be able to recruit the General.  To 
+get to his weapon upgrade shop, you'll need to go past Rummy's house, 
+past the building after, turn into and follow the path going west after 
+the building past Rummy's house.  Follow it west until you change map 
+blocks and his upgrade shop is the first house on the house.
+
+-Day Five-
+
+Nothing of interest on this day except Rinna waking up and time looping 
+again.
+
+---------
+Week Four
+---------
+
+-Day One-
+
+Okay, recapping once again.  Members you should already have: Claire, 
+Rummy, and Kyte.  New people: Plosi, Bagoth, and Rinna.
+
+Well, Rinna should be meet you at the docks when you arrive yet again.  
+Now, I suggest leveling up and exploring the island outside of the town.  
+Go back to Claire's watch shop and use the magic mirror.  Be sure to put 
+Rummy in your party.  You'll need to learn a certain skill called Power 
+Jump.  What this skill does is "power jumps" you from the map you're on 
+to any other map that you already have.  The skills you need to have 
+them learn are in BAnderson's Walkthru, but I'll list the steps here.  
+With Rummy, use her Hard Punch attack until you learn the move called 
+High Kick.  Now use that until she learns the move called Diving Kick.  
+Use that move in a battle and you (meaning Mouse) should learn the Power 
+Jump skill.  The only drawback to this move is that you lose 100 HP 
+every time you use it.
+
+Anyway, for now, I suggest putting Rummy and Bagoth into your party.
+
+Once they're in there, go to the map block south of the town center and 
+follow the path all the way down until you get to two buildings.  Go in 
+between the buildings then go west until you see a guard.  Talk to him 
+with Rummy and Bagoth in your party and he should let you through.  You 
+are now outside of town.  Once you get to the next map block, random 
+battles will start occuring.  Try not to miss any chests since some of 
+them will have map pieces in them.  If you get lost, you can always 
+check your map.
+
+You should try to find the Hunter's Village on this day.  It's located 
+on the western side of the island.  You'll need to move north, go 
+westward once you can't go north any father, then go south.  If you make 
+it to a forest, you're on the right track.  Follow the forest out to a 
+beach, continue south but stick close to the shrubbery.  It should take 
+you into the Hunter's Village.  If you make it there between the times 
+12 and 6 pm, talk to everyone.  One person will sell you the map piece 
+for that block for 1000 G.  Another person should tell you about the 
+Golden Bird and where you can find it.  And another person should tell 
+you what times the bird is there.  Remember, the Golden Bird lands at 
+the old church by the cemetery between 12 and 5:59 am.
+
+Hey, let's go get another map piece while we have some time.  On the 
+eastern side of the Hunter's Village is an exit going north.  Take it 
+and follow the path to its end.  At the end is a house that belongs to 
+"witch".  Search the house for a map piece and talk to her if you want 
+to restore any HP and MP.
+
+Now go back to Hunter's Village and go back two map blocks north.  On 
+this map block, look for a sign that has "West - Cemetery" or something 
+to that equivalent on it.  It should be a path that's going to the west.  
+Take it and go all the way to the end.  You should see a guard.  If you 
+followed my advice and put Rummy and Bagoth in your party, you should 
+have no trouble getting past the guard.  Go into the building and search 
+around for some items.  Talk to the person in there to get a map piece.
+
+-Day Two-
+
+Around midnight, you'll see the Golden Bird fly in.  Just be patient and 
+wait for it to land.  Once it does, examine it and you'll get into a 
+fight.  Win and you'll receive a golden feather.  Okay, you just 
+completed the hardest part in recruiting Ano, the magic scientist.
+
+You can continue to roam around and find more map pieces if you like.  
+If you leave this map block to the north and continue to the east, you 
+should run into another "witch"'s house.  There's another map piece in 
+there, so just search around.
+
+To the east is the swamp.  There's at least three map pieces in there.  
+Just explore, they're not all in one place.  When you go out the east 
+exit of the swamp, talk to the guard there if it's still day time to get 
+the map piece for that block.  To the east of the swamp is another house 
+that has "witch" inside.  Her house also has a map piece.  If you 
+continue south from here to the map block south of the block that has 
+the witch's house, you can find another map piece in a chest.  A bit to 
+the east of where you found the map piece should be some dirt.  That 
+leads to a path.  Take and follow the eastern fork.  When you reach 
+another fork, take the eastern one again.  (I'm not too sure about that 
+last sentence.  There may or may not be a second fork.  If there isn't, 
+please disregard.)  Follow the path until you find a single house.  Yep, 
+another witch house.  Go find the map piece inside.  Okay, that's as far 
+as you need to go on this side of the map for now.
+
+Going back to the map block that has the sign with "Cemetery" on it, if 
+you go south from there and follow the path going to the east (you'll 
+also go north and east again), you should find another town called 
+Coalmine.  One of the buildings here has the map piece for this map 
+block.  Okay, let's head back to town now.  Power jump if you learned 
+it, otherwise, it's the long road for you.  Otherwise you can just roam 
+around ahd level up a bit more.
+
+-Day Three-
+
+Okay, I hope you remember where Ano's office in the castle was.  You'll 
+need to go in there between 12 and 6 pm on this day.  Go in there, talk 
+to him, and watch the conversation.  After that's done, go into the next 
+room and speak to the guard sitting at the desk.  Now leave the castle 
+and go back to the town center map.  You'll have to go look for the pen 
+shop now.  Follow these directions.
+
+Go as if you were going to Bagoth's weapon upgrade shop, but instead of 
+going into that building, continue on the path.  You should be going to 
+the west, then north, up a ramp and in a southerly direction.  One of 
+these buildings has a picture of a feather pen on it.  It's on the 
+easter side of the street/path.  This is the pen shop.  Go in and talk 
+to the guy.  Since you already have the golden feather, it'll just skip 
+the intermediary part.  Anyway, come back in six hours.
+
+Once you have the pen, there's not much more to do on this day.
+
+-Day Four-
+
+If you would like to recruit Beak and Fang, follow these directions.  
+They're not essential to passing the game, but you can recruit them if 
+you like.  Otherwise skip this day entirely and do something else like 
+leveling people up or upgrading weapons or learning new skills.  Or if 
+you'd like to see the different endings, I suggest creating a save file 
+now.  One for recruiting Beak and Fang, and the other one without them.
+
+First, make sure Kyte is not in your current party.  Now, you'll need to 
+be at the map block four blocks north and one block west of the town 
+center between 12 and 6 pm.  This is the north beach.  When you arrive 
+between these times, you'll see an event with Kyte.  And that's that.  
+Do what you like for the rest of the day.
+
+-Day Five-
+
+Nothing really of interest here.  Time loops yet again.  As a note, from 
+here on out, I will no longer be naming what week it is.  I'll just be 
+putting up what day you should do what and what should happen, blah, 
+blah, blah.
+
+---------
+Next Week
+---------
+
+-Day One-
+
+If you wish to still recruit Beak and Fang, follow the walkthru for this 
+week.  Otherwise skip down to "Alternate Next Week or The Next Week".
+
+When you arrive at the docks again, go to the east of them to where Kyte 
+usually is.  You'll notice that he isn't there, but someone else is in 
+his usual spot.  Talk to him.
+
+Now power jump to the map block southeast of the block with the eastern 
+swamp exit.  If you haven't learned that skill yet, you'll have to walk.  
+Take the southern exit and when you reach the fork, take the western 
+path.  When you reach another fork, take the eastern path and follow it 
+all the way to the village.  Welcome to the Woodcutter's Village.  Talk 
+to everyone.  If it's still before 12 pm, go into the house closest to 
+the lift and there should be a person inside.  Talk to him to receive a 
+map piece of this block.
+
+Now go talk to the people to the west of the lift.  One of them will ask 
+you to go to the blacksmith to get the broken lift parts.  Accept the 
+request.  Now, power jump (otherwise you'll have to walk all the way 
+back around to town) to the town center and go to your blacksmith.  Talk 
+to the person behind the counter to receive the parts.  Unfortunately, 
+you'll have to pay out of your own pocket.  Now power jump (or walk) 
+back to the Woodcutter's Village, if you were able to get the map.  Talk 
+to that guy again and he'll give you an item.  If it's still before 12 
+pm, go directly east of those guys and you should find a guy chopping 
+wood.  If it's after 12 pm, you'll find two guys standing on the eastern 
+side of the lift.  Anyway, talk to the people and one of them should 
+give you a new song.  If it's already past 12 pm on this day, then wait 
+till the next day to go do the next steps.
+
+-Day Two-
+
+Now power jump (from now on, I'm going to assume you have this skill) to 
+the northernmost map block of the swamp that you have and exit out of 
+the north exit of the swamp.  Follow the path all the way to the 
+village.  This is the Abandoned Village.  Find a tree on the northern 
+part of this village that has kinda big mushrooms.  Play the new song 
+you received in front of it and you'll be shown an event.  Go into the 
+light and you'll enter the Celestial Village (not sure if it's the name, 
+but it's the village with the celestial citizens).
+
+Talk to everyone outside first.  One of the people will be selling a map 
+of this block for 1000 G.  Find the house in the southwest corner and 
+you should see an event.  Now find a building that has a shed behind of 
+it.  Go in and talk to the man in there.  He'll make you an offer for 
+10,000 G.  If you have the funds, go for it.  You'll be shown an event 
+and you'll be on a small island off of Pandule.
+
+Go to the west and you'll see some constructions.  Go in the door.  Be 
+prepared for this dungeon.  It can get confusing, so remember where you 
+entered it.  Once inside, you'll need to go to each corner of this giant 
+maze and activate four switches.  I suggest going clockwise from the 
+southwest because once you activate the four switches, you'll need to go 
+down on level via the stairs closest to the southeast switch.  You'll 
+also find a pool on this level.  You can restore HP/MP and save at this 
+thing.  Don't forget how to get out of here.
+
+Well, go down one floor via the stairs closest to the southeast stairs.  
+You'll find four set of stairs.  Down each one is a chest with a switch 
+inside.  You'll need to go down each of the stairs and activate all the 
+switches.  Once you're done that, you'll need to go back up to the first 
+floor.
+
+Take the stairs in the northeast down.  Follow the path and you'll come 
+to a warp.  Take it and you'll appear in a rocky area.  Follow the only 
+path you have.  When you reach a fork, go south.  When you reach another 
+fork, go to the east.  You should automatically be shown an event, then 
+get into a boss fight with Kyte in your party.
+
+After you beat the boss, you'll need to manually make your way back out 
+to the surface.  Once outside, watch the event.  When you see the name 
+entry screen, just enter the names you'd like for Beak and Fang.  You 
+won't be able to get them recruited now, but you'll see them later.  
+You'll also receive two map pieces from Kyte for that island you were 
+on.
+
+-Days Three to Five-
+
+There's nothing really left to do for the remaining days, so just level 
+up, upgrade weapons, and the next week should come soon enough.
+
+------------------------------------
+Alternate Next Week or The Next Week
+------------------------------------
+
+-Day One-
+
+For those of you not recruiting Beak and Fang, this is the Alternate 
+Next Week.  For those of you continuing on after going through that 
+dungeon on the island, this is The Next Week.
+
+Anyway, make your way to the inn.  Around 12 pm, talk to the innkeeper 
+and he should give you an item.  After he does, go to Claire's watch 
+shop and talk to her.  You should see an event.  Put some people in your 
+party, go outside the shop, and power jump to the map block east of the 
+block that has the Woodcutter's Village.  If you're not past the witch's 
+house, go past it and just follow the path.  When you reach the forest, 
+you'll see an event and get into a fight.  After the fight, you'll meet 
+Gallhint.
+
+After the event, continue up to the next map block and make your way up 
+the map in a northeasterly direction and you should arrive at Gallhint's 
+Fortress.  Gallhint's in one of the buildings.  In the building he's in, 
+search around and you'll find a map piece of this block.
+
+That's pretty much it for this day.
+
+-Day Two-
+
+Not much to do on this day.
+
+-Day Three-
+
+Between 12 and 6 pm, go back to Gallhint's Fortress and talk to 
+Gallhint.  You'll be shown an event.  That's the major thing for today.
+
+After that, I suggest going to the map block north of this block.  
+Search this area for a map piece.  There's also an entrance to a 
+dungeon.  I suggest doing this now while you have time.  Plus, it'll 
+make it easier on you later.  Don't forget to go in there without other 
+people in your party.  Unfortunately, I won't be able to give you 
+precise directions for this dungeon, especially if you want to get all 
+the items in the chests.  If the enemies here are giving you trouble, 
+then you haven't levelled up enough yet.
+
+Well, when you make it out, just follow the path and grab the map piece 
+in the only chest on this block.  On the next block is another witch's 
+house.  Go in and talk to her.  I'm not exactly sure, but either the map 
+piece in her house is somewhere in the furniture or you have to purchase 
+it from her.
+
+-Days Four and Five-
+
+Nothing really important except time looping again.
+
+---------
+Next Week
+---------
+
+-Day One-
+
+Nothing really important happens here.  Do what you like today.
+
+-Day Two-
+
+If you are in town between 1 and 4 pm, you'll see an event involving 
+you, Rinna, and Zenne, Gallhint's girlfriend.  After the conversation 
+ends, head to Gallhint's Fortress and talk to him.  After that 
+conversation ends, you're pretty much free until the next day.
+
+-Day Three-
+
+The whole day is pretty much open.  When it's 7 pm, make your way to the 
+castle and wait until 7:45 pm.  At that time, you'll see the event with 
+Gallhint crashing the wedding dress ceremony, only it's a bit different 
+this time.  Then you get into a fight with Xelpherpolis.  After the 
+fight, watch the next event.  Go after Rummy.
+
+-Day ?-
+
+Watch the event play out.  When it finishes, go outside and you'll see 
+another event.  After it's finished, you can go down to the docks.  
+Unfortunately you can't power jump.  Also, if you look at your 
+clock/compass, you'll see that the day number has been replaced by a 
+question mark.
+
+Anyway, head down to the docks and you can talk to the swimmer.  Beat 
+him in a swimming race and he'll reward you with a D.H. Egg.  It may 
+take a few tries unless you are that damn good.
+
+Another place to visit is the gym.  It's to the east of the inn.  Go in 
+and you can take part in the tournament that they're holding.  You have 
+to go through five rounds and it's not hard.  Once you've finished with 
+that, you'll see an event.
+
+-Day ?-
+
+Don't you hate it when things repeat?  If you didn't get to do the 
+swimming race yet, go ahead and try it out.  Otherwise to go Claire's 
+watch shop.  Go to the time vault and take out the item called 
+"Princess' Watch".  Watch the event.  You'll end up on a beach with 
+Rummy.  Watch that event, and when you have to select a choice, I 
+suggest picking the first one.
+
+For those of you that went through the steps above where you named Beak 
+and Fang, this part's for you.  Return to the inn and go upstairs.  
+Otherwise, you'll see an event involving Beak, Mouse's (or your chosen 
+name for him) friend and fellow thief.  He's part of your party now and 
+using the single bed.  So if you want to rest from now on, you'll have 
+to use the double bed.
+
+I couldn't remember what day it was, so just do what you want for the 
+remainder of the week.
+
+---------
+Next Week
+---------
+
+-Day One-
+
+You'll see an event.  Watch it play out.  After it finishes, go to Ano's 
+room in the castle and talk to him.  After you finish talking to him, go 
+to the witch's house that's five blocks north and two blocks east from 
+the town center map.  Remember this place?  Go in and talk to her.  
+She'll ask you to rank her daughter's by the most beautiful.  Their 
+names are Lilac, Alumeria, Lupinas (or it might be Lupinus), and 
+Helenum.  It doesn't have to be in that order, but spelling does count.  
+If you get one name spelled wrong, you'll have to start over again.
+
+Anyway, once you're done with that, she'll give you the book you need, 
+so go back and talk to Ano.  He'll tell you go return in 24 hours.  So 
+go play or something.
+
+-Day Two-
+
+After the 24 hours have passed, go visit Ano again and watch the event 
+play out.  Go get some party members.  Put whoever you like in there, 
+but you must have Rummy.  Now go power jump to Ano's Ruins (in my 
+opinion, it's the fastest dungeon to complete, but also the hardest in 
+terms of enemies).  It's on the same map block as the Woodcutter's 
+Village.  Go in and examine the wall.  Then leave and power jump to the 
+map block south of the town center.  Make your way to Rummy's house and 
+instead of going inside, go around to the backyard.  Then go to the 
+southeastern corner, past the laundry and search.  You should find an 
+item.
+
+Once you have the item, go back to Ano's Ruins and examine the wall 
+again.  After the explosion, go back in.  It's kind of like a giant 
+maze.  There's stairs on the western side of the floor, so make your way 
+there and go down one floor.
+
+The rooms in here are set up like a clock.  So go into the 3:00 room and 
+step on a switch.  Now go to the 10:00 room and step on two switches.  
+Go back to the 3:00 room and step on a different switch and you should 
+get a message saying something like "something has moved" or something 
+to that equivalent.  Now go into the 12:00 room.  Go towards the 
+pedestal and right as you reach it, you'll get into a boss fight.  When 
+you win, grab the item.  You'll see the event.  Now go back outside.
+
+Once you're outside, power jump to the east swamp exit.  Look for a path 
+that goes west in the shrubbery/woods on the west side of the map block.  
+Go in and follow the path.  Make your way to the wall and examine.  
+After the explosion, go back in.  Welcome to the Forest Ruins.  It's 
+confusing and the enemies are annoying.  I can't quite remember it, but 
+I'll do my best to guide you.
+
+Go north until you hit the shrubbery wall, then go in an easterly 
+direction.  Your destination is a carved rock thing that you can talk 
+to.  Answer the questions in this order: no, no, [select an answer], 
+yes.  Now you'll have to go south, then west, then south again, then to 
+the east, and when you can north to another map block.  If you find 
+another carved rock, don't talk to it.  If you did already, select "No".  
+Anyway, look around here for the next item on a pedestal.  The same 
+thing will happen.  You approach it and get into a boss fight.  After 
+you win, grab the item and you'll see an event.  Now you'll need to go 
+back to that first rock you talked to and pick "Yes" to reset the trees 
+so you can leave the Forest Ruins.
+
+-Day Three-
+
+Once you're back on the east swamp exit map block, power jump to the 
+village of Coalmine.  Once you're there, go into the mine.  You'll need 
+to go down two or three floors.  On the southwestern part, you'll find 
+the entrance to the Water Ruins.  Examine the wall and go back in after 
+the explosion.
+
+You'll need to go down one floor.  Once you're on that level, you'll 
+need to find two switches.  One is in the northwest and the other is in 
+the southeast.  Go for the northwest one first.  Then the southeast.  A 
+warp will appear to the north of the southeast switch once they're both 
+activated.  Take it.
+
+This floor has a nice tile pattern.  It also has four switches.  You'll 
+need to press in order from the southeast switch counterclockwise.  
+After you've done that, exit out the northeast path to the next room.  
+If you see blue (that's water) in the middle, then you'll need to go 
+back and hit the switches in order again.  Then the water should be 
+emptied.
+
+In that room, just follow the path down collecting the items in the 
+chest.  Once you get to the bottom, you'll need to go up that little 
+hill in the middle.  Approach the pedestal and you'll get into another 
+boss fight.  After you win, grab the item and you'll see another event.  
+Now you have the long and tedious task of making your way back out of 
+the Water Ruins and out of the mine.
+
+Now you can do whatever you want for the rest of the day.  Nothing 
+interesting is going to really happen until day four.
+
+-Day Four-
+
+Be sure to hang around town today.  Around 8 pm, a soldier will tell you 
+to go to the inn.  Once there, watch the event.  Choose "Yes" when you 
+get the option.  Now, just do whatever until day five.  Go down to the 
+beach.  You do remember how to get there, right?  When you get there, go 
+north and one of the buildings here has an item called the Wish Flower.  
+Buy that if you wish to recruit Grantus.  If not, don't worry about this 
+item.  If you do buy it, put it in the time vault so you don't have to 
+go buy it again.  You can sleep, that makes the time pass by quicker.
+
+-Day Five-
+
+At 5 am, you'll automatically be taken to the Ano Ruins.  Watch the 
+event and then you'll get into a fight with Grantus.  Watch the scene 
+after you win.  Grantus should give you a key.  You should be taken to 
+the castle automatically, if not, power jump there.  You should have an 
+event with everyone outside the eastern door.  Rummy's going with you, 
+so choose another person.
+
+Once you're inside, you'll need to go up two floors (the third floor).  
+Go into the throne room and go through the western door.  Just follow 
+the path from there to get to Princess Loreille's room.  Once you have 
+her, make your way back out the same way you came in.  Watch the event 
+and then you'll get into a fight.  After the fight, watch the next 
+event.
+
+---------
+Next Week
+---------
+
+-Day One-
+
+At the beginning of this day, you should be shown an event right off the 
+bat.  After the conversation ends you'll be give these options:
+
+Change party members
+Use Time Vault
+Exit Claire's Shop
+
+or something like that.  Make sure you have two other people with you 
+before you leave Claire's watch shop because you won't be able to return 
+here until day three.
+
+-Day Two-
+
+Not much to do here.
+
+-Day Three-
+
+Go back to Claire's shop some time in the morning and watch the event.  
+If you've already done all three of the dungeons above, then talk to 
+Claire two more times to give her the other two treasures.  
+Unfortunately, you won't be able to go into the World of Darkness just 
+yet.
+
+We have time, so let's go talk to an old friend.  Power jump to 
+Gallhint's fortress and go into the southern building.  You'll see an 
+event.  After that's done, you won't really have much left to do.
+
+-Days Four and Five-
+
+Not much to do.
+
+---------
+Next Week
+---------
+
+From now on, I will no longer be listing days.  I will just be listing 
+events.  And I think I will also stop doing the "Next Week" thing, as 
+well.
+
+-----------------
+World of Darkness
+-----------------
+
+You'll see an event with you, Claire, and your new friend Lloyd.  After 
+that event and go to Claire's shop.  If you want to recruit Grantus, 
+take the wish flower out of the time vault, power jump to Ano's Ruins 
+and place the flower on his grave by facing his grave and selecting the 
+wish flower in your item menu.  Return to Claire's shop and talk to her 
+to go into the World of Darkness.  Hopefully she'll ask you who you'll 
+want to take.  Select anyone and she should say no, that's not the right 
+person.  Gallhint should show up and he and Claire should join the party 
+and you are whooshed to the World of Darkness.
+
+The World of Darkness is a mirror of the island of Pandule except now 
+it's one large dungeon.  I hope you remembered the way to Plosi's house 
+because that's the direction we're going in.  But instead of going on 
+that forest path, go up to the bird statue thing and examine it.  You'll 
+get into a fight with Twinboom.  After that's done, go back to Claire's 
+shop and examine the mirror to get back to the real Pandule.  Use the 
+mirror again to put Beak in your party, if you recruited him.  Otherwise 
+just make your way to the bird statue here in the real Pandule.
+
+Examine the statue and you'll get into a fight with the real Twinboom.  
+If you have Beak, after a few rounds you'll see an event showing the 
+entrance of Fang and you'll continue the fight with him in your party.  
+After the fight, Mouse (you) or Fang (if you recruited Beak) will crush 
+Twinboom and you should find a key in his remains.
+
+You should see an event next involving snow.
+
+------------------
+To Save A Princess
+------------------
+
+You'll be shown another event involving Jawarro and Princess Loreille.  
+Now you have to get to the castle.  Get your party members and let's go.  
+Go to the map that has the restaurant on it and go past it into the 
+forest.  Go towards the northwest to the next map block.  Then enter the 
+eastern door of the castle.  From here, you'll need to go downstairs to 
+the basement.  Go west from the stairs until you reach two doors, one on 
+the north and the other to the south.
+
+Enter the southern doors.  In this room are three more rooms with 
+carpets on them.  Once you step on the carpet, you'll get into a boss 
+fight.  After each boss fight, open the chest and grab the item.  Once 
+you've gotten all three keys, exit this room and go through the north 
+doors and continue on to the outside.  This area is where the wedding is 
+held every week.  Go through the doors on the other side and continue on 
+to the next room.
+
+This place is confusing, so the best advice is I can give for this area 
+is to follow the left wall.  The first pedestal you'll need to insert 
+one of the items into should be to the west.  Just face the pedestal and 
+select one of the three keys from your items.  One of them should work.  
+Just follow the left wall since it will bring you to the other two.  
+Please note: do not go up any stairs.  After you've put in the last key, 
+just make your way to the east, then south and you should see the other 
+party members waiting by a door.  If you go east and south of them, 
+you'll find a healing pool.  Heal and save if you need to, then go back 
+to them and you'll go into the room.  You'll see the three dragons and 
+fight them one at a time.  In between fights, you'll get to select your 
+party members.  After the fights, go up the stairs in this room.  From 
+here, just continue to go up.  Don't miss any chests on the way up.
+
+Once you make it to the top, you'll be shown an event.  You'll then get 
+into three fights with Jawarro.  In the first fight, don't target her.  
+Just kill those other things around her.  In the second fight, don't 
+target her but the arms on her back.  In the third fight, now you can 
+target her.
+
+After you've won, you'll be shown another event.  Then Xelpherpolis will 
+enter and you'll be shown another event.  You'll wake up in front of 
+Ano's Ruins.  If you put the wish flower on Grantus' grave, he'll join 
+your party now.  Claire and Gallhint are also there.  After the 
+conversation ends, select your third party member, then make your way to 
+the Woodcutter's Village.  Unfortunately, you are no longer able to 
+power jump.
+
+------------------------------
+Preparing For The Final Battle
+------------------------------
+
+When you reach the Woodcutter's Village, you'll be shown an event with 
+the celestial elder.  He'll give you an item.  Now you have to go find 
+your other party members.  Well, you don't have to, really, but you can.
+
+Parts of the town are now blocked off by water, so finding a bunch of 
+people will be relatively easy now.  Rinna is at her "secret place".  
+That pond on the Forest Ruins map east of the town center.  Everyone 
+else is in town.  You should be able to find Kyte, Beak, Fang, Bagoth, 
+Rummy, and Plosi without too much difficulty.  You'll notice that there 
+are some celestial people in town.  Some of them upgrade weapons while 
+others sell items.  Use them to your advantage.  One celestial citizen 
+to note is the one by Plosi's house.  He sells a recovery item that 
+restores 100% health.
+
+Once you think you're gotten enough people, go back to the place where 
+you found Bagoth.  To the south, you'll see a plank going up a house.  
+Use this to get up to the bridge to the castle.  Once there, enter the 
+eastern door again and go down to the basement.  Go out the north door 
+and continue on outside.  Go in the opposite door and continue through 
+the next door.  Here, you'll see the people you found.  If you wanna 
+switch people in your party, talk to the person you want to have in your 
+party.
+
+Otherwise, just make your way downstairs.  You should end up just south 
+of the healing pool once you make it all the way to the bottom.  This 
+place should look familiar.  It's east of where you fought those three 
+dragons.  Go to that room again and step onto the symbol in the middle.  
+You'll see an event and get into a fight with Xelpherpolis.
+
+Don't worry about losing this battle, you're supposed to.  After you 
+lose, you'll be shown an event with Loreille powering you and your party 
+members up.  You'll now have the final battle with Xelpherpolis.  If 
+you've been leveling people up and learning skills and recovery spells, 
+this battle should be a piece of cake.
+
+After you win, you'll be shown another event.  Then the ending.  If you 
+have Beak and Fang, the ending will have them in it.  If you don't have 
+Beak and Fang, the ending will be similar, but it won't have Beak and 
+Fang.  Then the credits roll and that's the end of the game.  
+Congratulations on a job well done.
+
+=======
+Credits
+=======
+Konami Computer Entertainment Japan, for developing the game.
+BAnderson, for writing a great walkthru for the Japanese version of the 
+game.
+GameFAQs, for posting this walkthru.
+Video Game Strategies, for also posting this walkthru.
+
+=========================
+Copyright and Other Stuff
+=========================
+Ephemeral Fantasia Walkthru (NA version) (c) 2002 by charjer0
+Ephemeral Fantasia (c) 2001 by Konami Computer Entertainment Japan
+Disclaimer: This FAQ/Walkthru shall not be reproduced without the 
+expressed written consent of the creator.
+
