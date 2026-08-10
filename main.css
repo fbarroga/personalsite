@@ -25,10 +25,10 @@ p.subject { font-size: 20px;
             text-align: left;
             text-decoration: underline; }
 
-a:link {color: #4AE6E8;}
+a:link {color: cyan;}
 a:visited {color: gray;}
 a:hover {color: steelblue;}
-a:active {color: lightblue;}
+a:active {color: steelblue;}
 a { text-decoration: none;
    font-family: Arial,Verdana,Sans-serif; }
 
