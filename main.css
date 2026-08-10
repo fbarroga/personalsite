@@ -69,8 +69,8 @@ td.center { color: white;
 
 td.left { text-align: left; }
 
-th.right { border-style:solid;
-           border-color:#0000ff;
+th.right { border-style: solid;
+           border-color: #0000ff;
            text-align: right; }
 
 td { color: white;
