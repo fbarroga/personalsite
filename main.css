@@ -15,8 +15,10 @@ p.smallFont { font-size: 13px;
               text-align: center; }
 p.title { font-size: 45px; }
 p.subTitle { font-size: 25px; }
-p.right { text-align: right; }
-p.left { text-align: left; }
+p.right { text-align: right;
+		  font-size: 13px; }
+p.left { text-align: left;
+	      font-size: 13px; }
 p.note { font-size: 13px;
          text-align: left; }
 p.subject { font-size: 20px;
