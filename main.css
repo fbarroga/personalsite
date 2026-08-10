@@ -25,7 +25,7 @@ p.subject { font-size: 20px;
             text-align: left;
             text-decoration: underline; }
 
-a:link {color: blue;}
+a:link {color: #4AE6E8;}
 a:visited {color: gray;}
 a:hover {color: steelblue;}
 a:active {color: mediumblue;}
