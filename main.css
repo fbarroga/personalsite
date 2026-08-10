@@ -49,19 +49,19 @@ table.inside { width: 100%;
                border: 0; }
 
 table.update { width: 85%;
-               padding: 2px; }
+               padding: 4px; }
 
 table.artifact { width: 600px;
                  border: 0;
-                 padding: 2px;
+                 padding: 4px;
                  margin: 0px auto; }
 
-td.artifact { padding: 2px;
+td.artifact { padding: 4px;
               width: 150px;
               border: 1px solid white; }
 
 td.update { border: 1px solid white;
-            padding: 2px }
+            padding: 4px }
 
 td.center { color: white;
             text-align: center;
