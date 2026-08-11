@@ -8,7 +8,76 @@
 
 <link rel="stylesheet" type="text/css" href="/main.css">
 
-<script src="/ffxi/popup.js" defer></script>
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
 
 </head>
 
@@ -34,7 +103,7 @@
               </thead>
               <tr>
                 <td class="artifact">
-                  <a href="/ffxi/images/brdaf.jpg" class="popup-link" data-title="Bard Artifact Armor" data-caption="Bard Artifact Armor"><img src="/ffxi/images/brdaf.jpg" alt="Bard Artifact Armor" width="150" height="112"></a>
+                  <a href="/ffxi/images/brdaf.jpg" onclick="show_photo('/ffxi/images/brdaf.jpg', 'Bard Artifact Armor', 'Bard Artifact Armor'); return false;"><img src="/ffxi/images/brdaf.jpg" alt="Bard Artifact Armor" width="150" height="112"></a>
                 </td>
                 <td class="artifact">
                   <a href="/ffxi/images/bstartifact.jpg" class="popup-link" data-title="Beastmaster Artifact Armor" data-caption="Beastmaster Artifact Armor"><img src="/ffxi/images/bstartifact.jpg" alt="Beastmaster Artifact Armor" width="150" height="112"></a>
