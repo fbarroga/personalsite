@@ -1,32 +1,35 @@
-function show_photo(pFileName, pTitle, pCaption) {
-  // Specify window parameters
-  const photoWin = window.open(
-    "", 
-    "photo", 
-    "width=550,height=500,status,scrollbars,resizable,screenX=20,screenY=40,left=20,top=40"
-  );
+document.addEventListener("DOMContentLoaded", function() {
+  window.show_photo = function(imageSrc, title, caption) {
+    const photoWin = window.open(
+      "", 
+      "_blank", 
+      "width=550,height=500,scrollbars=yes,resizable=yes"
+    );
 
-  // Write content to window
-  photoWin.document.write(`
-    <!DOCTYPE html>
-    <html>
-      <head>
-        <title>${pTitle}</title>
-        <style>
-          body { background-color: #000000; color: #ffffff; text-align: center; font-family: arial, helvetica, sans-serif; }
-          a { color: #0000ff; text-decoration: none; }
-          a:visited { color: #008b8b; }
-        </style>
-      </head>
-      <body>
-        <img src="${pFileName}"><p>
-        <b>${pCaption}</b><br><br>
-        <a href="javascript:window.close()">Close Window</a>
-      </body>
-    </html>
-  `);
-  photoWin.document.close();
+    if (!photoWin) {
+      window.location.href = imageSrc;
+      return;
+    }
 
-  // Focus the new window
-  if (photoWin) photoWin.focus();
-}
+    photoWin.document.write(`
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <title>${title}</title>
+          <style>
+            body { background: #000; color: #fff; text-align: center; font-family: sans-serif; margin: 20px; }
+            img { max-width: 100%; height: auto; margin-bottom: 15px; }
+            a { color: #00f; text-decoration: none; }
+          </style>
+        </head>
+        <body>
+          <img src="${imageSrc}" alt="${caption}"><br>
+          <b>${caption}</b><br><br>
+          <a href="#" onclick="window.close(); return false;">Close Window</a>
+        </body>
+      </html>
+    `);
+    photoWin.document.close();
+    photoWin.focus();
+  };
+});
