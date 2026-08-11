@@ -1,27 +1,32 @@
-<!-- hide this script from old browsers
-
-// This script opens a new browser window and writes
-// HTML to display an image with a title and caption
-
 function show_photo(pFileName, pTitle, pCaption) {
+  // Specify window parameters
+  const photoWin = window.open(
+    "", 
+    "photo", 
+    "width=550,height=500,status,scrollbars,resizable,screenX=20,screenY=40,left=20,top=40"
+  );
 
-// specify window parameters
-  photoWin = window.open( "", "photo", "width=550,height=500,status,scrollbars,resizable,screenX=20,screenY=40,left=20,top=40");
-
-// wrote content to window
-  photoWin.document.write('<html><head><title>' + pTitle + '</title></head>');
-  photoWin.document.write('<BODY BGCOLOR=#000000 TEXT=#FFFFFF LINK=#0000FF VLINK=#008B8B>');
-  photoWin.document.write('<center>');
-  photoWin.document.write('<img src="' + pFileName + '"><p>');
-  photoWin.document.write('<font face="arial,helvetica">');
-  photoWin.document.write('<b>' + pCaption + '</b><br><br>');
-  photoWin.document.write('<a href="javascript:window.close()" style="text-decoration: none;">Close Window</a>');
-  photoWin.document.write('<p></font></body></html>');
+  // Write content to window
+  photoWin.document.write(`
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>${pTitle}</title>
+        <style>
+          body { background-color: #000000; color: #ffffff; text-align: center; font-family: arial, helvetica, sans-serif; }
+          a { color: #0000ff; text-decoration: none; }
+          a:visited { color: #008b8b; }
+        </style>
+      </head>
+      <body>
+        <img src="${pFileName}"><p>
+        <b>${pCaption}</b><br><br>
+        <a href="javascript:window.close()">Close Window</a>
+      </body>
+    </html>
+  `);
   photoWin.document.close();
 
-// If we are on NetScape, we can bring the window to the front
-if (navigator.appName.substring(0,8) == "Netscape") photoWin.focus();
-
-}
-// done hiding from old browsers -->
+  // Focus the new window
+  if (photoWin) photoWin.focus();
 }
