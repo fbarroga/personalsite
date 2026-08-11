@@ -1,39 +1,32 @@
 function show_photo(pFileName, pTitle, pCaption) {
-  // Open window
+  // Specify window parameters
   const photoWin = window.open(
     "", 
     "photo", 
-    "width=550,height=500,status=no,scrollbars=yes,resizable=yes,screenX=20,screenY=40,left=20,top=40"
+    "width=550,height=500,status,scrollbars,resizable,screenX=20,screenY=40,left=20,top=40"
   );
 
-  if (!photoWin) {
-    alert("Popup blocked! Please allow popups for this site.");
-    return;
-  }
-
-  // Construct Document HTML safely
-  const htmlContent = `
+  // Write content to window
+  photoWin.document.write(`
     <!DOCTYPE html>
     <html>
       <head>
         <title>${pTitle}</title>
         <style>
-          body { background-color: #000000; color: #ffffff; text-align: center; font-family: arial, helvetica, sans-serif; margin: 20px; }
-          img { max-width: 100%; height: auto; display: block; margin: 0 auto 15px auto; }
+          body { background-color: #000000; color: #ffffff; text-align: center; font-family: arial, helvetica, sans-serif; }
           a { color: #0000ff; text-decoration: none; }
-          a:hover { text-decoration: underline; }
+          a:visited { color: #008b8b; }
         </style>
       </head>
       <body>
-        <img src="${pFileName}" alt="${pCaption}">
-        <p><b>${pCaption}</b></p>
-        <p><a href="javascript:window.close()">Close Window</a></p>
+        <img src="${pFileName}"><p>
+        <b>${pCaption}</b><br><br>
+        <a href="javascript:window.close()">Close Window</a>
       </body>
     </html>
-  `;
-
-  photoWin.document.open();
-  photoWin.document.write(htmlContent);
+  `);
   photoWin.document.close();
-  photoWin.focus();
+
+  // Focus the new window
+  if (photoWin) photoWin.focus();
 }
