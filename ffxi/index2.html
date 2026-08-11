@@ -1,0 +1,229 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/kazhamairshipdock.jpg" onclick="show_photo('/ffxi/images/kazhamairshipdock.jpg', 'Waiting for the Airship', 'This is the dock for the airship in Kazham. There\'s not much there really. It\'s more like a settlement than a town. But, at least there\'s good fishing there.'); return false;"><img src="/ffxi/images/kazhamairshipdock.jpg" class="artifact" alt="Waiting for the Airship"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/cerulean.jpg" onclick="show_photo('/ffxi/images/cerulean.jpg', 'My Wyvern Cerulean', 'I finally unlocked the Dragoon job and this is my pet wyvern. I named her Cerulean. Okay, I don\'t know if it\'s a he or a she, but I\'m calling it a she.'); return false;"><img src="/ffxi/images/cerulean.jpg" class="artifact" alt="My Wyvern Cerulean"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/synthesis.jpg" onclick="show_photo('/ffxi/images/synthesis.jpg', 'Crafting', 'Here I am synthesizing a fire crystal with three copper ores and one zinc ore to create a brass ingot. I joined the goldsmithing guild in Bastok. My skill level isn\'t very high yet, but when it does raise, I\'ll be making lots of cool and expensive stuff.'); return false;"><img src="/ffxi/images/synthesis.jpg" class="artifact" alt="Crafting"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/tenshodo.jpg" onclick="show_photo('/ffxi/images/tenshodo.jpg', 'The Mysterious Tenshodo', 'This is the auspicious Tenshodo Headquarters, nestled in the heart of Jeuno. It\'s a nifty place if you\'re looking for equipment for Ninjas, Samurais, Monks, and Rangers.'); return false;"><img src="/ffxi/images/tenshodo.jpg" class="artifact" alt="The Mysterious Tenshodo"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/castleoztrojamagicite.jpg" onclick="show_photo('/ffxi/images/castleoztrojamagicite.jpg', 'The Magicite in Castle Oztroja', 'Behind me is the large piece of glowing rock known in the world of Final Fantasy as magicite. This particular piece is located in the Yagudo stronghold called Castle Oztroja, and this one in particular has a circuitous and meandering path.'); return false;"><img src="/ffxi/images/castleoztrojamagicite.jpg" class="artifact" alt="The Magicite in Castle Oztroja"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/norg.jpg" onclick="show_photo('/ffxi/images/norg.jpg', 'Norg', 'This is the smuggler\'s hideout called Norg. There\'s nothing really special about this place except that it\'s pretty tough to get to if you\'re at a low level'); return false;"><img src="/ffxi/images/norg.jpg" class="artifact" alt="Norg"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/rse.jpg" onclick="show_photo('/ffxi/images/rse.jpg', 'Race Specific Equipment', 'This is me in RSE, which stands for Race Specific Equipment. Each race and gender has their own RSE. This one is a Male Hume one since I\'m a Hume Male.'); return false;"><img src="/ffxi/images/rse.jpg" class="artifact" alt="Race Specific Equipment"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/crawlersnestsackroom.jpg" onclick="show_photo('/ffxi/images/crawlersnestsackroom.jpg', 'Crawlers\' Nest Sack Room', 'This is called the sack room for the two large sacks hanging behind me. This room is located in a place called the Crawlers\' Nest, whose entrance is in the southern part of the Rolanberry Fields. Things in there get nastier and nastier the further down you go.'); return false;"><img src="/ffxi/images/crawlersnestsackroom.jpg" class="artifact" alt="Crawlers' Nest Sack Room"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/staticparty.jpg" onclick="show_photo('/ffxi/images/staticparty.jpg', 'My First Static Party', 'This is a picture of my first linkshell\'s short static party. This picture is of us standing on the boat in Valkurm Dunes.'); return false;"><img src="/ffxi/images/staticparty.jpg" class="artifact" alt="My First Static Party"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/manticore.jpg" onclick="show_photo('/ffxi/images/manticore.jpg', 'A Manticore', 'This nasty beast is a manticore, found in both the Vollbow and Kuzotz regions. These guys are pretty nasty. That\'s why I\'m on a chocobo.'); return false;"><img src="/ffxi/images/manticore.jpg" class="artifact" alt="A Manticore"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/summerfest.jpg" onclick="show_photo('/ffxi/images/summerfest.jpg', 'Summerfest', 'The world of Vana\'diel has special events from time to time. One of them was named Summerfest. The clothes I\'m wearing, which is the Lord\'s Yukata, was from that event. Special music plays during the evening and they also have a fireworks display.'); return false;"><img src="/ffxi/images/summerfest.jpg" class="artifact" alt="Summerfest"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/tremorram.jpg" onclick="show_photo('/ffxi/images/tremorram.jpg', 'Tremor Ram', 'Behind me is a tremor ram. These guys are found in Konschtat Highlands. At level 50, these guys are a breeze. But, they do have an attack that acts like curse. The nice part about killing these guys is that they drop items that sell for lots of gil. Bling bling.'); return false;"><img src="/ffxi/images/tremorram.jpg" class="artifact" alt="Tremor Ram"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/qubiaarena.jpg" onclick="show_photo('/ffxi/images/qubiaarena.jpg', 'Qu\'Bia Arena', 'This is where the party and I ended up after undertaking the first rank five mission. This place is called Qu\'Bia Arena, which is located inside of a place called Fei\'Yin. I like the shadowy effects. Pretty cool.'); return false;"><img src="/ffxi/images/qubiaarena.jpg" class="artifact" alt="Qu'Bia Arena"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/floatingeye.jpg" onclick="show_photo('/ffxi/images/floatingeye.jpg', 'Ahriman', 'This is an ahriman-type monster called a floating eye. This one is located inside a dungeon called Ranguemont Pass. They do know spells, so they can be quite dangerous.'); return false;"><img src="/ffxi/images/floatingeye.jpg" class="artifact" alt="Ahriman"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/bloodtearbaldruf.jpg" onclick="show_photo('/ffxi/images/bloodtearbaldruf.jpg', 'Bloodtear Baldruf', 'The giant ram behind me is called Bloodtear Baldruf. This bad boy is found in the La Theine Plateau and is an even match to someone at level 60. Why anyone would want to solo this thing is beyond me.'); return false;"><img src="/ffxi/images/bloodtearbaldruf.jpg" class="artifact" alt="Bloodtear Baldruf"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/jugnerforest.jpg" onclick="show_photo('/ffxi/images/jugnerforest.jpg', 'Jugner Forest', 'Here I am inside Jugner Forest. Man, that place has some huge mushrooms. It\'s kind of like being in Super Mario Bros. Well, okay, not quite, but those really are huge mushrooms.'); return false;"><img src="/ffxi/images/jugnerforest.jpg" class="artifact" alt="Jugner Forest"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/mimas.jpg" onclick="show_photo('/ffxi/images/mimas.jpg', 'Mimas', 'Here I am standing next to a notorious monster gigas named Mimas. I have no idea what it drops, but that is one huge axe it\'s carrying. This guy hangs out on the 10th floor of Delkfutt\'s Tower.'); return false;"><img src="/ffxi/images/mimas.jpg" class="artifact" alt="Mimas"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/tricksterkinetix.jpg" onclick="show_photo('/ffxi/images/tricksterkinetix.jpg', 'Trickster Kinetix', 'I\'ve fought this notorious monster weapon before. This one\'s called Trickster Kinetix and it drops a level 43 Beastmaster axe. It hangs out close to the entrance of Delkfutt\'s Tower. With all these notorious monsters I\'m encountering, I should start an album or something.'); return false;"><img src="/ffxi/images/tricksterkinetix.jpg" class="artifact" alt="Trickster Kinetix"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/pirateship.jpg" onclick="show_photo('/ffxi/images/pirateship.jpg', 'Pirate Attack', 'Sometimes, the ferry that travels between the port towns of Selbina and Mhaura is attacked by a pirate ship. One of those times, I was aboard the ship while it happened. I proceeded to whoop ass with extreme prejudice.'); return false;"><img src="/ffxi/images/pirateship.jpg" class="artifact" alt="Pirate Attack"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/smotheredschmidt.jpg" onclick="show_photo('/ffxi/images/smotheredschmidt.jpg', 'Smothered Schmidt', 'Notorious monsters in Gusgen Mines come out only at night and there\'s usually a siren saying that they\'re out. This one that I found was called Smothered Schmidt. It\'s a ghost, but it has a whole lot of hit points. The old tales say that ghosts are the undead corpses of Galka who have perished. That would explain the hit points.'); return false;"><img src="/ffxi/images/smotheredschmidt.jpg" class="artifact" alt="Smothered Schmidt"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Navigation
+          </th>
+
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
