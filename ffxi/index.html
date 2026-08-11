@@ -10,94 +10,163 @@
 
 <link rel="stylesheet" type="text/css" href="/main.css">
 
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
 </head>
 
 <body>
 
 <table>
   <tr>
-    <td>
+    <td class="center">
+
       <p>&nbsp;</p>
 
-      <table class="tourist">
+      <table>
         <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/shiptoselbinabow.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>Here I am on the ship from Mhaura heading back to Selbina.  I didn't get a picture on the way to Mhaura, but I figured this'd be nice anyway with the main mast in the background.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/shiptoselbinabridge.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>This is on the same ship and I decided to take a touristy picture with the helmsman.  Fortunately, he didn't seem to care.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/thefumarolesfloatingcrab.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>I thought I'd just add this one in for fun.  I was fighting a land crab in The Fumaroles and it started backing up into a rock until it went up to make it look like it was floating.  For some reason, it reminds me of Metroid.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/northgustabergwaterfall.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>This is a waterfall that can be found in North Gustaberg.  If you do the quest called "The Gustaberg Tour" in Bastok with your very first job, this is the first time you'll see this waterfall.  It's really nice, especially during the daylight hours.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/bastokfountain.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>This is my home town, Bastok.  The fountain in the background is in the markets district and on the opposite side of the photo is the auction house.  This district is always full and totally lags during any event, like the one we had this past easter.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/valkurmdunessecretbeach.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>Not many people know that there's another beach in Valkurm Dunes.  I won't give up the location out here.  In the game, I might show someone where it is, but a secret's always a secret.  Anyway, this is a shot of the nice foliage that's there.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/valkurmdunessecretbeach2.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>Here's another shot of the secret beach, but this time looking out at the ocean.  I got a really good picture of a CG wave rolling in.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/jeunopalace.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>I finally made it to Jeuno.  For those of you who don't know, Jeuno is a neutral country in the land of Vana'diel.  You know, kind of like Switzerland.  This is a picture of me in front of the Palace of the Grand Duchy.  Pretty spiffy.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/jeunomonument.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>I bet a lot of people don't take the time to look around a town very much.  This is a monument in Jeuno dedicated to the memory of the Crystal Wars.  It's supposed to represent the unity of the three nations in Vana'diel: Bastok, San d'Oria, and Windurst.  Of course, Jeuno is part of it, but, like I said above, they're neutral.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="tourist">
-            <img src="/ffxi/images/valkurmdunesbogy.jpg" width="410" height="306">
-          </td>
-          <td class="tourist">
-            <p>I finally got to take my picture next to a bogy.  Luckily, a high level WHM took it on, so I was able to move in and take the screenshot.  Right on.</p>
+          <td>
+            <a name="artifact">&nbsp;</a>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/shiptoselbinabow.jpg" onclick="show_photo('/ffxi/images/shiptoselbinabow.jpg', 'Ship to Selbina', 'Here I am on the ship from Mhaura heading back to Selbina. I didn\'t get a picture on the way to Mhaura, but I figured this\'d be nice anyway with the main mast in the background.'); return false;"><img src="/ffxi/images/shiptoselbinabow.jpg" class="artifact" alt="Ship to Selbina"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/shiptoselbinabridge.jpg" onclick="show_photo('/ffxi/images/shiptoselbinabridge.jpg', 'Ship to Selbina', 'This is on the same ship and I decided to take a touristy picture with the helmsman. Fortunately, he didn\'t seem to care.'); return false;"><img src="/ffxi/images/shiptoselbinabridge.jpg" class="artifact" alt="Ship to Selbina"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/thefumarolesfloatingcrab.jpg" onclick="show_photo('/ffxi/images/thefumarolesfloatingcrab.jpg', 'Floating Crab', 'I thought I\'d just add this one in for fun. I was fighting a land crab in The Fumaroles and it started backing up into a rock until it went up to make it look like it was floating. For some reason, it reminds me of Metroid.'); return false;"><img src="/ffxi/images/thefumarolesfloatingcrab.jpg" class="artifact" alt="Floating Crab"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/northgustabergwaterfall.jpg" onclick="show_photo('/ffxi/images/northgustabergwaterfall.jpg', 'Waterfall in North Gustaberg', 'This is a waterfall that can be found in North Gustaberg. If you do the quest called \'The Gustaberg Tour\' in Bastok with your very first job, this is the first time you\'ll see this waterfall. It\'s really nice, especially during the daylight hours.'); return false;"><img src="/ffxi/images/northgustabergwaterfall.jpg" class="artifact" alt="Waterfall in North Gustaberg"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/bastokfountain.jpg" onclick="show_photo('/ffxi/images/bastokfountain.jpg', 'Bastok Fountain', 'This is my home town, Bastok. The fountain in the background is in the Markets district and on the opposite side of the photo is the auction house. This district is always full and totally lags during any event, like the one we had this past Easter.'); return false;"><img src="/ffxi/images/bastokfountain.jpg" class="artifact" alt="Bastok Fountain"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/valkurmdunessecretbeach.jpg" onclick="show_photo('/ffxi/images/valkurmdunessecretbeach.jpg', 'Valkurm Dunes Secret Beach', 'Not many people know that there\'s another beach in Valkurm Dunes. I won\'t give up the location here. In the game, I might show someone where it is, but a secret\'s always a secret. Anyway, this is a shot of the nice foliage that\'s there.'); return false;"><img src="/ffxi/images/valkurmdunessecretbeach.jpg" class="artifact" alt="Valkurm Dunes Secret Beach"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/valkurmdunessecretbeach2.jpg" onclick="show_photo('/ffxi/images/valkurmdunessecretbeach2.jpg', 'Valkurm Dunes Secret Beach', 'Here\'s another shot of the secret beach, but this time looking out at the ocean. I got a really good picture of a CG wave rolling in.'); return false;"><img src="/ffxi/images/valkurmdunessecretbeach2.jpg" class="artifact" alt="Valkurm Dunes Secret Beach"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/jeunopalace.jpg" onclick="show_photo('/ffxi/images/jeunopalace.jpg', 'Palace of the Grand Duchy in Jeuno', 'I finally made it to Jeuno. For those of you who don\'t know, Jeuno is a neutral country in the land of Vana\'diel. You know, kind of like Switzerland. This is a picture of me in front of the Palace of the Grand Duchy. Pretty spiffy.'); return false;"><img src="/ffxi/images/jeunopalace.jpg" class="artifact" alt="Palace of the Grand Duchy in Jeuno"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/jeunomonument.jpg" onclick="show_photo('/ffxi/images/jeunomonument.jpg', 'Crystal Wars Monument in Jeuno', 'I bet a lot of people don\'t take the time to look around a town very much. This is a monument in Jeuno dedicated to the memory of the Crystal Wars. It\'s supposed to represent the unity of the three nations in Vana\'diel: Bastok, San d\'Oria, and Windurst. Of course, Jeuno is a part of it, but, like I said earlier, they\'re neutral.'); return false;"><img src="/ffxi/images/jeunomonument.jpg" class="artifact" alt="Crystal Wars Monument in Jeuno"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/valkurmdunesbogy.jpg" onclick="show_photo('/ffxi/images/valkurmdunesbogy.jpg', 'A Bogy in Valkurm Dunes', 'I finally got to take my picture next to a body. Luckily, a high level white mage took it on, so I was able to move in and take a screenshot. Right on.'); return false;"><img src="/ffxi/images/valkurmdunesbogy.jpg" class="artifact" alt="A Bogy in Valkurm Dunes"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/sandoriachateau.jpg" onclick="show_photo('/ffxi/images/sandoriachateau.jpg', 'Chateau d\'Oraguille in San d\'Oria', 'This is the famous chateau in Northern San d\'Oria. It looks smaller on the inside, but that\'s only because I\'ve only been in the first chamber.'); return false;"><img src="/ffxi/images/sandoriachateau.jpg" class="artifact" alt="Chateau d'Oraguille in San d'Oria"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/sandoriadreaddragonburningcircle.jpg" onclick="show_photo('/ffxi/images/sandoriadreaddragonburningcircle.jpg', 'Burning Circle for the Dread Dragon', 'I went with some friends to try to take on the Dread Dragon northwest of San d\'Oria past Fort Ghelsba. But, we weren\'t following the same mission path and had to wait outside and watch them die. That sucked big time.'); return false;"><img src="/ffxi/images/sandoriadreaddragonburningcircle.jpg" class="artifact" alt="Burning Circle for the Dread Dragon"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/southgustabergwestgatechocobo.jpg" onclick="show_photo('/ffxi/images/southgustabergwestgatechocobo.jpg', 'Chocobo Renting', 'After waiting six hours, I finally got my chocobo license. So, I rented a chocobo and rode it all the way from Jeuno to Bastok. It was a long ride. After that, my character looked like he had saddle crotch because he was running so slow.'); return false;"><img src="/ffxi/images/southgustabergwestgatechocobo.jpg" class="artifact" alt="Chocobo Renting"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/southgustaberglighthouse.jpg" onclick="show_photo('/ffxi/images/southgustaberglighthouse.jpg', 'Lighthouse in South Gustaberg', 'Here\'s the lighthouse in South Gustaberg. This is where the notorious monster Bubbly Bernie, a crab, can be found. Nothing very spectacular, but it\'s one of the sights around Bastok.'); return false;"><img src="/ffxi/images/southgustaberglighthouse.jpg" class="artifact" alt="Lighthouse in South Gustaberg"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/delkfutttower.jpg" onclick="show_photo('/ffxi/images/delkfutttower.jpg', 'Delkfutt\'s Tower on Qufim Island', 'Behind me is the entrance to Delkfutt\'s Tower on Qufim Island. This is a very dangerous place if you\'re alone and don\'t possess a map of the place.'); return false;"><img src="/ffxi/images/delkfutttower.jpg" class="artifact" alt="Delkfutt's Tower on Qufim Island"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/windurstheavenstower.jpg" onclick="show_photo('/ffxi/images/windurstheavenstower.jpg', 'Heavens Tower in Windurst', 'Here I am in Windurst in front of the town\'s biggest attraction, Heavens Tower. It\'s actually a giant tree, but there are people inside of it and that\'s also the place where the great Star Sybil resides. The Star Sybil is like a fortune teller/prophet type of person. Pretty snazzy. I should have taken a picture.'); return false;"><img src="/ffxi/images/windurstheavenstower.jpg" class="artifact" alt="Heavens Tower in Windurst"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/sandoria.jpg" onclick="show_photo('/ffxi/images/sandoria.jpg', 'Entrance to San d\'Oria', 'This is the entrance to South San d\'Oria from West Ronfaure. The outer perimeter of the grounds is misleading. It looks so much larger from the inside.'); return false;"><img src="/ffxi/images/sandoria.jpg" class="artifact" alt="Entrance to San d'Oria"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/balgasdaisburningcircle.jpg" onclick="show_photo('/ffxi/images/balgasdaisburningcircle.jpg', 'Burning Circle inside Giddeus', 'Here\'s another burning circle, this time in an area called Giddeus, a region that belongs to Windurst. We had to go in to fight a dragon here for a mission for my home town, Bastok.'); return false;"><img src="/ffxi/images/balgasdaisburningcircle.jpg" class="artifact" alt="Burning Circle inside Giddeus"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/kazhamjeunoairship.jpg" onclick="show_photo('/ffxi/images/kazhamjeunoairship.jpg', 'Airship to Kazham', 'I finally got my Kazham Airship Pass. It was long and arduous, but here I finally am riding aboard an airship. It costs twice as much as the ferry between Selbina and Mhaura, but the view is spectacular.'); return false;"><img src="/ffxi/images/kazhamjeunoairship.jpg" class="artifact" alt="Airship to Kazham"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/kazhamtoyuhtungajungle.jpg" onclick="show_photo('/ffxi/images/kazhamtoyuhtungajungle.jpg', 'Exit to Yuhtunga Jungle', 'Behind me is the gate that leads out to Yuhtunga Jungle. That\'s a very scary and dangerous place if it\'s your first visit there. Lots of things there can kill you in one or two hits.'); return false;"><img src="/ffxi/images/kazhamtoyuhtungajungle.jpg" class="artifact" alt="Exit to Yuhtunga Jungle"></a>
+                </td>
+              </tr>
+            </table>
           </td>
         </tr>
       </table>
@@ -108,41 +177,54 @@
           <th class="right">
             Navigation
           </th>
+
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
         </tr>
         <tr>
           <td>
-            <p class="center">
-              <a href="/ffxi/main.html">Vana'diel Journeys Main</a>
-              &nbsp;<br>
-              &nbsp;<br>
-              <a href="/ffxi/index.html">1</a><br>
-              <a href="/ffxi/index2.html">2</a><br>
-              <a href="/ffxi/index3.html">3</a><br>
-              <a href="/ffxi/index4.html">4</a><br>
-              <a href="/ffxi/index5.html">5</a><br>
-              <a href="/ffxi/index6.html">6</a><br>
-              <a href="/ffxi/index7.html">7</a><br>
-              <a href="/ffxi/index8.html">8</a><br>
-              <a href="/ffxi/index9.html">9</a><br>
-              <a href="/ffxi/index10.html">10</a><br>
-              <a href="/ffxi/index11.html">11</a><br>
-              <a href="/ffxi/index12.html">12</a><br>
-              <a href="/ffxi/index13.html">13</a><br>
-              <a href="/ffxi/index14.html">14</a><br>
-              <a href="/ffxi/index15.html">15</a><br>
-              <a href="/ffxi/index16.html">16</a><br>
-              <a href="/ffxi/index17.html">17</a><br>
-              <a href="/ffxi/index18.html">18</a><br>
-              <a href="/ffxi/index19.html">19</a>
-            </p>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
-
-</center>
 
 </body>
 </html>
