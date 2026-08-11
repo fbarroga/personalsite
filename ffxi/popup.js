@@ -1,48 +1,39 @@
-document.addEventListener("DOMContentLoaded", function() {
-  const links = document.querySelectorAll(".popup-link");
+function show_photo(pFileName, pTitle, pCaption) {
+  // Open window
+  const photoWin = window.open(
+    "", 
+    "photo", 
+    "width=550,height=500,status=no,scrollbars=yes,resizable=yes,screenX=20,screenY=40,left=20,top=40"
+  );
 
-  links.forEach(link => {
-    link.addEventListener("click", function(event) {
-      // Prevent the link from opening in a new tab/page normally
-      event.preventDefault();
+  if (!photoWin) {
+    alert("Popup blocked! Please allow popups for this site.");
+    return;
+  }
 
-      const imageSrc = this.getAttribute("href");
-      const title = this.getAttribute("data-title") || "Image";
-      const caption = this.getAttribute("data-caption") || "";
+  // Construct Document HTML safely
+  const htmlContent = `
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <title>${pTitle}</title>
+        <style>
+          body { background-color: #000000; color: #ffffff; text-align: center; font-family: arial, helvetica, sans-serif; margin: 20px; }
+          img { max-width: 100%; height: auto; display: block; margin: 0 auto 15px auto; }
+          a { color: #0000ff; text-decoration: none; }
+          a:hover { text-decoration: underline; }
+        </style>
+      </head>
+      <body>
+        <img src="${pFileName}" alt="${pCaption}">
+        <p><b>${pCaption}</b></p>
+        <p><a href="javascript:window.close()">Close Window</a></p>
+      </body>
+    </html>
+  `;
 
-      // Open Popup
-      const photoWin = window.open(
-        "", 
-        "_blank", 
-        "width=550,height=500,scrollbars=yes,resizable=yes"
-      );
-
-      if (!photoWin) {
-        // Fallback if popup is blocked entirely
-        window.location.href = imageSrc;
-        return;
-      }
-
-      photoWin.document.write(`
-        <!DOCTYPE html>
-        <html>
-          <head>
-            <title>${title}</title>
-            <style>
-              body { background: #000; color: #fff; text-align: center; font-family: sans-serif; margin: 20px; }
-              img { max-width: 100%; height: auto; margin-bottom: 15px; }
-              a { color: #00f; text-decoration: none; }
-            </style>
-          </head>
-          <body>
-            <img src="${imageSrc}" alt="${caption}"><br>
-            <b>${caption}</b><br><br>
-            <a href="#" onclick="window.close(); return false;">Close Window</a>
-          </body>
-        </html>
-      `);
-      photoWin.document.close();
-      photoWin.focus();
-    });
-  });
-});
+  photoWin.document.open();
+  photoWin.document.write(htmlContent);
+  photoWin.document.close();
+  photoWin.focus();
+}
