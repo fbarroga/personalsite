@@ -1,0 +1,228 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/sparklinggale.JPG" onclick="show_photo('/ffxi/images/sparklinggale.JPG', 'My Chocobo', 'At long last, the world of Vana\'diel was introduced to the world of chocobo raising. That\'s right. We got the chance to raise our very own chocobo. Here\'s mine, which I named Sparkling Gale.'); return false;"><img src="/ffxi/images/sparklinggale.JPG" class="artifact" alt="My Chocobo"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/astralcandescence.jpg" onclick="show_photo('/ffxi/images/astralcandescence.jpg', 'Astral Candescence', 'So, every now and then, Al Zahbi gets attacked by beastmen hordes. This thing, called the Astral Candescence, is normally behind a locked door in a room called the Hall of Binding. During besieged, if the five serpent general are defeated, the Hall of Binding is unlocked and the attacking beastmen have the chance to steal the Astral Candescence.'); return false;"><img src="/ffxi/images/astralcandescence.jpg" class="artifact" alt="Astral Candescence"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/grandpalaceofhuxzoi.jpg" onclick="show_photo('/ffxi/images/grandpalaceofhuxzoi.jpg', 'Grand Palace of Hu\'Xzoi', 'Here I am in the Grand Palace of Hu\'Xzoi. This is actually a Zilart ruin, but you visit this place as you progress through Chains of Promathia missions.'); return false;"><img src="/ffxi/images/grandpalaceofhuxzoi.jpg" class="artifact" alt="Grand Palace of Hu'Xzoi"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/goldfishbowl.jpg" onclick="show_photo('/ffxi/images/goldfishbowl.jpg', 'Goldfish Bowl', 'With the return of the Sunbreeze Festival, which alternates years with Summerfest, I was able to get the fish I needed to create my very own goldfish bowl. I was very ecstatic.'); return false;"><img src="/ffxi/images/goldfishbowl.jpg" class="artifact" alt="Goldfish Bowl"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/cutter.jpg" onclick="show_photo('/ffxi/images/cutter.jpg', 'Cutter', 'This is the Cutter, which is located in a particular area of Arrapago Reef. This transports you to the Ashu Talif, but costs one Ephramadian gold coin. It\'s kind of like riding the River Styx.'); return false;"><img src="/ffxi/images/cutter.jpg" class="artifact" alt="Cutter"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/gardenofruhmettopfloor.jpg" onclick="show_photo('/ffxi/images/gardenofruhmettopfloor.jpg', 'Garden of Ru\'Hmet', 'After having to walk through the Garden of Ru\'Hmet, this was the final destination. Sure, it looks high tech and everything. I guess I was expecting something more than a control panel.'); return false;"><img src="/ffxi/images/gardenofruhmettopfloor.jpg" class="artifact" alt="Aht Urhgan"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/protoultima.jpg" onclick="show_photo('/ffxi/images/protoultima.jpg', 'Proto-Ultima', 'So, this is Proto-Ultima. You kind of need a full alliance to take him down. He has moves that do some ludricous amount of damage. Spoiler alert, we won.'); return false;"><img src="/ffxi/images/protoultima.jpg" class="artifact" alt="Proto-Ultima"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/empyrealparadox.jpg" onclick="show_photo('/ffxi/images/empyrealparadox.jpg', 'Empyreal Paradox', 'I\'ve finally made it to the Empyreal Paradox. It\'s truly a breath taking place. Unlike the Grand Palace of Hu\'Xzoi or the Garden of Ru\'Hmet, this place actually has colors other than off-white.'); return false;"><img src="/ffxi/images/empyrealparadox.jpg" class="artifact" alt="Empyreal Paradox"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/khimaira13.jpg" onclick="show_photo('/ffxi/images/khimaira13.jpg', 'Khimaira 13', 'This bad boy is called Khimaira 13. Lady Karababa joins the fight and she does some mean ancient magic damage. It\'s so mean, she actually tanks the fight because she draws so much hate with her ridiculous damage.'); return false;"><img src="/ffxi/images/khimaira13.jpg" class="artifact" alt="Khimaira 13"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/medusa.jpg" onclick="show_photo('/ffxi/images/medusa.jpg', 'Medusa', 'And you thought you\'d be safe from Greek mythology. Well, Medusa shows up during besieged. Here\'s me attempting to cause some damage to her.'); return false;"><img src="/ffxi/images/medusa.jpg" class="artifact" alt="Medusa"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/promathia.jpg" onclick="show_photo('/ffxi/images/promathia.jpg', 'Promathia', 'And so, the final battle against the twilight god is at hand. He actually wasn\'t that hard.'); return false;"><img src="/ffxi/images/promathia.jpg" class="artifact" alt="Promathia"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/oldtavnazia.jpg" onclick="show_photo('/ffxi/images/oldtavnazia.jpg', 'Old Tavnazia', 'Here\'s the ruins of old Tavnazia. It\'s still quite a spectacle, even if it was destroyed and no longer inhabitable.'); return false;"><img src="/ffxi/images/oldtavnazia.jpg" class="artifact" alt="Old Tavnazia"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/protoomegafourlegs.jpg" onclick="show_photo('/ffxi/images/protoomegafourlegs.jpg', 'Proto-Omega', 'And here\'s Proto-Omega. This is how he looks at the beginning of the fight.'); return false;"><img src="/ffxi/images/protoomegafourlegs.jpg" class="artifact" alt="Proto-Omega"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/protoomegatwolegs.jpg" onclick="show_photo('/ffxi/images/protoomegatwolegs.jpg', 'Proto-Omega', 'You know, it doesn\'t matter how long the fight goes on. He even turns into a dragonzord and starts murdering everyone.'); return false;"><img src="/ffxi/images/protoomegatwolegs.jpg" class="artifact" alt="Proto-Omega"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/mineshaft2716.jpg" onclick="show_photo('/ffxi/images/mineshaft2716.jpg', 'Mine Shaft #2716', 'If you\'re brave enough to traverse the depths of Movalpolos, you\'ll reach Mine Shaft #2716. It was quite a dangerous path.'); return false;"><img src="/ffxi/images/mineshaft2716.jpg" class="artifact" alt="Mine Shaft #2716"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/alzadaalundersearuins.jpg" onclick="show_photo('/ffxi/images/alzadaalundersearuins.jpg', 'Alzadaal Undersea Ruins', 'Here I am at the staging point in the Alzadaal Undersea Ruins. Believe it or not, this place is totally underwater. Every so often, you can see one of those giant orobons swim by. Sometimes, an octopus or squid or kraken swims by, too.'); return false;"><img src="/ffxi/images/alzadaalundersearuins.jpg" class="artifact" alt="Alzadaal Undersea Ruins"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/najasalaheem.jpg" onclick="show_photo('/ffxi/images/najasalaheem.jpg', 'Naja Salaheem', 'This is Naja Salaheem, the first mercenary and extortionist of Aht Urhgan. Her spiky little friend can sure be mean and she does like to slam it down on her desk a lot. By a lot, I mean excessively. I\'m surprised her desk isn\'t riddled with holes. I\'m sure she\'s replaced it many times by this point.'); return false;"><img src="/ffxi/images/najasalaheem.jpg" class="artifact" alt="Naja Salaheem"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/colosseum.jpg" onclick="show_photo('/ffxi/images/colosseum.jpg', 'Colosseum', 'Here I am in the colisseum. Think of this place as like the dog fighting arena of Vana\'diel. Basically, you go and photograph monster souls using a soul plate. That gives you access to summoning them here.'); return false;"><img src="/ffxi/images/colosseum.jpg" class="artifact" alt="Colosseum"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/mirkewardecors.jpg" onclick="show_photo('/ffxi/images/mirkewardecors.jpg', 'Mirke Wardecors', 'This is a new piece of body armor from the first mini expansion, A Crystalline Prophecy and is called Mirke Wardecors. What\'s cool about it is that you can add two augmentations of your choice from a long list of selections.'); return false;"><img src="/ffxi/images/mirkewardecors.jpg" class="artifact" alt="Mirke Wardecors"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/pastbastokauctionhouse.jpg" onclick="show_photo('/ffxi/images/pastbastokauctionhouse.jpg', 'Bastok Auction House of the Past', 'When the Wings of the Goddess expansion came out, it allowed people to travel to Vana\'diel\'s past. Here I am in the Markets district of Bastok\'s past with the auction house right behind me. Except, during this time period, it was a military installation.'); return false;"><img src="/ffxi/images/pastbastokauctionhouse.jpg" class="artifact" alt="Bastok Auction House of the Past"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
