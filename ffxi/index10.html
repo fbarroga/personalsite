@@ -1,0 +1,228 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/walkofechoes1.jpg" onclick="show_photo('/ffxi/images/walkofechoes1.jpg', 'Walk of Echoes', 'Here I am in the Walk of Echoes. Apparently, this place exists outside of Vana\'diel\'s normal time.'); return false;"><img src="/ffxi/images/walkofechoes1.jpg" class="artifact" alt="Walk of Echoes"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/walkofechoes2.jpg" onclick="show_photo('/ffxi/images/walkofechoes2.jpg', 'Walk of Echoes', 'So, it turns out that the Walk of Echoes is a really big area. But, that\'s deceiving. There aren\'t really many places to stand on. And, it\'s very purple.'); return false;"><img src="/ffxi/images/walkofechoes2.jpg" class="artifact" alt="Walk of Echoes"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/nightmaremandragoramoon.jpg" onclick="show_photo('/ffxi/images/nightmaremandragoramoon.jpg', 'Nightmare Mandragora', 'So, this new ability was added called triggering. Basically, what happens is whatever you happen to be fighting gets stunned temporarily. This little mandragora I was fighting in Dynamis - Buburimu got stuck in this position after I triggered it. I got full mooned for a good two minutes.'); return false;"><img src="/ffxi/images/nightmaremandragoramoon.jpg" class="artifact" alt="Nightmare Mandragora"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/abysseaempyrealparadox.jpg" onclick="show_photo('/ffxi/images/abysseaempyrealparadox.jpg', 'Empyreal Paradox', 'This is the Abyssea version of the Empyreal Paradox. This is where you fight Shinryu, the final form of Promathia, the twilight god.'); return false;"><img src="/ffxi/images/abysseaempyrealparadox.jpg" class="artifact" alt="Empyreal Paradox"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/chamberoforacles.jpg" onclick="show_photo('/ffxi/images/chamberoforacles.jpg', 'Chamber of Oracles', 'This room is only accessible after completing a mission in the Zilart storyline. Examing each of the machines behind me gives you a prismatic light key item needed to continue through the missions. Why do all the Zilart stuff have to be white?'); return false;"><img src="/ffxi/images/chamberoforacles.jpg" class="artifact" alt="Chamber of Oracles"></a>
+                </td>
+                <td>
+                  &nbsp;
+                </td>
+                <td>
+                  &nbsp;
+                </td>
+                <td>
+                  &nbsp;
+                </td>
+              </tr>
+              <!-- <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/northerngrauberg.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/northerngrauberg.jpg', 'Northern Grauberg', 'In the past, this is where Callisto resides. Unfortunately, to get to where she is, you have to go past some hippogriffs. Did I mention those guys can see through invisible?'); return false;"><img src="ffxi/images/northerngrauberg.jpg" class="artifact" alt="Northern Grauberg"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/sidhe.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/sidhe.jpg', 'Sidhe', 'Imagine my delight in hearing about these guys. I\'ve read a lot about the faerie folklore and they say that the Sidhe are kind of like rebel faeries, or faeries that didn\'t want to live under the rule of Callisto.'); return false;"><img src="ffxi/images/sidhe.jpg" class="artifact" alt="Sidhe"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/qufimlight.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/qufimlight.jpg', 'Northern Lights', 'Every once in a while, Qufim will get a cool light show. This is the only time when light elementals come out. Apparently, they\'re still pretty heavily camped. The things you don\'t notice until stuff in a zone don\'t aggro you anymore.'); return false;"><img src="ffxi/images/qufimlight.jpg" class="artifact" alt="Northern Lights"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/dinnersuit.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/dinnersuit.jpg', 'Dinner Suit', 'It was a special anniversary this year. The world of Vana\'diel opened up ten years prior, so some special items became available. I give you, the dinner suit.'); return false;"><img src="ffxi/images/dinnersuit.jpg" class="artifact" alt="Dinner Suit"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/ninjaemote.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/ninjaemote.jpg', 'Ninja Emote', 'And just like that, each job got their own specific emote. This one here is the special emote for the Ninja job. It looks familiar. I can\'t quite put my finger on it.'); return false;"><img src="ffxi/images/ninjaemote.jpg" class="artifact" alt="Ninja Emote"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/monkemote.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/monkemote.jpg', 'Monk Emote', 'This is the special emote for the Monk job. It reminds of something I can\'t quite recall. It\'s on the tip of my tongue. Too bad this emote lasts for only ten seconds.'); return false;"><img src="ffxi/images/monkemote.jpg" class="artifact" alt="Monk Emote"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/darkknightemote.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/darkknightemote.jpg', 'Dark Knight Emote', 'The Dark Knight job\'s emote looks pretty cool. It sort of reminds me of another dark knight.'); return false;"><img src="ffxi/images/darkknightemote.jpg" class="artifact" alt="Dark Knight Emote"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/blackmageemote.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/blackmageemote.jpg', 'Black Mage Emote', 'I have to admit, the Black Mage job\'s emote was pretty cool with the wings and all. I think it would have been so much cooler with dark minions.'); return false;"><img src="ffxi/images/blackmageemote.jpg" class="artifact" alt="Black Mage Emote"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/warrioremote.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/warrioremote.jpg', 'Warrior Emote', 'There wasn\'t anything really special about the Warrior job\'s special emote. It was actually the most boring one, sad to say.'); return false;"><img src="ffxi/images/warrioremote.jpg" class="artifact" alt="Warrior Emote"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/dynamislord.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/dynamislord.jpg', 'Dynamis Lord', 'I was fortunate enough to get invited in entering a Dynamis area. Imagine my disbelief when I heard we were going to be fighting the Dynamis Lord. With this being my first Dynamis, I was kind of shocked when I saw how big this guy was. I had to tilt my view all the way up.'); return false;"><img src="ffxi/images/dynamislord.jpg" class="artifact" alt="Dynamis Lord"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/yuhtungajunglecermetheadstone.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/yuhtungajunglecermetheadstone.jpg', 'Cermet Headstone', 'During one of the missions, you have to go around the world in search of cermet headstones. This particular one is in the Yuhtunga Jungle. However, what they don\'t tell you is that you have to go through Ifrit\'s Cauldron to get to it. On top of that, there are fire walls blocking the way that you either have to wait for them to lower or bring along some ice clusters to get through without waiting. Such a pain.'); return false;"><img src="ffxi/images/yuhtungajunglecermetheadstone.jpg" class="artifact" alt="Cermet Headstone"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/novennialsuit.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/novennialsuit.jpg', 'Novennial Suit', 'This year, there was an Adventurer Appreciation Campaign. So, each adventurer got the opportunity to procure the novennial suit. It\'s very classy if I don\'t say so myself.'); return false;"><img src="ffxi/images/novennialsuit.jpg" class="artifact" alt="Novennial Suit"></a>
+                </td>
+              </tr> -->
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
