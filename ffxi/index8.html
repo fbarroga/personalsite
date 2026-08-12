@@ -1,0 +1,228 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/eggbuffet.jpg" onclick="show_photo('/ffxi/images/eggbuffet.jpg', 'Egg Buffet', 'This was one of the last pieces of furniture that was available. This is the egg buffet. Sadly, there was no food included.'); return false;"><img src="/ffxi/images/eggbuffet.jpg" class="artifact" alt="Egg Buffet"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/cyranucemcutauleon.jpg" onclick="show_photo('/ffxi/images/cyranucemcutauleon.jpg', 'Cyranuce M Cutauleon', 'In the past, Cyranuce M Cutauleon was a member of the Swiftwing Griffons of San d\'Oria. In the present, he\'s been stricken with a curse and you have to take him down. Only by defeating him are you able to unlock the Dragoon job.'); return false;"><img src="/ffxi/images/cyranucemcutauleon.jpg" class="artifact" alt="Cyranuce M Cutauleon"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/odzmanouk.jpg" onclick="show_photo('/ffxi/images/odzmanouk.jpg', 'Odzmanouk', 'Sometimes during a campaign battle, NPCs show up to help the allied forces. This is Odzmanouk. Sometimes this ferocious creature is a hot elvaan female. Best not to piss her off.'); return false;"><img src="/ffxi/images/odzmanouk.jpg" class="artifact" alt="Odzmanouk"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/korrolokatunnel.jpg" onclick="show_photo('/ffxi/images/korrolokatunnel.jpg', 'Korroloka Tunnel', 'Sometimes it\'s nice to go back to places, such as Korroloka Tunnel. I rarely come down to this area anymore. I\'m still baffled at how I can be underwater, yet there\'s hardly any water coming through the ceiling. Oddly enough, this tunnel connects Bastok to Kuzotz Island.'); return false;"><img src="/ffxi/images/korrolokatunnel.jpg" class="artifact" alt="Korroloka Tunnel"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/friarrush.jpg" onclick="show_photo('/ffxi/images/friarrush.jpg', 'Friar Rush', 'Talk about being in the right place at the wrong time. I joined a party on a mission that took us through the Den of Rancor when we run into Friar Rush. At least it didn\'t self destruct on us.'); return false;"><img src="/ffxi/images/friarrush.jpg" class="artifact" alt="Friar Rush"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/tinylycopodium.jpg" onclick="show_photo('/ffxi/images/tinylycopodium.jpg', 'Tiny Lycopodium', 'This is a tiny lycopodium. They appear all over the place in the past. What\'s nice about these little guys is that if you see them, you know you\'re close to a zone. They also have passive aggro, which just means they like to follow you around.'); return false;"><img src="/ffxi/images/tinylycopodium.jpg" class="artifact" alt="Tiny Lycopodium"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/soulstealerskullnix.jpg" onclick="show_photo('/ffxi/images/soulstealerskullnix.jpg', 'Soulstealer Skullnix', 'While inside the Labyrinth of Onzozo, I happened upon this goblin notorious monster, Soulstealer Skullnix. Man, I hate Black Mage monsters that have access to the two hour ability.'); return false;"><img src="/ffxi/images/soulstealerskullnix.jpg" class="artifact" alt="Soulstealer Skullnix"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/dabotzsghost.jpg" onclick="show_photo('/ffxi/images/dabotzsghost.jpg', 'Dabotz\'s Ghost', 'After completing a mission with a group, we decided to help one of our members with his artifact gear. This took us to the Zilart ruins of Fei\'Yin. We needed to kill a ghost notorious monster called Dabotz\'s Ghost. With as many of us as there were, it was a piece of cake.'); return false;"><img src="/ffxi/images/dabotzsghost.jpg" class="artifact" alt="Dabotz's Ghost"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/quudomithegallant.jpg" onclick="show_photo('/ffxi/images/quudomithegallant.jpg', 'Quu Domi the Gallant', 'While wandering around the inside of Castle Oztroja, the yagudo stronghold, I happened upon the yagudo notorious monster Quu Domi the Gallant. The funny part about this guy is that he\'s a Ninja and uses the Ninja two hour ability called Mijin Gakure, which is basically like being a suicide bomber. What\'s funny is that after he uses it, he\'s not entirely dead and can still be hit while relaxing on the ground.'); return false;"><img src="/ffxi/images/quudomithegallant.jpg" class="artifact" alt="Quu Domi the Gallant"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/polevik.jpg" onclick="show_photo('/ffxi/images/polevik.jpg', 'Polevik', 'So I started working on the Paladin job and decided I wanted to get the artifact gear. One of the notorious monsters I needed to kill is found in Ordelle\'s Caves in the La Theine Plateau. This is Polevik, a notorious monster elemental.'); return false;"><img src="/ffxi/images/polevik.jpg" class="artifact" alt="Polevik"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/cricketcage.jpg" onclick="show_photo('/ffxi/images/cricketcage.jpg', 'Cricket Cage', 'These celebrations come and go so quickly. This year\'s Sunbreeze Festival offered up this, a cricket cage. When placed in the mog house, it actually does make cricket sounds.'); return false;"><img src="/ffxi/images/cricketcage.jpg" class="artifact" alt="Cricket Cage"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/otokoeshiyukata.jpg" onclick="show_photo('/ffxi/images/otokoeshiyukata.jpg', 'Yukata', 'A new yukata was also introduced for this year\'s Sunbreeze Festival. It looks like last year\'s yukata, I know. The difference is this one gives out fireworks.'); return false;"><img src="/ffxi/images/otokoeshiyukata.jpg" class="artifact" alt="Yukata"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/indogodream.jpg" onclick="show_photo('/ffxi/images/indigodream.jpg', 'Indigo Dream', 'What\'s great about chocobo raising is you can get different colored chocobos. It took me a long time, but I was finally able to hatch a blue chocobo. I named it Indigo Dream. He\'s going to help me search for treasure.'); return false;"><img src="/ffxi/images/indigodream.jpg" class="artifact" alt="Indigo Dream"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/dreadbug.jpg" onclick="show_photo('/ffxi/images/dreadbug.jpg', 'Dreadbug', 'Continuing my quest for Paladin artifact gear, I made my way to the Crawlers\' Nest in order to dispatch the Dreadbug. It wasn\'t too difficult to defeat.'); return false;"><img src="/ffxi/images/dreadbug.jpg" class="artifact" alt="Dreadbug"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/odontotyrannus.jpg" onclick="show_photo('/ffxi/images/odontotyrannus.jpg', 'Odontotyrannus', 'With the item that the Dreadbug drops procured, I had to go to the lower depths of Castle Oztroja in order to fish up this thing, the fish notorious monster Odontotyrannus. Upon its defeat, you get a trophy of it.'); return false;"><img src="/ffxi/images/odontotyrannus.jpg" class="artifact" alt="Odontotyrannus"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/haty.jpg" onclick="show_photo('/ffxi/images/haty.jpg', 'Haty', 'So, I was running around the Konschtat Highlands one evening and look at what I found during a full moon. A werewolf. I wonder if its Hume form appears during a new moon.'); return false;"><img src="/ffxi/images/haty.jpg" class="artifact" alt="Haty"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/goblinwolfman.jpg" onclick="show_photo('/ffxi/images/goblinwolfman.jpg', 'Goblin Wolfman', 'Now, I don\'t know if this goblin is a wolfman or if that\'s his occupation. The armor he\'s wearing sure doesn\'t help me differentiate that conundrum. Anyway, this guy can be found in Oldton Movalpolos and must be forced spawned. He supposedly drops some kind of neck armor that\'s incredibly rare.'); return false;"><img src="/ffxi/images/goblinwolfman.jpg" class="artifact" alt="Goblin Wolfman"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/lightedrocks.jpg" onclick="show_photo('/ffxi/images/lightedrocks.jpg', 'Lighted Rocks', 'If you\'ve ever been in the desert at night, you\'d notice that some of the rocks actually glow. I have no idea what powers these things, but I thought they were pretty cool. They totally help me see at night. No manticore is going to sneak up on me.'); return false;"><img src="/ffxi/images/lightedrocks.jpg" class="artifact" alt="Lighted Rocks"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/ungur.jpg" onclick="show_photo('/ffxi/images/ungur.jpg', 'Ungur', 'I finally was fortunate enough to see this wyrm. I really didn\'t think it existed, but walking through Kuftal Tunnel one day, this guy ran right past me, chasing some people that aggroed him. He\'s huge.'); return false;"><img src="/ffxi/images/ungur.jpg" class="artifact" alt="Ungur"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/phallictree.jpg" onclick="show_photo('/ffxi/images/phallictree.jpg', 'Phallic Tree', 'Somewhere in Batallia Downs is a phallic shaped tree. There is also a tree notorious monster that appears around it. Odd coincidence? Perhaps.'); return false;"><img src="/ffxi/images/phallictree.jpg" class="artifact" alt="Phallic Tree"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
