@@ -1,0 +1,256 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/goblinwolfman.jpg" onclick="show_photo('/ffxi/images/goblinwolfman.jpg', 'Goblin Wolfman', 'Goblin Wolfman in Oldton Movalpolos'); return false;"><img src="/ffxi/images/goblinwolfman.jpg" class="artifact" alt="Goblin Wolfman in Oldton Movalpolos"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/brighthandedkunberry.jpg" onclick="show_photo('/ffxi/images/brighthandedkunberry.jpg', 'Bright-handed Kunberry', 'Bright-handed Kunberry in Yhoator Jungle'); return false;"><img src="/ffxi/images/brighthandedkunberry.jpg" class="artifact" alt="Bright-handed Kunberry in Yhoator Jungle"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/cyranucemcutauleon.jpg" onclick="show_photo('/ffxi/images/cyranucemcutauleon.jpg', 'Cyranuce M Cutauleon', 'Cyranuce M Cutauleon in Ghelsba Outpost'); return false;"><img src="/ffxi/images/cyranucemcutauleon.jpg" class="artifact" alt="Cyranuce M Curauleon in Ghelsba Outpost"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/dabotzsghost.jpg" onclick="show_photo('/ffxi/images/dabotzsghost.jpg', 'Dabotz\'s Ghost', 'Dabotz\'s Ghost in Fei\'Yin'); return false;"><img src="/ffxi/images/dabotzsghost.jpg" class="artifact" alt="Dabotz's Ghost in Fei'Yin"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/enkelados.jpg" onclick="show_photo('/ffxi/images/enkelados.jpg', 'Enkelados', 'Enkelados in Upper Delkfutt\'s Tower'); return false;"><img src="/ffxi/images/enkelados.jpg" class="artifact" alt="Enkelados in Upper Delkfutt's Tower"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/friarrush.jpg" onclick="show_photo('/ffxi/images/friarrush.jpg', 'Friar Rush', 'Friar Rush in the Den of Rancor'); return false;"><img src="/ffxi/images/friarrush.jpg" class="artifact" alt="Friar Rush in the Den of Rancor"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/fyuutheseabellow.jpg" onclick="show_photo('/ffxi/images/fyuutheseabellow.jpg', 'Fyuu the Seabellow', 'Fyuu the Seabellow in Sea Serpent Grotto'); return false;"><img src="/ffxi/images/fyuutheseabellow.jpg" class="artifact" alt="Fyuu the Seabellow in Sea Serpent Grotto"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/medusa.jpg" onclick="show_photo('/ffxi/images/medusa.jpg', 'Medusa', 'Medusa during an Undead Swarm Besieged'); return false;"><img src="/ffxi/images/medusa.jpg" class="artifact" alt="Medusa in an Undead Swarm Besieged"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/mimas.jpg" onclick="show_photo('/ffxi/images/mimas.jpg', 'Mimas', 'Mimas in Upper Delkfutt\'s Tower'); return false;"><img src="/ffxi/images/mimas.jpg" class="artifact" alt="Mimas in Upper Delkfutt's Tower"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/promathia.jpg" onclick="show_photo('/ffxi/images/promathia.jpg', 'Promathia', 'Promathia in the Empyreal Paradox'); return false;"><img src="/ffxi/images/promathia.jpg" class="artifact" alt="Promathia in the Empyreal Paradox"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/quudomithegallant.jpg" onclick="show_photo('/ffxi/images/quudomithegallant.jpg', 'Quu Domi the Gallant', 'Quu Domi the Gallant in Castle Oztroja'); return false;"><img src="/ffxi/images/quudomithegallant.jpg" class="artifact" alt="Quu Domi the Gallant in Castle Oztroja"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/sewwthesquidlimbed.jpg" onclick="show_photo('/ffxi/images/sewwthesquidlimbed.jpg', 'Seww the Squidlimbed', 'Seww the Squidlimbed in Sea Serpent Grotto'); return false;"><img src="/ffxi/images/sewwthesquidlimbed.jpg" class="artifact" alt="Seww the Squidlimbed in Sea Serpent Grotto"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/soulstealerskullnix.jpg" onclick="show_photo('/ffxi/images/soulstealerskullnix.jpg', 'Soulstealer Skullnix', 'Soulstealer Skullnix in the Labyrinth of Onzozo'); return false;"><img src="/ffxi/images/soulstealerskullnix.jpg" class="artifact" alt="Soulstealer Skullnix in the Labyrinth of Onzozo"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/pyracmon.jpg" onclick="show_photo('/ffxi/images/pyracmon.jpg', 'Pyracmon', 'Pyracmon during the Harvest Festival event'); return false;"><img src="/ffxi/images/pyracmon.jpg" class="artifact" alt="Pyracmon during the Harvest Festival event"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/wraithbat.jpg" onclick="show_photo('/ffxi/images/wraithbat.jpg', 'Wraith Bat', 'Wraith Bat during the Harvest Festival event'); return false;"><img src="/ffxi/images/wraithbat.jpg" class="artifact" alt="Wraith Bat during the Harvest Festival event"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/bubblybernie.jpg" onclick="show_photo('/ffxi/images/bubblybernie.jpg', 'Bubbly Bernie', 'Bubbly Bernie in South Gustaberg'); return false;"><img src="/ffxi/images/bubblybernie.jpg" class="artifact" alt="Bubbly Bernie in South Gustaberg"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/leapinglizzy.jpg" onclick="show_photo('/ffxi/images/leapinglizzy.jpg', 'Leaping Lizzy', 'Leaping Lizzy in South Gustaberg'); return false;"><img src="/ffxi/images/leapinglizzy.jpg" class="artifact" alt="Leaping Lizzy in South Gustaberg"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/droolingdaisy.jpg" onclick="show_photo('/ffxi/images/droolingdaisy.jpg', 'Drooling Daisy', 'Drooling Daisy in Rolanberry Fields'); return false;"><img src="/ffxi/images/droolingdaisy.jpg" class="artifact" alt="Drooling Daisy in Rolanberry Fields"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/blacktriplestars.jpg" onclick="show_photo('/ffxi/images/blacktriplestars.jpg', 'Black Triple Stars', 'Black Triple Stars in Rolanberry Fields'); return false;"><img src="/ffxi/images/blacktriplestars.jpg" class="artifact" alt="Black Triple Stars in Rolanberry Fields"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/porphyrion.jpg" onclick="show_photo('/ffxi/images/porphyrion.jpg', 'Porphyrion', 'Porphyrion in Upper Delkfutt\'s Tower'); return false;"><img src="/ffxi/images/porphyrion.jpg" class="artifact" alt="Porphyrion in Upper Delkfutt's Tower"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album.html">1</a><br>
+            <a href="/ffxi/album2.html">2</a><br>
+            <a href="/ffxi/album3.html">3</a><br>
+            <a href="/ffxi/album4.html">4</a><br>
+            <a href="/ffxi/album5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album6.html">6</a><br>
+            <a href="/ffxi/album7.html">7</a><br>
+            <a href="/ffxi/album8.html">8</a><br>
+            <a href="/ffxi/album9.html">9</a><br>
+            <a href="/ffxi/album10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album11.html">11</a><br>
+            <a href="/ffxi/album12.html">12</a><br>
+            <a href="/ffxi/album13.html">13</a><br>
+            <a href="/ffxi/album14.html">14</a><br>
+            <a href="/ffxi/album15.html">15</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album16.html">16</a><br>
+            <a href="/ffxi/album17.html">17</a><br>
+            <a href="/ffxi/album18.html">18</a><br>
+            <a href="/ffxi/album19.html">19</a><br>
+            <a href="/ffxi/album20.html">20</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album21.html">21</a><br>
+            <a href="/ffxi/album22.html">22</a><br>
+            <a href="/ffxi/album23.html">23</a><br>
+          </td>
+          <td>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,256 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/slipperysucker.jpg" onclick="show_photo('/ffxi/images/slipperysucker.jpg', 'Slippery Sucker', 'Slippery Sucker in Qufim Isle'); return false;"><img src="/ffxi/images/slipperysucker.jpg" class="artifact" alt="Slippery Sucker in Qufim Isle"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/onryo.jpg" onclick="show_photo('/ffxi/images/onryo.jpg', 'Onryo', 'Onryo in Valkurm Dunes'); return false;"><img src="/ffxi/images/onryo.jpg" class="artifact" alt="Onryo in Valkurm Dunes"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/doman.jpg" onclick="show_photo('/ffxi/images/doman.jpg', 'Doman', 'Doman in Valkurm Dunes'); return false;"><img src="/ffxi/images/doman.jpg" class="artifact" alt="Doman in Valkurm Dunes"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/cryptonberryexecutor.jpg" onclick="show_photo('/ffxi/images/cryptonberryexecutor.jpg', 'Cryptonberry Executor', 'Cryptonberry Executor in Carpenters\' Landing'); return false;"><img src="/ffxi/images/cryptonberryexecutor.jpg" class="artifact" alt="Cryptonberry Executor in Carpenters' Landing"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/tenzen.jpg" onclick="show_photo('/ffxi/images/tenzen.jpg', 'Tenzen', 'Tenzen in Sealion\'s Den'); return false;"><img src="/ffxi/images/tenzen.jpg" class="artifact" alt="Tenzen in Sealion's Den"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/trollspeculator.jpg" onclick="show_photo('/ffxi/images/trollspeculator.jpg', 'Troll Speculator', 'Troll Speculator in Mount Zhayolm'); return false;"><img src="/ffxi/images/trollspeculator.jpg" class="artifact" alt="Troll Speculator in Mount Zhayolm"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/trollsautomaton.jpg" onclick="show_photo('/ffxi/images/trollsautomaton.jpg', 'Troll\'s Automaton', 'Troll\'s Automaton in Mount Zhayolm'); return false;"><img src="/ffxi/images/trollsautomaton.jpg" class="artifact" alt="Troll's Automaton in Mount Zhayolm"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/honor.jpg" onclick="show_photo('/ffxi/images/honor.jpg', 'Honor', 'Honor in the Quicksand Caves'); return false;"><img src="/ffxi/images/honor.jpg" class="artifact" alt="Honor in the Quicksand Caves"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/valor.jpg" onclick="show_photo('/ffxi/images/valor.jpg', 'Valor', 'Valor in the Quicksand Caves'); return false;"><img src="/ffxi/images/valor.jpg" class="artifact" alt="Valor in the Quicksand Caves"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/ixtab.jpg" onclick="show_photo('/ffxi/images/ixtab.jpg', 'Ixtab', 'Ixtab in Upper Delkfutt\'s Tower'); return false;"><img src="/ffxi/images/ixtab.jpg" class="artifact" alt="Ixtab in Upper Delkfutt's Tower"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/fingerfilcherdradzad.jpg" onclick="show_photo('/ffxi/images/fingerfilcherdradzad.jpg', 'Fingerfilcher Dradzad', 'Fingerfilcher Dradzad in Jugner Forest [S]'); return false;"><img src="/ffxi/images/fingerfilcherdradzad.jpg" class="artifact" alt="Fingerfilcher Dradzad in Jugner Forest [S]"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/nioa.jpg" onclick="show_photo('/ffxi/images/nioa.jpg', 'Nio-A', 'Nio-A in the Temple of Uggalepih'); return false;"><img src="/ffxi/images/nioa.jpg" class="artifact" alt="Nio-A in the Temple of Uggalepih"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/niohum.jpg" onclick="show_photo('/ffxi/images/niohum.jpg', 'Nio-Hum', 'Nio-Hum in the Temple of Uggalepih'); return false;"><img src="/ffxi/images/niohum.jpg" class="artifact" alt="Nio-Hum in the Temple of Uggalepih"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/easternsphinx.jpg" onclick="show_photo('/ffxi/images/easternsphinx.jpg', 'Eastern Sphinx', 'Eastern Sphinx in the Western Altepa Desert'); return false;"><img src="/ffxi/images/easternsphinx.jpg" class="artifact" alt="Eastern Sphinx in the Western Altepa Desert"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/magma.jpg" onclick="show_photo('/ffxi/images/magma.jpg', 'Magma', 'Magma in Ifrit\'s Cauldron'); return false;"><img src="/ffxi/images/magma.jpg" class="artifact" alt="Magma in Ifrit's Cauldron"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/salamander.jpg" onclick="show_photo('/ffxi/images/salamander.jpg', 'Salamander', 'Salamander in Ifrit\'s Cauldron'); return false;"><img src="/ffxi/images/salamander.jpg" class="artifact" alt="Salamander in Ifrit's Cauldron"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/bastet.jpg" onclick="show_photo('/ffxi/images/bastet.jpg', 'Bastet', 'Bastet in The Sanctuary of Zi\'Tah'); return false;"><img src="/ffxi/images/bastet.jpg" class="artifact" alt="Bastet in The Sanctuary of Zi'Tah"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/kukulkan.jpg" onclick="show_photo('/ffxi/images/kukulkan.jpg', 'Kukulkan', 'Kukulkan in Abyssea - Konschtat'); return false;"><img src="/ffxi/images/kukulkan.jpg" class="artifact" alt="Kukulkan in Abyssea - Konschtat"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/eba.jpg" onclick="show_photo('/ffxi/images/eba.jpg', 'Eba', 'Eba in Phomiuna Aqueducts'); return false;"><img src="/ffxi/images/eba.jpg" class="artifact" alt="Eba in Phomiuna Aqueducts"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/decurioiiii.jpg" onclick="show_photo('/ffxi/images/decurioiiii.jpg', 'Decurio I-III', 'Decurio I-III in the Eastern Altepa Desert'); return false;"><img src="/ffxi/images/decurioiiii.jpg" class="artifact" alt="Decurio I-III in the Eastern Altepa Desert"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album.html">1</a><br>
+            <a href="/ffxi/album2.html">2</a><br>
+            <a href="/ffxi/album3.html">3</a><br>
+            <a href="/ffxi/album4.html">4</a><br>
+            <a href="/ffxi/album5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album6.html">6</a><br>
+            <a href="/ffxi/album7.html">7</a><br>
+            <a href="/ffxi/album8.html">8</a><br>
+            <a href="/ffxi/album9.html">9</a><br>
+            <a href="/ffxi/album10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album11.html">11</a><br>
+            <a href="/ffxi/album12.html">12</a><br>
+            <a href="/ffxi/album13.html">13</a><br>
+            <a href="/ffxi/album14.html">14</a><br>
+            <a href="/ffxi/album15.html">15</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album16.html">16</a><br>
+            <a href="/ffxi/album17.html">17</a><br>
+            <a href="/ffxi/album18.html">18</a><br>
+            <a href="/ffxi/album19.html">19</a><br>
+            <a href="/ffxi/album20.html">20</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album21.html">21</a><br>
+            <a href="/ffxi/album22.html">22</a><br>
+            <a href="/ffxi/album23.html">23</a><br>
+          </td>
+          <td>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

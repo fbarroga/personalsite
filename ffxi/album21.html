@@ -1,0 +1,256 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/adamastor.jpg" onclick="show_photo('/ffxi/images/adamastor.jpg', 'Adamastor', 'Adamasator in Abyssea - La Theine'); return false;"><img src="/ffxi/images/adamastor.jpg" class="artifact" alt="Adamastor in Abyssea - La Theine"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/grandgousier.jpg" onclick="show_photo('/ffxi/images/grandgousier.jpg', 'Grandgousier', 'Grandgousier in Abyssea - La Theine'); return false;"><img src="/ffxi/images/grandgousier.jpg" class="artifact" alt="Grandgousier in Abyssea - La Theine"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/pantagruel.jpg" onclick="show_photo('/ffxi/images/pantagruel.jpg', 'Pantagruel', 'Pantagruel in Abyssea - La Theine'); return false;"><img src="/ffxi/images/pantagruel.jpg" class="artifact" alt="Pantagruel in Abyssea - La Theine"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/minaxbugard.jpg" onclick="show_photo('/ffxi/images/minaxbugard.jpg', 'Minax Bugard', 'Minax Bugard in Abyssea - Misareaux'); return false;"><img src="/ffxi/images/minaxbugard.jpg" class="artifact" alt="Minax Bugard in Abyssea - Misareaux"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/seps.jpg" onclick="show_photo('/ffxi/images/seps.jpg', 'Seps', 'Seps in Abyssea - Vunkerl'); return false;"><img src="/ffxi/images/seps.jpg" class="artifact" alt="Seps in Abyssea - Vunkerl"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/vadleany.jpg" onclick="show_photo('/ffxi/images/vadleany.jpg', 'Vadleany', 'Vadleany in Abyssea - Altepa'); return false;"><img src="/ffxi/images/vadleany.jpg" class="artifact" alt="Vadleany in Abyssea - Altepa"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/immortalflan.jpg" onclick="show_photo('/ffxi/images/immortalflan.jpg', 'Immortal Flan', 'Immortal Flan in the Navukgo Execution Chamber'); return false;"><img src="/ffxi/images/immortalflan.jpg" class="artifact" alt="Immortal Flan in the Navukgo Execution Chamber"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/nepionicsoulflayer.jpg" onclick="show_photo('/ffxi/images/nepionicsoulflayer.jpg', 'Nepionic Soulflayer', 'Nepionic Soulflayer in the Alzadaal Undersea Ruins'); return false;"><img src="/ffxi/images/nepionicsoulflayer.jpg" class="artifact" alt="Nepionic Soulflayer in the Alzadaal Undersea Ruins"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/npfundlwa.jpg" onclick="show_photo('/ffxi/images/npfundlwa.jpg', 'Npfundlwa', 'Npfundlwa in Abyssea - Misareaux'); return false;"><img src="/ffxi/images/npfundlwa.jpg" class="artifact" alt="Npfundlwa in Abyssea - Misareaux"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/heqet.jpg" onclick="show_photo('/ffxi/images/heqet.jpg', 'Heqet', 'Heqet in Abyssea - Misareaux'); return false;"><img src="/ffxi/images/heqet.jpg" class="artifact" alt="Heqet in Abyssea - Misareaux"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/cerebrator.jpg" onclick="show_photo('/ffxi/images/cerebrator.jpg', 'Cerebrator', 'Cerebrator in Promyvion - Holla'); return false;"><img src="/ffxi/images/cerebrator.jpg" class="artifact" alt="Cerebrator in Promyvion - Holla"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/manohra.jpg" onclick="show_photo('/ffxi/images/manohra.jpg', 'Manohra', 'Manohra in Abyssea - Misareaux'); return false;"><img src="/ffxi/images/manohra.jpg" class="artifact" alt="Manohra in Abyssea - Misareaux"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/avalerion.jpg" onclick="show_photo('/ffxi/images/avalerion.jpg', 'Avalerion', 'Avalerion in Abyssea - Misareaux'); return false;"><img src="/ffxi/images/avalerion.jpg" class="artifact" alt="Avalerion in Abyssea - Misareaux"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/svarbhanu.jpg" onclick="show_photo('/ffxi/images/svarbhanu.jpg', 'Svarbhanu', 'Svarbhanu in Abyssea - Attohwa'); return false;"><img src="/ffxi/images/svarbhanu.jpg" class="artifact" alt="Svarbhanu in Abyssea - Attohwa"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/warbler.jpg" onclick="show_photo('/ffxi/images/warbler.jpg', 'Warbler', 'Warbler in Abyssea - Attohwa'); return false;"><img src="/ffxi/images/warbler.jpg" class="artifact" alt="Warbler in Abyssea - Attohwa"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/kharon.jpg" onclick="show_photo('/ffxi/images/kharon.jpg', 'Kharon', 'Kharon in Abyssea - Attohwa'); return false;"><img src="/ffxi/images/kharon.jpg" class="artifact" alt="Kharon in Abyssea - Attohwa"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/nightshade.jpg" onclick="show_photo('/ffxi/images/nightshade.jpg', 'Nightshade', 'Nightshade in Abyssea - Attohwa'); return false;"><img src="/ffxi/images/nightshade.jpg" class="artifact" alt="Nightshade in Abyssea - Attohwa"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/maahes.jpg" onclick="show_photo('/ffxi/images/maahes.jpg', 'Maahes', 'Maahes in Abyssea - Attohwa'); return false;"><img src="/ffxi/images/maahes.jpg" class="artifact" alt="Maahes in Abyssea - Attohwa"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/chickcharney.jpg" onclick="show_photo('/ffxi/images/chickcharney.jpg', 'Chickcharney', 'Chickcharney in Abyssea - Altepa'); return false;"><img src="/ffxi/images/chickcharney.jpg" class="artifact" alt="Chickcharney in Abyssea - Altepa"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/centurioviii.jpg" onclick="show_photo('/ffxi/images/centurioviii.jpg', 'Centurio V-III', 'Centurio V-III in the Chamber of Oracles'); return false;"><img src="/ffxi/images/centurioviii.jpg" class="artifact" alt="Centurio V-III in the Chamber of Oracles"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album.html">1</a><br>
+            <a href="/ffxi/album2.html">2</a><br>
+            <a href="/ffxi/album3.html">3</a><br>
+            <a href="/ffxi/album4.html">4</a><br>
+            <a href="/ffxi/album5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album6.html">6</a><br>
+            <a href="/ffxi/album7.html">7</a><br>
+            <a href="/ffxi/album8.html">8</a><br>
+            <a href="/ffxi/album9.html">9</a><br>
+            <a href="/ffxi/album10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album11.html">11</a><br>
+            <a href="/ffxi/album12.html">12</a><br>
+            <a href="/ffxi/album13.html">13</a><br>
+            <a href="/ffxi/album14.html">14</a><br>
+            <a href="/ffxi/album15.html">15</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album16.html">16</a><br>
+            <a href="/ffxi/album17.html">17</a><br>
+            <a href="/ffxi/album18.html">18</a><br>
+            <a href="/ffxi/album19.html">19</a><br>
+            <a href="/ffxi/album20.html">20</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album21.html">21</a><br>
+            <a href="/ffxi/album22.html">22</a><br>
+            <a href="/ffxi/album23.html">23</a><br>
+          </td>
+          <td>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>

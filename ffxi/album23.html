@@ -1,0 +1,256 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/apocalypticbeast.jpg" onclick="show_photo('/ffxi/images/apocalypticbeast.jpg', 'Apocalyptic Beast', 'Apocalyptic Beast in Dynamis - Buburimu'); return false;"><img src="/ffxi/images/apocalypticbeast.jpg" class="artifact" alt="Apocalyptic Beast in Dynamis - Buburimu"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/ahutalifcrew.jpg" onclick="show_photo('/ffxi/images/ashutalifcrew.jpg', 'Ashu Talif Crew', 'Ashu Talif Crew on the Ashu Talif'); return false;"><img src="/ffxi/images/ashutalifcrew.jpg" class="artifact" alt="Ashu Talif Crew on the Ashu Talif"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/ashutalifcaptain.jpg" onclick="show_photo('/ffxi/images/ashutalifcaptain.jpg', 'Ashu Talif Captain', 'Ashu Talif Captain on the Ashu Talif'); return false;"><img src="/ffxi/images/ashutalifcaptain.jpg" class="artifact" alt="Ashu Talif Captain on the Ashu Talif"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/cepkamuy.jpg" onclick="show_photo('/ffxi/images/cepkamuy.jpg', 'Cep-Kamuy', 'Cep-Kamuy in Abyssea - Misareaux'); return false;"><img src="/ffxi/images/cepkamuy.jpg" class="artifact" alt="Cep-Kamuy in Abyssea - Misareaux"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/funerealapkallu.jpg" onclick="show_photo('/ffxi/images/funerealapkallu.jpg', 'Funereal Apkallu', 'Funereal Apkallu in Abyssea - Misareaux'); return false;"><img src="/ffxi/images/funerealapkallu.jpg" class="artifact" alt="Funereal Apkallu in Abyssea - Misareaux"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/rolypoly.jpg" onclick="show_photo('/ffxi/images/rolypoly.jpg', 'Roly-Poly', 'Roly-Poly in Garlaige Citadel'); return false;"><img src="/ffxi/images/rolypoly.jpg" class="artifact" alt="Roly-Poly in Garlaige Citadel"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/laidlylaurence.jpg" onclick="show_photo('/ffxi/images/laidlylaurence.jpg', 'Laidly Laurence', 'Laidly Laurence in Garlaige Citadel [S]'); return false;"><img src="/ffxi/images/laidlylaurence.jpg" class="artifact" alt="Laidly Laurence in Garlaige Citadel [S]"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/mellonia.jpg" onclick="show_photo('/ffxi/images/mellonia.jpg', 'Mellonia', 'Mellonia in the Crawlers\' Nest'); return false;"><img src="/ffxi/images/mellonia.jpg" class="artifact" alt="Mellonia in the Crawlers' Nest"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/nymphaeunomia.jpg" onclick="show_photo('/ffxi/images/nymphaeunomia.jpg', 'Nympha Eunomia', 'Nympha Eunomia in the Crawlers\' Nest [S]'); return false;"><img src="/ffxi/images/nymphaeunomia.jpg" class="artifact" alt="Nympha Eunomia in the Crawlers' Nest [S]"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/kaloseunomia.jpg" onclick="show_photo('/ffxi/images/kaloseunomia.jpg', 'Kalos Eunomia', 'Kalos Eunomia in the Crawlers\' Nest [S]'); return false;"><img src="/ffxi/images/kaloseunomia.jpg" class="artifact" alt="Kalos Eunomia in the Crawlers' Nest [S]"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/abatwa.jpg" onclick="show_photo('/ffxi/images/abatwa.jpg', 'Abatwa', 'Abatwa in the Crawlers\' Nest [S]'); return false;"><img src="/ffxi/images/abatwa.jpg" class="artifact" alt="Abatwa in the Crawlers' Nest [S]"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/leujaoamworm.jpg" onclick="show_photo('/ffxi/images/leujaoamworm.jpg', 'Leujaoam Worm', 'Leujaoam Worm in the Leujaoam Sanctum'); return false;"><img src="/ffxi/images/leujaoamworm.jpg" class="artifact" alt="Leujaoam Worm in the Leujaoam Sanctum"></a>
+                </td>
+              </tr>
+              <!-- <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/yatagarasu.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/yatagarasu.jpg', 'Yatagarasu', 'Yatagarasu in Rolanberry Fields'); return false;"><img src="ffxi/images/yatagarasu.jpg" class="artifact" alt="Yatagarasu in Rolanberry Fields"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/agathos.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/agathos.jpg', 'Agathos', 'Agathos in Rolanberry Fields [S]'); return false;"><img src="ffxi/images/agathos.jpg" class="artifact" alt="Agathos in Rolanberry Fields [S]"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/cherufe.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/cherufe.jpg', 'Cherufe', 'Cherufe in Batallia Downs'); return false;"><img src="ffxi/images/cherufe.jpg" class="artifact" alt="Cherufe in Batallia Downs"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/magicsludge.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/magicsludge.jpg', 'Magic Sludge', 'Magic Sludge in Toraimarai Canal'); return false;"><img src="ffxi/images/magicsludge.jpg" class="artifact" alt="Magic Sludge in Toraimarai Canal"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/fenrirprime.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/fenrirprime.jpg', 'Fenrir Prime', 'Fenrir Prime in the Full Moon Fountain'); return false;"><img src="ffxi/images/fenrirprime.jpg" class="artifact" alt="Fenrir Prime in the Full Moon Fountain"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/archlichtaberquoan.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/archlichtaberquoan.jpg', 'Archlich Taber\'quoan', 'Archlich Taber\'quoan in the Qu\'Bia Arena'); return false;"><img src="ffxi/images/archlichtaberquoan.jpg" class="artifact" alt="Archlich Taber'quoan in the Qu'Bia Arena"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/aquarius.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/aquarius.jpg', 'Aquarius', 'Aquarius in The Boyahda Tree'); return false;"><img src="ffxi/images/aquarius.jpg" class="artifact" alt="Aquarius in The Boyahda Tree"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/carthi.jpg" onClick="show_photo('http://www.angelfire.com/hi/charjer/ffxi/images/carthi.jpg', 'Carthi', 'Carthi in Yuhtunga Jungle'); return false;"><img src="ffxi/images/carthi.jpg" class="artifact" alt="Carthi in Yuhtunga Jungle"></a>
+                </td>
+              </tr> -->
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album.html">1</a><br>
+            <a href="/ffxi/album2.html">2</a><br>
+            <a href="/ffxi/album3.html">3</a><br>
+            <a href="/ffxi/album4.html">4</a><br>
+            <a href="/ffxi/album5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album6.html">6</a><br>
+            <a href="/ffxi/album7.html">7</a><br>
+            <a href="/ffxi/album8.html">8</a><br>
+            <a href="/ffxi/album9.html">9</a><br>
+            <a href="/ffxi/album10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album11.html">11</a><br>
+            <a href="/ffxi/album12.html">12</a><br>
+            <a href="/ffxi/album13.html">13</a><br>
+            <a href="/ffxi/album14.html">14</a><br>
+            <a href="/ffxi/album15.html">15</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album16.html">16</a><br>
+            <a href="/ffxi/album17.html">17</a><br>
+            <a href="/ffxi/album18.html">18</a><br>
+            <a href="/ffxi/album19.html">19</a><br>
+            <a href="/ffxi/album20.html">20</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album21.html">21</a><br>
+            <a href="/ffxi/album22.html">22</a><br>
+            <a href="/ffxi/album23.html">23</a><br>
+          </td>
+          <td>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
