@@ -1,0 +1,228 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/whmartifactarmor.jpg" onclick="show_photo('/ffxi/images/whmartifactarmor.jpg', 'White Mage Artifact Armor', 'This is me as a White Mage proudly wearing full artifact gear. After three full months of looking for help, I was able to procure the last two pieces I needed for the full set.'); return false;"><img src="/ffxi/images/whmartifactarmor.jpg" class="artifact" alt="White Mage Artifact Armor"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/purgonorgoisle.jpg" onclick="show_photo('/ffxi/images/purgonorgoisle.jpg', 'Purgonorgo Isle', 'This is Purgonorgo Isle, which is a part of Bibiki Bay. The only way to reach this island is by riding the Manaclipper. The Manaclipper comes with a tour guide, which is pretty cool, and it doesn\'t cost much either. Things on the island are pretty nasty.'); return false;"><img src="/ffxi/images/purgonorgoisle.jpg" class="artifact" alt="Purgonorgo Isle"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/zighiboneeater.jpg" onclick="show_photo('/ffxi/images/zighiboneeater.jpg', 'Zi\'Ghi Boneeater', 'Here is my first encounter with Zi\'Ghi Boneeater. He\'s a notorious monster quadav found on the third floor of the Palborough Mines in North Gustaberg. He drops the level 20 great sword named Braveheart. Unfortunately, all I got from him was a crappy pair of gauntlets.'); return false;"><img src="/ffxi/images/zighiboneeater.jpg" class="artifact" alt="Zi'Ghi Boneeater"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/ashmakergotblut.jpg" onclick="show_photo('/ffxi/images/ashmakergotblut.jpg', 'Ashmaker Gotblut', 'Meet Ashmaker Gotblut. This is a notorious monster orc located inside the Yughott Grotto in West Ronfaure. This guy drops hermit\'s wands, which is great because it has this effect on it that reduces the interruption of spells by 25%. The funny thing about this guy is that he uses the Black Mage two hour ability called Manafont, which basically means that he can cast magic without using mana, as soon as he gets into attack position.'); return false;"><img src="/ffxi/images/ashmakergotblut.jpg" class="artifact" alt="Ashmaker Gotblut"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/halloftransference.jpg" onclick="show_photo('/ffxi/images/halloftransference.jpg', 'Hall of Transference', 'Since the Chains of Promathia expansion pack was released, new areas have opened up in various locations around Vana\'diel. One such area is accessible through shattered telepoints located at each of the crags. They bring you to a place called the Hall of Transference. Pretty cool. From here, you can enter into the Promyvion.'); return false;"><img src="/ffxi/images/halloftransference.jpg" class="artifact" alt="Hall of Transference"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/promyvionholla.jpg" onclick="show_photo('/ffxi/images/promyvionholla.jpg', 'Promyvion-Holla', 'This is a newly added area called Promyvion. There are four different Promyvions, but they all look the same. Everyone who goes in has their level capped at 30. The good news is you can still level up, which is pretty cool.'); return false;"><img src="/ffxi/images/promyvionholla.jpg" class="artifact" alt="Promyvion-Holla"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/spireofholla.jpg" onclick="show_photo('/ffxi/images/spireofholla.jpg', 'Spire of Holla', 'After traversing through the Promyvion, our final destination was the spire. This particular one is the Spire of Holla. The boss battle for this spire is really tough. I was the last one standing and almost got the win for us.'); return false;"><img src="/ffxi/images/spireofholla.jpg" class="artifact" alt="Spire of Holla"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/spireofdem.jpg" onclick="show_photo('/ffxi/images/spireofdem.jpg', 'Spire of Dem', 'As you can see, there is more than one spire. This one is the Spire of Dem. The boss located in this spire is just as tough as the one in the Spire of Holla, except that this one can make babies on the go.'); return false;"><img src="/ffxi/images/spireofdem.jpg" class="artifact" alt="Spire of Dem"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/marblebridgefirstroom.jpg" onclick="show_photo('/ffxi/images/marblebridgefirstroom.jpg', 'The Marble Bridge', 'So, there\'s this tavern/pub thing in Upper Jeuno called the Marble Bridge and they have this policy that changes daily. Only a certain job/race/nationality can enter. I happened to go in during Humes day, as I am a Hume. There wasn\'t really much to see in there.'); return false;"><img src="/ffxi/images/marblebridgefirstroom.jpg" class="artifact" alt="The Marble Bridge"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/marblebridgesecondroom.jpg" onclick="show_photo('/ffxi/images/marblebridgesecondroom.jpg', 'The Marble Bridge', 'It was pretty empty. I mean, hey, only one table, and people hardly even go in there. It sure isn\'t easy meeting other people at bars. They did, however, have a nice selection of goods, which were very pricy.'); return false;"><img src="/ffxi/images/marblebridgesecondroom.jpg" class="artifact" alt="The Marble Bridge"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/bastokfountainchristmas.jpg" onclick="show_photo('/ffxi/images/bastokfountainchristmas.jpg', 'Starlight Celebration', 'So, it just happens to be that time of year. Yes, I\'m talking about the Starlight Celebration. This is how the Markets district in Bastok was decorated.'); return false;"><img src="/ffxi/images/bastokfountainchristmas.jpg" class="artifact" alt="Starlight Celebration"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/bastokahchristmas.jpg" onclick="show_photo('/ffxi/images/bastokahchristmas.jpg', 'Starlight Celebration', 'Even the auction house got decorated. The trees down the walkway leading out of town were decorated as well. Not bad for my first Starlight Celebration in Vana\'diel.'); return false;"><img src="/ffxi/images/bastokahchristmas.jpg" class="artifact" alt="Starlight Celebration"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/southernsandoriachristmas.jpg" onclick="show_photo('/ffxi/images/southernsandoriachristmas.jpg', 'Starlight Celebration', 'I also traveled to San d\'Oria and was pleased to see they had decorated there as well. This is the southern district.'); return false;"><img src="/ffxi/images/southernsandoriachristmas.jpg" class="artifact" alt="Starlight Celebration"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/northernsandoriachristmas.jpg" onclick="show_photo('/ffxi/images/northernsandoriachristmas.jpg', 'Starlight Celebration', 'I think the best decoration in San d\'Oria can be viewed in the northern district over the fountain just outside of Chateau d\'Oraguille. It looked spectacular.'); return false;"><img src="/ffxi/images/northernsandoriachristmas.jpg" class="artifact" alt="Starlight Celebration"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/windurstchristmas.jpg" onclick="show_photo('/ffxi/images/windurstchristmas.jpg', 'Starlight Celebration', 'I didn\'t have much time to look around Windurst. Man, that place is just way too big for all those little Tarutarus. This picture was taken in the Woods district.'); return false;"><img src="/ffxi/images/windurstchristmas.jpg" class="artifact" alt="Starlight Celebration"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/carpenterslanding.jpg" onclick="show_photo('/ffxi/images/carpenterslanding.jpg', 'Carpenters\' Landing', 'Here I am in Carpenters\' Landing, which can be accessed through Jugner Forest. Not much to really see there. It does give off a gloomy feeling.'); return false;"><img src="/ffxi/images/carpenterslanding.jpg" class="artifact" alt="Carpenters' Landing"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/uragnite.jpg" onclick="show_photo('/ffxi/images/uragnite.jpg', 'Uragnite', 'Monsters can appear on ships. This particular ship that I\'m on is called the Manaclipper. This bad boy I\'m standing next to is called an uragnite and fighting it is not the most fun thing in the world. For starters, it has auto-regen and really high defense. Not cool.'); return false;"><img src="/ffxi/images/uragnite.jpg" class="artifact" alt="Uragnite"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/garlaigecitadelincineratorroom.jpg" onclick="show_photo('/ffxi/images/garlaigecitadelincineratorroom.jpg', 'The Incinerator Room in the Garlaige Citadel', 'Here\'s a nifty little room in the hell that is Garlaige Citadel. This is the incinerator room and it\'s only accessible with a dinky little key. It\'s practically the safest area inside of the entire facility. That is, besides the exits. Actually, I take that back. It is the safest place inside the entire facility.'); return false;"><img src="/ffxi/images/garlaigecitadelincineratorroom.jpg" class="artifact" alt="The Incinerator Room in the Garlaige Citadel"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/carbuncle.jpg" onclick="show_photo('/ffxi/images/carbuncle.jpg', 'Carbuncle', 'After unlocking the Summoner job, I can now summon avatars. This one is Carbuncle. It\'s nice that you get at least one avatar without having to do any work.'); return false;"><img src="/ffxi/images/carbuncle.jpg" class="artifact" alt="Carbuncle"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/ifrit.jpg" onclick="show_photo('/ffxi/images/ifrit.jpg', 'Ifrit', 'After entering the Cloister of Flames and defeating Ifrit, I can now summon him. Boy, was that a tough fight.'); return false;"><img src="/ffxi/images/ifrit.jpg" class="artifact" alt="Ifrit"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
