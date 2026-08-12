@@ -1,0 +1,228 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/pastbastokfountain.jpg" onclick="show_photo('/ffxi/images/pastbastokfountain.jpg', 'Bastok of the Past', 'The found in the Markets district of Bastok\'s past was something else as well. It looks like it used to be a giant rook, as in the chess piece.'); return false;"><img src="/ffxi/images/pastbastokfountain.jpg" class="artifact" alt="Bastok of the Past"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/brittneymaw.jpg" onclick="show_photo('/ffxi/images/brittneymaw.jpg', 'Cavernous Maw', 'While adventuring in the expansive land of Vana\'diel, I made a new friend, Brittney. Here I am taking her to the past via the cavernous maw. This is the gateway between the past and the present. I\'m sure many whirlwind adventures will ensue.'); return false;"><img src="/ffxi/images/brittneymaw.jpg" class="artifact" alt="Cavernous Maw"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/brdaf.jpg" onclick="show_photo('/ffxi/images/brdaf.jpg', 'Bard Artifact Gear', 'I finally collected all the pieces for the Bard artifact gear set. Oddly enough, it looks very close to what the cooking guild people wear.'); return false;"><img src="/ffxi/images/brdaf.jpg" class="artifact" alt="Bard Artifact Gear"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/deadfloatingcrab.jpg" onclick="show_photo('/ffxi/images/deadfloatingcrab.jpg', 'Floating Crab', 'So, this one time, I was in a party with Brittney in Valkurm Dunes fighting crabs. If you move just right, the monsters will climb trees. This particular crab got stuck up a tree when it died. Hilarity ensued.'); return false;"><img src="/ffxi/images/deadfloatingcrab.jpg" class="artifact" alt="Floating Crab"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/mnkaf.jpg" onclick="show_photo('/ffxi/images/mnkaf.jpg', 'Monk Artifact Gear', 'I finally got it. The gear set for the job I\'ve wanted to play since I entered Vana\'diel. This is the Monk artifact gear set.'); return false;"><img src="/ffxi/images/mnkaf.jpg" class="artifact" alt="Monk Artifact Gear"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/drkaf.jpg" onclick="show_photo('/ffxi/images/drkaf.jpg', 'Dark Knight Artifact Gear', 'I also was fortunate enough to collect all the pieces for the Dark Knight artifact gear set. It\'s all black.'); return false;"><img src="/ffxi/images/drkaf.jpg" class="artifact" alt="Dark Knight Artifact Gear"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/threemagegate.jpg" onclick="show_photo('/ffxi/images/threemagegate.jpg', 'Three Mage Gate', 'Way inside of the Inner Horutoto Ruings is this thing called the three mage gate. It\'s named this because you need a black mage, red mage, and white mage to open it. However, citizens of Windurst can get this key item that will allow them to open the door without all three mage types present. I\'m glad I got the key item.'); return false;"><img src="/ffxi/images/threemagegate.jpg" class="artifact" alt="Three Mage Gate"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/besiegedserpent.jpg" onclick="show_photo('/ffxi/images/besiegedserpent.jpg', 'Illuyankas', 'During besieged, the beastmen will summon over their own gigantic monster. And I mean gigantic. This guy here is Illuyankas. This guy towers over the towers.'); return false;"><img src="/ffxi/images/besiegedserpent.jpg" class="artifact" alt="Illuyankas"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/vulcans.jpg" onclick="show_photo('/ffxi/images/vulcans.jpg', 'Vulcans', 'In a party I joined in Yuhtunga Jungle, I came upon two quirky characters. Oddly enough, one was named Spock while the other was named Sarek. And, get this, they were both Elvaan. Isn\'t that wild?'); return false;"><img src="/ffxi/images/vulcans.jpg" class="artifact" alt="Vulcans"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/windurstjeunoairship.jpg" onclick="show_photo('/ffxi/images/windurstjeunoairship.jpg', 'Windurst to Jeuno Airship', 'I really don\'t ride the airship enough. This particular one I\'m on is the one that travels between Windurst and Jeuno. What\'s cool is that you can actually see Jeuno from the airship. That\'s me pointing it out to Brittney there.'); return false;"><img src="/ffxi/images/windurstjeunoairship.jpg" class="artifact" alt="Windurst to Jeuno Airship"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/sewwthesquidlimbed.jpg" onclick="show_photo('/ffxi/images/sewwthesquidlimbed.jpg', 'Seww the Squidlimbed', 'Quests take me all over Vana\'diel. This particularly quest I was had me searching for mermaid parts. This guy happened to have the mermaid tail in his possession.'); return false;"><img src="/ffxi/images/sewwthesquidlimbed.jpg" class="artifact" alt="Seww the Squidlimbed"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/brighthandedkunberry.jpg" onclick="show_photo('/ffxi/images/brighthandedkunberry.jpg', 'Bright-handed Kunberry', 'You know what sucks about tonberries? The more you kill them, you build up what\'s called tonberry hate. They have this one move that multiplies its damage by the number of tonberries you\'ve killed. Fun times.'); return false;"><img src="/ffxi/images/brighthandedkunberry.jpg" class="artifact" alt="Bright-handed Kunberry"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/lichcmagnus.jpg" onclick="show_photo('/ffxi/images/lichcmagnus.jpg', 'Lich C Magnus', 'The Eldieme Necropolis has lots of undead things in it. This one in particular is a notorious monster named Lich C Magnus, whom I was asked to help kill. All I can say is it took a while.'); return false;"><img src="/ffxi/images/lichcmagnus.jpg" class="artifact" alt="Lich C Magnus"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/enkelados.jpg" onclick="show_photo('/ffxi/images/enkelados.jpg', 'Enkelados', 'After days of camping, I finally got to see the notorious monster gigas Enkelados. He appears on the tenth floor of Delkfutt\'s Tower. He can charm players. I\'ve seen it happen. Hilarity ensued.'); return false;"><img src="/ffxi/images/enkelados.jpg" class="artifact" alt="Enkelados"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/fyuutheseabellow.jpg" onclick="show_photo('/ffxi/images/fyuutheseabellow.jpg', 'Fyuu the Seabellow', 'One day I was walking around Sea Serpent Grotto, where Norg is tucked in, where out of nowhere I get attacked by this guy, Fyuu the Seabellow. I hate bullies.'); return false;"><img src="/ffxi/images/fyuutheseabellow.jpg" class="artifact" alt="Fyuu the Seabellow"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/bisqueheeledsunberry.jpg" onclick="show_photo('/ffxi/images/bisqueheeledsunberry.jpg', 'Bisque-heeled Sunberry', 'Here I am traversing the Temple of Uggalepih. Midway through, I notice this notorious monster tonberry, Bisque-heeled Sunberry. Throat stab can be hazardous to one\'s health.'); return false;"><img src="/ffxi/images/bisqueheeledsunberry.jpg" class="artifact" alt="Bisque-heeled Sunberry"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/jeunoflag.jpg" onclick="show_photo('/ffxi/images/jeunoflag.jpg', 'The Flag of Jeuno', 'You know, I never thought I\'d ever get the flag of Jeuno, but I did. Fortunately, they weren\'t so neutral during Vana\'diel\'s past and I was able to procure one for myself.'); return false;"><img src="/ffxi/images/jeunoflag.jpg" class="artifact" alt="The Flag of Jeuno"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/imperialstandard.jpg" onclick="show_photo('/ffxi/images/imperialstandard.jpg', 'The Imperial Standard of Aht Urhgan', 'With all these flags, it\'s hard to choose a nation to be loyal to. This particular flag belongs to Aht Urhgan.'); return false;"><img src="/ffxi/images/imperialstandard.jpg" class="artifact" alt="The Imperial Standard of Aht Urhgan"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/egglocker.jpg" onclick="show_photo('/ffxi/images/egglocker.jpg', 'Egg Locker', 'During this year\'s Eggcelebration, some new furniture was introduced. This one is the egg locker. It\'s a nice visual for the old home.'); return false;"><img src="/ffxi/images/egglocker.jpg" class="artifact" alt="Egg Locker"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/eggtablelanternstool.jpg" onclick="show_photo('/ffxi/images/eggtablelanternstool.jpg', 'Egg Furniture', 'Here\'s more furniture. Pictured are the egg table, lantern, and stool. What was nice was that the egg table was like a regular table where you can place other types of smaller furniture on top of it.'); return false;"><img src="/ffxi/images/eggtablelanternstool.jpg" class="artifact" alt="Egg Furniture"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
