@@ -1,0 +1,228 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/thecelestialnexus.jpg" onclick="show_photo('/ffxi/images/thecelestialnexus.jpg', 'The Celestial Nexus', 'Here I am in the Celestial Nexus. It reminds me of when ships in Star Trek go to red alert.'); return false;"><img src="/ffxi/images/thecelestialnexus.jpg" class="artifact" alt="The Celestial Nexus"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/silversearoutetonashmau.jpg" onclick="show_photo('/ffxi/images/silversearoutetonashmau.jpg', 'Ferry to Nashmau', 'With the Treasures of Aht Urhgan expansion comes with new areas and new routes. This is the ferry that travels between Aht Urhgan Whitegate and Nashmau. Monsters appear on this ship as it sails the Silver Sea Route. The mountain in the background is Mount Zhayolm.'); return false;"><img src="/ffxi/images/silversearoutetonashmau.jpg" class="artifact" alt="Ferry to Nashmau"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/arrapagoreef.jpg" onclick="show_photo('/ffxi/images/arrapagoreef.jpg', 'Arrapago Reef', 'After a quick run through a gloomy swamp, I ended up in Arrapago Reef. It\'s full of undead, lamia, imps, and shipwrecked ships. The music makes it feel like you\'re in Neverneverland. Good thing there aren\'t any Lost Boys here.'); return false;"><img src="/ffxi/images/arrapagoreef.jpg" class="artifact" alt="Arrapago Reef"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/heavenstower2ndfloor.jpg" onclick="show_photo('/ffxi/images/heavenstower2ndfloor.jpg', 'Heavens Tower', 'Have you ever wondered what\'s past that locked door in Heavens Tower? Well, this is the second floor. Hell if I know what the hell that thing is. But, it does spin.'); return false;"><img src="/ffxi/images/heavenstower2ndfloor.jpg" class="artifact" alt="Heavens Tower"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/heavenstower3rdfloor.jpg" onclick="show_photo('/ffxi/images/heavenstower3rdfloor.jpg', 'Heavens Tower', 'As if two floors weren\'t enough, this here is the third floor of Heavens Tower. Let\'s do a quick run down of what\'s up here. There\'s a huge stellar map on the ceilling and big stars, whose function is unknown to me. That\'s about it.'); return false;"><img src="/ffxi/images/heavenstower3rdfloor.jpg" class="artifact" alt="Heavens Tower"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/ahturhgan.jpg" onclick="show_photo('/ffxi/images/ahturhgan.jpg', 'Aht Urhgan', 'Over in the distance is Aht Urhgan. So, this is what it looks like from the outside. If you ask me, it feels like we\'ve all stumbled into the Al-qaeda terrorist camp. Watch out for jihadists.'); return false;"><img src="/ffxi/images/ahturhgan.jpg" class="artifact" alt="Aht Urhgan"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/bearclawpinnacle.jpg" onclick="show_photo('/ffxi/images/bearclawpinnacle.jpg', 'Bearclaw Pinnacle', 'After an arduous and dangerous trek through Uleguerand Range, we arrived at our destination, Bearclaw Pinnacle. That is, if you don\'t get lost. Our group is getting ready for our fight with the Snoll Tzar. The entire fight lasts a maximum of 45 seconds, when he blows up and everyone is kicked out of the fight automatically. Spoiler alert, we lost.'); return false;"><img src="/ffxi/images/bearclawpinnacle.jpg" class="artifact" alt="Bearclaw Pinnacle"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/redmageartifact.jpg" onclick="show_photo('/ffxi/images/redmageartifact.jpg', 'Red Mage Artifact Gear', 'I finally got Red Mage to level 60, which means I can now fully equip all of the Red Mage artifact gear in its entirety. It\'s odd how I\'m leveling up mage type jobs when I really wanted to get Monk leveled up first.'); return false;"><img src="/ffxi/images/redmageartifact.jpg" class="artifact" alt="Red Mage Artifact Gear"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/aydeewasubterrane.jpg" onclick="show_photo('/ffxi/images/aydeewasubterrane.jpg', 'Aydeewa Subterrane', 'Here I am in Aydeewa Subterrane. It\'s a pain to get to, but it does have cute spiders that come down on their little webs every so often. Unfortunately, they grow up to become big furry tarantulas later on.'); return false;"><img src="/ffxi/images/aydeewasubterrane.jpg" class="artifact" alt="Aydeewa Subterrane"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/loversrock.jpg" onclick="show_photo('/ffxi/images/loversrock.jpg', 'Lover\'s Rock', 'I had to make another trip to Arrapago Reef to take a picture of Lover\'s Rock for a quest I accepted in Aht Urhgan Whitegate. Unfortunately, he said it was too dark, so now I have to make a third trip. Jerk.'); return false;"><img src="/ffxi/images/loversrock.jpg" class="artifact" alt="Lover's Rock"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/mountzhayolmsun.jpg" onclick="show_photo('/ffxi/images/mountzhayolmsun.jpg', 'Mount Zhayolm', 'Here\'s one of those rare glimpses of the sun in a dust storm. This is a part of Mount Zhayolm, the troll stronghold. It\'s a pretty scary place if you\'re there by yourself. Luckily, I had backup.'); return false;"><img src="/ffxi/images/mountzhayolmsun.jpg" class="artifact" alt="Mount Zhayolm"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/mountzhayolm.jpg" onclick="show_photo('/ffxi/images/mountzhayolm.jpg', 'Mount Zhayolm', 'And here\'s evidence that the trolls aren\'t entirely brainless. They can build structures. Unfortunately, they\'re still stupid enough to not build structures they can live in.'); return false;"><img src="/ffxi/images/mountzhayolm.jpg" class="artifact" alt="Mount Zhayolm"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/rank10flags.jpg" onclick="show_photo('/ffxi/images/rank10flags.jpg', 'Rank 10 Flags', 'After weeks of toiling, I finally procured the three nation flags, which you receive upon reaching rank 10 in that nation. The left one is the flag of Windurst, which has an image of the Great Star Tree. The middle flag belongs to Bastok and depicts water wheels and chimneys. The flag on the right belongs to San d\'Oria, which emblazons two gryphons, the symbol of the house of d\'Oraguille.'); return false;"><img src="/ffxi/images/rank10flags.jpg" class="artifact" alt="Pso'Xja"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/halvung.jpg" onclick="show_photo('/ffxi/images/halvung.jpg', 'Halvung', 'Here I am in Halvung. It\'s another volcanic type dungeon, kind of like Ifrit\'s Cauldron, except that this place has trolls and wamouras. The latter look like giant silkworm/cockroach hybrids.'); return false;"><img src="/ffxi/images/halvung.jpg" class="artifact" alt="Halvung"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/demon.jpg" onclick="show_photo('/ffxi/images/demon.jpg', 'Demon', 'I got to get up close to a demon. Yeah, they don\'t look too pretty and they\'re really strong, too. So, I definitely can\'t solo a lot of these yet.'); return false;"><img src="/ffxi/images/demon.jpg" class="artifact" alt="Demon"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/promathiastatue.jpg" onclick="show_photo('/ffxi/images/promathiastatue.jpg', 'Promathia', 'One of the things that you\'ll get to see if you\'re inside the Sacrarium is the statue of the twilight god, Promathia. This room is only accessible with a special key.'); return false;"><img src="/ffxi/images/promathiastatue.jpg" class="artifact" alt="Promathia"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/ulyovra.jpg" onclick="show_photo('/ffxi/images/ulyovra.jpg', 'Ul\'yovra', 'So, I finally made it to sea and this is one of the many scary monsters you can find there. It\'s called an Ul\'yovra and is commonly known as the UFO as it only aggros you if you walk under it.'); return false;"><img src="/ffxi/images/ulyovra.jpg" class="artifact" alt="Ul'yovra"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/altaieu.jpg" onclick="show_photo('/ffxi/images/altaieu.jpg', 'Al\'Taieu', 'I finally made it to Al\'Taieu. It\'s really shiny there. What\'s nice is that not everything aggros.'); return false;"><img src="/ffxi/images/altaieu.jpg" class="artifact" alt="Al'Taieu"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/hippogryph.jpg" onclick="show_photo('/ffxi/images/hippogryph.jpg', 'Hippogryph', 'Of all the monsters in Cape Riverne, only one can see through invisible, and that\'s the hippogryph. In mythology, they looked pretty cool. In the world of Vana\'diel, it\'s just another thing that wants to try to bite my face off.'); return false;"><img src="/ffxi/images/hippogryph.jpg" class="artifact" alt="Hippogryph"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/mountyuhtunga.jpg" onclick="show_photo('/ffxi/images/mountyuhtunga.jpg', 'Mount Yuhtunga', 'Here\'s one of those rare glimpses of Mount Yuhtunga shot from Yhoator Jungle. Honestly, I\'m not sure why they decided to give the two jungles two names. They could\'ve just easily as named it West and East Yuhtunga Jungle instead of Yuhtunga Jungle and Yhoator Jungle.'); return false;"><img src="/ffxi/images/mountyuhtunga.jpg" class="artifact" alt="Mount Yuhtunga"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
