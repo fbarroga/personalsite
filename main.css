@@ -55,13 +55,6 @@ table.artifact { width: 600px;
                  border: 0;
                  padding: 4px;
                  margin: 0px auto; }
-table.tourist { width: 820px;
-			   padding: 2px;
-			   border: 1px solid white; }
-
-td.tourist { width: 410px;
-			padding: 2px;
-			vertical-align: middle; }
 
 td.artifact { padding: 4px;
               width: 150px;
