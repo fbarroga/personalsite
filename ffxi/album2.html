@@ -1,0 +1,256 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/stingingsophie.jpg" onclick="show_photo('/ffxi/images/stingingsophie.jpg', 'Stinging Sophie', 'Stinging Sophie in North Gustaberg'); return false;"><img src="/ffxi/images/stingingsophie.jpg" class="artifact" alt="Stinging Sophie in North Gustaberg"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/rampagingram.jpg" onclick="show_photo('/ffxi/images/rampagingram.jpg', 'Rampaging Ram', 'Rampaging Ram in the Konschtat Highlands'); return false;"><img src="/ffxi/images/rampagingram.jpg" class="artifact" alt="Rampaging Ram in the Konschtat Highlands"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/lumberinglambert.jpg" onclick="show_photo('/ffxi/images/lumberinglambert.jpg', 'Lumbering Lambert', 'Lumbering Lambert in La Theine Plateau'); return false;"><img src="/ffxi/images/lumberinglambert.jpg" class="artifact" alt="Lumbering Lambert in La Theine Plateau"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/buburimboo.jpg" onclick="show_photo('/ffxi/images/buburimboo.jpg', 'Buburimboo', 'Buburimboo in the Buburimu Peninsula'); return false;"><img src="/ffxi/images/buburimboo.jpg" class="artifact" alt="Buburimboo in the Buburimu Peninsula"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/helldiver.jpg" onclick="show_photo('/ffxi/images/helldiver.jpg', 'Helldiver', 'Helldiver in the Buburimu Peninsula'); return false;"><img src="/ffxi/images/helldiver.jpg" class="artifact" alt="Helldiver in the Buburimu Peninsula"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/serpopardishtar.jpg" onclick="show_photo('/ffxi/images/serpopardishtar.jpg', 'Serpopard Ishtar', 'Serpopard Ishtar in Tahrongi Canyon'); return false;"><img src="/ffxi/images/serpopardishtar.jpg" class="artifact" alt="Serpopard Ishtar in Tahrongi Canyon"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/silkcaterpillar.jpg" onclick="show_photo('/ffxi/images/silkcaterpillar.jpg', 'Silk Caterpillar', 'Silk Caterpillar in Rolanberry Fields'); return false;"><img src="/ffxi/images/silkcaterpillar.jpg" class="artifact" alt="Silk Caterpillar in Rolanberry Fields"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/geyserlizard.jpg" onclick="show_photo('/ffxi/images/geyserlizard.jpg', 'Geyser Lizard', 'Geyser Lizard in Dangruf Wadi'); return false;"><img src="/ffxi/images/geyserlizard.jpg" class="artifact" alt="Geyser Lizard in Dangruf Wadi"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/ahtu.jpg" onclick="show_photo('/ffxi/images/ahtu.jpg', 'Ahtu', 'Ahtu in Batallia Downs'); return false;"><img src="/ffxi/images/ahtu.jpg" class="artifact" alt="Ahtu in Batallia Downs"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/goblinarchaeologist.jpg" onclick="show_photo('/ffxi/images/goblinarchaeologist.jpg', 'Goblin Archaeologist', 'Goblin Archaeologist in Tahrongi Canyon'); return false;"><img src="/ffxi/images/goblinarchaeologist.jpg" class="artifact" alt="Goblin Archaeologist in Tahrongi Canyon"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/jollygreen.jpg" onclick="show_photo('/ffxi/images/jollygreen.jpg', 'Jolly Green', 'Jolly Green in the Pashhow Marshlands'); return false;"><img src="/ffxi/images/jollygreen.jpg" class="artifact" alt="Jolly Green in the Pashhow Marshlands"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/epialtes.jpg" onclick="show_photo('/ffxi/images/epialtes.jpg', 'Epialtes', 'Epialtes in Lower Delkfutt\'s Tower'); return false;"><img src="/ffxi/images/epialtes.jpg" class="artifact" alt="Epialtes in Lower Delkfutt's Tower"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/orna.jpg" onclick="show_photo('/ffxi/images/orna.jpg', 'Orna', 'Orna in Lower Delkfutt\'s Tower'); return false;"><img src="/ffxi/images/orna.jpg" class="artifact" alt="Orna in Lower Delkfutt's Tower"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/splinterspinegrukjuk.jpg" onclick="show_photo('/ffxi/images/splinterspinegrukjuk.jpg', 'Splinterspine Grukjuk', 'Splinterspine Grukjuk in Lufaise Meadows'); return false;"><img src="/ffxi/images/splinterspinegrukjuk.jpg" class="artifact" alt="Splinterspine Grukjuk in Lufaise Meadows"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/pulverizedpfeffer.jpg" onclick="show_photo('/ffxi/images/pulverizedpfeffer.jpg', 'Pulverized Pfeffer', 'Pulverized Pfeffer in Gusgen Mines'); return false;"><img src="/ffxi/images/pulverizedpfeffer.jpg" class="artifact" alt="Pulverized Pfeffer in Gusgen Mines"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/burnedbergmann.jpg" onclick="show_photo('/ffxi/images/burnedbergmann.jpg', 'Burned Bergmann', 'Burned Bergmann in Gusgen Mines'); return false;"><img src="/ffxi/images/burnedbergmann.jpg" class="artifact" alt="Burned Bergmann in Gusgen Mines"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="/ffxi/images/woundedwurfel.jpg" onclick="show_photo('/ffxi/images/woundedwurfel.jpg', 'Wounded Wurfel', 'Wounded Wurfel in Gusgen Mines'); return false;"><img src="/ffxi/images/woundedwurfel.jpg" class="artifact" alt="Wounded Wurfel in Gusgen Mines"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/crushedkrause.jpg" onclick="show_photo('/ffxi/images/crushedkrause.jpg', 'Crushed Krause', 'Crushed Krause in Gusgen Mines'); return false;"><img src="/ffxi/images/crushedkrause.jpg" class="artifact" alt="Crushed Krause in Gusgen Mines"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/asphyxiatedamsel.jpg" onclick="show_photo('/ffxi/images/asphyxiatedamsel.jpg', 'Asphyxiated Amsel', 'Asphyxiated Amsel in Gusgen Mines'); return false;"><img src="/ffxi/images/asphyxiatedamsel.jpg" class="artifact" alt="Asphyxiated Amsel in Gusgen Mines"></a>
+                </td>
+                <td class="artifact">
+                  <a href="/ffxi/images/bugallug.jpg" onclick="show_photo('/ffxi/images/bugallug.jpg', 'Bugallug', 'Bugallug in Oldton Movalpolos'); return false;"><img src="/ffxi/images/bugallug.jpg" class="artifact" alt="Bugallug in Oldton Movalpolos"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="/ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album.html">1</a><br>
+            <a href="/ffxi/album2.html">2</a><br>
+            <a href="/ffxi/album3.html">3</a><br>
+            <a href="/ffxi/album4.html">4</a><br>
+            <a href="/ffxi/album5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album6.html">6</a><br>
+            <a href="/ffxi/album7.html">7</a><br>
+            <a href="/ffxi/album8.html">8</a><br>
+            <a href="/ffxi/album9.html">9</a><br>
+            <a href="/ffxi/album10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album11.html">11</a><br>
+            <a href="/ffxi/album12.html">12</a><br>
+            <a href="/ffxi/album13.html">13</a><br>
+            <a href="/ffxi/album14.html">14</a><br>
+            <a href="/ffxi/album15.html">15</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/album16.html">16</a><br>
+            <a href="/ffxi/album17.html">17</a><br>
+            <a href="/ffxi/album18.html">18</a><br>
+            <a href="/ffxi/album19.html">19</a><br>
+            <a href="/ffxi/album20.html">20</a><br>
+            &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/album21.html">21</a><br>
+            <a href="/ffxi/album22.html">22</a><br>
+            <a href="/ffxi/album23.html">23</a><br>
+          </td>
+          <td>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
