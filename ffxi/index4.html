@@ -1,0 +1,228 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Charjer's Trip Through Vana'diel</title>
+
+<link rel="stylesheet" type="text/css" href="/main.css">
+
+<script>
+function show_photo(pFileName, pTitle, pCaption) {
+  // 1. Check if our modern modal structure already exists on the page
+  let modal = document.getElementById("photoModal");
+  
+  if (!modal) {
+    // 2. If it doesn't exist, create the elements safely using DOM methods
+    modal = document.createElement("div");
+    modal.id = "photoModal";
+    
+    // Inline styles to replace the old window size and background color parameters
+    Object.assign(modal.style, {
+      position: "fixed", top: "0", left: "0", width: "100%", height: "100%",
+      backgroundColor: "rgba(0,0,0,0.85)", zIndex: "10000", display: "none",
+      fontFamily: "Arial, Helvetica, sans-serif", justifyContent: "center", alignItems: "center"
+    });
+
+    // Close when clicking the dark background overlay
+    modal.onclick = function() { modal.style.display = "none"; };
+
+    // Create the inner popup container box (550px wide, matching your original setting)
+    const content = document.createElement("div");
+    Object.assign(content.style, {
+      backgroundColor: "#000000", color: "#FFFFFF", padding: "20px",
+      textAlign: "center", width: "90%", maxWidth: "550px", borderRadius: "8px"
+    });
+    content.onclick = function(e) { e.stopPropagation(); }; // Prevents closing when clicking image card
+
+    // Create Title Element
+    const title = document.createElement("h3");
+    title.id = "modalTitle";
+    
+    // Create Image Element
+    const img = document.createElement("img");
+    img.id = "modalImg";
+    img.style.maxWidth = "100%";
+    img.style.height = "auto";
+    img.style.margin = "15px 0";
+
+    // Create Caption Element
+    const caption = document.createElement("p");
+    caption.id = "modalCaption";
+    caption.style.fontWeight = "bold";
+
+    // Create Close Link (matching your original link layout)
+    const closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.textContent = "Close Window";
+    closeLink.style.color = "#0000FF";
+    closeLink.style.textDecoration = "none";
+    closeLink.onclick = function(e) {
+      e.preventDefault();
+      modal.style.display = "none";
+    };
+
+    // Assemble components together
+    content.append(title, img, caption, document.createElement("br"), closeLink);
+    modal.appendChild(content);
+    document.body.appendChild(modal);
+  }
+
+  // 3. Update contents safely using secure text properties
+  document.getElementById("modalTitle").textContent = pTitle;
+  document.getElementById("modalImg").src = pFileName;
+  document.getElementById("modalCaption").textContent = pCaption;
+
+  // 4. Make popup visible
+  modal.style.display = "flex";
+}
+</script>
+
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <td class="center">
+
+      <p>&nbsp;</p>
+
+      <table>
+        <tr>
+          <td>
+            <table class="artifact">
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/titan.jpg" onclick="show_photo('/ffxi/images/titan.jpg', 'Titan', 'I would have to say that Titan was the easiest avatar for me to get despite other people having a hard time beating him. Marvel in his glory.'); return false;"><img src="/ffxi/images/titan.jpg" class="artifact" alt="Titan"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/leviathan.jpg" onclick="show_photo('/ffxi/images/leviathan.jpg', 'Leviathan', 'Leviathan was a tough one to beat as well. Good thing Carbuncle is pretty strong.'); return false;"><img src="/ffxi/images/leviathan.jpg" class="artifact" alt="Leviathan"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/garuda.jpg" onclick="show_photo('/ffxi/images/garuda.jpg', 'Garuda', 'It took me a couple of tries to get Garuda. She kept healing herself, which was really annoying.'); return false;"><img src="/ffxi/images/garuda.jpg" class="artifact" alt="Garuda"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/shiva.jpg" onclick="show_photo('/ffxi/images/shiva.jpg', 'Shiva', 'I got lucky against Shiva and beat her on the first try. I kept hearing horror stories of other people having to go up against her more than three times. It gets expensive when you have to bring items with you only to lose in the end.'); return false;"><img src="/ffxi/images/shiva.jpg" class="artifact" alt="Shiva"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/ramuh.jpg" onclick="show_photo('/ffxi/images/ramuh.jpg', 'Ramuh', 'I also got lucky against Ramuh. He has this one move that paralyzes you. Other people have told me that their Carbuncle\'s ruby light got paralyzed more than once during the fight and that resulted in their loss. My Carbuncle wasn\'t affected, to my luck. Maybe my Summoner is really a Thief in disguise.'); return false;"><img src="/ffxi/images/ramuh.jpg" class="artifact" alt="Ramuh"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/ifritscauldron.jpg" onclick="show_photo('/ffxi/images/ifritscauldron.jpg', 'Ifrit\'s Cauldron', 'Here I am in Ifrit\'s Cauldron. Man, is that a dangerous place to be. Not only are there bombs, bats, lizards, and scorpions, but there are also dinosaurs and dragons there. One particularly dangerous dragon is the Ash Dragon. It can see through invisible, which is a bad thing, especially if you walk in front of its line of sight.'); return false;"><img src="/ffxi/images/ifritscauldron.jpg" class="artifact" alt="Ifrit's Cauldron"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/hallofthegodsnorth.jpg" onclick="show_photo('/ffxi/images/hallofthegodsnorth.jpg', 'Hall of the Gods', 'After much traveling, I finally made it to the Hall of the Gods. It\'s so very white.'); return false;"><img src="/ffxi/images/hallofthegodsnorth.jpg" class="artifact" alt="Hall of the Gods"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/hallofthegodssouth.jpg" onclick="show_photo('/ffxi/images/hallofthegodssouth.jpg', 'Hall of the Gods', 'So, this place is the area you have to go through to get to Tu\'Lia, which is the area known to the people of Vana\'diel as sky. It\'s such a long walk.'); return false;"><img src="/ffxi/images/hallofthegodssouth.jpg" class="artifact" alt="Hall of the Gods"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/rivernsitea01.jpg" onclick="show_photo('/ffxi/images/rivernsitea01.jpg', 'Riverne', 'This is Riverne. Or, rather, this is a part of Riverne. See, Riverne was a peninsula, then some bad dragons came and blew it up, Dragonball Z style, which also wrecked the physics because there are floating islands.'); return false;"><img src="/ffxi/images/rivernsitea01.jpg" class="artifact" alt="Riverne"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/npcsharlene.jpg" onclick="show_photo('/ffxi/images/npcsharlene.jpg', 'Sharlene', 'There was this event where everyone could get their own adventuring buddy. This is Sharlene, my adventuring buddy. Currently, she\'s level 36. It\'s tough finding a leveling spot for her.'); return false;"><img src="/ffxi/images/npcsharlene.jpg" class="artifact" alt="Sharlene"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/monarchlinn.jpg" onclick="show_photo('/ffxi/images/monarchlinn.jpg', 'Monarch Linn', 'After traversing through Riverne, we ended up in a small place called Monarch Linn. It\'s a nice safe place to be after trying to get past things that can kill you in about three hits.'); return false;"><img src="/ffxi/images/monarchlinn.jpg" class="artifact" alt="Monarch Linn"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/cradleofrebirth.jpg" onclick="show_photo('/ffxi/images/cradleofrebirth.jpg', 'Cradle of Rebirth', 'This is the highest point on land, the Cradle of Rebirth. This hill is found in the Attohwa Chasm. Trust me when I tell you that it\'s no cake to climb. But, the view from up there is magnificent.'); return false;"><img src="/ffxi/images/cradleofrebirth.jpg" class="artifact" alt="Cradle of Rebirth"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/psoxja.jpg" onclick="show_photo('/ffxi/images/psoxja.jpg', 'Pso\'Xja', 'This is Pso\'Xja. There are various entrances through different towers in the Beaucedine Glacier. It\'s very creepy looking, but it looks like it\'s colored blue. I like blue.'); return false;"><img src="/ffxi/images/psoxja.jpg" class="artifact" alt="Pso'Xja"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/ruaungardens.jpg" onclick="show_photo('/ffxi/images/ruaungardens.jpg', 'Ru\'Aun Gardens', 'Ru\'Aun Gardens. I finally made it there and it looks kind of like the outside of Delkfutt\'s Tower, except there\'s actually grass and the trees are alive. It\'s very nice for Zilart ruins.'); return false;"><img src="/ffxi/images/ruaungardens.jpg" class="artifact" alt="Ru'Aun Gardens"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/throneroom.jpg" onclick="show_photo('/ffxi/images/throneroom.jpg', 'The Throne Room', 'After running through Castle Zvahl, both the Baileys and the Keep, we made it to the Throne Room. It\'s very cool and is actually partly outdoors. The weather effects give it that eerie feeling.'); return false;"><img src="/ffxi/images/throneroom.jpg" class="artifact" alt="The Throne Room"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/mannequin.jpg" onclick="show_photo('/ffxi/images/mannequin.jpg', 'Mannequin', 'It took months of searching for pieces, but I was finally able to get my very own mannequin, which also helps with storage space. This one is holding all my Black Mage artifact armor. At least I don\'t have to pay to get it back from NPC storage.'); return false;"><img src="/ffxi/images/mannequin.jpg" class="artifact" alt="Mannequin"></a>
+                </td>
+              </tr>
+              <tr>
+                <td class="artifact">
+                  <a href="ffxi/images/attohwachasm.jpg" onclick="show_photo('/ffxi/images/attohwachasm.jpg', 'Attohwa Chasm', 'Getting lost in Attohwa Chasm can really suck, especially if you get lost in the giant maze. There are vents of miasma that block certain paths, making it a pain to get through.'); return false;"><img src="/ffxi/images/attohwachasm.jpg" class="artifact" alt="Attohwa Chasm"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/dioramaabdhaljsghelsba.jpg" onclick="show_photo('/ffxi/images/dioramaabdhaljsghelsba.jpg', 'Diorama Abdhaljs-Ghelsba', 'Diorama Abdhaljs-Ghelsba is a truly remarkable place. It\'s pretty much a place where you can have your own private ballista. Unfortunately, you still have to pay to get there, but at least you get to hang out with friends while there.'); return false;"><img src="/ffxi/images/dioramaabdhaljsghelsba.jpg" class="artifact" alt="Diorama Abdhaljs-Ghelsba"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/rivernsiteb01.jpg" onclick="show_photo('/ffxi/images/rivernsiteb01.jpg', 'Riverne', 'Once again, I find myself in Cape Riverne. This time, I\'m in Site B. It\'s still littered with monsters that can kill me in four hits or less.'); return false;"><img src="/ffxi/images/rivernsiteb01.jpg" class="artifact" alt="Riverne"></a>
+                </td>
+                <td class="artifact">
+                  <a href="ffxi/images/theshroudedmaw.jpg" onclick="show_photo('/ffxi/images/theshroudedmaw.jpg', 'The Shrouded Maw', 'One thing that you don\'t get to find out until you run through is that Pso\'Xja has monsters of high levels. Imagine our surprise when we got attacked and everything linked. Anyway, after much fighting, we ended up in this area called The Shrouded Maw to fight Diabolos. Spoiler alert, he sucks.'); return false;"><img src="/ffxi/images/theshroudedmaw.jpg" class="artifact" alt="The Shrouded Maw"></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table class="inside">
+        <tr>
+          <th class="right" colspan="2">
+            Navigation
+          </th>
+        </tr>
+        <tr>
+          <td colspan="2">
+            &nbsp;<br>
+            <a href="ffxi/main.html">Vana'diel Journeys Main</a><br>
+            &nbsp;<br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="/ffxi/index.html">1</a><br>
+            <a href="/ffxi/index2.html">2</a><br>
+            <a href="/ffxi/index3.html">3</a><br>
+            <a href="/ffxi/index4.html">4</a><br>
+            <a href="/ffxi/index5.html">5</a><br>
+            &nbsp;
+          </td>
+          <td>
+            <a href="/ffxi/index6.html">6</a><br>
+            <a href="/ffxi/index7.html">7</a><br>
+            <a href="/ffxi/index8.html">8</a><br>
+            <a href="/ffxi/index9.html">9</a><br>
+            <a href="/ffxi/index10.html">10</a><br>
+            &nbsp;
+          </td>
+        </tr>
+      </table>
+      <br>
+      <table class="inside">
+        <tr>
+          <th class="right">
+            Vana'Navi
+          </th>
+        </tr>
+        <tr>
+          <td>
+            <object data="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="160" height="236"><param name="classid" value="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+            <param name="movie" value="/ffxi/vananavi2.swf?bg1=bk2.jpg">
+            <param name="quality" value="high">
+            <embed src="/ffxi/vananavi2.swf?bg1=bk2.jpg" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="160" height="236">
+            </object>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
