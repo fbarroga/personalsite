@@ -32,7 +32,7 @@ a:active {color: steelblue; }
 a { text-decoration: none;
     font-family: Arial,Verdana,Sans-serif; }
 
-ul li { list-style-type: circle;
+ul li { list-style-type: disc;
         font-family: Arial,Verdana,Sans-serif;
         text-align: left;}
 
